@@ -32,6 +32,13 @@ module.exports = {
         name: 'countries',
       },
     },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
+        path: `${__dirname}/src/atlas/subcontinents`,
+        name: 'subcontinents',
+      },
+    },
     'gatsby-transformer-sharp',
     'gatsby-plugin-sharp',
     {

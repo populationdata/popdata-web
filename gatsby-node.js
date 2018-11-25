@@ -32,7 +32,9 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark {
+      allMarkdownRemark(
+        filter: { fields: { collection: { in: ["continents", "countries"] } } }
+      ) {
         edges {
           node {
             id
