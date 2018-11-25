@@ -2,19 +2,22 @@ backend:
   name: git-gateway
   branch: master
 
-media_folder: static/images
-public_folder: /images
-
 collections:
-  - name: "blog"
-    label: "Blog"
-    folder: "src/pages/blog"
+  - name: 'continent'
+    label: 'Continent'
+    folder: 'src/atlas/continent'
     create: true
-    slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+    slug: '{{titleFr}}'
     fields:
-      - {label: "Template Key", name: "templateKey", widget: "hidden", default: "blog-post"}
-      - {label: "Title", name: "title", widget: "string"}
-      - {label: "Publish Date", name: "date", widget: "datetime"}
-      - {label: "Description", name: "description", widget: "text"}
-      - {label: "Body", name: "body", widget: "markdown"}
-      - {label: "Tags", name: "tags", widget: "list"}
+      - { label: 'Title Fr', name: 'titleFr', widget: 'string' }
+      - { label: 'Title En', name: 'titleEn', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+  - name: 'country'
+    label: 'Pays'
+    folder: 'src/atlas/country'
+    create: true
+    slug: '{{titleFr}}'
+    fields:
+      - { label: 'Title Fr', name: 'titleFr', widget: 'string' }
+      - { label: 'Title En', name: 'titleEn', widget: 'string' }
+      - { label: 'Publish Date', name: 'date', widget: 'datetime' }

@@ -4,7 +4,10 @@ import Layout from '../components/Layout'
 import { aliasTranslatedFields } from '../helpers/language'
 
 const ContinentPage = ({ data, pageContext }) => {
-  const continent = aliasTranslatedFields(data.markdownRemark.frontmatter, pageContext.language)
+  const continent = aliasTranslatedFields(
+    data.markdownRemark.frontmatter,
+    pageContext.language
+  )
 
   return (
     <Layout>
@@ -22,9 +25,6 @@ export const continentQuery = graphql`
       frontmatter {
         titleFr
         titleEn
-        population
-        area
-        density
       }
     }
   }
