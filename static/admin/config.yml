@@ -33,12 +33,12 @@ collections:
       - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
       - label: 'Continent'
-            name: 'continent'
-            widget: 'relation'
-            collection: 'continents'
-            searchFields: ['title']
-            valueField: 'title'
-            displayFields: ['title']
+        name: 'continent'
+        widget: 'relation'
+        collection: 'continents'
+        searchFields: ['title']
+        valueField: 'title'
+        displayFields: ['title']
   - name: 'countries'
     label: 'Pays'
     folder: 'src/atlas/countries'
