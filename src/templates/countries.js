@@ -4,13 +4,14 @@ import Layout from '../components/Layout'
 import { aliasTranslatedFields } from '../helpers/language'
 
 const CountryPage = ({ data, pageContext }) => {
-  const country = aliasTranslatedFields(data.markdownRemark.frontmatter, pageContext.language)
+  const country = aliasTranslatedFields(
+    data.markdownRemark.frontmatter,
+    pageContext.language
+  )
 
   return (
     <Layout>
-      <h1>
-        {country.title}
-      </h1>
+      <h1>{country.title}</h1>
     </Layout>
   )
 }
@@ -22,7 +23,7 @@ export const countryQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       frontmatter {
-        titleFr
+        title
         titleEn
       }
     }

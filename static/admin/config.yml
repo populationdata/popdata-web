@@ -2,25 +2,32 @@ backend:
   name: git-gateway
   branch: master
 
+publish_mode: editorial_workflow
+
 media_folder: static/images
 public_folder: /images
 
 collections:
-  - name: 'continent'
-    label: 'Continent'
-    folder: 'src/atlas/continent'
+  - name: 'continents'
+    label: 'Continents'
+    label_singular: 'Continent'
+    folder: 'src/atlas/continents'
+    extension: md
+    format: frontmatter
     create: true
-    slug: '{{titleFr}}'
+    slug: '{{slug}}'
     fields:
-      - { label: 'Title Fr', name: 'titleFr', widget: 'string' }
-      - { label: 'Title En', name: 'titleEn', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }
-  - name: 'country'
+  - name: 'countries'
     label: 'Pays'
-    folder: 'src/atlas/country'
+    folder: 'src/atlas/countries'
+    extension: md
+    format: frontmatter
     create: true
-    slug: '{{titleFr}}'
+    slug: '{{slug}}'
     fields:
-      - { label: 'Title Fr', name: 'titleFr', widget: 'string' }
-      - { label: 'Title En', name: 'titleEn', widget: 'string' }
+      - { label: 'Title', name: 'title', widget: 'string' }
+      - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
       - { label: 'Publish Date', name: 'date', widget: 'datetime' }

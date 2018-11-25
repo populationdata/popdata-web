@@ -23,7 +23,7 @@ export const continentQuery = graphql`
     markdownRemark(id: { eq: $id }) {
       id
       frontmatter {
-        titleFr
+        title
         titleEn
       }
     }

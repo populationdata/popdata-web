@@ -11,7 +11,7 @@ exports.onCreateNode = ({ node, actions, getNode }) => {
     createNodeField({
       name: `slugFr`,
       node,
-      value: `/fr/${slug(node.frontmatter.titleFr, { lower: true })}/`,
+      value: `/fr/${slug(node.frontmatter.title, { lower: true })}/`,
     })
     createNodeField({
       name: `slugEn`,
@@ -60,7 +60,7 @@ exports.createPages = ({ actions, graphql }) => {
         ),
         context: {
           id: edge.node.id,
-          language: 'fr'
+          language: 'fr',
         },
       })
       createPage({
@@ -70,7 +70,7 @@ exports.createPages = ({ actions, graphql }) => {
         ),
         context: {
           id: edge.node.id,
-          language: 'en'
+          language: 'en',
         },
       })
     })
