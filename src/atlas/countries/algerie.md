@@ -1,0 +1,4 @@
+---
+titleFr: Algérie
+titleEn: Algeria
+---
