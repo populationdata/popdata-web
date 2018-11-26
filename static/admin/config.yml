@@ -11,9 +11,8 @@ collections:
   - name: 'continents'
     label: 'Continents'
     label_singular: 'Continent'
-    folder: 'src/atlas/continents'
-    extension: md
-    format: frontmatter
+    folder: 'data/continents'
+    extension: yml
     create: true
     slug: '{{slug}}'
     fields:
@@ -23,9 +22,8 @@ collections:
   - name: 'subcontinents'
     label: 'Sous-continents'
     label_singular: 'Sous-continent'
-    folder: 'src/atlas/subcontinents'
+    folder: 'data/subcontinents'
     extension: md
-    format: frontmatter
     create: true
     slug: '{{slug}}'
     fields:
@@ -41,9 +39,8 @@ collections:
         displayFields: ['title']
   - name: 'countries'
     label: 'Pays'
-    folder: 'src/atlas/countries'
+    folder: 'data/countries'
     extension: md
-    format: frontmatter
     create: true
     slug: '{{slug}}'
     fields:

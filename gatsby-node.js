@@ -1,28 +1,20 @@
 const _ = require('lodash')
 const path = require('path')
 const slug = require('slug')
-const { fmImagesToRelative } = require('gatsby-remark-relative-images')
 
-exports.onCreateNode = ({ node, actions, getNode }) => {
+exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
-  fmImagesToRelative(node) // convert image paths for gatsby images
 
-  if (node.internal.type === `MarkdownRemark`) {
+  if (['ContinentsYaml', 'CountriesYaml'].includes(node.internal.type)) {
     createNodeField({
       name: `slugFr`,
       node,
-      value: `/fr/${slug(node.frontmatter.title, { lower: true })}/`,
+      value: `/fr/${slug(node.title, { lower: true })}/`,
     })
     createNodeField({
       name: `slugEn`,
       node,
-      value: `/en/${slug(node.frontmatter.titleEn, { lower: true })}/`,
-    })
-    const parent = getNode(_.get(node, 'parent'))
-    createNodeField({
-      node,
-      name: 'collection',
-      value: _.get(parent, 'sourceInstanceName'),
+      value: `/en/${slug(node.titleEn, { lower: true })}/`,
     })
   }
 }
@@ -32,16 +24,30 @@ exports.createPages = ({ actions, graphql }) => {
 
   return graphql(`
     {
-      allMarkdownRemark(
-        filter: { fields: { collection: { in: ["continents", "countries"] } } }
-      ) {
+      allContinentsYaml {
         edges {
           node {
             id
+            internal {
+              type
+            }
             fields {
-              slugFr
               slugEn
-              collection
+              slugFr
+            }
+          }
+        }
+      }
+      allCountriesYaml {
+        edges {
+          node {
+            id
+            internal {
+              type
+            }
+            fields {
+              slugEn
+              slugFr
             }
           }
         }
@@ -53,13 +59,18 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const content = result.data.allMarkdownRemark.edges
+    const content = result.data.allContinentsYaml.edges.concat(
+      result.data.allCountriesYaml.edges
+    )
     content.forEach(edge => {
+      const component = path.resolve(
+        `src/templates/${String(
+          edge.node.internal.type.slice(0, edge.node.internal.type.length - 4)
+        )}.js`
+      )
       createPage({
         path: edge.node.fields.slugFr,
-        component: path.resolve(
-          `src/templates/${String(edge.node.fields.collection)}.js`
-        ),
+        component,
         context: {
           id: edge.node.id,
           language: 'fr',
@@ -67,9 +78,7 @@ exports.createPages = ({ actions, graphql }) => {
       })
       createPage({
         path: edge.node.fields.slugEn,
-        component: path.resolve(
-          `src/templates/${String(edge.node.fields.collection)}.js`
-        ),
+        component,
         context: {
           id: edge.node.id,
           language: 'en',

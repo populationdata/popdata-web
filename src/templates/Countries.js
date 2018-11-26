@@ -5,7 +5,7 @@ import { aliasTranslatedFields } from '../helpers/language'
 
 const CountryPage = ({ data, pageContext }) => {
   const country = aliasTranslatedFields(
-    data.markdownRemark.frontmatter,
+    data.countriesYaml,
     pageContext.language
   )
 
@@ -20,12 +20,10 @@ export default CountryPage
 
 export const countryQuery = graphql`
   query CountryByID($id: String!) {
-    markdownRemark(id: { eq: $id }) {
+    countriesYaml(id: { eq: $id }) {
       id
-      frontmatter {
-        title
-        titleEn
-      }
+      title
+      titleEn
     }
   }
 `
