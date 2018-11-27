@@ -36,6 +36,13 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        path: `${__dirname}/data/maps`,
+        name: 'maps',
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
         path: `${__dirname}/data/subcontinents`,
         name: 'subcontinents',
       },

@@ -8,13 +8,17 @@ const getCategory = (type, language) => {
       return 'continents'
     case 'CountriesYaml':
       return language === 'fr' ? 'pays' : 'countries'
+    case 'MapsYaml':
+      return language === 'fr' ? 'cartes' : 'maps'
   }
 }
 
 exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
 
-  if (['ContinentsYaml', 'CountriesYaml'].includes(node.internal.type)) {
+  if (
+    ['ContinentsYaml', 'CountriesYaml', 'MapsYaml'].includes(node.internal.type)
+  ) {
     createNodeField({
       name: `slugFr`,
       node,
@@ -25,9 +29,12 @@ exports.onCreateNode = ({ node, actions }) => {
     createNodeField({
       name: `slugEn`,
       node,
-      value: `/en/${getCategory(node.internal.type, 'en')}/${slug(node.nameEn, {
-        lower: true,
-      })}/`,
+      value: `/en/${getCategory(node.internal.type, 'en')}/${slug(
+        node.nameEn || node.nameFr,
+        {
+          lower: true,
+        }
+      )}/`,
     })
   }
 }
@@ -65,6 +72,20 @@ exports.createPages = ({ actions, graphql }) => {
           }
         }
       }
+      allMapsYaml {
+        edges {
+          node {
+            id
+            internal {
+              type
+            }
+            fields {
+              slugEn
+              slugFr
+            }
+          }
+        }
+      }
     }
   `).then(result => {
     if (result.errors) {
@@ -72,9 +93,9 @@ exports.createPages = ({ actions, graphql }) => {
       return Promise.reject(result.errors)
     }
 
-    const content = result.data.allContinentsYaml.edges.concat(
-      result.data.allCountriesYaml.edges
-    )
+    const content = result.data.allContinentsYaml.edges
+      .concat(result.data.allCountriesYaml.edges)
+      .concat(result.data.allMapsYaml.edges)
     content.forEach(edge => {
       const component = path.resolve(
         `src/templates/${String(
