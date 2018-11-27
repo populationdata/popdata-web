@@ -11,7 +11,16 @@ const IndexPage = ({ data }) => (
         .map(x => x.node)
         .map(x => (
           <li>
-            <Link to={x.fields.slugFr}>{x.title}</Link>
+            <Link to={x.fields.slugFr}>{x.nameFr}</Link>
+          </li>
+        ))}
+    </div>
+    <div>
+      {data.allContinentsYaml.edges
+        .map(x => x.node)
+        .map(x => (
+          <li>
+            <Link to={x.fields.slugEn}>{x.nameEn}</Link>
           </li>
         ))}
     </div>
@@ -31,7 +40,8 @@ export const indexQuery = graphql`
             slugEn
           }
           title
-          titleEn
+          nameEn
+          nameFr
         }
       }
     }

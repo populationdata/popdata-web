@@ -12,8 +12,11 @@ const ContinentPage = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <h1>{continent.title}</h1>
-      <SubContinents continentTitle={continent.title} />
+      <h1>{continent.name}</h1>
+      <SubContinents
+        continentTitle={continent.title}
+        language={pageContext.language}
+      />
     </Layout>
   )
 }
@@ -25,7 +28,8 @@ export const continentQuery = graphql`
     continentsYaml(id: { eq: $id }) {
       id
       title
-      titleEn
+      nameFr
+      nameEn
     }
   }
 `

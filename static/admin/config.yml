@@ -14,8 +14,9 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
+      - { label: 'Slug', name: 'title', widget: 'string' }
+      - { label: 'Name (Fr)', name: 'nameFr', widget: 'string' }
+      - { label: 'Name (En)', name: 'nameEn', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
       - {
           label: 'Année PIB',
@@ -37,8 +38,9 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
+      - { label: 'Slug', name: 'title', widget: 'string' }
+      - { label: 'Name (Fr)', name: 'nameFr', widget: 'string' }
+      - { label: 'Name (En)', name: 'nameEn', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
       - label: 'Continent'
         name: 'continent'
@@ -46,7 +48,7 @@ collections:
         collection: 'continents'
         searchFields: ['title']
         valueField: 'title'
-        displayFields: ['title']
+        displayFields: ['title', 'nameFr', 'nameEn']
   - name: 'countries'
     label: 'Pays'
     folder: 'data/countries'
@@ -54,10 +56,11 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Title', name: 'title', widget: 'string' }
-      - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
+      - { label: 'Slug', name: 'title', widget: 'string' }
+      - { label: 'Name (Fr)', name: 'nameFr', widget: 'string' }
+      - { label: 'Name (En)', name: 'nameEn', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description', name: 'description', widget: 'markdown' }
+      - { label: 'Description (Fr)', name: 'descriptionFr', widget: 'markdown' }
       - { label: 'Description (En)', name: 'descriptionEn', widget: 'markdown' }
       - { label: 'Nom long', name: 'longName', widget: 'string' }
       - { label: 'Nom local', name: 'localeName', widget: 'string' }
@@ -67,4 +70,4 @@ collections:
         collection: 'subcontinents'
         searchFields: ['title']
         valueField: 'title'
-        displayFields: ['title']
+        displayFields: ['title', 'nameFr', 'nameEn']

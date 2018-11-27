@@ -12,7 +12,7 @@ const CountryPage = ({ data, pageContext }) => {
 
   return (
     <Layout>
-      <h1>{country.title}</h1>
+      <h1>{country.name}</h1>
       <section>
         <HTMLContent content={country.description} />
       </section>
@@ -25,10 +25,12 @@ export default CountryPage
 export const countryQuery = graphql`
   query CountryByID($id: String!) {
     countriesYaml(id: { eq: $id }) {
+      descriptionEn
+      descriptionFr
       id
-      description
+      nameFr
+      nameEn
       title
-      titleEn
     }
   }
 `

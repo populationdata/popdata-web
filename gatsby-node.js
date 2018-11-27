@@ -18,17 +18,16 @@ exports.onCreateNode = ({ node, actions }) => {
     createNodeField({
       name: `slugFr`,
       node,
-      value: `/fr/${getCategory(node.internal.type, 'fr')}/${slug(node.title, {
+      value: `/fr/${getCategory(node.internal.type, 'fr')}/${slug(node.nameFr, {
         lower: true,
       })}/`,
     })
     createNodeField({
       name: `slugEn`,
       node,
-      value: `/en/${getCategory(node.internal.type, 'en')}/${slug(
-        node.titleEn,
-        { lower: true }
-      )}/`,
+      value: `/en/${getCategory(node.internal.type, 'en')}/${slug(node.nameEn, {
+        lower: true,
+      })}/`,
     })
   }
 }
