@@ -2,6 +2,15 @@ const _ = require('lodash')
 const path = require('path')
 const slug = require('slug')
 
+const getCategory = (type, language) => {
+  switch (type) {
+    case 'ContinentsYaml':
+      return 'continents'
+    case 'CountriesYaml':
+      return language === 'fr' ? 'pays' : 'countries'
+  }
+}
+
 exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
 
@@ -9,12 +18,17 @@ exports.onCreateNode = ({ node, actions }) => {
     createNodeField({
       name: `slugFr`,
       node,
-      value: `/fr/${slug(node.title, { lower: true })}/`,
+      value: `/fr/${getCategory(node.internal.type, 'fr')}/${slug(node.title, {
+        lower: true,
+      })}/`,
     })
     createNodeField({
       name: `slugEn`,
       node,
-      value: `/en/${slug(node.titleEn, { lower: true })}/`,
+      value: `/en/${getCategory(node.internal.type, 'en')}/${slug(
+        node.titleEn,
+        { lower: true }
+      )}/`,
     })
   }
 }

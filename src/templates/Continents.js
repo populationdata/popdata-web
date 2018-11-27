@@ -1,6 +1,7 @@
 import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
+import SubContinents from '../components/SubContinents'
 import { aliasTranslatedFields } from '../helpers/language'
 
 const ContinentPage = ({ data, pageContext }) => {
@@ -12,6 +13,7 @@ const ContinentPage = ({ data, pageContext }) => {
   return (
     <Layout>
       <h1>{continent.title}</h1>
+      <SubContinents continentTitle={continent.title} />
     </Layout>
   )
 }

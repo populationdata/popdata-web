@@ -43,4 +43,8 @@ module.exports = {
     'gatsby-plugin-netlify-cms',
     'gatsby-plugin-netlify',
   ],
+  mapping: {
+    'SubcontinentsYaml.continent': `ContinentsYaml.title`,
+    'CountriesYaml.subcontinent': `SubcontinentsYaml.title`,
+  },
 }

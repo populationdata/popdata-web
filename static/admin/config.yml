@@ -17,6 +17,18 @@ collections:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
+      - {
+          label: 'Année PIB',
+          name: 'gdpYear',
+          widget: 'number',
+          valueType: 'int',
+        }
+      - {
+          label: 'Nombre de fuseaux horaires',
+          name: 'numberOfTimeZones',
+          widget: 'number',
+          valueType: 'int',
+        }
   - name: 'subcontinents'
     label: 'Sous-continents'
     label_singular: 'Sous-continent'
@@ -44,7 +56,11 @@ collections:
     fields:
       - { label: 'Title', name: 'title', widget: 'string' }
       - { label: 'Title (En)', name: 'titleEn', widget: 'string' }
-      - { label: 'Publish Date', name: 'date', widget: 'datetime' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - { label: 'Description', name: 'description', widget: 'markdown' }
+      - { label: 'Description (En)', name: 'descriptionEn', widget: 'markdown' }
+      - { label: 'Nom long', name: 'longName', widget: 'string' }
+      - { label: 'Nom local', name: 'localeName', widget: 'string' }
       - label: 'Sous-continent'
         name: 'subcontinent'
         widget: 'relation'
