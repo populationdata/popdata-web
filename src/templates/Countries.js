@@ -2,6 +2,7 @@ import React from 'react'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { aliasTranslatedFields } from '../helpers/language'
+import { HTMLContent } from '../components/Content'
 
 const CountryPage = ({ data, pageContext }) => {
   const country = aliasTranslatedFields(
@@ -12,6 +13,9 @@ const CountryPage = ({ data, pageContext }) => {
   return (
     <Layout>
       <h1>{country.title}</h1>
+      <section>
+        <HTMLContent content={country.description} />
+      </section>
     </Layout>
   )
 }
@@ -22,6 +26,7 @@ export const countryQuery = graphql`
   query CountryByID($id: String!) {
     countriesYaml(id: { eq: $id }) {
       id
+      description
       title
       titleEn
     }
