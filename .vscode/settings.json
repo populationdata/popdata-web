@@ -7,5 +7,6 @@
     "editor.formatOnSave": true,
     "cSpell.words": [
         "frontmatter"
-    ]
+    ],
+    "git.ignoreLimitWarning": true
 }

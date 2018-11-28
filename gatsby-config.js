@@ -43,6 +43,13 @@ module.exports = {
     {
       resolve: 'gatsby-source-filesystem',
       options: {
+        path: `${__dirname}/data/posts`,
+        name: 'posts',
+      },
+    },
+    {
+      resolve: 'gatsby-source-filesystem',
+      options: {
         path: `${__dirname}/data/subcontinents`,
         name: 'subcontinents',
       },
