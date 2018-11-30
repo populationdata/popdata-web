@@ -1,19 +1,16 @@
 import React from 'react'
 import { Link, StaticQuery, graphql } from 'gatsby'
-import { aliasTranslatedFields } from '../helpers/language'
 
-export default ({ subcontinentTitle, language }) => (
+export default ({ subcontinentTitle }) => (
   <StaticQuery
     query={graphql`
       query CountriesInSubContinents {
         allCountriesYaml {
           edges {
             node {
-              nameEn
-              nameFr
               fields {
-                slugFr
-                slugEn
+                name
+                slug
               }
               subcontinent {
                 title
@@ -27,10 +24,10 @@ export default ({ subcontinentTitle, language }) => (
       <ul>
         {data.allCountriesYaml.edges
           .filter(x => x.node.subcontinent.title === subcontinentTitle)
-          .map(x => aliasTranslatedFields(x.node, language))
+          .map(x => x.node)
           .map(x => (
             <li>
-              <Link to={x.fields.slug}>{x.name}</Link>
+              <Link to={x.fields.slug}>{x.fields.name}</Link>
             </li>
           ))}
       </ul>

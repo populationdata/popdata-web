@@ -1,8 +1,9 @@
 const _ = require('lodash')
 const path = require('path')
 const slug = require('slug')
+const language = process.env.GATSBY_LANGUAGE
 
-const getCategory = (type, language) => {
+const getCategory = type => {
   switch (type) {
     case 'ContinentsYaml':
       return 'continents'
@@ -19,27 +20,44 @@ exports.onCreateNode = ({ node, actions }) => {
   const { createNodeField } = actions
 
   if (
-    ['ContinentsYaml', 'CountriesYaml', 'MapsYaml', 'PostsYaml'].includes(
-      node.internal.type
-    )
+    [
+      'ContinentsYaml',
+      'CountriesYaml',
+      'MapsYaml',
+      'PostsYaml',
+      'SubcontinentsYaml',
+    ].includes(node.internal.type)
   ) {
-    createNodeField({
-      name: `slugFr`,
-      node,
-      value: `/fr/${getCategory(node.internal.type, 'fr')}/${slug(node.nameFr, {
-        lower: true,
-      })}/`,
-    })
-    createNodeField({
-      name: `slugEn`,
-      node,
-      value: `/en/${getCategory(node.internal.type, 'en')}/${slug(
-        node.nameEn || node.nameFr,
-        {
-          lower: true,
+    const languageSuffix =
+      language.slice(0, 1).toUpperCase() + language.slice(1, 2)
+    for (const property in node) {
+      if (node.hasOwnProperty(property)) {
+        let propertyName = property
+        if (propertyName.endsWith(languageSuffix)) {
+          propertyName = property.slice(0, property.length - 2)
+          createNodeField({
+            name: propertyName,
+            node,
+            value: node[property],
+          })
         }
-      )}/`,
-    })
+      }
+    }
+    if (
+      ['ContinentsYaml', 'CountriesYaml', 'MapsYaml', 'PostsYaml'].includes(
+        node.internal.type
+      )
+    ) {
+      if (node.fields.name) {
+        createNodeField({
+          name: `slug`,
+          node,
+          value: `/${getCategory(node.internal.type)}/${slug(node.fields.name, {
+            lower: true,
+          })}/`,
+        })
+      }
+    }
   }
 }
 
@@ -56,8 +74,7 @@ exports.createPages = ({ actions, graphql }) => {
               type
             }
             fields {
-              slugEn
-              slugFr
+              slug
             }
           }
         }
@@ -70,8 +87,7 @@ exports.createPages = ({ actions, graphql }) => {
               type
             }
             fields {
-              slugEn
-              slugFr
+              slug
             }
           }
         }
@@ -84,8 +100,7 @@ exports.createPages = ({ actions, graphql }) => {
               type
             }
             fields {
-              slugEn
-              slugFr
+              slug
             }
           }
         }
@@ -98,8 +113,7 @@ exports.createPages = ({ actions, graphql }) => {
               type
             }
             fields {
-              slugEn
-              slugFr
+              slug
             }
           }
         }
@@ -116,27 +130,20 @@ exports.createPages = ({ actions, graphql }) => {
       .concat(result.data.allMapsYaml.edges)
       .concat(result.data.allPostsYaml.edges)
     content.forEach(edge => {
-      const component = path.resolve(
-        `src/templates/${String(
-          edge.node.internal.type.slice(0, edge.node.internal.type.length - 4)
-        )}.js`
-      )
-      createPage({
-        path: edge.node.fields.slugFr,
-        component,
-        context: {
-          id: edge.node.id,
-          language: 'fr',
-        },
-      })
-      createPage({
-        path: edge.node.fields.slugEn,
-        component,
-        context: {
-          id: edge.node.id,
-          language: 'en',
-        },
-      })
+      if (edge.node.fields.slug) {
+        const component = path.resolve(
+          `src/templates/${String(
+            edge.node.internal.type.slice(0, edge.node.internal.type.length - 4)
+          )}.js`
+        )
+        createPage({
+          path: edge.node.fields.slug,
+          component,
+          context: {
+            id: edge.node.id,
+          },
+        })
+      }
     })
   })
 }

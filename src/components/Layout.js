@@ -19,7 +19,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Helmet title={data.site.siteMetadata.title}>
-          <html lang="en" />
+          <html lang={process.env.GATSBY_LANGUAGE} />
         </Helmet>
         <div
           style={{
