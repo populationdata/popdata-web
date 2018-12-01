@@ -1,5 +1,6 @@
 import React from 'react'
 import { Container, Row, Col } from 'reactstrap'
+import HeaderMenu from './HeaderMenu'
 
 import LogoFr from '../images/fr/populationdata-logo.png'
 import LogoFrRetina from '../images/fr/populationdata-logo@2x.png'
@@ -23,6 +24,7 @@ const Header = ({ siteMetadata }) => {
           </Col>
           <Col />
         </Row>
+        <HeaderMenu />
       </Container>
     </header>
   )

@@ -11,6 +11,7 @@ module.exports = {
       },
     },
     `gatsby-plugin-sass`,
+    `gatsby-plugin-glamor`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-yaml`,
     {
