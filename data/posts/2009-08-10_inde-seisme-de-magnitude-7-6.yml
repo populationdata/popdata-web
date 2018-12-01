@@ -13,4 +13,6 @@ fr:
     les pays les plus proches.<br />Cette alerte a été levée depuis. On ne
     déplore heureusement aucune victime ni dégâts dans l'archipel.<br />[carte
     dans colonne centrale-&gt;]<br />
-en: {}
+en:
+  title: 'Inde : séisme de magnitude 7.6'
+  body: ''

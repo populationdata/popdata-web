@@ -23,4 +23,6 @@ fr:
     <p> En 2008, plus de 31 000 personnes ont fait ce dangereux voyage, dont 21
     200 Somaliens et 9 800 Ethiopiens. Plus de 228 sont morts et 260 restent
     portés disparus.</p> <p>Source : ONU, UNHCR            <br />   </p>
-en: {}
+en:
+  title: 52 somaliens morts après avoir été abandonnés par leurs passeurs
+  body: ''

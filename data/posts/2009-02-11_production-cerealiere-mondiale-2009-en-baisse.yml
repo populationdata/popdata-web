@@ -64,4 +64,6 @@ fr:
     <p> Des prévisions antérieures prédisaient des volumes plus importants, mais
     la chute des cours du pétrole et le ralentissement de l'activité économique
     mondiale ont freiné la tendance.</p> <p>Source : FAO         <br />   </p>
-en: {}
+en:
+  title: Production céréalière mondiale 2009 en baisse
+  body: ''

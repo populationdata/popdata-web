@@ -25,4 +25,6 @@ fr:
     propagation de nombreuses maladies transmissibles, dont la grippe.</p> 
     <p>L'OMS recommande également de se laver les mains régulièrement au cours
     de la journée.<br /></p>  <p>Source : OMS<br /></p>
-en: {}
+en:
+  title: 'Grippe A : 33 pays touchés'
+  body: ''

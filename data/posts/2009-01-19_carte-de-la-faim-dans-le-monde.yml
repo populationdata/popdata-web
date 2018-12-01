@@ -15,4 +15,6 @@ fr:
     border="0" src="/images/cartes/articles/monde-faim-petite.gif" /></a>   <br
     />            Cliquez sur la carte pour l'agrandir            <br
     type="_moz" />    </div>
-en: {}
+en:
+  title: Carte de la faim dans le monde
+  body: ''

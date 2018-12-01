@@ -25,4 +25,6 @@ fr:
     border="0" align="middle"
     src="/images/articles/francophonie-sommet-quebec-chefs-etat.jpg" /> <br /> 
     <br />  Source : OIF  <br type="_moz" />
-en: {}
+en:
+  title: XIIe Sommet des chefs d'état et de gouvernement de la Francophonie
+  body: ''

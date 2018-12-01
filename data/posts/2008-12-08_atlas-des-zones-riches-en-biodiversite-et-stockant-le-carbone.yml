@@ -75,4 +75,6 @@ fr:
     type="_moz" />         </p></span>     <div style="text-align: left;">Source
     : PNUE                                          <br />            </div>  
     </div></span>
-en: {}
+en:
+  title: Atlas des zones riches en biodiversité et stockant le carbone
+  body: ''

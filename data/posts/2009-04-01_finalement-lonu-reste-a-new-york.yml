@@ -5,4 +5,6 @@ fr:
   body: >-
     Nombre d'entre vous sont tombés dans le panneau ! Non, finalement, l'ONU
     reste à New York ;-) Poisson d'avril...
-en: {}
+en:
+  title: 'Finalement, l''ONU reste à New York'
+  body: ''

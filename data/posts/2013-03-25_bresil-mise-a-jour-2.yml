@@ -5,4 +5,6 @@ fr:
   body: >-
     Une petite mise à jour des chiffres du Brésil, avec notamment les résultats
     des estimations de population du pays et des Etats.
-en: {}
+en:
+  title: 'Brésil : mise à jour'
+  body: ''

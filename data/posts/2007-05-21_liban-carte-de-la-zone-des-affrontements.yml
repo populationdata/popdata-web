@@ -6,4 +6,6 @@ fr:
     Carte de la zone des affrontements au <a title="Liban"
     href="/index2.php?option=pays&pid=119&nom=liban">Liban</a> entre l'armée
     libanaise et le Fatah Al-Islam, groupuscule activiste palestinien.   <br />
-en: {}
+en:
+  title: Liban - carte de la zone des affrontements
+  body: ''

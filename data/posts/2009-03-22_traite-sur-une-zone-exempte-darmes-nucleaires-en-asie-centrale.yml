@@ -18,4 +18,6 @@ fr:
     href="http://maps.google.ca/maps/ms?sourceid=navclient-ff&ie=UTF8&hl=fr&msa=0&msid=109238073513828912598.000465bc217338a4659b6&ll=45.336702,66.796875&spn=24.711869,48.339844&z=4&source=embed"
     style="color: rgb(0, 0, 255); text-align: left;">Agrandir le
     plan</a></small>
-en: {}
+en:
+  title: Traité sur une zone exempte d'armes nucléaires en Asie centrale
+  body: ''

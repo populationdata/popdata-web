@@ -3,4 +3,6 @@ date: 2017-06-09T15:04:16.000Z
 fr:
   title: Un jour comme les autres en France
   body: "<p style=\"text-align: justify;\">Que se passe-t-il en une journée en <a href=\"https://www.populationdata.net/pays/france/\">France</a> ? Réponse ludique en statistiques, grâce à cette petite vidéo produite par l'Insee, et intitulée « Un jour comme les autres ».\r\n<iframe src=\"//www.dailymotion.com/embed/video/x5ps9l1\" width=\"800\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n\r\n</p>\r\n\r\n<ul>\r\n \t<li style=\"text-align: justify;\"><a href=\"https://www.populationdata.net/pays/france/\"><strong>Fiche pays France</strong></a></li>\r\n</ul>"
-en: {}
+en:
+  title: Un jour comme les autres en France
+  body: ''

@@ -18,4 +18,6 @@ fr:
     <li>Italie</li>   <li>Japon</li>   <li>Mexique</li>   <li>Royaume-Uni</li>  
     <li>Russie</li>   <li>Turquie</li>   <li>Union européenne</li> </ul>Source :
     G20, Wikipédia     <br type="_moz" />
-en: {}
+en:
+  title: G20
+  body: ''

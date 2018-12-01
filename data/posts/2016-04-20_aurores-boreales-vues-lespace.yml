@@ -3,4 +3,6 @@ date: 2016-04-21T03:36:14.000Z
 fr:
   title: Aurores Boréales vues depuis l'espace
   body: "La Nasa a filmé des <a href=\"http://www.auroresboreales.com\">aurores boréales</a> depuis la station spatiale internationale. Des images en ultra haute définition 4K à couper le souffle. Très beau !\r\n<iframe src=\"//www.dailymotion.com/embed/video/x45w9j7?autoPlay=1\" width=\"800\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n<a href=\"http://www.dailymotion.com/video/x45w9j7_aurores-boreales-vues-depuis-l-espace-hd-4k_school\" target=\"_blank\">Aurores Boréales vues depuis l'espace (HD 4K)</a> <i>par <a href=\"http://www.dailymotion.com/populationdata\" target=\"_blank\">populationdata</a></i>"
-en: {}
+en:
+  title: Aurores Boréales vues depuis l'espace
+  body: ''

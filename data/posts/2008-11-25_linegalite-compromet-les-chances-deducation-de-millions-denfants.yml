@@ -101,4 +101,6 @@ fr:
     En France, la part d'aide à l'éducation affectée à l'éducation de base dans
     les pays pauvres n'est que de 12%. En Allemagne, elle ne dépasse pas 7%.</p>
     <p>Source : UNESCO            <br />   </p>
-en: {}
+en:
+  title: L'inégalité compromet les chances d'éducation de millions d'enfants
+  body: ''

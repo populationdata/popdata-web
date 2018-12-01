@@ -6,4 +6,6 @@ fr:
     Un séisme de magnitude 6.0 s'est produit ce matin vers 9h dans le nord du
     Pérou, près de la ville de Chiclayo. On ignore pour le moment s'il y a des
     dégâts et des victimes.
-en: {}
+en:
+  title: 'Pérou : séisme de magnitude 6.0'
+  body: ''

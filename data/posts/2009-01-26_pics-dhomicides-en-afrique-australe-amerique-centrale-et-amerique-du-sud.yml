@@ -27,4 +27,6 @@ fr:
     l'Australie, l'Inde, le Moyen-Orient avec un taux de 3 à 5 homicides pour
     100 000 habitants.          <br />   </p> <p>Source : ONUDC         <br />  
     </p>
-en: {}
+en:
+  title: 'Pics d''homicides en Afrique australe, Amérique centrale et Amérique du Sud'
+  body: ''

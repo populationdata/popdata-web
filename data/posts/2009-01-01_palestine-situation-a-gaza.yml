@@ -12,4 +12,6 @@ fr:
     src="/images/cartes/articles/palestine-gaza-decembre-2008-petite.jpg"
     /></a>   <br />    </div> <div style="text-align: center;">Cliquez sur la
     carte pour l'agrandir               <br />    </div>
-en: {}
+en:
+  title: 'Palestine : situation à Gaza'
+  body: ''

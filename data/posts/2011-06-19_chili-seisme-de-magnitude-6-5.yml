@@ -15,4 +15,6 @@ fr:
     dans colonne centrale -&gt;<br />&nbsp;                         <div><br
     />Source : USGS&nbsp;- Earthquake Hazards Program                           
     </div>    </div>  </div>
-en: {}
+en:
+  title: 'Chili : séisme de magnitude 6.5'
+  body: ''

@@ -34,4 +34,6 @@ fr:
     <li>Tanzanie</li>   <li>Tchad</li>   <li>Timor oriental</li>  
     <li>Togo</li>   <li>Tuvalu</li>   <li>Vanuatu</li>   <li>Yémen</li>  
     <li>Zambie</li> </ul>Source : ONU, Wikipédia    <br />
-en: {}
+en:
+  title: Pays les moins avancés
+  body: ''

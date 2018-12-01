@@ -3,4 +3,6 @@ date: 2016-12-23T16:59:04.000Z
 fr:
   title: L'Antarctique bouge !
   body: "<p style=\"text-align: justify;\">La Nasa a publié une vidéo montrant le mouvement des glaces sur le continent <a href=\"https://www.populationdata.net/pays/antarctique/\">Antarctique</a>. Un phénomène peu connu jusqu'alors, et qui est spectaculaire par son ampleur.</p>\r\n<p style=\"text-align: justify;\"><iframe src=\"//www.dailymotion.com/embed/video/x562gi2\" width=\"1200\" height=\"675\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n&nbsp;"
-en: {}
+en:
+  title: L'Antarctique bouge !
+  body: ''

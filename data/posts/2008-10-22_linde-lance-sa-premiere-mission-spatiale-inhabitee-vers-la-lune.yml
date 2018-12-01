@@ -28,4 +28,6 @@ fr:
     href="http://maps.google.ca/maps?q=&ie=UTF8&ll=13.721542,80.225344&spn=0.029392,0.062141&t=h&z=15&source=embed"
     style="color: rgb(0, 0, 255); text-align: left;">Agrandir le
     plan</a></small></p> <p>Source : ONU</p>
-en: {}
+en:
+  title: L'Inde lance sa première mission spatiale inhabitée vers la Lune
+  body: ''

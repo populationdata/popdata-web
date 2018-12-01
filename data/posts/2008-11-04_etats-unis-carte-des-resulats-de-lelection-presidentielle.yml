@@ -19,4 +19,6 @@ fr:
     src="/images/cartes/articles/etats-unis-elections-2008-petite.jpg" /></a>  
     <br />    </div> <div style="text-align: center;">      Cliquez sur la carte
     pour l'agrandir               <br />    </div>
-en: {}
+en:
+  title: 'Etats-Unis : carte des résulats de l''élection présidentielle'
+  body: ''

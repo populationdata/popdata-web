@@ -3,4 +3,6 @@ date: 2016-09-01T00:01:15.000Z
 fr:
   title: Monde - Évolution des taux de fécondité (1960-2015)
   body: "<p style=\"text-align: justify;\">Depuis 1960, la plupart des régions du monde ont vu leur taux de fécondité baisser à un niveau moyen oscillant entre 1,7 et 2,8 enfants par femme. Sauf l'Afrique subsaharienne, qui est actuellement à peine sous les 5 enfants par femme. Longtemps, la partie sud de l'<a href=\"https://www.populationdata.net/continents/afrique/\">Afrique</a> a vu son taux stagner, et il a fallu attendre le début des années 1990 pour voir ce taux enfin évoluer dans le bon sens et tenter de rejoindre la moyenne mondiale. Reste qu'il est toujours deux fois plus élevé que le reste du monde, et combiné à la baisse de la mortalité des dernières années, cela se traduit par une augmentation très forte de la population du continent. L'Afrique, qui est peuplée d'un peu moins d'1,2 milliard d'habitants actuellement, doit voir sa population doubler dans les vingt prochaines années.</p>\r\n<p style=\"text-align: justify;\"><iframe src=\"https://www.google.fr/publicdata/embed?ds=d5bncppjof8f9_&amp;ctype=l&amp;strail=false&amp;bcs=d&amp;nselm=h&amp;met_y=sp_dyn_tfrt_in&amp;scale_y=lin&amp;ind_y=false&amp;rdim=region&amp;idim=region:EAS:LCN:NAC:ECS:SAS:SSF:MEA&amp;ifdim=region&amp;tdim=true&amp;hl=fr&amp;dl=fr&amp;ind=false\" width=\"100%\" height=\"500\" frameborder=\"0\" marginwidth=\"0\" marginheight=\"0\" scrolling=\"no\"></iframe></p>"
-en: {}
+en:
+  title: Monde - Évolution des taux de fécondité (1960-2015)
+  body: ''

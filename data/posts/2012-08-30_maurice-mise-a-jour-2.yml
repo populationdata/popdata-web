@@ -6,4 +6,6 @@ fr:
     Mise à jour de la fiche Maurice, avec les derniers chiffres de population
     fournis par le Bureau central de la statistique du pays. La démographie
     repart à la hausse, très lentement.
-en: {}
+en:
+  title: 'Maurice : mise à jour'
+  body: ''

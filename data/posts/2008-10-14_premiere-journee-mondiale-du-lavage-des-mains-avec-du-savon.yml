@@ -40,4 +40,6 @@ fr:
     Afrique du Sud, environ 900 000 personnes devaient recevoir des SMS leur
     rappelant d'utiliser du savon.             <br />   </p> <p>Source : UNICEF,
     ONU            <br />   </p>
-en: {}
+en:
+  title: 'Première Journée mondiale du lavage des mains, avec du savon !'
+  body: ''

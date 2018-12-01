@@ -25,4 +25,6 @@ fr:
     /><small><a style="color: rgb(0, 0, 255); text-align: left;"
     href="http://maps.google.fr/maps?f=q&amp;source=embed&amp;hl=fr&amp;geocode=&amp;q=Sukkur+Pakistan&amp;sll=27.707239,68.80188&amp;sspn=0.332526,0.836334&amp;ie=UTF8&amp;hq=&amp;hnear=Sukkur,+Sindh,+Pakistan&amp;ll=27.691111,68.849167&amp;spn=6.80718,9.338379&amp;z=6">Agrandir
     le plan</a></small><br /><br />Source : Nasa Earth Observatory<br />
-en: {}
+en:
+  title: 'Pakistan : 15 millions de sinistrés à cause des inondations'
+  body: ''

@@ -12,4 +12,6 @@ fr:
     type="application/x-shockwave-flash"><param name="movie"
     value="http://www.euradionantes.eu/dewplayer-vol.swf?mp3=http://www.euradionantes.eu/podcast/nomadeineurope/populationdata.mp3"></param></object>
     <br /><br />[lien vers la page du podcast ci-dessous]<br />
-en: {}
+en:
+  title: Entrevue sur Euradio pour PopulationData.net
+  body: ''

@@ -15,4 +15,6 @@ fr:
     avec vos amis ! ;-)      <br />  <br />   Il se peut qu'il y ait quelques
     petits bugs encore, nous vous invitons à nous les signaler, <a
     href="/index2.php?option=contact">ici</a>.   <br />
-en: {}
+en:
+  title: Nouvelle version du site PopulationData.net
+  body: ''

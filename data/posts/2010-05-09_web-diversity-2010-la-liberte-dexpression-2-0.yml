@@ -29,4 +29,6 @@ fr:
     /><small><a style="color: rgb(0, 0, 255); text-align: left;"
     href="http://maps.google.fr/maps?hl=&amp;q=94,+rue+Jean-Pierre+Timbaud+75011+Paris&amp;ie=UTF8&amp;hq=&amp;hnear=94+Rue+Jean-Pierre+Timbaud,+75011+Paris,+Ile-de-France&amp;gl=fr&amp;ei=INznS8_GL5uTONvU9f0D&amp;ved=0CB4Q8gEwAA&amp;z=14&amp;ll=48.867722,2.377593&amp;source=embed">Agrandir
     le plan</a></small>
-en: {}
+en:
+  title: 'Web Diversity 2010 : la liberté d''expression 2.0'
+  body: ''

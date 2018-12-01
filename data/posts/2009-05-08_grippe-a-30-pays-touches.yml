@@ -26,4 +26,6 @@ fr:
     doivent consulter les services médicaux. Ces recommandations sont des
     mesures de prudence qui peuvent limiter la propagation de nombreuses
     maladies transmissibles, dont la grippe.</p>  <p>Source : OMS<br /> </p>
-en: {}
+en:
+  title: 'Grippe A : 30 pays touchés'
+  body: ''

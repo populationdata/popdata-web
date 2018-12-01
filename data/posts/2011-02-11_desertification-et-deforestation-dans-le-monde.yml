@@ -18,4 +18,6 @@ fr:
     plus rien...<br /><br />Voici une carte (colonne centrale-&gt;) présentant
     l'état de la désertification et la déforestation dans le monde en 2006.<br
     /><br />Source : La Documentation Française<br />
-en: {}
+en:
+  title: Désertification et déforestation dans le monde
+  body: ''

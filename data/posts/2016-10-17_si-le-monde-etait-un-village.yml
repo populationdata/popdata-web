@@ -3,4 +3,6 @@ date: 2016-10-17T16:08:22.000Z
 fr:
   title: Si le monde était un village
   body: "<iframe src=\"https://www.youtube.com/embed/qhhY15O42MI\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n\r\nSi le monde était un village de 100 habitants... Voici une vidéo explicative et ludique, avec de nombreux chiffres qui permettent, un peu, d'expliquer le monde tel qu'il est aujourd'hui.\r\n\r\nÀ partager sans modération sur vos réseaux sociaux !"
-en: {}
+en:
+  title: Si le monde était un village
+  body: ''

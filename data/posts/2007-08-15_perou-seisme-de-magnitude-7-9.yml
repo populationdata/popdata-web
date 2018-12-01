@@ -8,4 +8,6 @@ fr:
     href="/index2.php?option=pays&pid=168&nom=perou">Pérou</a>. On dénombre à 
     l'heure actuelle au moins 337 morts, et plus de 800 blessés, ainsi que des
     centaines d'habitations détruites.                        <br />    </div>
-en: {}
+en:
+  title: Pérou - Séisme de magnitude 7.9
+  body: ''

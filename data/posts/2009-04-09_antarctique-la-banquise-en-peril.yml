@@ -41,4 +41,6 @@ fr:
     a eu une perte moyenne d'environ 1,5 mètre en 2006, et d'environ 50
     centimètres en 2005.                         <br />   </p> <p>Source : PNUE,
     Nasa Earth Observatory                        <br />   </p>
-en: {}
+en:
+  title: 'Antarctique : la banquise en péril'
+  body: ''

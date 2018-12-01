@@ -20,4 +20,6 @@ fr:
     />            Cliquez sur la carte pour l'agrandir            <br />     
     <br />      <div style="text-align: left;">Source : Club de Paris,
     Wikipédia          <br type="_moz" />        </div> </div>
-en: {}
+en:
+  title: Club de Paris
+  body: ''

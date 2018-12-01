@@ -18,4 +18,6 @@ fr:
     rgb(204, 204, 204);"
     src="http://google.org/crisismap/2012-tropical-system-isaac?hl=fr&amp;llbox=33.463%2C27.054%2C-85.228%2C-95.347&amp;t=roadmap&amp;layers=1337907266660%2Clayer1%2Clayer2%2C1337617652397%2C2%2C1337716071386%2C18%2C11%2C1337907303704%2C1%2C123423512123449211%2C123423512123449212%2C123423512123449213%2C12342351212344921355%2C123423512123449214%2C12342351212344921433%2C123423512123449214331%2C123423512123449215&amp;promoted&amp;embedded=true"></iframe><br
     />Source : Google Crisis Response
-en: {}
+en:
+  title: 'Isaac, transformé en ouragan, déferle sur la Louisiane'
+  body: ''

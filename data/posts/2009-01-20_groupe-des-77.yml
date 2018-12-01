@@ -82,4 +82,6 @@ fr:
     <li>Venezuela</li>           <li>Viêt Nam</li>          
     <li>Yémen</li>           <li>Zambie</li>           <li>Zimbabwe</li>        
     </ul></td>     </tr>   </tbody> </table> <br />     Source : Wikipédia
-en: {}
+en:
+  title: Groupe des 77
+  body: ''

@@ -42,4 +42,6 @@ fr:
     Moyen-Orient, l'ONU et ses partenaires ont  relancé des campagnes de
     vaccination massives le mois dernier en Syrie,  en Iraq et en Egypte, avec
     l'objectif d'atteindre 22 millions d'enfants.</p>  <p>Source : OMS<br /></p>
-en: {}
+en:
+  title: L'OMS lance une alerte mondiale sur la polio
+  body: ''

@@ -28,4 +28,6 @@ fr:
     virus.</span></p>  <p>De nouvelles informations sur lévolution de la
     situation seront publiées régulièrement sur le site Web de lOMS. <br /></p> 
     <p>Source : OMS<br /></p>
-en: {}
+en:
+  title: 'Grippe A : carte de l''évolution mondiale'
+  body: ''

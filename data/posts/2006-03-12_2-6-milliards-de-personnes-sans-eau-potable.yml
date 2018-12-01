@@ -89,4 +89,6 @@ fr:
     class="style1" class="style1"><font>Source : <a href="http://www.un.org/"
     target="_blank">ONU</a></font></p> <p align="right">   <br type="_moz" />  
     </p>
-en: {}
+en:
+  title: 2.6 milliards de personnes sans eau potable
+  body: ''

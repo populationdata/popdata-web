@@ -114,4 +114,6 @@ fr:
     <li><a href="/index2.php?option=pays&pid=36&nom=burundi">Fiche
     Burundi</a>     <br />     </li> </ul> <p>   <br />   </p> <p>Source :
     PNUD                           <br />   </p>
-en: {}
+en:
+  title: Vers un Burundi sans mines antipersonnel
+  body: ''

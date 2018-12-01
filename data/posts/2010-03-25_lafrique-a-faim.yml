@@ -35,4 +35,6 @@ fr:
     l'agriculture (FAO), 1,02  milliard de personnes sont sous-alimentées dans
     le monde, dont 265  millions en Afrique subsaharienne.</p>  <p>Source : FAO
     (communiqué)<br /></p>
-en: {}
+en:
+  title: L'Afrique a faim
+  body: ''

@@ -22,4 +22,6 @@ fr:
     mozallowfullscreen="" webkitallowfullscreen="" allowfullscreen=""
     src="https://lemonde.cartodb.com/viz/752ce872-ecc1-11e4-b890-0e018d66dc29/embed_map"></iframe>
     <br /><br />Voir carte dans colonne centrale -&gt;<br />
-en: {}
+en:
+  title: Violent séisme au Népal
+  body: ''

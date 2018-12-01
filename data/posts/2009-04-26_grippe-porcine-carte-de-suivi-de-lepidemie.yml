@@ -15,4 +15,6 @@ fr:
     <br /> <small>View <a style="color: rgb(0, 0, 255); text-align: left;"
     href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=106484775090296685271.0004681a37b713f6b5950&amp;ll=32.657876,-110.390625&amp;spn=18.451383,21.972656&amp;z=5&amp;source=embed">H1N1
     Swine Flu</a> in a larger map</small>
-en: {}
+en:
+  title: 'Grippe porcine : carte de suivi de l''épidémie'
+  body: ''

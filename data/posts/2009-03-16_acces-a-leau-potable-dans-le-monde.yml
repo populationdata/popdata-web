@@ -12,4 +12,6 @@ fr:
     border="0" align="middle"
     src="/images/cartes/articles/monde-eau-potable-petite.png" /></a>   <br
     />      Cliquez sur la carte pour l'agrandir      <br />    </div>
-en: {}
+en:
+  title: Accès à l'eau potable dans le monde
+  body: ''

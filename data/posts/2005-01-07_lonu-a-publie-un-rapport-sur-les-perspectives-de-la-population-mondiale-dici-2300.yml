@@ -106,4 +106,8 @@ fr:
     Libération                <br /><a
     href="http://www.populationmondiale.com/">voir le compteur en               
     temps réel de la population mondiale</a>  <p>&nbsp;</p>
-en: {}
+en:
+  title: >-
+    L'ONU a publié un rapport sur les perspectives de la population mondiale
+    d'ici 2300
+  body: ''

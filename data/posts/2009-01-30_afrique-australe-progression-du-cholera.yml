@@ -18,4 +18,6 @@ fr:
     src="/images/cartes/articles/afrique-australe-cholera-23janvier2009-petite.jpg"
     /></a>   <br />    </div> <div style="text-align: center;">   Cliquez sur la
     carte pour l'agrandir               <br type="_moz" />    </div>
-en: {}
+en:
+  title: 'Afrique australe : progression du choléra'
+  body: ''

@@ -27,4 +27,6 @@ fr:
     />          Voir la carte du monde de la peine de mort
     ci-dessous.            <br />  <br />            Source : Wikipédia,
     Amnistie Internationale      <br type="_moz" />
-en: {}
+en:
+  title: La peine de mort dans le monde
+  body: ''

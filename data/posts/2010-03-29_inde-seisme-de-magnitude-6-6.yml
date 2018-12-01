@@ -11,4 +11,6 @@ fr:
     ce séisme.<br /><br />On ignore pour le moment l'étendue des dégâts et s'il
     y a d'éventuelles victimes.<br /><br />[carte dans colonne centrale-&gt;]<br
     /><br />Source : USGS - Earthquake Hazards Program<br />
-en: {}
+en:
+  title: 'Inde : séisme de magnitude 6.6'
+  body: ''

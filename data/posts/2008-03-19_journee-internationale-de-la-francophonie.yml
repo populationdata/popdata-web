@@ -21,4 +21,6 @@ fr:
     <br />       </li>   </ul>   <br />                  Source : <a
     title="Organisation internationale de la Francophonie"
     href="http://www.francophonie.org/">OIF</a>   <br />    </div>
-en: {}
+en:
+  title: Journée internationale de la Francophonie
+  body: ''

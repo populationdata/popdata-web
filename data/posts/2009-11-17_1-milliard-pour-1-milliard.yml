@@ -22,4 +22,6 @@ fr:
     allowscriptaccess="always" allowfullscreen="true"
     type="application/x-shockwave-flash"
     src="http://www.youtube.com/v/6jSBW0BOPqM&amp;hl=fr_FR&amp;fs=1&amp;"></embed></object>
-en: {}
+en:
+  title: 1 milliard pour 1 milliard
+  body: ''

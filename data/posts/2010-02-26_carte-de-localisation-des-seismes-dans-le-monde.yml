@@ -8,4 +8,6 @@ fr:
     long des lignes de partage des plaques tectoniques.<!--more-->[voir carte
     dans colonne centrale-&gt;]<br /><br />Source : USGS - Earthquake Hazards
     Program<br />
-en: {}
+en:
+  title: Carte de localisation des séismes dans le monde
+  body: ''

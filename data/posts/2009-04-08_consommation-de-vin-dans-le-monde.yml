@@ -13,4 +13,6 @@ fr:
     src="/images/cartes/articles/monde-vin-consommation-petite.png" /></a>   <br
     />                  Cliquez sur la carte pour l'agrandir                 
     <br type="_moz" />    </div>
-en: {}
+en:
+  title: Consommation de vin dans le monde
+  body: ''

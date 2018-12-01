@@ -131,4 +131,6 @@ fr:
     background-color: rgb(192, 192, 192);"><strong class="spip"
     class="spip">29</strong></td>     </tr>   </tbody> </table> <br />      
     Source : Reporters sans frontières (RSF)       <br type="_moz" />
-en: {}
+en:
+  title: 'Reporters sans frontières : bilan 2008'
+  body: ''

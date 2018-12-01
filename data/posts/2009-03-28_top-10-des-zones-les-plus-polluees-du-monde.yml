@@ -11,4 +11,6 @@ fr:
     <br /> <small><a style="color: rgb(0, 0, 255); text-align: left;"
     href="http://maps.google.com/maps/ms?ie=UTF8&hl=en&msa=0&msid=116439556236617544865.0004396943678ac5ac505&t=k&om=1&source=embed&ll=17.308688,21.09375&spn=0.004917,0.006866&z=1"
     style="color: rgb(0, 0, 255); text-align: left;">View Larger Map</a></small>
-en: {}
+en:
+  title: Top 10 des zones les plus polluées du monde
+  body: ''

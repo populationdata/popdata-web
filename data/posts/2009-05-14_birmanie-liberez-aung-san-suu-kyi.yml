@@ -26,4 +26,6 @@ fr:
     estimé M. Ojea Quintana.</p>  <p>Chez PopulationData.net, nous exprimons
     notre vive préoccupation concernant la santé d'Aung San Suu Kyi et nous
     demandons sa libération immédiate !<br /></p>  <p>Source : ONU<br /></p>
-en: {}
+en:
+  title: 'Birmanie : libérez Aung San Suu Kyi !'
+  body: ''

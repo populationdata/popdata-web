@@ -6,4 +6,6 @@ fr:
     Petite mise à jour de la population des Etats. Sans surprise, le sud et
     l'ouest du pays progressent très rapidement, tandis que le nord-est
     industriel ne perd plus d'habitants, et en gagne un peu même.
-en: {}
+en:
+  title: 'Etats-Unis : mise à jour de la population'
+  body: ''

@@ -10,4 +10,6 @@ fr:
     nouvelle page (il sera visible d'ici quelques jours au plus tard).     <br
     />   Voici d'ailleurs le lien vers les anciennes archives, ainsi que celui
     vers les nouvelles, ci-dessous.  <br />
-en: {}
+en:
+  title: Modification des archives
+  body: ''

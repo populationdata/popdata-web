@@ -15,4 +15,6 @@ fr:
     border="0" align="middle"
     src="/images/cartes/articles/zimbabwe-cholera-3dec08-petite.jpg" /></a>  
     <br />         Cliquez sur la carte pour l'agrandir         <br />    </div>
-en: {}
+en:
+  title: 'Zimbabwe : carte de l''épidémie de choléra'
+  body: ''

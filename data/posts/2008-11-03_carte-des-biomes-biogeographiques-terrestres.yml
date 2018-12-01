@@ -19,4 +19,6 @@ fr:
     Cliquez sur la carte pour l'agrandir                           <br />   
     </div> <br />  <div style="text-align: left;">Source : WWF,
     Wikipédia                 <br type="_moz" />    </div>
-en: {}
+en:
+  title: Carte des biomes biogéographiques terrestres
+  body: ''

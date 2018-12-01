@@ -37,4 +37,8 @@ fr:
     utilisé. L'utilisation du bois au lieu du béton, du plastique et de l'acier
     contribue à réduire les émissions de gaz à effet de serre.       <br />  
     </p> <p>Source : FAO, ONU      <br />   </p>
-en: {}
+en:
+  title: >-
+    Les forêts jouent un rôle essentiel dans la lutte contre les changements
+    climatiques
+  body: ''

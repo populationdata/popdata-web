@@ -47,4 +47,6 @@ fr:
     href="/indexcarte.php?option=article&amp;origine=accueil&amp;aid=1106&amp;nom=Le-travail-dans-le-monde&amp;mid=3332&amp;nom=monde-oit-pauvrete-travail-2013">Voir
     carte</a><br /><br />Source : Organisation internationale du travail
     (OIT)<br />
-en: {}
+en:
+  title: Le travail dans le monde
+  body: ''

@@ -19,4 +19,6 @@ fr:
     src="/images/cartes/articles/arctique-antarctique-glaces-petite.gif"
     /></a>   <br />                                    Cliquez sur la carte pour
     l'agrandir                                    <br type="_moz" />    </div>
-en: {}
+en:
+  title: 'Arctique et Antarctique : superficie maximum et minimum de la banquise'
+  body: ''

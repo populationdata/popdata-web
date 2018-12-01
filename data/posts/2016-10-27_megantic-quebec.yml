@@ -3,4 +3,6 @@ date: 2016-10-27T17:28:16.000Z
 fr:
   title: 'Mégantic, Québec'
   body: "<p style=\"text-align: justify;\">Une magnifique vidéo de la région du mont Mégantic, dans le sud du Québec, au <a href=\"https://www.populationdata.net/pays/canada/\">Canada</a>. Où le ciel est tellement pure que l'on y observe les étoiles, mais aussi des <a href=\"http://auroresboreales.com/\">aurores boréales</a> et de magnifiques couchers de soleil, des paysages à couper le souffle, été comme hiver. À découvrir, pour le plaisir des yeux.</p>\r\n<iframe src=\"//www.dailymotion.com/embed/video/x4ze3fd\" width=\"800\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n<a href=\"http://www.dailymotion.com/video/x4ze3fd_megantic_travel\" target=\"_blank\">Mégantic</a>"
-en: {}
+en:
+  title: 'Mégantic, Québec'
+  body: ''

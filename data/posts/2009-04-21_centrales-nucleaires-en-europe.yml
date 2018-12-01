@@ -16,4 +16,6 @@ fr:
     src="/images/cartes/articles/europe-centrales-nucleaires-petite.gif"
     /></a>   <br />               Cliquez sur la carte pour
     l'agrandir               <br type="_moz" />    </div>
-en: {}
+en:
+  title: Centrales nucléaires en Europe
+  body: ''

@@ -14,4 +14,6 @@ fr:
     000 personnes touchées.<br />Les pays qui sont les plus touchés sont, dans
     l'ordre : Etats-Unis (7927), Mexique (4541), Canada (921 cas le 25 mai),
     Japon (360 cas le 26 mai).<br /><br />
-en: {}
+en:
+  title: 'Grippe A : 48 pays touchés'
+  body: ''

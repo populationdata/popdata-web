@@ -20,4 +20,6 @@ fr:
     </div>  <div><br />  </div>  <div>Nous publions la carte du monde de la
     prévalence du VIH -&gt; voir la carte dans la colonne centrale. </div> 
     <div><br />  </div>  <div>Source : ONUSIDA </div>
-en: {}
+en:
+  title: 'Sida : carte de la prévalence dans le monde en 2011'
+  body: ''

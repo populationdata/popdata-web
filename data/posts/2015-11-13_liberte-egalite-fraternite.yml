@@ -6,4 +6,6 @@ fr:
     <img width="480" height="485" title="Liberté, égalité, fraternité"
     alt="Liberté, égalité, fraternité"
     src="/images/articles/france-paris-novembre-2015.jpg" />
-en: {}
+en:
+  title: 'Liberté, égalité, fraternité'
+  body: ''

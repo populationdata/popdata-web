@@ -135,7 +135,7 @@ exports.createPages = ({ actions, graphql }) => {
       .concat(result.data.allMapsYaml.edges)
       .concat(result.data.allPostsYaml.edges)
     content.forEach(edge => {
-      if (edge.node.fields.slug) {
+      if (edge.node.fields && edge.node.fields.slug) {
         const component = path.resolve(
           `src/templates/${String(
             edge.node.internal.type.slice(0, edge.node.internal.type.length - 4)

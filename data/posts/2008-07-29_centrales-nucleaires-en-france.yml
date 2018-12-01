@@ -18,4 +18,6 @@ fr:
     src="/images/cartes/articles/france-centrales-nucleaires-petite.jpg"
     /></a>   <br />    </div> <div style="text-align: center;">Cliquez sur
     l'image pour agrandir                                 <br />    </div>
-en: {}
+en:
+  title: Centrales nucléaires en France
+  body: ''

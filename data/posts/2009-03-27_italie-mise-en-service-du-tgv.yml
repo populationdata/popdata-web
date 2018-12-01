@@ -14,4 +14,6 @@ fr:
     href="http://maps.google.ca/maps/ms?sourceid=navclient-ff&ie=UTF8&hl=fr&msa=0&msid=109238073513828912598.0004661c7e9683aea69e8&ll=43.149094,10.964355&spn=8.014558,10.546875&z=6&source=embed"
     style="color: rgb(0, 0, 255); text-align: left;">Agrandir le
     plan</a></small>
-en: {}
+en:
+  title: 'Italie : mise en service du TGV'
+  body: ''

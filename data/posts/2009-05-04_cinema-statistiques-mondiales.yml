@@ -48,4 +48,6 @@ fr:
     <li>Indonésie : 929</li>    <li>Brésil : 880</li>    <li>Afrique du Sud :
     815</li>    <li>Mexique : 802</li>    <li>République Tchèque : 701</li>   
     <li>Royaume-Uni : 697</li>  </ol><br />Source : UNESCO<br />
-en: {}
+en:
+  title: 'Cinéma : statistiques mondiales'
+  body: ''

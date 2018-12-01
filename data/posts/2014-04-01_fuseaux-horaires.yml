@@ -5,4 +5,6 @@ fr:
   body: >-
     Nous venons de mettre à jour la carte des fuseaux horaires dans le monde.
     Une carte très pratique pour tous ceux qui voyagent ;)
-en: {}
+en:
+  title: Fuseaux horaires
+  body: ''

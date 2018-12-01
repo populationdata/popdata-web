@@ -21,4 +21,6 @@ fr:
     la qualité de l'air et la santé humaine, le climat et les ressources
     naturelles.</p>  <p>[image satellite dans colonne centrale -&gt;]<br /></p> 
     <p>Source : Nasa<br /></p>
-en: {}
+en:
+  title: 'Image satellite : feux en Afrique de l''Ouest'
+  body: ''

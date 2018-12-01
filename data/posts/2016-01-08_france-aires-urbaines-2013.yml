@@ -3,4 +3,6 @@ date: 2016-01-09T00:00:00.000Z
 fr:
   title: 'France : aires urbaines 2013'
   body: "<p style=\"text-align: justify;\">L'Institut national de la statistique et des études économiques français (INSEE) vient de publier sa mise à jour annuelle de population (2013) pour l'ensemble des communes du pays. Nous avons donc mis à jour les aires urbaines. Les plus grandes d'entre elles continuent leur forte croissance, surtout dans l'ouest et le sud. Nantes passe la barre des 900 000 habitants, et Rennes celle des 700 000 habitants.</p>\r\n\r\n<ul>\r\n \t<li style=\"text-align: justify;\"><a href=\"https://www.populationdata.net/pays/france/\">Liste des aires urbaines françaises (bas de la fiche pays)</a></li>\r\n</ul>"
-en: {}
+en:
+  title: 'France : aires urbaines 2013'
+  body: ''

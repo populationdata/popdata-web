@@ -10,4 +10,6 @@ fr:
     href="/indexcarte.php?monde&amp;mid=3225&amp;nom=monde-aires-urbaines-2010"><img
     border="0" alt="" src="/images/articles/monde-urbanisation-2010-petite.png"
     /></a><br />
-en: {}
+en:
+  title: Carte des aires urbaines dans le monde
+  body: ''

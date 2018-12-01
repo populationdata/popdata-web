@@ -16,4 +16,6 @@ fr:
     du monde"
     href="/indexcarte.php?option=article&amp;origine=accueil&amp;aid=1127&amp;nom=Villes-du-bout-du-monde&amp;mid=3358&amp;nom=villes-bout-monde"><img
     border="0" alt="" src="/images/articles/villes-bout-monde.png" /></a><br />
-en: {}
+en:
+  title: Villes du bout du monde
+  body: ''

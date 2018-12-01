@@ -26,4 +26,6 @@ fr:
     le palmarès des pays les plus importants pollueurs. <br />  <br /> <img
     align="middle" src="/images/articles/monde-pays-pollueurs.gif" /> <br /> 
     <br />    Source : ONU, Le Monde
-en: {}
+en:
+  title: Les 15 plus gros pollueurs du monde
+  body: ''

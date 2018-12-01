@@ -51,4 +51,6 @@ fr:
     route               <br />      <br />               Source : site officiel
     des JO Pékin 2008               <br type="_moz" />   </span> <div
     class="f12list newsList">&nbsp;     </div> <br />
-en: {}
+en:
+  title: Sites olympiques Pékin 2008
+  body: ''

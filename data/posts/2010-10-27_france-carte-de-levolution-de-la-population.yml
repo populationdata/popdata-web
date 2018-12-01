@@ -13,4 +13,6 @@ fr:
     Rennes sont les principales zones à voir leur population augmenter très
     fortement.<br /><br />[carte dans colonne centrale-&gt;]<br /><br />Source :
     INSEE<br />
-en: {}
+en:
+  title: 'France : carte de l''évolution de la population'
+  body: ''

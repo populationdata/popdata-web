@@ -49,4 +49,6 @@ fr:
     Chaque équipe transportera le vaccin dans des porte-vaccins, rempli de 
     d'accumulateurs gelés pour assurer que le vaccin reste à la température 
     requise inférieure à 8 ºC. <br /></p>  <p>Source : UNICEF, OMS<br /></p>
-en: {}
+en:
+  title: Campagne de vaccination contre la polio dans 19 pays d'Afrique
+  body: ''

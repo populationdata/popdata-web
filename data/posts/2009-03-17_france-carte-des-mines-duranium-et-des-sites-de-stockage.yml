@@ -13,4 +13,6 @@ fr:
     src="/images/cartes/articles/france-uranium-mines-stockage-petite.gif"
     /></a>   <br />                  Cliquez sur la carte pour
     l'agrandir                  <br type="_moz" />    </div>
-en: {}
+en:
+  title: 'France : carte des mines d''uranium et des sites de stockage'
+  body: ''
