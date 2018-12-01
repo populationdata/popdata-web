@@ -5,7 +5,6 @@ import Layout from '../components/Layout'
 
 const IndexPage = ({ data }) => (
   <Layout>
-    <h1>Welcome to PopulationData.net</h1>
     <div>
       {data.allContinentsYaml.edges
         .map(x => x.node)

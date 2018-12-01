@@ -4,6 +4,12 @@ module.exports = {
     language: process.env.GATSBY_LANGUAGE,
   },
   plugins: [
+    {
+      resolve: `gatsby-plugin-google-fonts`,
+      options: {
+        fonts: [`Open Sans\:400,700`],
+      },
+    },
     `gatsby-plugin-sass`,
     `gatsby-plugin-react-helmet`,
     `gatsby-transformer-yaml`,
