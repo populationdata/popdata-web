@@ -1,4 +1,5 @@
 import React from 'react'
+import { Link } from 'gatsby'
 import { Container, Row, Col } from 'reactstrap'
 import HeaderMenu from './HeaderMenu'
 
@@ -14,15 +15,17 @@ const Header = ({ siteMetadata }) => {
   return (
     <header>
       <Container>
-        <Row>
+        <Row noGutters={true}>
           <Col>
-            <img
-              src={logo}
-              srcset={`${logo} 1x, ${logoRetina} 2x`}
-              alt={siteMetadata.title}
-            />
+            <Link to="/">
+              <img
+                className="img-fluid"
+                src={logo}
+                srcset={`${logo} 1x, ${logoRetina} 2x`}
+                alt={siteMetadata.title}
+              />
+            </Link>
           </Col>
-          <Col />
         </Row>
         <HeaderMenu />
       </Container>

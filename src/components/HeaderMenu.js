@@ -6,8 +6,8 @@ const HeaderMenu = () => {
   return (
     <Row
       {...css({
-        'border-bottom': '1px solid rgb(233, 233, 233)',
-        'border-top': '2px solid rgb(51,51,51)',
+        borderBottom: '1px solid rgb(233, 233, 233)',
+        borderTop: '2px solid rgb(51,51,51)',
         height: '46px',
       })}
     />
