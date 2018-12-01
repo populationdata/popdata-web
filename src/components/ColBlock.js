@@ -2,33 +2,32 @@ import React from 'react'
 import { css } from 'glamor'
 import PropTypes from 'prop-types'
 
-const ColBlock = ({ title, children }) => {
-  return (
-    <aside
+const ColBlock = ({ title, children }) => (
+  <aside
+    {...css({
+      marginBottom: '30px',
+    })}
+  >
+    <h3
       {...css({
-        marginBottom: '30px',
+        backgroundColor: '#f0f0f0',
+        fontSize: '12px',
       })}
     >
-      <h3
+      <span
         {...css({
-          backgroundColor: '#f0f0f0',
-          fontSize: '12px',
+          backgroundColor: '#fff',
+          fontWeight: 'bold',
+          paddingRight: '10px',
+          textTransform: 'uppercase',
         })}
       >
-        <span
-          {...css({
-            backgroundColor: '#fff',
-            fontWeight: 'bold',
-            paddingRight: '10px',
-          })}
-        >
-          {title.toLocaleUpperCase()}
-        </span>
-      </h3>
-      <div>{children}</div>
-    </aside>
-  )
-}
+        {title}
+      </span>
+    </h3>
+    <div>{children}</div>
+  </aside>
+)
 
 ColBlock.propTypes = {
   title: PropTypes.string.isRequired,

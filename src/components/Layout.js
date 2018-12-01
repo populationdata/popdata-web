@@ -38,6 +38,7 @@ const Layout = ({ children, col1, col2 }) => (
               {...css({
                 borderLeft: '1px solid rgb(233, 233, 233)',
               })}
+              className="d-none d-xl-block"
               xl="2"
             >
               {col1}

@@ -21,7 +21,7 @@ const Header = ({ siteMetadata }) => {
               <img
                 className="img-fluid"
                 src={logo}
-                srcset={`${logo} 1x, ${logoRetina} 2x`}
+                srcSet={`${logo} 1x, ${logoRetina} 2x`}
                 alt={siteMetadata.title}
               />
             </Link>
