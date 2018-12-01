@@ -1,6 +1,8 @@
 title: europe
-nameFr: Europe
-nameEn: Europe
 date: 2016-03-13T20:36:59.000Z
+fr:
+  name: Europe
+en:
+  name: Europe
 gdpYear: 2015
 numberOfTimeZones: 6

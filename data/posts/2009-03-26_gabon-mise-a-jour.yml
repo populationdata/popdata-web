@@ -1,12 +1,13 @@
 title: gabon-mise-a-jour
-nameFr: 'Gabon : mise à jour'
-nameEn: 'Gabon : mise à jour'
 date: 2009-03-27T00:00:00.000Z
-bodyFr: >-
-  Le Gabon est le pays des paradoxes en apparence : pays riche, avec le PIB par
-  habitant le plus élevé d'Afrique, il vit de ses rentes pétrolières. Pays
-  pauvre, avec plus de la moitié de sa population vivant sous le seuil de
-  pauvreté. Ce paradoxe s'explique par le maintien au pouvoir depuis 42 ans d'un
-  appareil dictatorial, sous le couvert d'une république faisant bonne figure,
-  et symbolisé par le despote le plus vieux du monde encore en place, Omar
-  Bongo. Un régime honteusement soutenu par la France.
+fr:
+  title: 'Gabon : mise à jour'
+  body: >-
+    Le Gabon est le pays des paradoxes en apparence : pays riche, avec le PIB
+    par habitant le plus élevé d'Afrique, il vit de ses rentes pétrolières. Pays
+    pauvre, avec plus de la moitié de sa population vivant sous le seuil de
+    pauvreté. Ce paradoxe s'explique par le maintien au pouvoir depuis 42 ans
+    d'un appareil dictatorial, sous le couvert d'une république faisant bonne
+    figure, et symbolisé par le despote le plus vieux du monde encore en place,
+    Omar Bongo. Un régime honteusement soutenu par la France.
+en: {}

@@ -1,13 +1,14 @@
 title: france-mise-a-jour
-nameFr: 'France : mise à jour'
-nameEn: 'France : mise à jour'
 date: 2009-01-14T00:00:00.000Z
-bodyFr: >-
-  L'Institut National de la Statistique et des tudes conomiques (INSEE) vient de
-  publier les résultats du dernier recensement effectué en France. Il couvre la
-  période 1999-2008, avec l'année de référence 2006. La mise à jour que nous
-  avons mise en ligne diffuse la population estimée au 1er janvier 2009 (le
-  bilan démographique 2008), soit 62 448 977 habitants pour la France
-  métropolitaine. Avec ses départements et territoires d'outre-mer, le pays
-  comptabilise pour la première fois de son histoire plus de 65.1 millions
-  d'habitants.
+fr:
+  title: 'France : mise à jour'
+  body: >-
+    L'Institut National de la Statistique et des tudes conomiques (INSEE) vient
+    de publier les résultats du dernier recensement effectué en France. Il
+    couvre la période 1999-2008, avec l'année de référence 2006. La mise à jour
+    que nous avons mise en ligne diffuse la population estimée au 1er janvier
+    2009 (le bilan démographique 2008), soit 62 448 977 habitants pour la France
+    métropolitaine. Avec ses départements et territoires d'outre-mer, le pays
+    comptabilise pour la première fois de son histoire plus de 65.1 millions
+    d'habitants.
+en: {}

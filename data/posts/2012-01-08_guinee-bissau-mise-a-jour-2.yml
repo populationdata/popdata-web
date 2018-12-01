@@ -1,11 +1,12 @@
 title: guinee-bissau-mise-a-jour-2
-nameFr: 'Guinée-Bissau : mise à jour'
-nameEn: 'Guinée-Bissau : mise à jour'
 date: 2012-01-09T00:00:00.000Z
-bodyFr: >-
-  Le président de la Guinée-Bissau, Malam Bacai Sanhá, est mort à Paris
-  aujourd'hui lundi 9 janvier. Petit pays très pauvre d'Afrique de l'Ouest, il
-  est au centre du trafic de drogue entre la Colombie et l'Europe et est
-  régulièrement le théâtre de coups d'Etat ou tentatives de coup d'Etat,
-  orchestrés par les millitaires afin de prendre une part de ce triste "gâteau"
-  qu'est l'argent de la drogue.
+fr:
+  title: 'Guinée-Bissau : mise à jour'
+  body: >-
+    Le président de la Guinée-Bissau, Malam Bacai Sanhá, est mort à Paris
+    aujourd'hui lundi 9 janvier. Petit pays très pauvre d'Afrique de l'Ouest, il
+    est au centre du trafic de drogue entre la Colombie et l'Europe et est
+    régulièrement le théâtre de coups d'Etat ou tentatives de coup d'Etat,
+    orchestrés par les millitaires afin de prendre une part de ce triste
+    "gâteau" qu'est l'argent de la drogue.
+en: {}

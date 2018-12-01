@@ -1,12 +1,13 @@
 title: felipe-vi-devient-roi-despagne
-nameFr: Felipe VI devient roi d'Espagne
-nameEn: Felipe VI devient roi d'Espagne
 date: 2014-06-19T00:00:00.000Z
-bodyFr: >-
-  Felipe VI a été proclamé roi d'Espagne jeudi 19 juin, succédant à son père
-  Juan Carlos I<sup>er</sup> qui a abdiqué. Ce dernier avait été désigné par le
-  dictateur Franco comme son successeur. Il hérite d'une monarchie contestée par
-  un Espagnol sur deux, en faveur de l'instauration d'une république. Et d'un
-  pays en crise profonde, miné par un taux de chômage extrêmement élevé et aux
-  prises avec des séparatismes dans plusieurs régions, notamment au Pays basque
-  et en Catalogne.
+fr:
+  title: Felipe VI devient roi d'Espagne
+  body: >-
+    Felipe VI a été proclamé roi d'Espagne jeudi 19 juin, succédant à son père
+    Juan Carlos I<sup>er</sup> qui a abdiqué. Ce dernier avait été désigné par
+    le dictateur Franco comme son successeur. Il hérite d'une monarchie
+    contestée par un Espagnol sur deux, en faveur de l'instauration d'une
+    république. Et d'un pays en crise profonde, miné par un taux de chômage
+    extrêmement élevé et aux prises avec des séparatismes dans plusieurs
+    régions, notamment au Pays basque et en Catalogne.
+en: {}

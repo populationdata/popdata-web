@@ -1,9 +1,10 @@
 title: journee-mondiale-de-lenfance
-nameFr: Journée mondiale de l'enfance
-nameEn: Journée mondiale de l'enfance
 date: 2014-11-20T00:00:00.000Z
-bodyFr: >-
-  Aujourd'hui 20 novembre le monde entier fête la Journée mondiale de l'enfance.
-  C'est la date anniversaire de la signature de la Convention internationale des
-  droits de l'enfant le 20 novembre 1989 par 191 pays. Parce que nous avons tous
-  été un jour des enfants.
+fr:
+  title: Journée mondiale de l'enfance
+  body: >-
+    Aujourd'hui 20 novembre le monde entier fête la Journée mondiale de
+    l'enfance. C'est la date anniversaire de la signature de la Convention
+    internationale des droits de l'enfant le 20 novembre 1989 par 191 pays.
+    Parce que nous avons tous été un jour des enfants.
+en: {}

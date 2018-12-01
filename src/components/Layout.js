@@ -12,6 +12,7 @@ const Layout = ({ children }) => (
         site {
           siteMetadata {
             title
+            language
           }
         }
       }
@@ -19,7 +20,7 @@ const Layout = ({ children }) => (
     render={data => (
       <>
         <Helmet title={data.site.siteMetadata.title}>
-          <html lang={process.env.GATSBY_LANGUAGE} />
+          <html lang={data.site.siteMetadata.language} />
         </Helmet>
         <div
           style={{

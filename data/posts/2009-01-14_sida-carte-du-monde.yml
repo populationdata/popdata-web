@@ -1,18 +1,19 @@
 title: sida-carte-du-monde
-nameFr: 'Sida : carte du monde'
-nameEn: 'Sida : carte du monde'
 date: 2009-01-15T00:00:00.000Z
-bodyFr: >-
-  Le syndrome de l'immunodéficience acquise, plus connu sous son acronyme sida,
-  est le nom d'un ensemble de symptômes consécutifs à la destruction de
-  plusieurs cellules du système immunitaire par un rétrovirus, du nom de VIH
-  pour les humains. Le sida est le dernier stade de l'infection par ce virus et
-  finit par la mort de l'organisme infecté des suites de maladies opportunistes.
-  En 2008, il a tué 2 millions de personnes dans le monde. <br /><!--more--><div
-  style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1879&aid=314&nom=monde-sida"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/monde-sida-prevalence-2008-petite.jpg" /></a>  
-  <br />                     Cliquez sur la carte pour
-  l'agrandir                     <br />    </div> <br />       Source :
-  Wikipédia       <br type="_moz" />
+fr:
+  title: 'Sida : carte du monde'
+  body: >-
+    Le syndrome de l'immunodéficience acquise, plus connu sous son acronyme
+    sida, est le nom d'un ensemble de symptômes consécutifs à la destruction de
+    plusieurs cellules du système immunitaire par un rétrovirus, du nom de VIH
+    pour les humains. Le sida est le dernier stade de l'infection par ce virus
+    et finit par la mort de l'organisme infecté des suites de maladies
+    opportunistes. En 2008, il a tué 2 millions de personnes dans le monde. <br
+    /><!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1879&aid=314&nom=monde-sida"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/monde-sida-prevalence-2008-petite.jpg" /></a>  
+    <br />                     Cliquez sur la carte pour
+    l'agrandir                     <br />    </div> <br />       Source :
+    Wikipédia       <br type="_moz" />
+en: {}

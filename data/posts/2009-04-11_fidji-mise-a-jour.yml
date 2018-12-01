@@ -1,9 +1,10 @@
 title: fidji-mise-a-jour
-nameFr: 'Fidji : mise à jour'
-nameEn: 'Fidji : mise à jour'
 date: 2009-04-12T00:00:00.000Z
-bodyFr: >-
-  Paradis du Pacifique sud doté de nombreuses ressources, les Fidji sont
-  pourtant victimes de l'intolérance politique et ethnique entre les fidjiens
-  d'origine et les immigrés, très nombreux. Une situation géopolitique qui
-  risque de freiner le développement de l'archipel, et notamment du tourisme.
+fr:
+  title: 'Fidji : mise à jour'
+  body: >-
+    Paradis du Pacifique sud doté de nombreuses ressources, les Fidji sont
+    pourtant victimes de l'intolérance politique et ethnique entre les fidjiens
+    d'origine et les immigrés, très nombreux. Une situation géopolitique qui
+    risque de freiner le développement de l'archipel, et notamment du tourisme.
+en: {}

@@ -1,11 +1,12 @@
 title: jordanie-mise-a-jour
-nameFr: 'Jordanie : mise à jour'
-nameEn: 'Jordanie : mise à jour'
 date: 2009-11-16T00:00:00.000Z
-bodyFr: >-
-  Moins affectée par la crise économique que certains de ses voisins, la
-  Jordanie continue à se moderniser, du moins en terme d'infrastructures. La
-  situation des femmes et les droits humains en général en font toujours un pays
-  sous-développé, même si, encore une fois, il reste plus évolué que ses
-  voisins. Ce fort développement économique s'accompagnera-t-il d'un
-  développement humain sur le long terme ?
+fr:
+  title: 'Jordanie : mise à jour'
+  body: >-
+    Moins affectée par la crise économique que certains de ses voisins, la
+    Jordanie continue à se moderniser, du moins en terme d'infrastructures. La
+    situation des femmes et les droits humains en général en font toujours un
+    pays sous-développé, même si, encore une fois, il reste plus évolué que ses
+    voisins. Ce fort développement économique s'accompagnera-t-il d'un
+    développement humain sur le long terme ?
+en: {}

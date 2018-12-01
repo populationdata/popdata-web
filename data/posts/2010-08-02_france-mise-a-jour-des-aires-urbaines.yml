@@ -1,13 +1,14 @@
 title: france-mise-a-jour-des-aires-urbaines
-nameFr: 'France : mise à jour des aires urbaines'
-nameEn: 'France : mise à jour des aires urbaines'
 date: 2010-08-03T00:00:00.000Z
-bodyFr: >-
-  Nous venons de faire une mise à jour des populations des 30 premières aires
-  urbaines françaises. Peu de changement dans le classement, mais une baisse de
-  la croissance pour la ville championne Montpellier, et une hausse pour
-  Toulouse et Paris. Toulouse, Montpellier et Rennes forment le trio de tête de
-  la croissance annuelle des grandes villes françaises entre 1999 et
-  2007.<!--more-->Liste des aires urbaines françaises à voir sur la <a
-  href="/index2.php?option=pays&amp;pid=68&amp;nom=france">fiche pays
-  France</a>.<br />
+fr:
+  title: 'France : mise à jour des aires urbaines'
+  body: >-
+    Nous venons de faire une mise à jour des populations des 30 premières aires
+    urbaines françaises. Peu de changement dans le classement, mais une baisse
+    de la croissance pour la ville championne Montpellier, et une hausse pour
+    Toulouse et Paris. Toulouse, Montpellier et Rennes forment le trio de tête
+    de la croissance annuelle des grandes villes françaises entre 1999 et
+    2007.<!--more-->Liste des aires urbaines françaises à voir sur la <a
+    href="/index2.php?option=pays&amp;pid=68&amp;nom=france">fiche pays
+    France</a>.<br />
+en: {}

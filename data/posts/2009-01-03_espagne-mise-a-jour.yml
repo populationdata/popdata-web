@@ -1,11 +1,12 @@
 title: espagne-mise-a-jour
-nameFr: 'Espagne : mise à jour'
-nameEn: 'Espagne : mise à jour'
 date: 2009-01-04T00:00:00.000Z
-bodyFr: >-
-  L'Espagne connaît actuellement une phase de très forte croissance
-  démographique, avec plus de 46 millions d'habitants actuellement. Après deux
-  décennies de baisse, le pays est reparti à la hausse, principalement grâce à
-  l'immigration. Celle-ci, avec des régularisations massives ces dernières
-  années, pourrait toutefois baisser avec les nouvelles politiques de
-  restriction prévues par les autorités.     <br />
+fr:
+  title: 'Espagne : mise à jour'
+  body: >-
+    L'Espagne connaît actuellement une phase de très forte croissance
+    démographique, avec plus de 46 millions d'habitants actuellement. Après deux
+    décennies de baisse, le pays est reparti à la hausse, principalement grâce à
+    l'immigration. Celle-ci, avec des régularisations massives ces dernières
+    années, pourrait toutefois baisser avec les nouvelles politiques de
+    restriction prévues par les autorités.     <br />
+en: {}

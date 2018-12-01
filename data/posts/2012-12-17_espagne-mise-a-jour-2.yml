@@ -1,9 +1,10 @@
 title: espagne-mise-a-jour-2
-nameFr: 'Espagne : mise à jour'
-nameEn: 'Espagne : mise à jour'
 date: 2012-12-18T00:00:00.000Z
-bodyFr: >-
-  <span class="userContent">L'INE a publié les statistiques de population de
-  l'Espagne pour 2011. La population a augmenté de +14,6% en 10 ans, ce qui est
-  très important au regard du déclin démographique du pays lors des précdentes
-  décennies.</span>
+fr:
+  title: 'Espagne : mise à jour'
+  body: >-
+    <span class="userContent">L'INE a publié les statistiques de population de
+    l'Espagne pour 2011. La population a augmenté de +14,6% en 10 ans, ce qui
+    est très important au regard du déclin démographique du pays lors des
+    précdentes décennies.</span>
+en: {}

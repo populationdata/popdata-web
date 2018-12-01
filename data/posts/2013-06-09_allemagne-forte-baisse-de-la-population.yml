@@ -1,10 +1,11 @@
 title: allemagne-forte-baisse-de-la-population
-nameFr: 'Allemagne : forte baisse de la population'
-nameEn: 'Allemagne : forte baisse de la population'
 date: 2013-06-10T00:00:00.000Z
-bodyFr: >-
-  L'institut statistiques allemand Destatis a publié une mise à jour de ses
-  estimations de population du pays. Fortement revue à la baisse, celle-ci n'est
-  désormais plus que de 80,3 millions d'habitants, soit 1,6 million de moins
-  qu'estimé auparavant. Une baisse qui s'explique par le manque de recensement
-  depuis plus de deux décennies.
+fr:
+  title: 'Allemagne : forte baisse de la population'
+  body: >-
+    L'institut statistiques allemand Destatis a publié une mise à jour de ses
+    estimations de population du pays. Fortement revue à la baisse, celle-ci
+    n'est désormais plus que de 80,3 millions d'habitants, soit 1,6 million de
+    moins qu'estimé auparavant. Une baisse qui s'explique par le manque de
+    recensement depuis plus de deux décennies.
+en: {}

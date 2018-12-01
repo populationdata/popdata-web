@@ -1,5 +1,7 @@
 title: asie-de-louest
-nameFr: Asie de l'Ouest
-nameEn: Western Asia
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Asie de l'Ouest
+en:
+  name: Western Asia
 continent: asie

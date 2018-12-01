@@ -1,11 +1,12 @@
 title: bulgarie-mise-a-jour
-nameFr: 'Bulgarie : mise à jour'
-nameEn: 'Bulgarie : mise à jour'
 date: 2009-10-20T00:00:00.000Z
-bodyFr: >-
-  Après plusieurs années de forte croissance économique grâce notamment à son
-  adhésion à l'Union européenne, la Bulgarie se trouve confrontée actuellement à
-  la crise mondiale. Pays ayant l'une des plus vieilles populations au monde,
-  avec un quart des habitants qui ont plus de 60 ans, et une très forte
-  émigration des jeunes, il va être difficile de combler tous les emplois lors
-  de la reprise économique prévue pour 2010.
+fr:
+  title: 'Bulgarie : mise à jour'
+  body: >-
+    Après plusieurs années de forte croissance économique grâce notamment à son
+    adhésion à l'Union européenne, la Bulgarie se trouve confrontée actuellement
+    à la crise mondiale. Pays ayant l'une des plus vieilles populations au
+    monde, avec un quart des habitants qui ont plus de 60 ans, et une très forte
+    émigration des jeunes, il va être difficile de combler tous les emplois lors
+    de la reprise économique prévue pour 2010.
+en: {}

@@ -1,5 +1,6 @@
 title: baleines-dauphins-nagent-ensemble
-nameFr: Baleines et dauphins nagent ensemble
-nameEn: Baleines et dauphins nagent ensemble
 date: 2016-08-23T22:50:43.000Z
-bodyFr: "Quand une baleine et un dauphin nagent ensemble avec leur petit, c'est la beauté de la nature qui se révèle. Juste pour la beauté des yeux.\r\n\r\n<iframe src=\"https://www.youtube.com/embed/0ClXj8AlbDs\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n<ul>\r\n \t<li><a href=\"http://www.lesbaleines.net/\">En apprendre plus sur les baleines</a></li>\r\n</ul>"
+fr:
+  title: Baleines et dauphins nagent ensemble
+  body: "Quand une baleine et un dauphin nagent ensemble avec leur petit, c'est la beauté de la nature qui se révèle. Juste pour la beauté des yeux.\r\n\r\n<iframe src=\"https://www.youtube.com/embed/0ClXj8AlbDs\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n<ul>\r\n \t<li><a href=\"http://www.lesbaleines.net/\">En apprendre plus sur les baleines</a></li>\r\n</ul>"
+en: {}

@@ -1,5 +1,7 @@
 title: asie-du-sud-est
-nameFr: Asie du Sud-Est
-nameEn: Southeast Asia
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Asie du Sud-Est
+en:
+  name: Southeast Asia
 continent: asie

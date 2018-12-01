@@ -1,10 +1,11 @@
 title: villes-du-bout-du-monde-serie-thule
-nameFr: 'Villes du bout du monde (série) : Thulé'
-nameEn: 'Villes du bout du monde (série) : Thulé'
 date: 2008-05-06T00:00:00.000Z
-bodyFr: >-
-  Thulé est le nom d'une base aérienne militaire de l'OTAN, située dans le
-  nord-ouest du Groenland. Elle a été créée en pleine deuxième guerre mondiale,
-  et les populations inuits qui vivaient à cet endroit ont été déplacées de
-  force à environ 150 km au nord, à Qaanaaq, à partir de 1953.    <br
-  /><!--more-->Source : Wikipédia    <br />
+fr:
+  title: 'Villes du bout du monde (série) : Thulé'
+  body: >-
+    Thulé est le nom d'une base aérienne militaire de l'OTAN, située dans le
+    nord-ouest du Groenland. Elle a été créée en pleine deuxième guerre
+    mondiale, et les populations inuits qui vivaient à cet endroit ont été
+    déplacées de force à environ 150 km au nord, à Qaanaaq, à partir de 1953.   
+    <br /><!--more-->Source : Wikipédia    <br />
+en: {}

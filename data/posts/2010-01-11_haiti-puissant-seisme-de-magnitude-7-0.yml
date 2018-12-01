@@ -1,12 +1,13 @@
 title: haiti-puissant-seisme-de-magnitude-7-0
-nameFr: 'Haïti : puissant séisme de magnitude 7.0'
-nameEn: 'Haïti : puissant séisme de magnitude 7.0'
 date: 2010-01-12T00:00:00.000Z
-bodyFr: >-
-  Un puissant séisme s'est produit à 16h53 le 12 janvier dans la région de la
-  capitale haïtienne Port-au-Prince. De magnitude 7.0, il a fait de nombreux
-  dégâts, des bâtiments se sont notamment effondrés. On ne connaît pas encore
-  l'ampleur de ces dégâts ainsi que le nombre d'éventuelles
-  victimes.<!--more-->Une alerte au tsunami a été lancée dans toute la région
-  des Antilles, mais la menace d'un tsunami dévastateur est écartée.<br /><br
-  />[carte dans colonne centrale-&gt;]<br />
+fr:
+  title: 'Haïti : puissant séisme de magnitude 7.0'
+  body: >-
+    Un puissant séisme s'est produit à 16h53 le 12 janvier dans la région de la
+    capitale haïtienne Port-au-Prince. De magnitude 7.0, il a fait de nombreux
+    dégâts, des bâtiments se sont notamment effondrés. On ne connaît pas encore
+    l'ampleur de ces dégâts ainsi que le nombre d'éventuelles
+    victimes.<!--more-->Une alerte au tsunami a été lancée dans toute la région
+    des Antilles, mais la menace d'un tsunami dévastateur est écartée.<br /><br
+    />[carte dans colonne centrale-&gt;]<br />
+en: {}

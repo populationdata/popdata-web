@@ -1,9 +1,10 @@
 title: birmanie-mise-a-jour
-nameFr: 'Birmanie : mise à jour'
-nameEn: 'Birmanie : mise à jour'
 date: 2011-02-04T00:00:00.000Z
-bodyFr: >-
-  La Birmanie vient tout juste de changer de président. La junte militaire
-  sanglante au pouvoir a nommé le général Thein Sein, 65 ans et ancien Premier
-  ministre, en remplacement du général Than Shwe, 77 ans. Ce dernier, toujours
-  très puissant et influent, devrait rester proche du pouvoir.
+fr:
+  title: 'Birmanie : mise à jour'
+  body: >-
+    La Birmanie vient tout juste de changer de président. La junte militaire
+    sanglante au pouvoir a nommé le général Thein Sein, 65 ans et ancien Premier
+    ministre, en remplacement du général Than Shwe, 77 ans. Ce dernier, toujours
+    très puissant et influent, devrait rester proche du pouvoir.
+en: {}

@@ -1,9 +1,10 @@
 title: france-mise-a-jour-des-aires-urbaines-5
-nameFr: 'France : mise à jour des aires urbaines'
-nameEn: 'France : mise à jour des aires urbaines'
 date: 2013-07-31T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des populations des aires urbaines françaises, avec les
-  chiffres de 2010 publiés par l'Insee. Où l'on apprend que Rennes entre dans le
-  top 10 et détrône ainsi Grenoble. Et les villes de l'ouest et du sud, ainsi
-  que Paris, continuent leur course effrénée à la croissance.
+fr:
+  title: 'France : mise à jour des aires urbaines'
+  body: >-
+    Petite mise à jour des populations des aires urbaines françaises, avec les
+    chiffres de 2010 publiés par l'Insee. Où l'on apprend que Rennes entre dans
+    le top 10 et détrône ainsi Grenoble. Et les villes de l'ouest et du sud,
+    ainsi que Paris, continuent leur course effrénée à la croissance.
+en: {}

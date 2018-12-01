@@ -1,9 +1,11 @@
 title: mexique-mise-a-jour-4
-nameFr: 'Mexique : mise à jour'
-nameEn: 'Mexique : mise à jour'
 date: 2014-11-12T00:00:00.000Z
-bodyFr: >-
-  Mise à jour des chiffres de la fiche Mexique. La croissance de Mexico est
-  fortement ralentie depuis quelques années. L'aire urbaine continue de croître,
-  mais à un rythme plus en adéquation avec les capacités d'absorption de la
-  population et le développement des services indispensables à son bien-être.
+fr:
+  title: 'Mexique : mise à jour'
+  body: >-
+    Mise à jour des chiffres de la fiche Mexique. La croissance de Mexico est
+    fortement ralentie depuis quelques années. L'aire urbaine continue de
+    croître, mais à un rythme plus en adéquation avec les capacités d'absorption
+    de la population et le développement des services indispensables à son
+    bien-être.
+en: {}

@@ -1,11 +1,12 @@
 title: mozambique-mise-a-jour
-nameFr: 'Mozambique : mise à jour'
-nameEn: 'Mozambique : mise à jour'
 date: 2009-05-11T00:00:00.000Z
-bodyFr: >-
-  Pays très pauvre, le Mozambique tente de suivre la voie du développement.
-  Depuis quelques années, la stabilisation politique et la croissance économique
-  sont au rendez-vous. Les ressources naturelles du pays peuvent l'aider à
-  continuer à se développer, mais les catastrophes climatiques qui s'abattent
-  sur le Mozambique régulièrement sont un défi majeur auquel les autorités ont
-  de grandes difficultés à faire face.
+fr:
+  title: 'Mozambique : mise à jour'
+  body: >-
+    Pays très pauvre, le Mozambique tente de suivre la voie du développement.
+    Depuis quelques années, la stabilisation politique et la croissance
+    économique sont au rendez-vous. Les ressources naturelles du pays peuvent
+    l'aider à continuer à se développer, mais les catastrophes climatiques qui
+    s'abattent sur le Mozambique régulièrement sont un défi majeur auquel les
+    autorités ont de grandes difficultés à faire face.
+en: {}

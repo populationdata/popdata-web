@@ -1,11 +1,13 @@
 title: tadjikistan-mise-a-jour-2
-nameFr: 'Tadjikistan : mise à jour'
-nameEn: 'Tadjikistan : mise à jour'
 date: 2015-09-01T00:00:00.000Z
-bodyFr: >-
-  Petit pays coincé entre les montagnes et les grandes puissances que sont la
-  Chine et la Russie, situé sur la route de la drogue en provenance de
-  l'Afghanistan, victime d'une corruption endémique et à la merci d'un dictateur
-  se moquant des droits humains, le Tadjikistan voit sa population augmenter
-  très fortement chaque année. Mais le partage des richesses, faibles, du
-  territoire, est trop inégal pour espérer voir sa population s'épanouir.
+fr:
+  title: 'Tadjikistan : mise à jour'
+  body: >-
+    Petit pays coincé entre les montagnes et les grandes puissances que sont la
+    Chine et la Russie, situé sur la route de la drogue en provenance de
+    l'Afghanistan, victime d'une corruption endémique et à la merci d'un
+    dictateur se moquant des droits humains, le Tadjikistan voit sa population
+    augmenter très fortement chaque année. Mais le partage des richesses,
+    faibles, du territoire, est trop inégal pour espérer voir sa population
+    s'épanouir.
+en: {}

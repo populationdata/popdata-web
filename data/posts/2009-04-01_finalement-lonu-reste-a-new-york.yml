@@ -1,7 +1,8 @@
 title: finalement-lonu-reste-a-new-york
-nameFr: 'Finalement, l''ONU reste à New York'
-nameEn: 'Finalement, l''ONU reste à New York'
 date: 2009-04-02T00:00:00.000Z
-bodyFr: >-
-  Nombre d'entre vous sont tombés dans le panneau ! Non, finalement, l'ONU reste
-  à New York ;-) Poisson d'avril...
+fr:
+  title: 'Finalement, l''ONU reste à New York'
+  body: >-
+    Nombre d'entre vous sont tombés dans le panneau ! Non, finalement, l'ONU
+    reste à New York ;-) Poisson d'avril...
+en: {}

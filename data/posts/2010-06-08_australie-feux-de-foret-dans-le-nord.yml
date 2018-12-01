@@ -1,11 +1,12 @@
 title: australie-feux-de-foret-dans-le-nord
-nameFr: 'Australie : feux de forêt dans le nord'
-nameEn: 'Australie : feux de forêt dans le nord'
 date: 2010-06-09T00:00:00.000Z
-bodyFr: >-
-  Le nord de l'Australie est actuellement la proie d'importants feux de forêt.
-  L'image satellite que nous vous présentons date du 5 juin 2010, au moment où
-  le satellite Aqua de la Nasa passait au-dessus de la région. La capitale du
-  Territoire du Nord, Darwin, est en pleine trajectoire des épaisses fumées qui
-  se dégagent du principal feu de la région.<!--more-->[image satellite dans
-  colonne centrale-&gt;]<br /><br />Source : Nasa Earth Observatory<br />
+fr:
+  title: 'Australie : feux de forêt dans le nord'
+  body: >-
+    Le nord de l'Australie est actuellement la proie d'importants feux de forêt.
+    L'image satellite que nous vous présentons date du 5 juin 2010, au moment où
+    le satellite Aqua de la Nasa passait au-dessus de la région. La capitale du
+    Territoire du Nord, Darwin, est en pleine trajectoire des épaisses fumées
+    qui se dégagent du principal feu de la région.<!--more-->[image satellite
+    dans colonne centrale-&gt;]<br /><br />Source : Nasa Earth Observatory<br />
+en: {}

@@ -1,10 +1,12 @@
 title: palaos-mise-a-jour
-nameFr: 'Palaos : mise à jour'
-nameEn: 'Palaos : mise à jour'
 date: 2010-02-19T00:00:00.000Z
-bodyFr: >-
-  Indépendant depuis seulement 1994, le pays vit grâce au tourisme en provenance
-  principalement des pays de la région Asie-Pacifique. Ses infrastructures en
-  bon état lui permettent d'afficher une bonne santé par rapport à certains de
-  ses voisins. Mais l'élévation du niveau des océans fait craindre une futur
-  crise environnementale comme économique pour ce petit pays, qui reste fragile.
+fr:
+  title: 'Palaos : mise à jour'
+  body: >-
+    Indépendant depuis seulement 1994, le pays vit grâce au tourisme en
+    provenance principalement des pays de la région Asie-Pacifique. Ses
+    infrastructures en bon état lui permettent d'afficher une bonne santé par
+    rapport à certains de ses voisins. Mais l'élévation du niveau des océans
+    fait craindre une futur crise environnementale comme économique pour ce
+    petit pays, qui reste fragile.
+en: {}

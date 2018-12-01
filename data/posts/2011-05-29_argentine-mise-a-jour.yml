@@ -1,11 +1,12 @@
 title: argentine-mise-a-jour
-nameFr: 'Argentine : mise à jour'
-nameEn: 'Argentine : mise à jour'
 date: 2011-05-30T00:00:00.000Z
-bodyFr: >-
-  Après un gros passage à vide catastrophique pour les couches les plus pauvres,
-  le pays a renoué avec une forte croissance économique. Celle-ci n'a pas permis
-  à l'Argentine de retrouver entièrement sa prospérité, mais elle en prend le
-  chemin. Avec encore 25% de la population vivant sous le seuil de pauvreté, et
-  malgré ses formidables richesses, elle reste toujours à la traîne, et à la
-  merci des éventuelles crises futures.<!--more-->
+fr:
+  title: 'Argentine : mise à jour'
+  body: >-
+    Après un gros passage à vide catastrophique pour les couches les plus
+    pauvres, le pays a renoué avec une forte croissance économique. Celle-ci n'a
+    pas permis à l'Argentine de retrouver entièrement sa prospérité, mais elle
+    en prend le chemin. Avec encore 25% de la population vivant sous le seuil de
+    pauvreté, et malgré ses formidables richesses, elle reste toujours à la
+    traîne, et à la merci des éventuelles crises futures.<!--more-->
+en: {}

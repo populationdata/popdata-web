@@ -1,7 +1,8 @@
 title: bresil-mise-a-jour-2
-nameFr: 'Brésil : mise à jour'
-nameEn: 'Brésil : mise à jour'
 date: 2013-03-26T00:00:00.000Z
-bodyFr: >-
-  Une petite mise à jour des chiffres du Brésil, avec notamment les résultats
-  des estimations de population du pays et des Etats.
+fr:
+  title: 'Brésil : mise à jour'
+  body: >-
+    Une petite mise à jour des chiffres du Brésil, avec notamment les résultats
+    des estimations de population du pays et des Etats.
+en: {}

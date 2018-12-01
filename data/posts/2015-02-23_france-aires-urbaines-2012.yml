@@ -1,10 +1,11 @@
 title: france-aires-urbaines-2012
-nameFr: 'France : Aires urbaines 2012'
-nameEn: 'France : Aires urbaines 2012'
 date: 2015-02-24T00:00:00.000Z
-bodyFr: >-
-  L'Insee vient de publier la mise à jour des populations des 50 premières aires
-  urbaines de France. Entre 2007 et 2012, la croissance continue de se
-  concentrer dans les grandes aires urbaines de l'ouest et du sud. En tête,
-  Rennes, Toulouse et Montpellier. Le littoral atlantique, le grand sud et la
-  région de Lyon-Grenoble-Genève attirent toujours plus.
+fr:
+  title: 'France : Aires urbaines 2012'
+  body: >-
+    L'Insee vient de publier la mise à jour des populations des 50 premières
+    aires urbaines de France. Entre 2007 et 2012, la croissance continue de se
+    concentrer dans les grandes aires urbaines de l'ouest et du sud. En tête,
+    Rennes, Toulouse et Montpellier. Le littoral atlantique, le grand sud et la
+    région de Lyon-Grenoble-Genève attirent toujours plus.
+en: {}

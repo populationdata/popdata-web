@@ -1,11 +1,12 @@
 title: egypte-mise-a-jour
-nameFr: 'Egypte : mise à jour'
-nameEn: 'Egypte : mise à jour'
 date: 2011-01-31T00:00:00.000Z
-bodyFr: >-
-  La situation en Egypte reste confuse. Le pouvoir dictatorial s'attache à
-  rester en place le plus longtemps possible, en se reposant sur l'armée et la
-  corruption des élites. Mais de nombreux Egyptiens occupent depuis quelques
-  jours les rues du Caire et des grandes villes, faisant face à la violence
-  policière. Une révolte qui pourrait bien se transformer en révolution, à
-  l'instar de ce qui s'est passé en Tunisie.
+fr:
+  title: 'Egypte : mise à jour'
+  body: >-
+    La situation en Egypte reste confuse. Le pouvoir dictatorial s'attache à
+    rester en place le plus longtemps possible, en se reposant sur l'armée et la
+    corruption des élites. Mais de nombreux Egyptiens occupent depuis quelques
+    jours les rues du Caire et des grandes villes, faisant face à la violence
+    policière. Une révolte qui pourrait bien se transformer en révolution, à
+    l'instar de ce qui s'est passé en Tunisie.
+en: {}

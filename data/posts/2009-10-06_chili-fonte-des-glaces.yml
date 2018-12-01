@@ -1,14 +1,15 @@
 title: chili-fonte-des-glaces
-nameFr: 'Chili : fonte des glaces'
-nameEn: 'Chili : fonte des glaces'
 date: 2009-10-07T00:00:00.000Z
-bodyFr: >-
-  Le sud du Chili et de l'Argentine abrite un ensemble impressionnant de
-  glaciers au sein de la chaîne des Andes. Sur le versant occidental, les
-  glaciers rejettent des icebergs de taille parfois importante dans le
-  Pacifique, comme on peut le voir sur cette image satellite.<!--more-->Le
-  glacier se fracture en morceaux dont la taille peut atteindre 2 km de large,
-  comme au centre de cette image satellite, prise par un spationaute depuis la
-  station spatiale internationale.<br />Les icebergs vont ensuite parcourir le
-  sud du Pacifique avant de fondre dans l'océan.<br /><br />[voir carte
-  satellite dans colonne centrale -&gt;]<br />
+fr:
+  title: 'Chili : fonte des glaces'
+  body: >-
+    Le sud du Chili et de l'Argentine abrite un ensemble impressionnant de
+    glaciers au sein de la chaîne des Andes. Sur le versant occidental, les
+    glaciers rejettent des icebergs de taille parfois importante dans le
+    Pacifique, comme on peut le voir sur cette image satellite.<!--more-->Le
+    glacier se fracture en morceaux dont la taille peut atteindre 2 km de large,
+    comme au centre de cette image satellite, prise par un spationaute depuis la
+    station spatiale internationale.<br />Les icebergs vont ensuite parcourir le
+    sud du Pacifique avant de fondre dans l'océan.<br /><br />[voir carte
+    satellite dans colonne centrale -&gt;]<br />
+en: {}

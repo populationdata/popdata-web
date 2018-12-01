@@ -1,9 +1,10 @@
 title: croatie-mise-a-jour
-nameFr: 'Croatie : mise à jour'
-nameEn: 'Croatie : mise à jour'
 date: 2011-12-05T00:00:00.000Z
-bodyFr: >-
-  Le pays vient tout juste d'obtenir l'adhésion à l'Union européenne. Il sera le
-  28ème Etat membre de cette union à partir de juillet 2013. Une étape
-  importante pour l'intégration, enfin, dans le concert des nations
-  européennes.<!--more-->
+fr:
+  title: 'Croatie : mise à jour'
+  body: >-
+    Le pays vient tout juste d'obtenir l'adhésion à l'Union européenne. Il sera
+    le 28ème Etat membre de cette union à partir de juillet 2013. Une étape
+    importante pour l'intégration, enfin, dans le concert des nations
+    européennes.<!--more-->
+en: {}

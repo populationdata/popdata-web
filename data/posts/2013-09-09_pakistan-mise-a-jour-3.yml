@@ -1,9 +1,10 @@
 title: pakistan-mise-a-jour-3
-nameFr: 'Pakistan : mise à jour'
-nameEn: 'Pakistan : mise à jour'
 date: 2013-09-10T00:00:00.000Z
-bodyFr: >-
-  Le nouveau président Mamnoon Hussain vient d'entrer en fonction. Nous avons à
-  cette occasion mis quelques chiffres à jour, notamment la population totale,
-  estimée à plus de 184 millions d'habitants. Ce qui fait du Pakistan le 6ème
-  pays le plus peuplé du monde.
+fr:
+  title: 'Pakistan : mise à jour'
+  body: >-
+    Le nouveau président Mamnoon Hussain vient d'entrer en fonction. Nous avons
+    à cette occasion mis quelques chiffres à jour, notamment la population
+    totale, estimée à plus de 184 millions d'habitants. Ce qui fait du Pakistan
+    le 6ème pays le plus peuplé du monde.
+en: {}

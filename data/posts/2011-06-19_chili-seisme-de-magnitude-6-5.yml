@@ -1,16 +1,18 @@
 title: chili-seisme-de-magnitude-6-5
-nameFr: 'Chili : séisme de magnitude 6.5'
-nameEn: 'Chili : séisme de magnitude 6.5'
 date: 2011-06-20T00:00:00.000Z
-bodyFr: >-
-  Un séisme de magnitude 6.5 s'est produit au Chili aujourd'hui à 12h36, heure
-  locale, dans le nord du pays, à environ 287 kilomètres au nord-est
-  d'Antofagasta, la grande ville du nord du pays.<!--more-->La zone se situe en
-  plein désert, ce qui limite les dégâts humains ainsi que sur les
-  constructions, la densité étant particulièrement réduite.
-  <div>&nbsp;               <div>Le tremblement de terre a eu lieu dans une
-  région proche de la frontière avec le sud de la Bolivie, et l'on ne compte
-  heureusement que peu d'habitants de chaque côté de cette frontière.           
-  </div>    <div><br />    </div>    <div>Voir carte dans colonne centrale
-  -&gt;<br />&nbsp;                         <div><br />Source : USGS&nbsp;-
-  Earthquake Hazards Program                            </div>    </div>  </div>
+fr:
+  title: 'Chili : séisme de magnitude 6.5'
+  body: >-
+    Un séisme de magnitude 6.5 s'est produit au Chili aujourd'hui à 12h36, heure
+    locale, dans le nord du pays, à environ 287 kilomètres au nord-est
+    d'Antofagasta, la grande ville du nord du pays.<!--more-->La zone se situe
+    en plein désert, ce qui limite les dégâts humains ainsi que sur les
+    constructions, la densité étant particulièrement réduite.
+    <div>&nbsp;               <div>Le tremblement de terre a eu lieu dans une
+    région proche de la frontière avec le sud de la Bolivie, et l'on ne compte
+    heureusement que peu d'habitants de chaque côté de cette
+    frontière.            </div>    <div><br />    </div>    <div>Voir carte
+    dans colonne centrale -&gt;<br />&nbsp;                         <div><br
+    />Source : USGS&nbsp;- Earthquake Hazards Program                           
+    </div>    </div>  </div>
+en: {}

@@ -1,8 +1,9 @@
 title: armenie-mise-a-jour-2
-nameFr: 'Arménie : mise à jour'
-nameEn: 'Arménie : mise à jour'
 date: 2015-08-11T00:00:00.000Z
-bodyFr: >-
-  L'Arménie voit sa population baisser lentement année après année. Si la
-  situation demeure, le pays perdra 1/3 de ses habitants d'ici la fin du siècle,
-  soit un million de personnes.
+fr:
+  title: 'Arménie : mise à jour'
+  body: >-
+    L'Arménie voit sa population baisser lentement année après année. Si la
+    situation demeure, le pays perdra 1/3 de ses habitants d'ici la fin du
+    siècle, soit un million de personnes.
+en: {}

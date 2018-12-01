@@ -1,5 +1,6 @@
 title: ecureuil-albinos
-nameFr: Écureuil albinos
-nameEn: Écureuil albinos
 date: 2016-10-12T22:37:14.000Z
-bodyFr: "Drôle de rencontre sur le Plateau à Montréal, <a href=\"https://www.populationdata.net/pays/canada/\">Canada</a> : un étonnant écureuil albinos !\r\n\r\n<iframe src=\"https://www.youtube.com/embed/4rCGTFh_H68\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+fr:
+  title: Écureuil albinos
+  body: "Drôle de rencontre sur le Plateau à Montréal, <a href=\"https://www.populationdata.net/pays/canada/\">Canada</a> : un étonnant écureuil albinos !\r\n\r\n<iframe src=\"https://www.youtube.com/embed/4rCGTFh_H68\" width=\"853\" height=\"480\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>"
+en: {}

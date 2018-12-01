@@ -1,17 +1,18 @@
 title: carte-de-la-faim-dans-le-monde
-nameFr: Carte de la faim dans le monde
-nameEn: Carte de la faim dans le monde
 date: 2009-01-20T00:00:00.000Z
-bodyFr: >-
-  L'<span class="faoname">Organisation des Nations Unies pour l'alimentation et
-  l'agriculture (FAO) publie régulièrement des statistiques et des cartes en ce
-  qui concerne la faim dans le monde. De manière générale, la faim recule dans
-  le monde, mais dans certains pays comme la République démocratique du Congo,
-  elle gagne du terrain. Toute cette région de l'Afrique se trouve toujours dans
-  la zone rouge, avec des centaines de millions de personnes en
-  danger.            <br />   </span><!--more--><div style="text-align:
-  center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1895&aid=322&nom=monde-faim-2003"><img
-  border="0" src="/images/cartes/articles/monde-faim-petite.gif" /></a>   <br
-  />            Cliquez sur la carte pour l'agrandir            <br type="_moz"
-  />    </div>
+fr:
+  title: Carte de la faim dans le monde
+  body: >-
+    L'<span class="faoname">Organisation des Nations Unies pour l'alimentation
+    et l'agriculture (FAO) publie régulièrement des statistiques et des cartes
+    en ce qui concerne la faim dans le monde. De manière générale, la faim
+    recule dans le monde, mais dans certains pays comme la République
+    démocratique du Congo, elle gagne du terrain. Toute cette région de
+    l'Afrique se trouve toujours dans la zone rouge, avec des centaines de
+    millions de personnes en danger.            <br />   </span><!--more--><div
+    style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1895&aid=322&nom=monde-faim-2003"><img
+    border="0" src="/images/cartes/articles/monde-faim-petite.gif" /></a>   <br
+    />            Cliquez sur la carte pour l'agrandir            <br
+    type="_moz" />    </div>
+en: {}

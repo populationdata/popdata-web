@@ -1,18 +1,19 @@
 title: malaria-carte-du-monde
-nameFr: 'Malaria : carte du monde'
-nameEn: 'Malaria : carte du monde'
 date: 2009-02-28T00:00:00.000Z
-bodyFr: >-
-  Le paludisme, appelé aussi malaria, est  une parasitose due à un protozoaire
-  transmis par la piqûre de la femelle dun moustique, lanophèle, provoquant des
-  fièvres intermittentes. Avec 300 à 500 millions de  malades et 1.5 à 2.7
-  millions de décès par an, le paludisme demeure la  parasitose tropicale la
-  plus importante. 80% des cas sont enregistrés en  Afrique subsaharienne, où
-  ils concernent majoritairement les enfants de moins de  cinq ans et les femmes
-  enceintes.<!--more--><div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1936&aid=361&nom=monde-malaria-2008"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/monde-malaria-2008-petite.gif" /></a>   <br
-  />            Cliquez sur la carte pour l'agrandir            <br />      <br
-  />      <div style="text-align: left;">Source : Wikipédia     <br type="_moz"
-  />        </div> </div>
+fr:
+  title: 'Malaria : carte du monde'
+  body: >-
+    Le paludisme, appelé aussi malaria, est  une parasitose due à un protozoaire
+    transmis par la piqûre de la femelle dun moustique, lanophèle, provoquant
+    des fièvres intermittentes. Avec 300 à 500 millions de  malades et 1.5 à 2.7
+    millions de décès par an, le paludisme demeure la  parasitose tropicale la
+    plus importante. 80% des cas sont enregistrés en  Afrique subsaharienne, où
+    ils concernent majoritairement les enfants de moins de  cinq ans et les
+    femmes enceintes.<!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1936&aid=361&nom=monde-malaria-2008"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/monde-malaria-2008-petite.gif" /></a>   <br
+    />            Cliquez sur la carte pour l'agrandir            <br />     
+    <br />      <div style="text-align: left;">Source : Wikipédia     <br
+    type="_moz" />        </div> </div>
+en: {}

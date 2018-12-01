@@ -1,11 +1,12 @@
 title: malte-mise-a-jour
-nameFr: 'Malte : mise à jour'
-nameEn: 'Malte : mise à jour'
 date: 2010-02-25T00:00:00.000Z
-bodyFr: >-
-  Plus petit état de l'Union Européenne, très développé et industrialisé, riche
-  zone touristique, Malte est situé sur la "ligne de front" de l'immigration en
-  provenance de toute l'Afrique. Ces migrants très pauvres sont souvent
-  stigmatisés et enfermés la plupart du temps pendant dix-huit mois dans des
-  centres de rétentions, devenus de véritables prisons, avant d'être renvoyés
-  dans leur pays.
+fr:
+  title: 'Malte : mise à jour'
+  body: >-
+    Plus petit état de l'Union Européenne, très développé et industrialisé,
+    riche zone touristique, Malte est situé sur la "ligne de front" de
+    l'immigration en provenance de toute l'Afrique. Ces migrants très pauvres
+    sont souvent stigmatisés et enfermés la plupart du temps pendant dix-huit
+    mois dans des centres de rétentions, devenus de véritables prisons, avant
+    d'être renvoyés dans leur pays.
+en: {}

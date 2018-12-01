@@ -1,9 +1,10 @@
 title: soudan-du-sud-mise-a-jour
-nameFr: 'Soudan du Sud : mise à jour'
-nameEn: 'Soudan du Sud : mise à jour'
 date: 2013-03-15T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la fiche du Soudan du Sud, avec notamment de nouvelles
-  estimations de population. La guerre pour le pétrole avec le voisin du nord a
-  fait chuté le PIB de 55% en 2012, les revenus du pays portant à 98% sur les
-  exportations de cet hydrocarbure.
+fr:
+  title: 'Soudan du Sud : mise à jour'
+  body: >-
+    Mise à jour de la fiche du Soudan du Sud, avec notamment de nouvelles
+    estimations de population. La guerre pour le pétrole avec le voisin du nord
+    a fait chuté le PIB de 55% en 2012, les revenus du pays portant à 98% sur
+    les exportations de cet hydrocarbure.
+en: {}

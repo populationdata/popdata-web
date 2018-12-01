@@ -1,10 +1,11 @@
 title: groenland-mise-a-jour-2
-nameFr: 'Groenland : mise à jour'
-nameEn: 'Groenland : mise à jour'
 date: 2013-03-13T00:00:00.000Z
-bodyFr: >-
-  Cette immense île, la plus grande du monde, voit actuellement sa population
-  diminuer. De nombreux habitants émigrent en effet vers le Danemark, pays dont
-  le Groenland reste encore dépendant, afin de trouver du travail et de
-  meilleures conditions de vie. Mais de son côté, la capitale Nuuk voit sa
-  population fortement progresser.
+fr:
+  title: 'Groenland : mise à jour'
+  body: >-
+    Cette immense île, la plus grande du monde, voit actuellement sa population
+    diminuer. De nombreux habitants émigrent en effet vers le Danemark, pays
+    dont le Groenland reste encore dépendant, afin de trouver du travail et de
+    meilleures conditions de vie. Mais de son côté, la capitale Nuuk voit sa
+    population fortement progresser.
+en: {}

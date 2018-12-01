@@ -1,13 +1,14 @@
 title: tour-de-france-2011
-nameFr: Tour de France 2011
-nameEn: Tour de France 2011
 date: 2010-10-20T00:00:00.000Z
-bodyFr: >-
-  Voici la carte du Tour de France 2011. Le  départ se fera en Vendée le samedi
-  2 juillet, puis le Tour traversera l'ouest de la France, avant de descendre
-  dans le sud par le Massif Central. Viendront ensuite les fameuses étapes de
-  montagne, dans les Pyrénées puis les Alpes, avec deux fois le Galibier. Il
-  fera également un petit tour en Italie, à Pinerolo. L'arrivée de ce 98ème 
-  Tour de France est prévue à Paris le 24 juillet 2011 après 21 étapes et 
-  environ 3 471 km dans les jambes !<!--more-->[carte dans colonne
-  centrale-&gt;]
+fr:
+  title: Tour de France 2011
+  body: >-
+    Voici la carte du Tour de France 2011. Le  départ se fera en Vendée le
+    samedi 2 juillet, puis le Tour traversera l'ouest de la France, avant de
+    descendre dans le sud par le Massif Central. Viendront ensuite les fameuses
+    étapes de montagne, dans les Pyrénées puis les Alpes, avec deux fois le
+    Galibier. Il fera également un petit tour en Italie, à Pinerolo. L'arrivée
+    de ce 98ème  Tour de France est prévue à Paris le 24 juillet 2011 après 21
+    étapes et  environ 3 471 km dans les jambes !<!--more-->[carte dans colonne
+    centrale-&gt;]
+en: {}

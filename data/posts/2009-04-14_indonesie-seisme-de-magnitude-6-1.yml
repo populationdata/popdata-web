@@ -1,8 +1,9 @@
 title: indonesie-seisme-de-magnitude-6-1
-nameFr: 'Indonésie : séisme de magnitude 6.1'
-nameEn: 'Indonésie : séisme de magnitude 6.1'
 date: 2009-04-15T00:00:00.000Z
-bodyFr: >-
-  Un séisme de magnitude 6.1, que l'on a cru tout d'abord de magnitude 6.6,
-  vient d'avoir lieu sur la côte ouest de l'île de Sumatra. On ignore pour le
-  moment s'il y a des dégâts et des victimes.
+fr:
+  title: 'Indonésie : séisme de magnitude 6.1'
+  body: >-
+    Un séisme de magnitude 6.1, que l'on a cru tout d'abord de magnitude 6.6,
+    vient d'avoir lieu sur la côte ouest de l'île de Sumatra. On ignore pour le
+    moment s'il y a des dégâts et des victimes.
+en: {}

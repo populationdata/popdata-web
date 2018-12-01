@@ -1,10 +1,12 @@
 title: grece-mise-a-jour-2
-nameFr: 'Grèce : mise à jour'
-nameEn: 'Grèce : mise à jour'
 date: 2011-03-14T00:00:00.000Z
-bodyFr: >-
-  Alors que la situation économique ne s'améliore pas, avec une croissance
-  fortement négative en 2010, les "élites" ont décidé de faire payer à la
-  population leurs erreurs de gestion. Le chômage et la misère gagnent du
-  terrain. L'immigration en provenance d'Afrique et d'Asie continue à augmenter,
-  le pays étant un passage privilégié pour entrer en Union Européenne.
+fr:
+  title: 'Grèce : mise à jour'
+  body: >-
+    Alors que la situation économique ne s'améliore pas, avec une croissance
+    fortement négative en 2010, les "élites" ont décidé de faire payer à la
+    population leurs erreurs de gestion. Le chômage et la misère gagnent du
+    terrain. L'immigration en provenance d'Afrique et d'Asie continue à
+    augmenter, le pays étant un passage privilégié pour entrer en Union
+    Européenne.
+en: {}

@@ -1,9 +1,10 @@
 title: palmares-des-grandes-villes-du-monde
-nameFr: Palmarès des grandes villes du monde
-nameEn: Palmarès des grandes villes du monde
 date: 2010-02-01T00:00:00.000Z
-bodyFr: >-
-  Mise à jour du palmarès des plus grandes villes du monde, et notamment de la
-  fameuse carte des aires urbaines de plus de 10 millions d'habitants. Il y a
-  désormais 31 villes de plus de 10 millions d'habitants, dont 7 de plus de 20
-  millions d'habitants !
+fr:
+  title: Palmarès des grandes villes du monde
+  body: >-
+    Mise à jour du palmarès des plus grandes villes du monde, et notamment de la
+    fameuse carte des aires urbaines de plus de 10 millions d'habitants. Il y a
+    désormais 31 villes de plus de 10 millions d'habitants, dont 7 de plus de 20
+    millions d'habitants !
+en: {}

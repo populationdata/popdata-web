@@ -1,9 +1,10 @@
 title: inde-carte-des-attaques-a-mumbai
-nameFr: 'Inde : carte des attaques à Mumbaï'
-nameEn: 'Inde : carte des attaques à Mumbaï'
 date: 2008-11-28T00:00:00.000Z
-bodyFr: >-
-  Les attentats terroristes coordonnés contre des cibles touristiques à Mumbaï,
-  Inde, ont fait 145 morts et plusieurs centaines de blessés d'après les
-  autorités indiennes. Voici une carte des lieux où se sont passés les drames
-  dans la capitale économique de l'Inde.      <br />
+fr:
+  title: 'Inde : carte des attaques à Mumbaï'
+  body: >-
+    Les attentats terroristes coordonnés contre des cibles touristiques à
+    Mumbaï, Inde, ont fait 145 morts et plusieurs centaines de blessés d'après
+    les autorités indiennes. Voici une carte des lieux où se sont passés les
+    drames dans la capitale économique de l'Inde.      <br />
+en: {}

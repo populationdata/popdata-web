@@ -1,13 +1,14 @@
 title: europe-carte-des-blondes
-nameFr: 'Europe : carte des blondes'
-nameEn: 'Europe : carte des blondes'
 date: 2009-03-19T00:00:00.000Z
-bodyFr: >-
-  Voici une carte qui répertorie les zones d'Europe où l'on trouve le plus de
-  femmes blondes. Cela ne sert à rien me direz-vous, mais c'est toujours une
-  carte insolite ;-)<!--more--><div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1956&aid=386&nom=europe-blondes"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/europe-blondes-petite.jpg" /></a>   <br
-  />                  Cliquez sur la carte pour l'agrandir                  <br
-  type="_moz" />    </div>
+fr:
+  title: 'Europe : carte des blondes'
+  body: >-
+    Voici une carte qui répertorie les zones d'Europe où l'on trouve le plus de
+    femmes blondes. Cela ne sert à rien me direz-vous, mais c'est toujours une
+    carte insolite ;-)<!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1956&aid=386&nom=europe-blondes"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/europe-blondes-petite.jpg" /></a>   <br
+    />                  Cliquez sur la carte pour l'agrandir                 
+    <br type="_moz" />    </div>
+en: {}

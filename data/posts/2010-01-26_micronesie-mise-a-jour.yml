@@ -1,11 +1,12 @@
 title: micronesie-mise-a-jour
-nameFr: 'Micronésie : mise à jour'
-nameEn: 'Micronésie : mise à jour'
 date: 2010-01-27T00:00:00.000Z
-bodyFr: >-
-  Fortement dépendant de l'extérieur, l'archipel micronésien voit sa population
-  baisser en raison de la fuite des jeunes à l'étranger. Ceux-ci vont y chercher
-  du travail, car le pays vit une crise économique sans précédent. Les
-  investissements massifs nécessaires pour relancer l'économie ne sont pas mis
-  en oeuvre, car inexistants. Même les touristes ne sont plus aussi nombreux,
-  alors que les îles sont paradisiaques.
+fr:
+  title: 'Micronésie : mise à jour'
+  body: >-
+    Fortement dépendant de l'extérieur, l'archipel micronésien voit sa
+    population baisser en raison de la fuite des jeunes à l'étranger. Ceux-ci
+    vont y chercher du travail, car le pays vit une crise économique sans
+    précédent. Les investissements massifs nécessaires pour relancer l'économie
+    ne sont pas mis en oeuvre, car inexistants. Même les touristes ne sont plus
+    aussi nombreux, alors que les îles sont paradisiaques.
+en: {}

@@ -1,10 +1,11 @@
 title: haiti-mise-a-jour-2
-nameFr: 'Haïti : mise à jour'
-nameEn: 'Haïti : mise à jour'
 date: 2011-05-17T00:00:00.000Z
-bodyFr: >-
-  Haïti vient tout juste d'élire un nouveau président, Michel Martelly. Pays le
-  plus pauvre des Amériques, les défis du nouveau pouvoir sont immenses. Aidées
-  par l'ONU, très présente sur place, les autorités doivent à la fois assurer la
-  sécurité, organiser l'aide humanitaire, et engager le pays sur la voie de la
-  reconstruction et du développement.
+fr:
+  title: 'Haïti : mise à jour'
+  body: >-
+    Haïti vient tout juste d'élire un nouveau président, Michel Martelly. Pays
+    le plus pauvre des Amériques, les défis du nouveau pouvoir sont immenses.
+    Aidées par l'ONU, très présente sur place, les autorités doivent à la fois
+    assurer la sécurité, organiser l'aide humanitaire, et engager le pays sur la
+    voie de la reconstruction et du développement.
+en: {}

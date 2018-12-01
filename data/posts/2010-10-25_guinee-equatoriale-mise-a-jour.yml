@@ -1,10 +1,11 @@
 title: guinee-equatoriale-mise-a-jour
-nameFr: 'Guinée équatoriale : mise à jour'
-nameEn: 'Guinée équatoriale : mise à jour'
 date: 2010-10-26T00:00:00.000Z
-bodyFr: >-
-  Longtemps considérée, à juste titre, comme l'un  des pays les moins avancés,
-  la Guinée  équatoriale est en train de sortir de cet état. Les récentes 
-  découvertes de gisements pétroliers et gaziers ont propulsé l'économie  de ce
-  petit pays éparpillé entre une île principale au relief tourmenté  et un
-  territoire presque vierge sur le continent.
+fr:
+  title: 'Guinée équatoriale : mise à jour'
+  body: >-
+    Longtemps considérée, à juste titre, comme l'un  des pays les moins avancés,
+    la Guinée  équatoriale est en train de sortir de cet état. Les récentes 
+    découvertes de gisements pétroliers et gaziers ont propulsé l'économie  de
+    ce petit pays éparpillé entre une île principale au relief tourmenté  et un
+    territoire presque vierge sur le continent.
+en: {}

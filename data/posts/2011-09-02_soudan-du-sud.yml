@@ -1,9 +1,10 @@
 title: soudan-du-sud
-nameFr: Soudan du Sud
-nameEn: Soudan du Sud
 date: 2011-09-03T00:00:00.000Z
-bodyFr: >-
-  Après des décennies de guerre civile contre le nord du pays, le Soudan du Sud
-  est né officiellement le 9 juillet 2011. De très nombreux états ont d'ores et
-  déjà reconnu ce nouveau pays, qui est entré aux Nations Unies le 14 juillet
-  2011.<!--more-->
+fr:
+  title: Soudan du Sud
+  body: >-
+    Après des décennies de guerre civile contre le nord du pays, le Soudan du
+    Sud est né officiellement le 9 juillet 2011. De très nombreux états ont
+    d'ores et déjà reconnu ce nouveau pays, qui est entré aux Nations Unies le
+    14 juillet 2011.<!--more-->
+en: {}

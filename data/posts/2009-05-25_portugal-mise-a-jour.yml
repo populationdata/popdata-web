@@ -1,11 +1,12 @@
 title: portugal-mise-a-jour
-nameFr: 'Portugal : mise à jour'
-nameEn: 'Portugal : mise à jour'
 date: 2009-05-26T00:00:00.000Z
-bodyFr: >-
-  Alors que sa population ne progresse que très peu désormais, le Portugal est
-  entré de plain-pied dans le 21ème siècle. Infrastructures de transports, dont
-  des ponts gigantesques, augmentation très forte depuis trente ans du niveau de
-  vie, le pays a rattrapé le niveau de vie moyen européen. Il doit désormais
-  mieux protéger son environnement, le tourisme étant devenu un maillon
-  essentiel de son économie.
+fr:
+  title: 'Portugal : mise à jour'
+  body: >-
+    Alors que sa population ne progresse que très peu désormais, le Portugal est
+    entré de plain-pied dans le 21ème siècle. Infrastructures de transports,
+    dont des ponts gigantesques, augmentation très forte depuis trente ans du
+    niveau de vie, le pays a rattrapé le niveau de vie moyen européen. Il doit
+    désormais mieux protéger son environnement, le tourisme étant devenu un
+    maillon essentiel de son économie.
+en: {}

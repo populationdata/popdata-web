@@ -1,4 +1,6 @@
 title: monde-fuseaux-horaires
-nameFr: Monde - Fuseaux horaires
-nameEn: World - Time Zones
 date: 2016-05-16T19:05:34.000Z
+fr:
+  title: Monde - Fuseaux horaires
+en:
+  title: World - Time Zones

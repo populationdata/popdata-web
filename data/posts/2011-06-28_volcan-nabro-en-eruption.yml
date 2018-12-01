@@ -1,10 +1,11 @@
 title: volcan-nabro-en-eruption
-nameFr: Volcan Nabro en éruption
-nameEn: Volcan Nabro en éruption
 date: 2011-06-29T00:00:00.000Z
-bodyFr: >-
-  Le volcan Nabro, situé en Erythrée tout près de la frontière avec l'Ethiopie,
-  est entré en éruption le 12 juin 2011. Voici une impressionnante image
-  satellite de cette éruption, où l'on peut voir la lave sortir de la
-  caldeira.<!--more-->Voir image satellite détaillée dans la colonne centrale
-  -&gt; <div><br />  </div>  <div>Source : Nasa Earth Observatory </div>
+fr:
+  title: Volcan Nabro en éruption
+  body: >-
+    Le volcan Nabro, situé en Erythrée tout près de la frontière avec
+    l'Ethiopie, est entré en éruption le 12 juin 2011. Voici une impressionnante
+    image satellite de cette éruption, où l'on peut voir la lave sortir de la
+    caldeira.<!--more-->Voir image satellite détaillée dans la colonne centrale
+    -&gt; <div><br />  </div>  <div>Source : Nasa Earth Observatory </div>
+en: {}

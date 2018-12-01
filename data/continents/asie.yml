@@ -1,6 +1,8 @@
 title: asie
-nameFr: Asie
-nameEn: Asia
 date: 2016-03-13T20:36:59.000Z
+fr:
+  name: Asie
+en:
+  name: Asia
 gdpYear: 2014
 numberOfTimeZones: 11

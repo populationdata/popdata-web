@@ -1,9 +1,10 @@
 title: france-66-millions-dhabitants
-nameFr: 'France : 66 millions d''habitants'
-nameEn: 'France : 66 millions d''habitants'
 date: 2014-01-14T00:00:00.000Z
-bodyFr: >-
-  La France compte 66 millions d'habitants au 1er janvier 2014. Les régions de
-  Paris, de l'ouest et du sud, avec les grandes métropoles Rennes, Nantes,
-  Bordeaux, Toulouse et Montpellier, représentent la plus grosse part de la
-  croissance démographique française.
+fr:
+  title: 'France : 66 millions d''habitants'
+  body: >-
+    La France compte 66 millions d'habitants au 1er janvier 2014. Les régions de
+    Paris, de l'ouest et du sud, avec les grandes métropoles Rennes, Nantes,
+    Bordeaux, Toulouse et Montpellier, représentent la plus grosse part de la
+    croissance démographique française.
+en: {}

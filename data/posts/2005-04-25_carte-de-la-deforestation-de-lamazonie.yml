@@ -1,7 +1,9 @@
 title: carte-de-la-deforestation-de-lamazonie
-nameFr: Carte de la déforestation de l'Amazonie
-nameEn: Carte de la déforestation de l'Amazonie
 date: 2005-04-26T00:00:00.000Z
-bodyFr: >-
-  Carte de la déforestation de l'Amazonie en 2005. Environ 160 km2 disparaissent
-  chaque jour !<!--more-->Carte dans la colonne centrale -&gt;<br />
+fr:
+  title: Carte de la déforestation de l'Amazonie
+  body: >-
+    Carte de la déforestation de l'Amazonie en 2005. Environ 160 km2
+    disparaissent chaque jour !<!--more-->Carte dans la colonne centrale
+    -&gt;<br />
+en: {}

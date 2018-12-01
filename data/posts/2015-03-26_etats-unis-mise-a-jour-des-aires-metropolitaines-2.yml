@@ -1,10 +1,11 @@
 title: etats-unis-mise-a-jour-des-aires-metropolitaines-2
-nameFr: 'États-Unis : mise à jour des aires métropolitaines'
-nameEn: 'États-Unis : mise à jour des aires métropolitaines'
 date: 2015-03-27T00:00:00.000Z
-bodyFr: >-
-  Le Bureau du recensement des <a href="/pays/etats-unis/">États-Unis</a> vient
-  de mettre à jour la population des grandes aires métropolitaines du pays. Peu
-  de changement dans la hiérarchie des plus grandes d'entre elles : New York
-  reste en tête, suivie de Los Angeles, Chicago et Washington. Plus de 60 villes
-  comptent 1 million d'habitants et plus.
+fr:
+  title: 'États-Unis : mise à jour des aires métropolitaines'
+  body: >-
+    Le Bureau du recensement des <a href="/pays/etats-unis/">États-Unis</a>
+    vient de mettre à jour la population des grandes aires métropolitaines du
+    pays. Peu de changement dans la hiérarchie des plus grandes d'entre elles :
+    New York reste en tête, suivie de Los Angeles, Chicago et Washington. Plus
+    de 60 villes comptent 1 million d'habitants et plus.
+en: {}

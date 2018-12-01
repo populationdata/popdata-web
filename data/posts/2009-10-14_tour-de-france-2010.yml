@@ -1,10 +1,11 @@
 title: tour-de-france-2010
-nameFr: Tour de France 2010
-nameEn: Tour de France 2010
 date: 2009-10-15T00:00:00.000Z
-bodyFr: >-
-  Voici la carte du Tour de France 2010. Le départ se fera à Rotterdam le samedi
-  3 juillet, puis le Tour traversera la Belgique, avant de faire un tour de
-  France ;-) L'arrivée de ce 97ème Tour de France est prévue à Paris le 25
-  juillet 2010 après 20 étapes et environ 3 600 km dans les jambes
-  !<!--more-->[carte dans colonne centrale-&gt;]<br />
+fr:
+  title: Tour de France 2010
+  body: >-
+    Voici la carte du Tour de France 2010. Le départ se fera à Rotterdam le
+    samedi 3 juillet, puis le Tour traversera la Belgique, avant de faire un
+    tour de France ;-) L'arrivée de ce 97ème Tour de France est prévue à Paris
+    le 25 juillet 2010 après 20 étapes et environ 3 600 km dans les jambes
+    !<!--more-->[carte dans colonne centrale-&gt;]<br />
+en: {}

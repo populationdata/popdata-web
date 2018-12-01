@@ -1,6 +1,8 @@
 title: antarctique
-nameFr: Antarctique
-nameEn: Antarctica
 date: 2016-03-13T20:36:59.000Z
+fr:
+  name: Antarctique
+en:
+  name: Antarctica
 gdpYear: 0
 numberOfTimeZones: 24

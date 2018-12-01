@@ -1,10 +1,11 @@
 title: afrique-11-milliard-dhabitants
-nameFr: 'Afrique : 1,1 milliard d''habitants'
-nameEn: 'Afrique : 1,1 milliard d''habitants'
 date: 2014-03-25T00:00:00.000Z
-bodyFr: >-
-  Il y a désormais 1,1 milliard d'habitants en Afrique. La croissance
-  démographique continue d'être la plus forte du monde, mais elle a globalement
-  tendance à baisser. Le développement économique progresse actuellement plus
-  rapidement, et permet un rattrapage, limité mais réel, dans certaines régions,
-  sur les autres pays en développement.
+fr:
+  title: 'Afrique : 1,1 milliard d''habitants'
+  body: >-
+    Il y a désormais 1,1 milliard d'habitants en Afrique. La croissance
+    démographique continue d'être la plus forte du monde, mais elle a
+    globalement tendance à baisser. Le développement économique progresse
+    actuellement plus rapidement, et permet un rattrapage, limité mais réel,
+    dans certaines régions, sur les autres pays en développement.
+en: {}

@@ -1,5 +1,7 @@
 title: europe-hors-union-europeenne
-nameFr: Europe (hors Union Européenne)
-nameEn: Europe (outside the European Union)
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Europe (hors Union Européenne)
+en:
+  name: Europe (outside the European Union)
 continent: europe

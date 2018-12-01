@@ -1,10 +1,11 @@
 title: porto-rico-mise-a-jour
-nameFr: 'Porto Rico : mise à jour'
-nameEn: 'Porto Rico : mise à jour'
 date: 2010-03-25T00:00:00.000Z
-bodyFr: >-
-  Porto Rico est l'un des rares territoires de cette taille à n'avoir jamais été
-  indépendant. L'ONU va prochainement demander officiellement aux Etats-Unis
-  d'accorder l'indépendance à ce territoire, ce que souhaitent une partie
-  importante des habitants, lassée d'être considérés comme des citoyens de
-  seconde zone.
+fr:
+  title: 'Porto Rico : mise à jour'
+  body: >-
+    Porto Rico est l'un des rares territoires de cette taille à n'avoir jamais
+    été indépendant. L'ONU va prochainement demander officiellement aux
+    Etats-Unis d'accorder l'indépendance à ce territoire, ce que souhaitent une
+    partie importante des habitants, lassée d'être considérés comme des citoyens
+    de seconde zone.
+en: {}

@@ -1,19 +1,20 @@
 title: monde-zones-de-conflits-2
-nameFr: 'Monde : zones de conflits'
-nameEn: 'Monde : zones de conflits'
 date: 2010-12-07T00:00:00.000Z
-bodyFr: >-
-  Le monde est toujours en guerre, quelque part. Voici une carte des pays et
-  territoires où l'on recense des zones de conflits, que ce soient des guerres
-  majeures ou des conflits plus mineurs.<!--more-->La différence de couleur
-  tient au nombre de victimes annuel : +1000 morts par an pour le bleu foncé,
-  -1000 morts par an pour le bleu ciel.<br /><br />Et l'on découvre par la même
-  occasion que l'actualité dans les grands médias ne reflète pas forcément
-  l'importance des conflits. <br />En effet, certains pays apparaîtront
-  étonnement dans la liste des conflits majeurs, comme l'Inde et le Mexique.<br
-  />D'autres, Irak, Afghanistan, Colombie, Soudan, Somalie, Pakistan, sont
-  effectivement des zones dangereuses qu'il convient d'éviter, même si la
-  totalité de leur territoire n'est pas forcément problématique.<br /><br
-  />Enfin, de nombreux pays abritent, souvent malgré eux, des zones de conflits,
-  zones précises qu'il faut éviter, ou du moins dans lesquelles il faut faire
-  attention.<br /><br />[-&gt;carte dans colonne centrale]<br />
+fr:
+  title: 'Monde : zones de conflits'
+  body: >-
+    Le monde est toujours en guerre, quelque part. Voici une carte des pays et
+    territoires où l'on recense des zones de conflits, que ce soient des guerres
+    majeures ou des conflits plus mineurs.<!--more-->La différence de couleur
+    tient au nombre de victimes annuel : +1000 morts par an pour le bleu foncé,
+    -1000 morts par an pour le bleu ciel.<br /><br />Et l'on découvre par la
+    même occasion que l'actualité dans les grands médias ne reflète pas
+    forcément l'importance des conflits. <br />En effet, certains pays
+    apparaîtront étonnement dans la liste des conflits majeurs, comme l'Inde et
+    le Mexique.<br />D'autres, Irak, Afghanistan, Colombie, Soudan, Somalie,
+    Pakistan, sont effectivement des zones dangereuses qu'il convient d'éviter,
+    même si la totalité de leur territoire n'est pas forcément problématique.<br
+    /><br />Enfin, de nombreux pays abritent, souvent malgré eux, des zones de
+    conflits, zones précises qu'il faut éviter, ou du moins dans lesquelles il
+    faut faire attention.<br /><br />[-&gt;carte dans colonne centrale]<br />
+en: {}

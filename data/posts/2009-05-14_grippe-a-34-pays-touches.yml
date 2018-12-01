@@ -1,26 +1,27 @@
 title: grippe-a-34-pays-touches
-nameFr: 'Grippe A : 34 pays touchés'
-nameEn: 'Grippe A : 34 pays touchés'
 date: 2009-05-15T00:00:00.000Z
-bodyFr: >-
-  Le virus de la grippe A (H1N1) touche désormais 34 pays et 7 520 personnes, a
-  annoncé l'Organisation mondiale de la santé (OMS) vendredi 15 mai à son siège
-  de Genève.<!--more-->Le Mexique a notifié 2 446 cas d'infection humaine
-  confirmés en laboratoire, dont 60 décès. Les Etats-Unis en ont notifiés 4 298,
-  dont trois décès, le Canada 449, dont un décès, et le Costa Rica 8, dont un
-  décès, indique un <a
-  href="http://www.who.int/csr/don/2009_05_15/fr/index.html">communiqué</a>.  
-  <p>Les pays qui suivent ont notifié des cas d'infection confirmés en
-  laboratoire mais pas de décès : Allemagne (12), Argentine (1), Australie (1),
-  Autriche (1), Belgique (1), Brésil (8), Chine (4), Colombie (10), Corée du Sud
-  (3), Cuba (3), Danemark (1), El Salvador (4), Espagne (100), Finlande (2),
-  France (14), Guatemala (3), Irlande (1), Israël (7), Italie (9), Japon (4),
-  Norvège (2), Nouvelle-Zélande (7), Panama (40), Pays-Bas (3), Pologne (1)
-  Portugal (1), Royaume-Uni (71), Suède (2), Suisse (1) et Thaïlande (2).</p> 
-  <p>Aucune restriction aux voyages n'est recommandée par l'OMS en relation avec
-  cette flambée d'infections par le virus grippal A (H1N1).</p>  <p>Les
-  personnes malades doivent différer leur voyage à l'étranger et les voyageurs
-  qui tombent malades à leur retour doivent consulter les services médicaux. Ces
-  recommandations sont des mesures de prudence qui peuvent limiter la
-  propagation de nombreuses maladies transmissibles, dont la grippe.</p> 
-  <p>Source : OMS<br /></p>
+fr:
+  title: 'Grippe A : 34 pays touchés'
+  body: >-
+    Le virus de la grippe A (H1N1) touche désormais 34 pays et 7 520 personnes,
+    a annoncé l'Organisation mondiale de la santé (OMS) vendredi 15 mai à son
+    siège de Genève.<!--more-->Le Mexique a notifié 2 446 cas d'infection
+    humaine confirmés en laboratoire, dont 60 décès. Les Etats-Unis en ont
+    notifiés 4 298, dont trois décès, le Canada 449, dont un décès, et le Costa
+    Rica 8, dont un décès, indique un <a
+    href="http://www.who.int/csr/don/2009_05_15/fr/index.html">communiqué</a>.  
+    <p>Les pays qui suivent ont notifié des cas d'infection confirmés en
+    laboratoire mais pas de décès : Allemagne (12), Argentine (1), Australie
+    (1), Autriche (1), Belgique (1), Brésil (8), Chine (4), Colombie (10), Corée
+    du Sud (3), Cuba (3), Danemark (1), El Salvador (4), Espagne (100), Finlande
+    (2), France (14), Guatemala (3), Irlande (1), Israël (7), Italie (9), Japon
+    (4), Norvège (2), Nouvelle-Zélande (7), Panama (40), Pays-Bas (3), Pologne
+    (1) Portugal (1), Royaume-Uni (71), Suède (2), Suisse (1) et Thaïlande
+    (2).</p>  <p>Aucune restriction aux voyages n'est recommandée par l'OMS en
+    relation avec cette flambée d'infections par le virus grippal A (H1N1).</p> 
+    <p>Les personnes malades doivent différer leur voyage à l'étranger et les
+    voyageurs qui tombent malades à leur retour doivent consulter les services
+    médicaux. Ces recommandations sont des mesures de prudence qui peuvent
+    limiter la propagation de nombreuses maladies transmissibles, dont la
+    grippe.</p>  <p>Source : OMS<br /></p>
+en: {}

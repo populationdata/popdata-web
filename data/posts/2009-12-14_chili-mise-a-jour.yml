@@ -1,11 +1,12 @@
 title: chili-mise-a-jour
-nameFr: 'Chili : mise à jour'
-nameEn: 'Chili : mise à jour'
 date: 2009-12-15T00:00:00.000Z
-bodyFr: >-
-  Frappé de plein fouet par la crise économique mondiale, le Chili a été freiné
-  dans sa marche vers le développement. Les populations les plus fragiles, et
-  notamment les communautés autochtones amérindiennes, sont les plus touchées.
-  Et leurs droits ne sont pas toujours respectés, loin de là. Tant qu'il ne
-  respectera pas un certain nombre de droits humains fondamentaux, le Chili
-  restera malheureusement un pays sous-développé.
+fr:
+  title: 'Chili : mise à jour'
+  body: >-
+    Frappé de plein fouet par la crise économique mondiale, le Chili a été
+    freiné dans sa marche vers le développement. Les populations les plus
+    fragiles, et notamment les communautés autochtones amérindiennes, sont les
+    plus touchées. Et leurs droits ne sont pas toujours respectés, loin de là.
+    Tant qu'il ne respectera pas un certain nombre de droits humains
+    fondamentaux, le Chili restera malheureusement un pays sous-développé.
+en: {}

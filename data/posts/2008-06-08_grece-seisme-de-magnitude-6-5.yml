@@ -1,12 +1,13 @@
 title: grece-seisme-de-magnitude-6-5
-nameFr: 'Grèce : séisme de magnitude 6.5'
-nameEn: 'Grèce : séisme de magnitude 6.5'
 date: 2008-06-09T00:00:00.000Z
-bodyFr: >-
-  Un séisme de magnitude 6.5 sur l'échelle de Richter s'est produit au nord du
-  Péloponnèse, en Grèce.       <br />       La ville de Patras, grand port de la
-  région, est la plus proche de l'épicentre du séisme, qui a fait à l'heure
-  actuelle 2 morts et plus de 150 blessés.       <br /><!--more-->Les
-  sismologues redoutent des répliques dans les prochains jours. Des centaines de
-  maisons ont été détruites, mais le nombre de victimes reste tout de même et
-  heureusement peu élevé.       <br />
+fr:
+  title: 'Grèce : séisme de magnitude 6.5'
+  body: >-
+    Un séisme de magnitude 6.5 sur l'échelle de Richter s'est produit au nord du
+    Péloponnèse, en Grèce.       <br />       La ville de Patras, grand port de
+    la région, est la plus proche de l'épicentre du séisme, qui a fait à l'heure
+    actuelle 2 morts et plus de 150 blessés.       <br /><!--more-->Les
+    sismologues redoutent des répliques dans les prochains jours. Des centaines
+    de maisons ont été détruites, mais le nombre de victimes reste tout de même
+    et heureusement peu élevé.       <br />
+en: {}

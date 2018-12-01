@@ -1,12 +1,13 @@
 title: chili-image-satellite-de-leruption-du-puyehue
-nameFr: 'Chili : image satellite de l''éruption du Puyehue'
-nameEn: 'Chili : image satellite de l''éruption du Puyehue'
 date: 2011-06-10T00:00:00.000Z
-bodyFr: >-
-  Le 3 juin, le volcan chilien Puyehue est entré en éruption. Une colonne de
-  cendres s'est élevée dans les airs jusqu'à 13 kilomètres d'altitude, et un
-  nuage de cendres s'est propagé, grâce aux vents, vers le nord et l'est.
-  L'Argentine a ainsi vu son ciel s'assombrir, clouant les avions au
-  sol.<!--more-->[voir carte de localisation et image satellite dans la colonne
-  centrale-&gt;] <div><br />  </div>  <div>Source : Nasa Earth Observatory
-  </div>
+fr:
+  title: 'Chili : image satellite de l''éruption du Puyehue'
+  body: >-
+    Le 3 juin, le volcan chilien Puyehue est entré en éruption. Une colonne de
+    cendres s'est élevée dans les airs jusqu'à 13 kilomètres d'altitude, et un
+    nuage de cendres s'est propagé, grâce aux vents, vers le nord et l'est.
+    L'Argentine a ainsi vu son ciel s'assombrir, clouant les avions au
+    sol.<!--more-->[voir carte de localisation et image satellite dans la
+    colonne centrale-&gt;] <div><br />  </div>  <div>Source : Nasa Earth
+    Observatory </div>
+en: {}

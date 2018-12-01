@@ -1,9 +1,10 @@
 title: uruguay-mise-a-jour
-nameFr: 'Uruguay : mise à jour'
-nameEn: 'Uruguay : mise à jour'
 date: 2009-10-02T00:00:00.000Z
-bodyFr: >-
-  L'Uruguay retrouve la crise économique après plusieurs années de forte
-  croissance. Un retour qui pourrait fragiliser les plus pauvres. Pourtant, le
-  pays est bien placé sur la route des échanges entre l'Argentine et le Brésil,
-  deux géants du Mercosur.
+fr:
+  title: 'Uruguay : mise à jour'
+  body: >-
+    L'Uruguay retrouve la crise économique après plusieurs années de forte
+    croissance. Un retour qui pourrait fragiliser les plus pauvres. Pourtant, le
+    pays est bien placé sur la route des échanges entre l'Argentine et le
+    Brésil, deux géants du Mercosur.
+en: {}

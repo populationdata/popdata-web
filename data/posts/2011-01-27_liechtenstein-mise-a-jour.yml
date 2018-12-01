@@ -1,10 +1,11 @@
 title: liechtenstein-mise-a-jour
-nameFr: 'Liechtenstein : mise à jour'
-nameEn: 'Liechtenstein : mise à jour'
 date: 2011-01-28T00:00:00.000Z
-bodyFr: >-
-  Très petit pays, le Liechtenstein n'en est pas  moins connu. Paradis fiscal
-  abritant des dizaines de milliers de  "fondations" qui servent essentiellement
-  au blanchiment d'argent et à  l'évasion fiscal, il est dans le collimateur des
-  grands regroupements de  pays comme l'OCDE. Et cherche à bien se faire voir en
-  acceptant d'assouplir son secret bancaire.
+fr:
+  title: 'Liechtenstein : mise à jour'
+  body: >-
+    Très petit pays, le Liechtenstein n'en est pas  moins connu. Paradis fiscal
+    abritant des dizaines de milliers de  "fondations" qui servent
+    essentiellement au blanchiment d'argent et à  l'évasion fiscal, il est dans
+    le collimateur des grands regroupements de  pays comme l'OCDE. Et cherche à
+    bien se faire voir en acceptant d'assouplir son secret bancaire.
+en: {}

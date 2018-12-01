@@ -1,8 +1,10 @@
 title: mali-mise-a-jour-3
-nameFr: 'Mali : mise à jour'
-nameEn: 'Mali : mise à jour'
 date: 2012-03-28T00:00:00.000Z
-bodyFr: >-
-  Une junte militaire, le Comité national pour le redressement de la démocratie
-  et la restauration de l'Etat (CNRDRE), dirigée par le capitaine Amadou Sanogo,
-  a pris le pouvoir au Mali. Voici une mise à jour de notre fiche pays.
+fr:
+  title: 'Mali : mise à jour'
+  body: >-
+    Une junte militaire, le Comité national pour le redressement de la
+    démocratie et la restauration de l'Etat (CNRDRE), dirigée par le capitaine
+    Amadou Sanogo, a pris le pouvoir au Mali. Voici une mise à jour de notre
+    fiche pays.
+en: {}

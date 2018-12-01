@@ -1,8 +1,9 @@
 title: egypte-larmee-a-repris-le-pouvoir
-nameFr: 'Egypte : l''armée a repris le pouvoir'
-nameEn: 'Egypte : l''armée a repris le pouvoir'
 date: 2013-07-04T00:00:00.000Z
-bodyFr: >-
-  Mercredi 3 juillet, l'armée a destitué le président et placé un juge, Adly
-  Mansour, à la tête du pays, suite aux manifestations hostiles à l'ancien
-  président, Mohamed Morsi.
+fr:
+  title: 'Egypte : l''armée a repris le pouvoir'
+  body: >-
+    Mercredi 3 juillet, l'armée a destitué le président et placé un juge, Adly
+    Mansour, à la tête du pays, suite aux manifestations hostiles à l'ancien
+    président, Mohamed Morsi.
+en: {}

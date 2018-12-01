@@ -1,10 +1,11 @@
 title: burkina-faso-mise-a-jour-2
-nameFr: 'Burkina Faso : mise à jour'
-nameEn: 'Burkina Faso : mise à jour'
 date: 2011-04-18T00:00:00.000Z
-bodyFr: >-
-  Malgré une croissance économique très forte ces dernières années, le pays
-  reste l'un des plus pauvres du monde. Ce développement a en effet bien du mal
-  à se voir et à profiter au plus grand nombre, et nombreux sont les laissés
-  pour compte qui vont grossir les rangs des bidonvilles de la capitale
-  Ouagadougou, qui voit sa population exploser.
+fr:
+  title: 'Burkina Faso : mise à jour'
+  body: >-
+    Malgré une croissance économique très forte ces dernières années, le pays
+    reste l'un des plus pauvres du monde. Ce développement a en effet bien du
+    mal à se voir et à profiter au plus grand nombre, et nombreux sont les
+    laissés pour compte qui vont grossir les rangs des bidonvilles de la
+    capitale Ouagadougou, qui voit sa population exploser.
+en: {}

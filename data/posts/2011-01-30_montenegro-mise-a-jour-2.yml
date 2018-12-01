@@ -1,8 +1,9 @@
 title: montenegro-mise-a-jour-2
-nameFr: 'Monténégro : mise à jour'
-nameEn: 'Monténégro : mise à jour'
 date: 2011-01-31T00:00:00.000Z
-bodyFr: >-
-  Une petite mise à jour de certains chiffres, pour ce petit pays bordant la
-  Méditerrannée. Coincé entre Albanie, Serbie et Bosnie-Herzégovine, cet Etat
-  très jeune (indépendant depuis 2006) tente de prendre son envol.
+fr:
+  title: 'Monténégro : mise à jour'
+  body: >-
+    Une petite mise à jour de certains chiffres, pour ce petit pays bordant la
+    Méditerrannée. Coincé entre Albanie, Serbie et Bosnie-Herzégovine, cet Etat
+    très jeune (indépendant depuis 2006) tente de prendre son envol.
+en: {}

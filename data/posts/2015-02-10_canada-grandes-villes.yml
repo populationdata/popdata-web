@@ -1,8 +1,9 @@
 title: canada-grandes-villes
-nameFr: 'Canada : Grandes Villes'
-nameEn: 'Canada : Grandes Villes'
 date: 2015-02-11T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la population des plus grands centres urbains du Canada. La
-  croissance démographique ne faiblit pas. Toronto dépasse les 6 millions
-  d'habitants et Montréal les 4 millions.
+fr:
+  title: 'Canada : Grandes Villes'
+  body: >-
+    Mise à jour de la population des plus grands centres urbains du Canada. La
+    croissance démographique ne faiblit pas. Toronto dépasse les 6 millions
+    d'habitants et Montréal les 4 millions.
+en: {}

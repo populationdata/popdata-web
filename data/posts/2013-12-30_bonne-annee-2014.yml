@@ -1,7 +1,8 @@
 title: bonne-annee-2014
-nameFr: Bonne Année 2014 !
-nameEn: Bonne Année 2014 !
 date: 2013-12-31T00:00:00.000Z
-bodyFr: >-
-  <img width="469" height="305" border="0" alt=""
-  src="/images/articles/2014.jpg" />
+fr:
+  title: Bonne Année 2014 !
+  body: >-
+    <img width="469" height="305" border="0" alt=""
+    src="/images/articles/2014.jpg" />
+en: {}

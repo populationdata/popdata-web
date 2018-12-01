@@ -1,8 +1,9 @@
 title: canada-mise-a-jour-des-populations-des-grandes-villes
-nameFr: 'Canada : mise à jour des populations des grandes villes'
-nameEn: 'Canada : mise à jour des populations des grandes villes'
 date: 2014-02-27T00:00:00.000Z
-bodyFr: >-
-  Mise à jour des populations des aires métropolitaines du Canada. Avec les
-  chiffres de 2013, publiés par Statistiques Canada. Peu de changements notables
-  si ce n'est que Québec repasse devant Winnipeg.
+fr:
+  title: 'Canada : mise à jour des populations des grandes villes'
+  body: >-
+    Mise à jour des populations des aires métropolitaines du Canada. Avec les
+    chiffres de 2013, publiés par Statistiques Canada. Peu de changements
+    notables si ce n'est que Québec repasse devant Winnipeg.
+en: {}

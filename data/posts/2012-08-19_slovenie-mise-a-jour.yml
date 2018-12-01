@@ -1,7 +1,8 @@
 title: slovenie-mise-a-jour
-nameFr: 'Slovénie : mise à jour'
-nameEn: 'Slovénie : mise à jour'
 date: 2012-08-20T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des chiffres de la fiche Slovénie, dont la population 
-  recommence doucement à croître, avec l'amélioration du niveau de vie global.
+fr:
+  title: 'Slovénie : mise à jour'
+  body: >-
+    Petite mise à jour des chiffres de la fiche Slovénie, dont la population 
+    recommence doucement à croître, avec l'amélioration du niveau de vie global.
+en: {}

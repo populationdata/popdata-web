@@ -1,12 +1,13 @@
 title: taiwan-seisme-de-magnitude-6-3
-nameFr: 'Taïwan : séisme de magnitude 6.3'
-nameEn: 'Taïwan : séisme de magnitude 6.3'
 date: 2009-07-15T00:00:00.000Z
-bodyFr: >-
-  Un séisme de magnitude 6.3 a été ressenti de manière modérée à Taïwan le 14
-  juillet à 2h05 du matin (heure locale). Le séisme s'est produit au large de
-  l'île, à une cinquantaine de km à l'est des côtes. Des répliques ont ensuite
-  été ressenties, dont une de magnitude 5 sur l'échelle de Richter.<!--more-->On
-  ne déplore aucune victime ni de dégâts importants sur l'île. Il n'y a pas eu
-  non plus de tsunami.<br /><br />[voir carte dans la colonne centrale -&gt;]<br
-  /><br />
+fr:
+  title: 'Taïwan : séisme de magnitude 6.3'
+  body: >-
+    Un séisme de magnitude 6.3 a été ressenti de manière modérée à Taïwan le 14
+    juillet à 2h05 du matin (heure locale). Le séisme s'est produit au large de
+    l'île, à une cinquantaine de km à l'est des côtes. Des répliques ont ensuite
+    été ressenties, dont une de magnitude 5 sur l'échelle de
+    Richter.<!--more-->On ne déplore aucune victime ni de dégâts importants sur
+    l'île. Il n'y a pas eu non plus de tsunami.<br /><br />[voir carte dans la
+    colonne centrale -&gt;]<br /><br />
+en: {}

@@ -1,10 +1,11 @@
 title: liban-mise-a-jour
-nameFr: 'Liban : mise à jour'
-nameEn: 'Liban : mise à jour'
 date: 2009-03-18T00:00:00.000Z
-bodyFr: >-
-  Malgré des violences répétées dans certains endroits, le Liban est à nouveau
-  sur la route du développement. Les libanais souhaitent vivre en paix, mais les
-  pays voisins ont décidé qu'il serait leur terrain de jeu guerrier. Reste à
-  savoir si cette paix peut être durable, et si ces derniers respecteront
-  l'intégrité du pays.
+fr:
+  title: 'Liban : mise à jour'
+  body: >-
+    Malgré des violences répétées dans certains endroits, le Liban est à nouveau
+    sur la route du développement. Les libanais souhaitent vivre en paix, mais
+    les pays voisins ont décidé qu'il serait leur terrain de jeu guerrier. Reste
+    à savoir si cette paix peut être durable, et si ces derniers respecteront
+    l'intégrité du pays.
+en: {}

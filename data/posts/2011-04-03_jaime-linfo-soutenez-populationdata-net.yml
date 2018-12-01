@@ -1,11 +1,12 @@
 title: jaime-linfo-soutenez-populationdata-net
-nameFr: 'J''aime l''info : soutenez PopulationData.net'
-nameEn: 'J''aime l''info : soutenez PopulationData.net'
 date: 2011-04-04T00:00:00.000Z
-bodyFr: >-
-  Vous aimez la presse en ligne ? Vous aimez PopulationData.net ? (oui, oui...)
-  Vous souhaitez pouvoir continuer longtemps à profiter de tous ces avantages :
-  gratuité de l'information en ligne, mises à jour régulières, information
-  différente ? Soutenez PopulationData.net grâce à la plateforme J'aime l'info
-  lancée par Rue89 et le Syndicat de la presse indépendante d'information en
-  ligne (Spiil).
+fr:
+  title: 'J''aime l''info : soutenez PopulationData.net'
+  body: >-
+    Vous aimez la presse en ligne ? Vous aimez PopulationData.net ? (oui,
+    oui...) Vous souhaitez pouvoir continuer longtemps à profiter de tous ces
+    avantages : gratuité de l'information en ligne, mises à jour régulières,
+    information différente ? Soutenez PopulationData.net grâce à la plateforme
+    J'aime l'info lancée par Rue89 et le Syndicat de la presse indépendante
+    d'information en ligne (Spiil).
+en: {}

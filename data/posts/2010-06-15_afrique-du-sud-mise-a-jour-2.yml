@@ -1,11 +1,12 @@
 title: afrique-du-sud-mise-a-jour-2
-nameFr: 'Afrique du Sud : mise à jour'
-nameEn: 'Afrique du Sud : mise à jour'
 date: 2010-06-16T00:00:00.000Z
-bodyFr: >-
-  Alors que la coupe du monde 2010 de football, qui réunit un grand nombre de
-  fans à travers le monde, se déroule en Afrique du Sud, le pays doit faire face
-  à de multiples préoccupations : sida, pauvreté, faim, délinquance, crise
-  économique. Cette grande réunion sportive mondiale est un élément important
-  dans la relance économique souhaitée par le pouvoir sud-africain, car elle met
-  le pays sous les projecteurs du monde entier.
+fr:
+  title: 'Afrique du Sud : mise à jour'
+  body: >-
+    Alors que la coupe du monde 2010 de football, qui réunit un grand nombre de
+    fans à travers le monde, se déroule en Afrique du Sud, le pays doit faire
+    face à de multiples préoccupations : sida, pauvreté, faim, délinquance,
+    crise économique. Cette grande réunion sportive mondiale est un élément
+    important dans la relance économique souhaitée par le pouvoir sud-africain,
+    car elle met le pays sous les projecteurs du monde entier.
+en: {}

@@ -1,10 +1,11 @@
 title: mali-mise-a-jour
-nameFr: 'Mali : mise à jour'
-nameEn: 'Mali : mise à jour'
 date: 2009-01-07T00:00:00.000Z
-bodyFr: >-
-  L'extrême pauvreté d'une partie importante de la population, doublée d'un taux
-  d'illettrés de près de 77%, freine le développement du Mali. Et tant qu'il
-  n'investira pas massivement dans l'éducation de son peuple, la situation
-  n'évoluera pas favorablement pour ce pays, considéré comme l'un des plus
-  pauvres du monde.  <br />
+fr:
+  title: 'Mali : mise à jour'
+  body: >-
+    L'extrême pauvreté d'une partie importante de la population, doublée d'un
+    taux d'illettrés de près de 77%, freine le développement du Mali. Et tant
+    qu'il n'investira pas massivement dans l'éducation de son peuple, la
+    situation n'évoluera pas favorablement pour ce pays, considéré comme l'un
+    des plus pauvres du monde.  <br />
+en: {}

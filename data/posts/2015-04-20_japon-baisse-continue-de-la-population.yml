@@ -1,9 +1,10 @@
 title: japon-baisse-continue-de-la-population
-nameFr: 'Japon : baisse continue de la population'
-nameEn: 'Japon : baisse continue de la population'
 date: 2015-04-21T00:00:00.000Z
-bodyFr: >-
-  La population de l'archipel baisse désormais depuis 4 ans. La croissance des
-  décennies  précédentes avait déjà fortement diminué petit à petit, laissant
-  penser que le pays devrait se retrouver avec beaucoup moins d'habitants d'ici
-  2050.
+fr:
+  title: 'Japon : baisse continue de la population'
+  body: >-
+    La population de l'archipel baisse désormais depuis 4 ans. La croissance des
+    décennies  précédentes avait déjà fortement diminué petit à petit, laissant
+    penser que le pays devrait se retrouver avec beaucoup moins d'habitants
+    d'ici 2050.
+en: {}

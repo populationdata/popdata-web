@@ -1,12 +1,14 @@
 title: empreinte-humaine
-nameFr: Empreinte humaine
-nameEn: Empreinte humaine
 date: 2009-04-27T00:00:00.000Z
-bodyFr: >-
-  L'empreinte humaine, c'est à dire la pression mise par les humains sur leur
-  environnement et sur les biomes biogéographiques, est en constante
-  augmentation. Au point que la majorité des espaces naturelles sont désormais
-  contrôlés par les humains. Le monde sauvage régresse en terme de superficie et
-  se retranche dans des zones qui se réduisent dangereusement. Voici une carte
-  du monde de l'empreinte humaine, aussi appelée "footprint".<!--more-->(voir la
-  carte dans la colonne en haut à droite)  <br />
+fr:
+  title: Empreinte humaine
+  body: >-
+    L'empreinte humaine, c'est à dire la pression mise par les humains sur leur
+    environnement et sur les biomes biogéographiques, est en constante
+    augmentation. Au point que la majorité des espaces naturelles sont désormais
+    contrôlés par les humains. Le monde sauvage régresse en terme de superficie
+    et se retranche dans des zones qui se réduisent dangereusement. Voici une
+    carte du monde de l'empreinte humaine, aussi appelée
+    "footprint".<!--more-->(voir la carte dans la colonne en haut à droite)  <br
+    />
+en: {}

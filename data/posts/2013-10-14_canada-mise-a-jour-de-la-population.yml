@@ -1,7 +1,8 @@
 title: canada-mise-a-jour-de-la-population
-nameFr: 'Canada : mise à jour de la population'
-nameEn: 'Canada : mise à jour de la population'
 date: 2013-10-15T00:00:00.000Z
-bodyFr: >-
-  Le Canada continue sur sa poussée démographique. Le Québec a dépassé récemment
-  les 8 millions d'habitants, et l'Alberta les 4 millions.
+fr:
+  title: 'Canada : mise à jour de la population'
+  body: >-
+    Le Canada continue sur sa poussée démographique. Le Québec a dépassé
+    récemment les 8 millions d'habitants, et l'Alberta les 4 millions.
+en: {}

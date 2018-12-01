@@ -1,10 +1,11 @@
 title: tadjikistan-mise-a-jour
-nameFr: 'Tadjikistan : mise à jour'
-nameEn: 'Tadjikistan : mise à jour'
 date: 2009-10-08T00:00:00.000Z
-bodyFr: >-
-  Entre les crises politiques internes, les crises politiques dans les pays de
-  la région, la guerre en Afghanistan et la crise économique mondiale, le pays
-  est au coeur d'une période de troubles dont personne n'entrevoit la fin. Et
-  malgré ses atouts potentiels, en terme d'hydroélectricité notamment, les
-  populations restent largement dans la pauvreté.
+fr:
+  title: 'Tadjikistan : mise à jour'
+  body: >-
+    Entre les crises politiques internes, les crises politiques dans les pays de
+    la région, la guerre en Afghanistan et la crise économique mondiale, le pays
+    est au coeur d'une période de troubles dont personne n'entrevoit la fin. Et
+    malgré ses atouts potentiels, en terme d'hydroélectricité notamment, les
+    populations restent largement dans la pauvreté.
+en: {}

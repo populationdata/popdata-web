@@ -1,9 +1,10 @@
 title: etats-unis-mise-a-jour-5
-nameFr: 'Etats-Unis : mise à jour'
-nameEn: 'Etats-Unis : mise à jour'
 date: 2010-12-22T00:00:00.000Z
-bodyFr: >-
-  Le bureau étatsunien du recensement vient de publier les premiers résultats du
-  recensement 2010. Où l'on apprend que la croissance démographique,
-  habituellement très forte, a baissé d'intensité depuis deux ans. La faute à la
-  crise économique, qui a entraîné une baisse de l'immigration.
+fr:
+  title: 'Etats-Unis : mise à jour'
+  body: >-
+    Le bureau étatsunien du recensement vient de publier les premiers résultats
+    du recensement 2010. Où l'on apprend que la croissance démographique,
+    habituellement très forte, a baissé d'intensité depuis deux ans. La faute à
+    la crise économique, qui a entraîné une baisse de l'immigration.
+en: {}

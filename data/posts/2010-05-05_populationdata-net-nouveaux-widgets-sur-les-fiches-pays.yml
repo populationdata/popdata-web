@@ -1,13 +1,14 @@
 title: populationdata-net-nouveaux-widgets-sur-les-fiches-pays
-nameFr: 'PopulationData.net : nouveaux Widgets sur les fiches Pays'
-nameEn: 'PopulationData.net : nouveaux Widgets sur les fiches Pays'
 date: 2010-05-06T00:00:00.000Z
-bodyFr: >-
-  PopulationData.net lance ses "Widgets Pays". En effet, il est désormais
-  possible de se créer un ou des widgets des fiches pays, affichant le nom du
-  pays, le drapeau, le nombre d'habitants, la superficie et la capitale. La
-  création d'un widget est très simple : dans chaque fiche pays, on trouve un
-  lien "Widget" sous le nom du pays. Le graphisme et la couleur du texte sont
-  aisément modifiables. Ce service pratique est gratuit et disponible pour tous
-  ceux qui veulent afficher des informations géographiques à jour sur leur
-  blogue ou leur site :-)
+fr:
+  title: 'PopulationData.net : nouveaux Widgets sur les fiches Pays'
+  body: >-
+    PopulationData.net lance ses "Widgets Pays". En effet, il est désormais
+    possible de se créer un ou des widgets des fiches pays, affichant le nom du
+    pays, le drapeau, le nombre d'habitants, la superficie et la capitale. La
+    création d'un widget est très simple : dans chaque fiche pays, on trouve un
+    lien "Widget" sous le nom du pays. Le graphisme et la couleur du texte sont
+    aisément modifiables. Ce service pratique est gratuit et disponible pour
+    tous ceux qui veulent afficher des informations géographiques à jour sur
+    leur blogue ou leur site :-)
+en: {}

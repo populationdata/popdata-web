@@ -1,9 +1,10 @@
 title: perou-mise-a-jour-2
-nameFr: 'Pérou : mise à jour'
-nameEn: 'Pérou : mise à jour'
 date: 2013-03-06T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des chiffres du Pérou. Le pays vient de dépasser les 30
-  millions d'habitants. Sa croissance démographique baisse chaque année, et sa
-  forte croissance économique lui permet d'améliorer les conditions de vie
-  globales de sa population.
+fr:
+  title: 'Pérou : mise à jour'
+  body: >-
+    Petite mise à jour des chiffres du Pérou. Le pays vient de dépasser les 30
+    millions d'habitants. Sa croissance démographique baisse chaque année, et sa
+    forte croissance économique lui permet d'améliorer les conditions de vie
+    globales de sa population.
+en: {}

@@ -1,10 +1,11 @@
 title: canada-mise-a-jour
-nameFr: 'Canada : mise à jour'
-nameEn: 'Canada : mise à jour'
 date: 2008-10-10T00:00:00.000Z
-bodyFr: >-
-  L'immigration internationale est de plus en plus forte au Canada, et contribue
-  très fortement à l'accroissement démographique du pays. Il n'avait pas connu
-  une telle croissance globale depuis 1991, avec 125 800 habitants de plus, et
-  un tel accroissement de l'immigration depuis 1980, avec 91 600 personnes, le
-  tout rien qu'au troisième trimestre 2008 !  <br />
+fr:
+  title: 'Canada : mise à jour'
+  body: >-
+    L'immigration internationale est de plus en plus forte au Canada, et
+    contribue très fortement à l'accroissement démographique du pays. Il n'avait
+    pas connu une telle croissance globale depuis 1991, avec 125 800 habitants
+    de plus, et un tel accroissement de l'immigration depuis 1980, avec 91 600
+    personnes, le tout rien qu'au troisième trimestre 2008 !  <br />
+en: {}

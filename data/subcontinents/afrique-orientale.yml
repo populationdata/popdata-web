@@ -1,5 +1,7 @@
 title: afrique-orientale
-nameFr: Afrique de l'Est
-nameEn: East Africa
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Afrique de l'Est
+en:
+  name: East Africa
 continent: afrique

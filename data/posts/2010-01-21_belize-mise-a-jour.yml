@@ -1,11 +1,12 @@
 title: belize-mise-a-jour
-nameFr: 'Belize : mise à jour'
-nameEn: 'Belize : mise à jour'
 date: 2010-01-22T00:00:00.000Z
-bodyFr: >-
-  Régulièrement balayé et ravagé par les cyclones, le Belize est un petit pays
-  peu peuplé d'Amérique centrale. Il peut désormais compter sur une exploitation
-  de ses ressources pétrolières plus intense, ce qui devrait lui permettre de
-  financer la modernisation plus rapide de ses infrastructures, condition
-  essentielle pour mieux résister face aux catastrophes naturelles, et mieux
-  protéger sa population.
+fr:
+  title: 'Belize : mise à jour'
+  body: >-
+    Régulièrement balayé et ravagé par les cyclones, le Belize est un petit pays
+    peu peuplé d'Amérique centrale. Il peut désormais compter sur une
+    exploitation de ses ressources pétrolières plus intense, ce qui devrait lui
+    permettre de financer la modernisation plus rapide de ses infrastructures,
+    condition essentielle pour mieux résister face aux catastrophes naturelles,
+    et mieux protéger sa population.
+en: {}

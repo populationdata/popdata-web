@@ -1,8 +1,9 @@
 title: bresil-200-millions-dhabitants
-nameFr: 'Brésil : 200 millions d''habitants'
-nameEn: 'Brésil : 200 millions d''habitants'
 date: 2013-12-11T00:00:00.000Z
-bodyFr: >-
-  Le Brésil vient de dépasser les 200 millions d'habitants. 5ème pays du monde
-  par sa population, il continue à croître rapidement. Et prend de plus en plus
-  une place prépondérante dans le concert des nations.
+fr:
+  title: 'Brésil : 200 millions d''habitants'
+  body: >-
+    Le Brésil vient de dépasser les 200 millions d'habitants. 5ème pays du monde
+    par sa population, il continue à croître rapidement. Et prend de plus en
+    plus une place prépondérante dans le concert des nations.
+en: {}

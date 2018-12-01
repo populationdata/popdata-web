@@ -1,8 +1,9 @@
 title: champ-de-mais-vu-du-ciel
-nameFr: Champ de maïs vu du ciel
-nameEn: Champ de maïs vu du ciel
 date: 2007-06-13T00:00:00.000Z
-bodyFr: >-
-  L'image satellite de ce champ de maïs près de Paris est d'une précision telle
-  que l'on peut aperçevoir les rangs des épis de maïs. Impressionnant !    <br
-  />
+fr:
+  title: Champ de maïs vu du ciel
+  body: >-
+    L'image satellite de ce champ de maïs près de Paris est d'une précision
+    telle que l'on peut aperçevoir les rangs des épis de maïs. Impressionnant
+    !    <br />
+en: {}

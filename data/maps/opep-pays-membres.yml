@@ -1,4 +1,6 @@
 title: opep-pays-membres
-nameFr: OPEP - pays membres
-nameEn: OPEC - Membrer Countries
 date: 2016-05-16T19:05:04.000Z
+fr:
+  title: OPEP - pays membres
+en:
+  title: OPEC - Membrer Countries

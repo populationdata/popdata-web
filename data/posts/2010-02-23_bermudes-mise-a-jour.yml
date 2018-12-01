@@ -1,10 +1,11 @@
 title: bermudes-mise-a-jour
-nameFr: 'Bermudes : mise à jour'
-nameEn: 'Bermudes : mise à jour'
 date: 2010-02-24T00:00:00.000Z
-bodyFr: >-
-  Paradis fiscal et touristique de luxe, ce qui souvent va de paire, les
-  Bermudes forment un archipel très densément peuplé, où la place manque.
-  Pourtant, la population continue d'augmenter, ce qui commence à poser des
-  problèmes sérieux en matière de ressources disponibles localement, dont l'eau
-  douce, que l'on ne trouve pas sur place.
+fr:
+  title: 'Bermudes : mise à jour'
+  body: >-
+    Paradis fiscal et touristique de luxe, ce qui souvent va de paire, les
+    Bermudes forment un archipel très densément peuplé, où la place manque.
+    Pourtant, la population continue d'augmenter, ce qui commence à poser des
+    problèmes sérieux en matière de ressources disponibles localement, dont
+    l'eau douce, que l'on ne trouve pas sur place.
+en: {}

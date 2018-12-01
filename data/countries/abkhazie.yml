@@ -1,9 +1,12 @@
 title: abkhazie
-nameFr: Abkhazie
-nameEn: Abkhazia
 date: 2017-06-02T21:13:25.000Z
-descriptionFr: ''
-descriptionEn: ''
-longName: République d'Abkhazie
+fr:
+  name: Abkhazie
+  description: ''
+  officialName: République d'Abkhazie
+en:
+  name: Abkhazia
+  description: ''
+  officialName: République d'Abkhazie
 localeName: Аҧсны (ab) ; აფხაზეთი (ka) ; Абхазия (ru)
 subcontinent: asie-de-louest

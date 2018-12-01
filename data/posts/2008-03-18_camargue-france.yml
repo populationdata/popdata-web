@@ -1,9 +1,10 @@
 title: camargue-france
-nameFr: Camargue - France
-nameEn: Camargue - France
 date: 2008-03-19T00:00:00.000Z
-bodyFr: >-
-  <div style="text-align: justify;">La Camargue est lespace marécageux formé par
-  le delta du Rhône. Cest un espace terrestre de 145 300 ha au sud de la France,
-  situé géographiquement entre les deux bras principaux du delta du Rhône et la
-  mer <span class="mw-redirect">Méditerranée.</span> </div>
+fr:
+  title: Camargue - France
+  body: >-
+    <div style="text-align: justify;">La Camargue est lespace marécageux formé
+    par le delta du Rhône. Cest un espace terrestre de 145 300 ha au sud de la
+    France, situé géographiquement entre les deux bras principaux du delta du
+    Rhône et la mer <span class="mw-redirect">Méditerranée.</span> </div>
+en: {}

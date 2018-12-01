@@ -1,10 +1,11 @@
 title: albanie-mise-a-jour-2
-nameFr: 'Albanie : mise à jour'
-nameEn: 'Albanie : mise à jour'
 date: 2015-08-26T00:00:00.000Z
-bodyFr: >-
-  La population du pays continu de décroître. Depuis 2007, l'Albanie est passée
-  sous la barre des 3 millions d'habitants. L'émigration et la faiblesse de la
-  natalité en sont les principales causes. Près d'1/4 des Albanais vivent en
-  effet à l'étranger, soit un million de personnes environ, surtout dans les
-  pays limitrophes, Italie et Grèce en tête.
+fr:
+  title: 'Albanie : mise à jour'
+  body: >-
+    La population du pays continu de décroître. Depuis 2007, l'Albanie est
+    passée sous la barre des 3 millions d'habitants. L'émigration et la
+    faiblesse de la natalité en sont les principales causes. Près d'1/4 des
+    Albanais vivent en effet à l'étranger, soit un million de personnes environ,
+    surtout dans les pays limitrophes, Italie et Grèce en tête.
+en: {}

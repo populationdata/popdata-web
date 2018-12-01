@@ -1,10 +1,11 @@
 title: nouvelle-caledonie-recensement-termine
-nameFr: 'Nouvelle-Calédonie : recensement terminé'
-nameEn: 'Nouvelle-Calédonie : recensement terminé'
 date: 2014-11-14T00:00:00.000Z
-bodyFr: >-
-  La population continue de progresser fortement, à +1,8%/an. Nouméa pèse lourd
-  démographiquement, abritant plus des 2/3 des habitants de l'archipel. Et son
-  poids va en s'accélérant, l'urbanisation de toute la région du sud-ouest de
-  l'île prenant de l'ampleur. L'institut de statistiques de Nouvelle-Calédonie
-  vient de publier les résultats de son recensement 2014.
+fr:
+  title: 'Nouvelle-Calédonie : recensement terminé'
+  body: >-
+    La population continue de progresser fortement, à +1,8%/an. Nouméa pèse
+    lourd démographiquement, abritant plus des 2/3 des habitants de l'archipel.
+    Et son poids va en s'accélérant, l'urbanisation de toute la région du
+    sud-ouest de l'île prenant de l'ampleur. L'institut de statistiques de
+    Nouvelle-Calédonie vient de publier les résultats de son recensement 2014.
+en: {}

@@ -1,11 +1,12 @@
 title: tunisie-mise-a-jour
-nameFr: 'Tunisie : mise à jour'
-nameEn: 'Tunisie : mise à jour'
 date: 2011-01-12T00:00:00.000Z
-bodyFr: >-
-  Alors que la Tunisie a moins souffert de la crise économique mondiale que
-  d'autres, la question très actuelle des droits humains reste entière dans le
-  pays. Soutenu par la communauté internationale, et notamment par la France, le
-  régime dictatorial du président Ben Ali n'hésite pas à sacrifier la jeunesse
-  en exerçant une répression féroce pour préserver son autorité, et le
-  clientèlisme de son gouvernement corrompu.
+fr:
+  title: 'Tunisie : mise à jour'
+  body: >-
+    Alors que la Tunisie a moins souffert de la crise économique mondiale que
+    d'autres, la question très actuelle des droits humains reste entière dans le
+    pays. Soutenu par la communauté internationale, et notamment par la France,
+    le régime dictatorial du président Ben Ali n'hésite pas à sacrifier la
+    jeunesse en exerçant une répression féroce pour préserver son autorité, et
+    le clientèlisme de son gouvernement corrompu.
+en: {}

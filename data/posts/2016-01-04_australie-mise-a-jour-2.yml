@@ -1,9 +1,10 @@
 title: australie-mise-a-jour-2
-nameFr: 'Australie : mise à jour'
-nameEn: 'Australie : mise à jour'
 date: 2016-01-05T00:00:00.000Z
-bodyFr: >-
-  La population australienne continu sa croissance forte, avec en moyenne +1,4%
-  par an, soit l'une des plus élevées parmi les pays riches. L'immigration est
-  la principale composante de cet accroissement. Cet immense pays reste malgré
-  cela toujours relativement vide et peu peuplé.
+fr:
+  title: 'Australie : mise à jour'
+  body: >-
+    La population australienne continu sa croissance forte, avec en moyenne
+    +1,4% par an, soit l'une des plus élevées parmi les pays riches.
+    L'immigration est la principale composante de cet accroissement. Cet immense
+    pays reste malgré cela toujours relativement vide et peu peuplé.
+en: {}

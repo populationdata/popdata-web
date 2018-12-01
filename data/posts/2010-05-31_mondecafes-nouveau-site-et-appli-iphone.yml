@@ -1,11 +1,12 @@
 title: mondecafes-nouveau-site-et-appli-iphone
-nameFr: 'MondeCafés : nouveau site et appli iPhone'
-nameEn: 'MondeCafés : nouveau site et appli iPhone'
 date: 2010-06-01T00:00:00.000Z
-bodyFr: >-
-  Notre partenaire MondeCafés.com vient de lancer son nouveau site, avec à la
-  clé une nouvelle application iPhone ! Il s'agit d'un guide urbain qui vous
-  permet de découvrir tous les lieux plébiscités par les internautes dans les
-  grandes villes du monde, en particulier en France, au Canada et en Australie.
-  Outre le jeu-concours (iPad à gagner) pour le lancement, les fonctionnalités
-  du site sont pratiques et faciles à utiliser :-)
+fr:
+  title: 'MondeCafés : nouveau site et appli iPhone'
+  body: >-
+    Notre partenaire MondeCafés.com vient de lancer son nouveau site, avec à la
+    clé une nouvelle application iPhone ! Il s'agit d'un guide urbain qui vous
+    permet de découvrir tous les lieux plébiscités par les internautes dans les
+    grandes villes du monde, en particulier en France, au Canada et en
+    Australie. Outre le jeu-concours (iPad à gagner) pour le lancement, les
+    fonctionnalités du site sont pratiques et faciles à utiliser :-)
+en: {}

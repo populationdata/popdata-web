@@ -1,9 +1,10 @@
 title: darfour-envoi-dune-force-multinationale
-nameFr: Darfour - Envoi d'une force multinationale
-nameEn: Darfour - Envoi d'une force multinationale
 date: 2007-08-01T00:00:00.000Z
-bodyFr: >-
-  <div style="text-align: justify;">L'ONU vient enfin de se décider   envoyer
-  une force multinationale au Darfour, au Soudan. Les 26 000 hommes prévus
-  seront-ils   la hauteur pour protéger les millions de civils déplacés et pour
-  punir les exactions commises ?         <br />    </div>
+fr:
+  title: Darfour - Envoi d'une force multinationale
+  body: >-
+    <div style="text-align: justify;">L'ONU vient enfin de se décider   envoyer
+    une force multinationale au Darfour, au Soudan. Les 26 000 hommes prévus
+    seront-ils   la hauteur pour protéger les millions de civils déplacés et
+    pour punir les exactions commises ?         <br />    </div>
+en: {}

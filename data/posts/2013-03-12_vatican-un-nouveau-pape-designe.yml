@@ -1,10 +1,11 @@
 title: vatican-un-nouveau-pape-designe
-nameFr: 'Vatican : un nouveau pape désigné'
-nameEn: 'Vatican : un nouveau pape désigné'
 date: 2013-03-13T00:00:00.000Z
-bodyFr: >-
-  Un nouveau pape vient d'être désigné au Vatican. Il s'agit de Jorge Mario
-  Bergoglio, qui prend le nom de François. Premier pape en provenance d'Amérique
-  du Sud, il est aussi le premier pape non européen depuis Grégoire III au
-  VIII<sup>e</sup> siècle. Il prend donc la tête à la fois de l'église
-  catholique et devient chef d'Etat du Vatican.
+fr:
+  title: 'Vatican : un nouveau pape désigné'
+  body: >-
+    Un nouveau pape vient d'être désigné au Vatican. Il s'agit de Jorge Mario
+    Bergoglio, qui prend le nom de François. Premier pape en provenance
+    d'Amérique du Sud, il est aussi le premier pape non européen depuis Grégoire
+    III au VIII<sup>e</sup> siècle. Il prend donc la tête à la fois de l'église
+    catholique et devient chef d'Etat du Vatican.
+en: {}

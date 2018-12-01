@@ -1,6 +1,8 @@
 title: ameriques
-nameFr: Amériques
-nameEn: Americas
 date: 2016-03-13T20:36:59.000Z
+fr:
+  name: Amériques
+en:
+  name: Americas
 gdpYear: 2014
 numberOfTimeZones: 12

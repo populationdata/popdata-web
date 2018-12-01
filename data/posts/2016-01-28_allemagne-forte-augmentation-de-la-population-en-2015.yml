@@ -1,10 +1,11 @@
 title: allemagne-forte-augmentation-de-la-population-en-2015
-nameFr: 'Allemagne : forte augmentation de la population en 2015'
-nameEn: 'Allemagne : forte augmentation de la population en 2015'
 date: 2016-01-29T00:00:00.000Z
-bodyFr: >-
-  Malgré un déficit de naissances sur les décès d'environ 200 000 personnes, la
-  population de l'Allemagne a progressé en 2015 grâce à l'apport des réfugiés.
-  Fin 2015, on comptait 81,8 millions d'habitants dans le pays contre 81,2
-  millions en début d'année selon les estimations provisoires de Destatis,
-  l'office statistique allemand.
+fr:
+  title: 'Allemagne : forte augmentation de la population en 2015'
+  body: >-
+    Malgré un déficit de naissances sur les décès d'environ 200 000 personnes,
+    la population de l'Allemagne a progressé en 2015 grâce à l'apport des
+    réfugiés. Fin 2015, on comptait 81,8 millions d'habitants dans le pays
+    contre 81,2 millions en début d'année selon les estimations provisoires de
+    Destatis, l'office statistique allemand.
+en: {}

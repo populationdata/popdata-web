@@ -1,4 +1,6 @@
 title: nouvelle-zelande-ile-nord-trains
-nameFr: 'Nouvelle-Zélande - Île du Nord : trains'
-nameEn: 'New Zealand - North Island: trains'
 date: 2016-11-23T17:57:23.000Z
+fr:
+  title: 'Nouvelle-Zélande - Île du Nord : trains'
+en:
+  title: 'New Zealand - North Island: trains'

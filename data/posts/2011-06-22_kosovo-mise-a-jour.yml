@@ -1,10 +1,12 @@
 title: kosovo-mise-a-jour
-nameFr: 'Kosovo : mise à jour'
-nameEn: 'Kosovo : mise à jour'
 date: 2011-06-23T00:00:00.000Z
-bodyFr: >-
-  Le Kosovo effectue en 2011 un recensement de sa population, le premier de sa
-  jeune histoire. Jeune histoire, et jeune pays, avec 63% de sa population ayant
-  moins de 30 ans. Et le chômage très élevé favorise l'émigration de cette
-  jeunesse en quête de travail. Enfin, 75 pays pour le moment ont officiellement
-  reconnu l'indépendance du pays, qui avait été proclamée début 2008.<!--more-->
+fr:
+  title: 'Kosovo : mise à jour'
+  body: >-
+    Le Kosovo effectue en 2011 un recensement de sa population, le premier de sa
+    jeune histoire. Jeune histoire, et jeune pays, avec 63% de sa population
+    ayant moins de 30 ans. Et le chômage très élevé favorise l'émigration de
+    cette jeunesse en quête de travail. Enfin, 75 pays pour le moment ont
+    officiellement reconnu l'indépendance du pays, qui avait été proclamée début
+    2008.<!--more-->
+en: {}

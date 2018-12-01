@@ -1,9 +1,11 @@
 title: namibie-mise-a-jour
-nameFr: 'Namibie : mise à jour'
-nameEn: 'Namibie : mise à jour'
 date: 2009-03-16T00:00:00.000Z
-bodyFr: >-
-  Au bout de deux décennies d'indépendance, le pays est désormais sur la voie du
-  développement. Mais de nombreux défis se dressent : crise économique mondiale,
-  extrême pauvreté, manque d'infrastructures, sida. Et sa trop grande dépendance
-  vis-à-vis de l'extérieur risque de freiner son essor naissant.
+fr:
+  title: 'Namibie : mise à jour'
+  body: >-
+    Au bout de deux décennies d'indépendance, le pays est désormais sur la voie
+    du développement. Mais de nombreux défis se dressent : crise économique
+    mondiale, extrême pauvreté, manque d'infrastructures, sida. Et sa trop
+    grande dépendance vis-à-vis de l'extérieur risque de freiner son essor
+    naissant.
+en: {}

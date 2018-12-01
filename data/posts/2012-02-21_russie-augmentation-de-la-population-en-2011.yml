@@ -1,9 +1,10 @@
 title: russie-augmentation-de-la-population-en-2011
-nameFr: 'Russie : augmentation de la population en 2011'
-nameEn: 'Russie : augmentation de la population en 2011'
 date: 2012-02-22T00:00:00.000Z
-bodyFr: >-
-  La population a augmenté en 2011 en Russie, pour la première fois depuis plus
-  de 20 ans. Avec désormais un peu plus de 143 millions d'habitants, une
-  situation sanitaire et sociale qui tend à s'améliorer lentement, cette forte
-  baisse depuis deux décennies semble stabilisée depuis deux ans.
+fr:
+  title: 'Russie : augmentation de la population en 2011'
+  body: >-
+    La population a augmenté en 2011 en Russie, pour la première fois depuis
+    plus de 20 ans. Avec désormais un peu plus de 143 millions d'habitants, une
+    situation sanitaire et sociale qui tend à s'améliorer lentement, cette forte
+    baisse depuis deux décennies semble stabilisée depuis deux ans.
+en: {}

@@ -1,11 +1,13 @@
 title: canada-mise-a-jour-6
-nameFr: 'Canada : mise à jour'
-nameEn: 'Canada : mise à jour'
 date: 2015-12-16T00:00:00.000Z
-bodyFr: >-
-  La croissance démographique du Canada ne faiblit pas depuis un an. Le pays
-  atteint les 36 millions d'habitants pour la première fois. Les provinces de
-  l'ouest, comme l'Alberta et le Saskatchewan, où l'on produit le fameux pétrole
-  issu des sables bitumeux, voient leur population progresser moins rapidement
-  depuis la chute des prix de celui-ci. Le rééquilibrage se fait en faveur de la
-  côte ouest, Colombie britannique, et du Canada central, Ontario et Québec.
+fr:
+  title: 'Canada : mise à jour'
+  body: >-
+    La croissance démographique du Canada ne faiblit pas depuis un an. Le pays
+    atteint les 36 millions d'habitants pour la première fois. Les provinces de
+    l'ouest, comme l'Alberta et le Saskatchewan, où l'on produit le fameux
+    pétrole issu des sables bitumeux, voient leur population progresser moins
+    rapidement depuis la chute des prix de celui-ci. Le rééquilibrage se fait en
+    faveur de la côte ouest, Colombie britannique, et du Canada central, Ontario
+    et Québec.
+en: {}

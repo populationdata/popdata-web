@@ -1,11 +1,13 @@
 title: mexique-seisme-de-magnitude-6-5
-nameFr: 'Mexique : séisme de magnitude 6.5'
-nameEn: 'Mexique : séisme de magnitude 6.5'
 date: 2011-12-11T00:00:00.000Z
-bodyFr: >-
-  Un séisme de magnitude 6.5 s'est produit dans la région de Guerrero au
-  Mexique, samedi 10 décembre à 19h47 (heure locale). Située à mi-chemin entre
-  Mexico et Acapulco, la région est régulièrement secouée par des tremblements
-  de terre, souvent meurtriers.<!--more-->On ignore pour l'instant l'ampleur des
-  dégâts et s'il y a des victimes.<br /><br />Voir carte dans colonne centrale
-  -&gt;<br />&nbsp;<br />Source : USGS&nbsp;- Earthquake Hazards Program
+fr:
+  title: 'Mexique : séisme de magnitude 6.5'
+  body: >-
+    Un séisme de magnitude 6.5 s'est produit dans la région de Guerrero au
+    Mexique, samedi 10 décembre à 19h47 (heure locale). Située à mi-chemin entre
+    Mexico et Acapulco, la région est régulièrement secouée par des tremblements
+    de terre, souvent meurtriers.<!--more-->On ignore pour l'instant l'ampleur
+    des dégâts et s'il y a des victimes.<br /><br />Voir carte dans colonne
+    centrale -&gt;<br />&nbsp;<br />Source : USGS&nbsp;- Earthquake Hazards
+    Program
+en: {}

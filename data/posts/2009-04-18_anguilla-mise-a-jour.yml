@@ -1,10 +1,11 @@
 title: anguilla-mise-a-jour
-nameFr: 'Anguilla : mise à jour'
-nameEn: 'Anguilla : mise à jour'
 date: 2009-04-19T00:00:00.000Z
-bodyFr: >-
-  Petit archipel des Caraïbes appartenant au Royaume-Uni, Anguilla tire son
-  épingle du jeu en proposant un tourisme ultra-luxueux. La finance
-  internationale, qui cherche en permanence des paradis fiscaux, est tombée sur
-  une perle avec ce petit territoire, cette activité étant le fer de lance de
-  l'économie, malgré les déclarations de bonnes intentions du moment.
+fr:
+  title: 'Anguilla : mise à jour'
+  body: >-
+    Petit archipel des Caraïbes appartenant au Royaume-Uni, Anguilla tire son
+    épingle du jeu en proposant un tourisme ultra-luxueux. La finance
+    internationale, qui cherche en permanence des paradis fiscaux, est tombée
+    sur une perle avec ce petit territoire, cette activité étant le fer de lance
+    de l'économie, malgré les déclarations de bonnes intentions du moment.
+en: {}

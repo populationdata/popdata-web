@@ -1,10 +1,11 @@
 title: italie-mise-a-jour-4
-nameFr: 'Italie : mise à jour'
-nameEn: 'Italie : mise à jour'
 date: 2015-03-11T00:00:00.000Z
-bodyFr: >-
-  L'immigration a pris le dessus sur la démographie du pays. Des milliers de
-  réfugiés arrivent chaque semaine en Italie, venus surtout d'Afrique et d'Asie
-  de l'Ouest. On compte désormais environ 5,73 millions d'étrangers dans le pays
-  contre 1 million il y a 15 ans. De son côté, la natalité continue de baisser
-  alors que le nombre de décès augmente.
+fr:
+  title: 'Italie : mise à jour'
+  body: >-
+    L'immigration a pris le dessus sur la démographie du pays. Des milliers de
+    réfugiés arrivent chaque semaine en Italie, venus surtout d'Afrique et
+    d'Asie de l'Ouest. On compte désormais environ 5,73 millions d'étrangers
+    dans le pays contre 1 million il y a 15 ans. De son côté, la natalité
+    continue de baisser alors que le nombre de décès augmente.
+en: {}

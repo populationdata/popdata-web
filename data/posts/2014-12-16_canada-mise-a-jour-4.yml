@@ -1,8 +1,9 @@
 title: canada-mise-a-jour-4
-nameFr: 'Canada : mise à jour'
-nameEn: 'Canada : mise à jour'
 date: 2014-12-17T00:00:00.000Z
-bodyFr: >-
-  La population du Canada continue à augmenter fortement, à +1,1% par an. La
-  progression est principalement attribuable à l'immigration, qui représente 70%
-  du total, le reste étant dû à la natalité.
+fr:
+  title: 'Canada : mise à jour'
+  body: >-
+    La population du Canada continue à augmenter fortement, à +1,1% par an. La
+    progression est principalement attribuable à l'immigration, qui représente
+    70% du total, le reste étant dû à la natalité.
+en: {}

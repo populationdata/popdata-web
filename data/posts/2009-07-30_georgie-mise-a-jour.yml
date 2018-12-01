@@ -1,10 +1,11 @@
 title: georgie-mise-a-jour
-nameFr: 'Géorgie : mise à jour'
-nameEn: 'Géorgie : mise à jour'
 date: 2009-07-31T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des chiffres de la Géorgie, qui incluent toujours (pour le
-  moment du moins) les régions non contrôlées par le gouvernement central :
-  Abkhazie, Adjarie et Ossétie du Sud. La population a tendance à légèrement
-  remonter cette année, après plus d'une décennie de perte. Le pays se
-  relancerait-il enfin ?
+fr:
+  title: 'Géorgie : mise à jour'
+  body: >-
+    Petite mise à jour des chiffres de la Géorgie, qui incluent toujours (pour
+    le moment du moins) les régions non contrôlées par le gouvernement central :
+    Abkhazie, Adjarie et Ossétie du Sud. La population a tendance à légèrement
+    remonter cette année, après plus d'une décennie de perte. Le pays se
+    relancerait-il enfin ?
+en: {}

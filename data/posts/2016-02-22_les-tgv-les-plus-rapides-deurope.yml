@@ -1,11 +1,12 @@
 title: les-tgv-les-plus-rapides-deurope
-nameFr: Les TGV les plus rapides d'Europe
-nameEn: Les TGV les plus rapides d'Europe
 date: 2016-02-23T00:00:00.000Z
-bodyFr: >-
-  Voici une carte des lignes à grande vitesse en Europe. 10 692 km de voies sont
-  d'ores et déjà en service, 2 867 km sont actuellement en construction, et on
-  prévoit encore 11 044 km de voies supplémentaires dans les prochaines
-  décennies.<!--more--><a
-  href="https://www.populationdata.net/cartes/europe-tgv-plus-rapides/">Carte
-  des TGV les plus rapides d'Europe</a>
+fr:
+  title: Les TGV les plus rapides d'Europe
+  body: >-
+    Voici une carte des lignes à grande vitesse en Europe. 10 692 km de voies
+    sont d'ores et déjà en service, 2 867 km sont actuellement en construction,
+    et on prévoit encore 11 044 km de voies supplémentaires dans les prochaines
+    décennies.<!--more--><a
+    href="https://www.populationdata.net/cartes/europe-tgv-plus-rapides/">Carte
+    des TGV les plus rapides d'Europe</a>
+en: {}

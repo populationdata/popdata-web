@@ -1,10 +1,11 @@
 title: sierra-leone-mise-a-jour
-nameFr: 'Sierra Leone : mise à jour'
-nameEn: 'Sierra Leone : mise à jour'
 date: 2008-12-28T00:00:00.000Z
-bodyFr: >-
-  La reconstruction du pays est difficile. Après les horreurs de la guerre
-  civile qui a décimé le Sierra Leone pendant des années, les bras des hommes
-  étant systématiquement coupés, ceux-ci ne peuvent pas participer à la remise
-  en route de l'économie. Il faudra énormément d'aide internationale et beaucoup
-  de temps pour surmonter cet épisode de l'histoire du pays. <br />
+fr:
+  title: 'Sierra Leone : mise à jour'
+  body: >-
+    La reconstruction du pays est difficile. Après les horreurs de la guerre
+    civile qui a décimé le Sierra Leone pendant des années, les bras des hommes
+    étant systématiquement coupés, ceux-ci ne peuvent pas participer à la remise
+    en route de l'économie. Il faudra énormément d'aide internationale et
+    beaucoup de temps pour surmonter cet épisode de l'histoire du pays. <br />
+en: {}

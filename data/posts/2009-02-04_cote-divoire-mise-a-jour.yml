@@ -1,11 +1,12 @@
 title: cote-divoire-mise-a-jour
-nameFr: 'Côte d''Ivoire : mise à jour'
-nameEn: 'Côte d''Ivoire : mise à jour'
 date: 2009-02-05T00:00:00.000Z
-bodyFr: >-
-  Après des années de guerre civile qui ont coupé le pays en deux, la population
-  réclame que le développement soit au coeur de la réconciliation et la
-  reconstruction de la Côte d'Ivoire. Une population qui grossit toujours&nbsp;
-  très rapidement, et qui fera très bientôt passer Abidjan dans le camp des
-  métropoles de plus de 6 millions d'habitants, soit la 4ème plus grande ville
-  francophone du monde.
+fr:
+  title: 'Côte d''Ivoire : mise à jour'
+  body: >-
+    Après des années de guerre civile qui ont coupé le pays en deux, la
+    population réclame que le développement soit au coeur de la réconciliation
+    et la reconstruction de la Côte d'Ivoire. Une population qui grossit
+    toujours&nbsp; très rapidement, et qui fera très bientôt passer Abidjan dans
+    le camp des métropoles de plus de 6 millions d'habitants, soit la 4ème plus
+    grande ville francophone du monde.
+en: {}

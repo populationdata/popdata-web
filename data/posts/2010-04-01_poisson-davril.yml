@@ -1,9 +1,11 @@
 title: poisson-davril
-nameFr: Poisson d'Avril !
-nameEn: Poisson d'Avril !
 date: 2010-04-02T00:00:00.000Z
-bodyFr: >-
-  8 ans. 8 ans que nous éditons PopulationData.net avec passion. Et après une
-  telle persévérance, vous avez été si nombreux à penser que PopulationData.net
-  fermait réellement ! Donc... on vous a bien eu ! ;-) Heureusement, nombre
-  d'entre vous n'y ont pas cru, impossible ! Merci à tous pour votre soutien !
+fr:
+  title: Poisson d'Avril !
+  body: >-
+    8 ans. 8 ans que nous éditons PopulationData.net avec passion. Et après une
+    telle persévérance, vous avez été si nombreux à penser que
+    PopulationData.net fermait réellement ! Donc... on vous a bien eu ! ;-)
+    Heureusement, nombre d'entre vous n'y ont pas cru, impossible ! Merci à tous
+    pour votre soutien !
+en: {}

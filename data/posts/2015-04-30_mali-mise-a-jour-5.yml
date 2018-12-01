@@ -1,11 +1,12 @@
 title: mali-mise-a-jour-5
-nameFr: 'Mali : mise à jour'
-nameEn: 'Mali : mise à jour'
 date: 2015-05-01T00:00:00.000Z
-bodyFr: >-
-  Malgré une croissance économique importante en 2014, le Mali reste l'un des
-  pays les plus pauvres du monde. Sa population augmente toujours au rythme très
-  élevé de +3,6 % par an, l'un des taux les plus hauts du monde. La capitale
-  connaît elle aussi une croissance impressionnante, et atteint désormais les
-  2,8 millions d'habitants. Ce qui engendre de sérieux problèmes sanitaires,
-  sociaux, de transport et de sécurité.
+fr:
+  title: 'Mali : mise à jour'
+  body: >-
+    Malgré une croissance économique importante en 2014, le Mali reste l'un des
+    pays les plus pauvres du monde. Sa population augmente toujours au rythme
+    très élevé de +3,6 % par an, l'un des taux les plus hauts du monde. La
+    capitale connaît elle aussi une croissance impressionnante, et atteint
+    désormais les 2,8 millions d'habitants. Ce qui engendre de sérieux problèmes
+    sanitaires, sociaux, de transport et de sécurité.
+en: {}

@@ -1,10 +1,11 @@
 title: haiti-mise-a-jour
-nameFr: 'Haïti : mise à jour'
-nameEn: 'Haïti : mise à jour'
 date: 2010-01-13T00:00:00.000Z
-bodyFr: >-
-  Mise à jour des chiffres de la fiche Haïti. Port-au-Prince, capitale de 4
-  millions d'habitants, a été dévastée par un puissant tremblement de terre. On
-  compte des milliers de mort, peut-être 100 000 selon le premier ministre du
-  pays. Les secours s'organisent à partir du monde entier pour venir en aide à
-  ce pays, le plus pauvre des Amériques.
+fr:
+  title: 'Haïti : mise à jour'
+  body: >-
+    Mise à jour des chiffres de la fiche Haïti. Port-au-Prince, capitale de 4
+    millions d'habitants, a été dévastée par un puissant tremblement de terre.
+    On compte des milliers de mort, peut-être 100 000 selon le premier ministre
+    du pays. Les secours s'organisent à partir du monde entier pour venir en
+    aide à ce pays, le plus pauvre des Amériques.
+en: {}

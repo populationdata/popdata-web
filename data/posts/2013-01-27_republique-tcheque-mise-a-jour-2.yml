@@ -1,9 +1,10 @@
 title: republique-tcheque-mise-a-jour-2
-nameFr: 'République tchèque : mise à jour'
-nameEn: 'République tchèque : mise à jour'
 date: 2013-01-28T00:00:00.000Z
-bodyFr: >-
-  La République tchèque vient d'élire un nouveau président. Après deux décennies
-  de mise à niveau des infrastructures dans tous les domaines, le pays a rejoint
-  les standards européens et est devenu un pays moderne grâce à son entrée dans
-  l'Union européenne.
+fr:
+  title: 'République tchèque : mise à jour'
+  body: >-
+    La République tchèque vient d'élire un nouveau président. Après deux
+    décennies de mise à niveau des infrastructures dans tous les domaines, le
+    pays a rejoint les standards européens et est devenu un pays moderne grâce à
+    son entrée dans l'Union européenne.
+en: {}

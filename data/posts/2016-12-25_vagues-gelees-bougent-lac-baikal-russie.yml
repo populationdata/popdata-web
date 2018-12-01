@@ -1,5 +1,6 @@
 title: vagues-gelees-bougent-lac-baikal-russie
-nameFr: 'Des vagues gelées et qui bougent au lac Baïkal, en Russie'
-nameEn: 'Des vagues gelées et qui bougent au lac Baïkal, en Russie'
 date: 2016-12-25T17:47:32.000Z
-bodyFr: "<p style=\"text-align: justify;\">Insolite ! Est-il possible que des vagues puissent avancer sur le littoral, même en étant gelées ? Oui, et c'est sur les bords du lac Baïkal, en <a href=\"https://www.populationdata.net/pays/russie/\">Russie</a>.</p>\r\n<p style=\"text-align: justify;\"><iframe src=\"//www.dailymotion.com/embed/video/x56atri\" width=\"1200\" height=\"675\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n\r\n</p>"
+fr:
+  title: 'Des vagues gelées et qui bougent au lac Baïkal, en Russie'
+  body: "<p style=\"text-align: justify;\">Insolite ! Est-il possible que des vagues puissent avancer sur le littoral, même en étant gelées ? Oui, et c'est sur les bords du lac Baïkal, en <a href=\"https://www.populationdata.net/pays/russie/\">Russie</a>.</p>\r\n<p style=\"text-align: justify;\"><iframe src=\"//www.dailymotion.com/embed/video/x56atri\" width=\"1200\" height=\"675\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe>\r\n\r\n</p>"
+en: {}

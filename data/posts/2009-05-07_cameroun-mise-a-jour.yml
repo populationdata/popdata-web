@@ -1,12 +1,13 @@
 title: cameroun-mise-a-jour
-nameFr: 'Cameroun : mise à jour'
-nameEn: 'Cameroun : mise à jour'
 date: 2009-05-08T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la fiche Cameroun, avec notamment tous les chiffres, ainsi que
-  la population des grandes villes. Celles-ci ne cessent de croître, de plus en
-  plus vite, avec certaines villes qui ont des taux de croissance annuelle
-  proche de 8% ! Malheureusement, cette croissance démographique ne
-  s'accompagnent que rarement des infrastructures éqivalentes, dans tous les
-  domaines. Les pouvoirs publics semblent parfois se désintéresser complètement
-  de leurs populations.
+fr:
+  title: 'Cameroun : mise à jour'
+  body: >-
+    Mise à jour de la fiche Cameroun, avec notamment tous les chiffres, ainsi
+    que la population des grandes villes. Celles-ci ne cessent de croître, de
+    plus en plus vite, avec certaines villes qui ont des taux de croissance
+    annuelle proche de 8% ! Malheureusement, cette croissance démographique ne
+    s'accompagnent que rarement des infrastructures éqivalentes, dans tous les
+    domaines. Les pouvoirs publics semblent parfois se désintéresser
+    complètement de leurs populations.
+en: {}

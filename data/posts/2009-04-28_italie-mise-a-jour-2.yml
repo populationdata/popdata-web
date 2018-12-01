@@ -1,11 +1,12 @@
 title: italie-mise-a-jour-2
-nameFr: 'Italie : mise à jour'
-nameEn: 'Italie : mise à jour'
 date: 2009-04-29T00:00:00.000Z
-bodyFr: >-
-  Pour la première fois de son histoire, l'Italie atteint les 60 millions
-  d'habitants. Une forte progression de la démographie ces dernières années,
-  entièrement du fait de l'immigration, a permis au pays de se relever d'une
-  baisse très forte de la natalité. L'Italie rejoint ainsi la Russie,
-  l'Allemagne, la France et le Royaume-Uni dans le concert des nations
-  européennes de plus de 60 millions d'habitants.
+fr:
+  title: 'Italie : mise à jour'
+  body: >-
+    Pour la première fois de son histoire, l'Italie atteint les 60 millions
+    d'habitants. Une forte progression de la démographie ces dernières années,
+    entièrement du fait de l'immigration, a permis au pays de se relever d'une
+    baisse très forte de la natalité. L'Italie rejoint ainsi la Russie,
+    l'Allemagne, la France et le Royaume-Uni dans le concert des nations
+    européennes de plus de 60 millions d'habitants.
+en: {}

@@ -1,10 +1,11 @@
 title: japon-mise-a-jour
-nameFr: 'Japon : mise à jour'
-nameEn: 'Japon : mise à jour'
 date: 2010-02-15T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour de la fiche Japon, avec de nouvelles cartes des grandes
-  villes notamment. Où l'on apprend que Tokyo, la plus grande aire urbaine du
-  monde, fait 37.7 millions d'habitants ! Malgré cela, le pays voit sa
-  population baisser, et même si la reprise économique semble là, la Chine va
-  lui ravir dès 2010 la place de deuxième économie mondiale.
+fr:
+  title: 'Japon : mise à jour'
+  body: >-
+    Petite mise à jour de la fiche Japon, avec de nouvelles cartes des grandes
+    villes notamment. Où l'on apprend que Tokyo, la plus grande aire urbaine du
+    monde, fait 37.7 millions d'habitants ! Malgré cela, le pays voit sa
+    population baisser, et même si la reprise économique semble là, la Chine va
+    lui ravir dès 2010 la place de deuxième économie mondiale.
+en: {}

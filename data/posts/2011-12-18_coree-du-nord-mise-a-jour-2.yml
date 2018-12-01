@@ -1,9 +1,10 @@
 title: coree-du-nord-mise-a-jour-2
-nameFr: 'Corée du Nord : mise à jour'
-nameEn: 'Corée du Nord : mise à jour'
 date: 2011-12-19T00:00:00.000Z
-bodyFr: >-
-  L'ancien dirigeant Nord-Coréen Kim Jong-il est décédé samedi dernier. Son
-  fils, Kim Jong-eun, vient de lui succéder dans une étrange mascarade
-  dynastique. Etrange, pour un pays se disant communiste, mais qui n'est en
-  réalité qu'une dictature militaire de plus.
+fr:
+  title: 'Corée du Nord : mise à jour'
+  body: >-
+    L'ancien dirigeant Nord-Coréen Kim Jong-il est décédé samedi dernier. Son
+    fils, Kim Jong-eun, vient de lui succéder dans une étrange mascarade
+    dynastique. Etrange, pour un pays se disant communiste, mais qui n'est en
+    réalité qu'une dictature militaire de plus.
+en: {}

@@ -1,10 +1,11 @@
 title: etats-unis-mise-a-jour-4
-nameFr: 'Etats-Unis : mise à jour'
-nameEn: 'Etats-Unis : mise à jour'
 date: 2010-01-12T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des chiffres des Etats-Unis. Le pays a gagné environ 3
-  millions d'habitants en un an, confirmant son dynamisme démographique. Il
-  semblerait toutefois que celui-ci soit moins lié à l'immigration, le flux de
-  migrants ayant baissé à cause de la crise économique qui a frappé le pays
-  depuis 2008.
+fr:
+  title: 'Etats-Unis : mise à jour'
+  body: >-
+    Petite mise à jour des chiffres des Etats-Unis. Le pays a gagné environ 3
+    millions d'habitants en un an, confirmant son dynamisme démographique. Il
+    semblerait toutefois que celui-ci soit moins lié à l'immigration, le flux de
+    migrants ayant baissé à cause de la crise économique qui a frappé le pays
+    depuis 2008.
+en: {}

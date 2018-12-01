@@ -1,8 +1,9 @@
 title: pitcairn-plus-petit-pays-du-monde
-nameFr: 'Pitcairn : plus petit pays du monde'
-nameEn: 'Pitcairn : plus petit pays du monde'
 date: 2014-01-10T00:00:00.000Z
-bodyFr: >-
-  Pitcairn est le plus petit pays du monde, avec seulement 65 habitants. Il est
-  aussi l'un des plus isolé, aux confins du Pacifique sud. Ses habitants
-  descendent des mutins du Bounty et de leurs femmes Tahitiennes.
+fr:
+  title: 'Pitcairn : plus petit pays du monde'
+  body: >-
+    Pitcairn est le plus petit pays du monde, avec seulement 65 habitants. Il
+    est aussi l'un des plus isolé, aux confins du Pacifique sud. Ses habitants
+    descendent des mutins du Bounty et de leurs femmes Tahitiennes.
+en: {}

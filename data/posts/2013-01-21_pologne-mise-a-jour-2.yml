@@ -1,9 +1,11 @@
 title: pologne-mise-a-jour-2
-nameFr: 'Pologne : mise à jour'
-nameEn: 'Pologne : mise à jour'
 date: 2013-01-22T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de notre fiche Pologne, avec notamment les chiffres de la
-  population totale et des grandes aires urbaines. Le pays traverse la crise
-  économique mondiale plus sereinement que ses voisins, et les jeunes, qui
-  avaient émigré en masse au début des années 2000, reviennent progressivement.
+fr:
+  title: 'Pologne : mise à jour'
+  body: >-
+    Mise à jour de notre fiche Pologne, avec notamment les chiffres de la
+    population totale et des grandes aires urbaines. Le pays traverse la crise
+    économique mondiale plus sereinement que ses voisins, et les jeunes, qui
+    avaient émigré en masse au début des années 2000, reviennent
+    progressivement.
+en: {}

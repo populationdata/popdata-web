@@ -1,12 +1,13 @@
 title: villes-du-bout-du-monde-serie-coober-pedy
-nameFr: 'Villes du bout du monde (série) : Coober Pedy'
-nameEn: 'Villes du bout du monde (série) : Coober Pedy'
 date: 2008-05-03T00:00:00.000Z
-bodyFr: >-
-  Coober Pedy est une ville perdue au milieu du désert, au coeur de l'Australie.
-  70% des opales du monde proviennent de cet endroit peuplé d'environ 2000
-  habitants.           <br /><!--more-->La particularité de la ville, outre ses
-  opales, se trouve dans l'habitat. De nombreuses personnes vivent littéralement
-  sous terre, la chaleur étant extrême. Ces habitations troglodytes conservent
-  une température identique idéale et ne nécessitent pas d'air conditionné,
-  contrairement aux maisons en surface.        <br />
+fr:
+  title: 'Villes du bout du monde (série) : Coober Pedy'
+  body: >-
+    Coober Pedy est une ville perdue au milieu du désert, au coeur de
+    l'Australie. 70% des opales du monde proviennent de cet endroit peuplé
+    d'environ 2000 habitants.           <br /><!--more-->La particularité de la
+    ville, outre ses opales, se trouve dans l'habitat. De nombreuses personnes
+    vivent littéralement sous terre, la chaleur étant extrême. Ces habitations
+    troglodytes conservent une température identique idéale et ne nécessitent
+    pas d'air conditionné, contrairement aux maisons en surface.        <br />
+en: {}

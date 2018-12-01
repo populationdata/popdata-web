@@ -1,8 +1,9 @@
 title: etats-unis-mise-a-jour-3
-nameFr: 'Etats-Unis : mise à jour'
-nameEn: 'Etats-Unis : mise à jour'
 date: 2009-04-20T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la population des aires métropolitaines des Etats-Unis, avec
-  les chiffres 2008. Des villes toujours plus grandes, et 54 villes de +1
-  million d'habitants, dont une nouvelle cette année, Tucson.
+fr:
+  title: 'Etats-Unis : mise à jour'
+  body: >-
+    Mise à jour de la population des aires métropolitaines des Etats-Unis, avec
+    les chiffres 2008. Des villes toujours plus grandes, et 54 villes de +1
+    million d'habitants, dont une nouvelle cette année, Tucson.
+en: {}

@@ -1,8 +1,9 @@
 title: inde-121-milliard-dhabitants
-nameFr: 'Inde : 1,21 milliard d''habitants'
-nameEn: 'Inde : 1,21 milliard d''habitants'
 date: 2011-03-31T00:00:00.000Z
-bodyFr: >-
-  L'Inde vient de publier les premiers résultats de son recensement. Le pays
-  compte désormais 1,21 milliard d'habitants, et rattrape à grands pas son
-  voisin chinois.
+fr:
+  title: 'Inde : 1,21 milliard d''habitants'
+  body: >-
+    L'Inde vient de publier les premiers résultats de son recensement. Le pays
+    compte désormais 1,21 milliard d'habitants, et rattrape à grands pas son
+    voisin chinois.
+en: {}

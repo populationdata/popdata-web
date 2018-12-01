@@ -1,10 +1,11 @@
 title: espagne-baisse-de-la-population
-nameFr: 'Espagne : baisse de la population'
-nameEn: 'Espagne : baisse de la population'
 date: 2015-06-26T00:00:00.000Z
-bodyFr: >-
-  La population a baissé encore une fois en 2014 en Espagne. Cette diminution
-  est moins importante que les années précédentes, mais elle confirme que le
-  pays subit de plein fouet la crise économique. De nombreux Espagnols vont à
-  l'étranger chercher du travail, et les étrangers rentrent chez eux ou vont
-  ailleurs.
+fr:
+  title: 'Espagne : baisse de la population'
+  body: >-
+    La population a baissé encore une fois en 2014 en Espagne. Cette diminution
+    est moins importante que les années précédentes, mais elle confirme que le
+    pays subit de plein fouet la crise économique. De nombreux Espagnols vont à
+    l'étranger chercher du travail, et les étrangers rentrent chez eux ou vont
+    ailleurs.
+en: {}

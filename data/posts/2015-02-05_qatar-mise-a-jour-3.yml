@@ -1,10 +1,11 @@
 title: qatar-mise-a-jour-3
-nameFr: 'Qatar : mise à jour'
-nameEn: 'Qatar : mise à jour'
 date: 2015-02-06T00:00:00.000Z
-bodyFr: >-
-  La croissance démographique du Qatar a été de +10,3% en 2014. 90% de sa
-  population est étrangère, et permet de combler les besoins en main d'oeuvre
-  très importants du pays. En échange, on ne trouve qu'une femme pour quatre
-  hommes sur le territoire, un déséquilibre social aigu dont souffrent de
-  nombreux hommes.
+fr:
+  title: 'Qatar : mise à jour'
+  body: >-
+    La croissance démographique du Qatar a été de +10,3% en 2014. 90% de sa
+    population est étrangère, et permet de combler les besoins en main d'oeuvre
+    très importants du pays. En échange, on ne trouve qu'une femme pour quatre
+    hommes sur le territoire, un déséquilibre social aigu dont souffrent de
+    nombreux hommes.
+en: {}

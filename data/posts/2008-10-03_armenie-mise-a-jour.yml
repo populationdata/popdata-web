@@ -1,12 +1,13 @@
 title: armenie-mise-a-jour
-nameFr: 'Arménie : mise à jour'
-nameEn: 'Arménie : mise à jour'
 date: 2008-10-04T00:00:00.000Z
-bodyFr: >-
-  Le pays voit sa population se remettre à progresser, très lentement, pour la
-  première fois depuis la chute de l'URSS. La moitié des arméniens habitent en
-  effet à l'étranger. La croissance économique très élevée de ces dernières
-  années a permis de rétablir un certain équilibre, toujours fragile dans cette
-  région du monde très dépendante de l'extérieur et des politiques
-  internationales des grandes puissances, qui se disputent le leadership
-  régional.    <br />
+fr:
+  title: 'Arménie : mise à jour'
+  body: >-
+    Le pays voit sa population se remettre à progresser, très lentement, pour la
+    première fois depuis la chute de l'URSS. La moitié des arméniens habitent en
+    effet à l'étranger. La croissance économique très élevée de ces dernières
+    années a permis de rétablir un certain équilibre, toujours fragile dans
+    cette région du monde très dépendante de l'extérieur et des politiques
+    internationales des grandes puissances, qui se disputent le leadership
+    régional.    <br />
+en: {}

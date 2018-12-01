@@ -1,13 +1,14 @@
 title: canada-mise-a-jour-de-la-population-2
-nameFr: 'Canada : mise à jour de la population'
-nameEn: 'Canada : mise à jour de la population'
 date: 2014-06-18T00:00:00.000Z
-bodyFr: >-
-  Le Canada continue de voir sa population augmenter à un rythme de +1,16%/an.
-  Les provinces de l'Atlantique perdent désormais des habitants, lentement,
-  tandis que celles du centre, Québec et Ontario, en gagnent à un rythme
-  toujours stable, et celles de l'ouest en gagnent de plus en plus vite à
-  l'exception de la Colombie-Britannique qui a une croissance stable dans la
-  moyenne du pays. Enfin, les territoires du grand nord stagnent au nord-ouest,
-  mais explosent au Nunavut, au nord-est, qui à la croissance démographique
-  annuelle la plus forte du Canada, soit +3,9%/an.
+fr:
+  title: 'Canada : mise à jour de la population'
+  body: >-
+    Le Canada continue de voir sa population augmenter à un rythme de +1,16%/an.
+    Les provinces de l'Atlantique perdent désormais des habitants, lentement,
+    tandis que celles du centre, Québec et Ontario, en gagnent à un rythme
+    toujours stable, et celles de l'ouest en gagnent de plus en plus vite à
+    l'exception de la Colombie-Britannique qui a une croissance stable dans la
+    moyenne du pays. Enfin, les territoires du grand nord stagnent au
+    nord-ouest, mais explosent au Nunavut, au nord-est, qui à la croissance
+    démographique annuelle la plus forte du Canada, soit +3,9%/an.
+en: {}

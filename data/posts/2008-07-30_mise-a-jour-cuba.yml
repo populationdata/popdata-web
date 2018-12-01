@@ -1,10 +1,11 @@
 title: mise-a-jour-cuba
-nameFr: Mise à jour Cuba
-nameEn: Mise à jour Cuba
 date: 2008-07-31T00:00:00.000Z
-bodyFr: >-
-  Cuba vient de changer de président, en élisant Raoul Castro, ce qui donne
-  l'espoir d'une plus grande ouverture du pays dans les années à venir. Plus de
-  libertés individuelles et démocratiques, mais aussi l'espoir que les
-  Etats-Unis relâchent la pression de leur terrible embargo, illégal, selon
-  l'ONU, depuis 47 ans ?    <br />
+fr:
+  title: Mise à jour Cuba
+  body: >-
+    Cuba vient de changer de président, en élisant Raoul Castro, ce qui donne
+    l'espoir d'une plus grande ouverture du pays dans les années à venir. Plus
+    de libertés individuelles et démocratiques, mais aussi l'espoir que les
+    Etats-Unis relâchent la pression de leur terrible embargo, illégal, selon
+    l'ONU, depuis 47 ans ?    <br />
+en: {}

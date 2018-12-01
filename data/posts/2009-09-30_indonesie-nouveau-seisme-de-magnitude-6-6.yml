@@ -1,10 +1,11 @@
 title: indonesie-nouveau-seisme-de-magnitude-6-6
-nameFr: 'Indonésie : nouveau séisme de magnitude 6.6'
-nameEn: 'Indonésie : nouveau séisme de magnitude 6.6'
 date: 2009-10-01T00:00:00.000Z
-bodyFr: >-
-  Un deuxième séisme relativement violent s'est produit aujourd'hui 1er octobre
-  à 8h52 heure locale à Sumatra, en Indonésie. Après le très violent séisme
-  d'hier (magnitude 7.6), ce nouveau tremblement de terre de magnitude 6.6 a eu
-  lieu à seulement 215 km au sud de Padang, la ville la plus touchée par celui
-  d'hier.<!--more-->[carte dans colonne centrale -&gt;]<br />
+fr:
+  title: 'Indonésie : nouveau séisme de magnitude 6.6'
+  body: >-
+    Un deuxième séisme relativement violent s'est produit aujourd'hui 1er
+    octobre à 8h52 heure locale à Sumatra, en Indonésie. Après le très violent
+    séisme d'hier (magnitude 7.6), ce nouveau tremblement de terre de magnitude
+    6.6 a eu lieu à seulement 215 km au sud de Padang, la ville la plus touchée
+    par celui d'hier.<!--more-->[carte dans colonne centrale -&gt;]<br />
+en: {}

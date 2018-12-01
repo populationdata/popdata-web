@@ -1,11 +1,12 @@
 title: niger-mise-a-jour
-nameFr: 'Niger : mise à jour'
-nameEn: 'Niger : mise à jour'
 date: 2009-06-06T00:00:00.000Z
-bodyFr: >-
-  Le Niger connaît depuis plusieurs années une très forte croissance économique,
-  dopée par les investissements industriels étrangers dans les ressources
-  naturelles, dont principalement les mines d'uranium. Une croissance qui semble
-  continuer à bien se porter malgré la crise financière mondiale. Il faut dire
-  que le pays est l'un des plus pauvres de la planète, et que cette richesse
-  reste en partie confisquée par le pouvoir en place.
+fr:
+  title: 'Niger : mise à jour'
+  body: >-
+    Le Niger connaît depuis plusieurs années une très forte croissance
+    économique, dopée par les investissements industriels étrangers dans les
+    ressources naturelles, dont principalement les mines d'uranium. Une
+    croissance qui semble continuer à bien se porter malgré la crise financière
+    mondiale. Il faut dire que le pays est l'un des plus pauvres de la planète,
+    et que cette richesse reste en partie confisquée par le pouvoir en place.
+en: {}

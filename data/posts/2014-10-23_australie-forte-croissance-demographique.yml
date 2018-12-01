@@ -1,10 +1,11 @@
 title: australie-forte-croissance-demographique
-nameFr: 'Australie : forte croissance démographique'
-nameEn: 'Australie : forte croissance démographique'
 date: 2014-10-24T00:00:00.000Z
-bodyFr: >-
-  L'Australie voit sa croissance démographique s'accélérer depuis quelques
-  années, notamment grâce à une immigration toujours plus intense. A 1,7% par
-  an, ce taux est l'un des plus élevés des pays développés. Et pratiquement
-  toute cette croissance se concentre dans les grands centres urbains, laissant
-  vide le reste du pays.
+fr:
+  title: 'Australie : forte croissance démographique'
+  body: >-
+    L'Australie voit sa croissance démographique s'accélérer depuis quelques
+    années, notamment grâce à une immigration toujours plus intense. A 1,7% par
+    an, ce taux est l'un des plus élevés des pays développés. Et pratiquement
+    toute cette croissance se concentre dans les grands centres urbains,
+    laissant vide le reste du pays.
+en: {}

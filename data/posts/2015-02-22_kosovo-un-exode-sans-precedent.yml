@@ -1,9 +1,10 @@
 title: kosovo-un-exode-sans-precedent
-nameFr: 'Kosovo : un exode sans précédent'
-nameEn: 'Kosovo : un exode sans précédent'
 date: 2015-02-23T00:00:00.000Z
-bodyFr: >-
-  La population du Kosovo augmente toujours mais très lentement. L'exode se fait
-  plus pressant, le nombre de jeunes émigrant pour tenter de trouver du travail
-  et une vie meilleure, surtout en Union européenne, atteint des sommets
-  inégalés.
+fr:
+  title: 'Kosovo : un exode sans précédent'
+  body: >-
+    La population du Kosovo augmente toujours mais très lentement. L'exode se
+    fait plus pressant, le nombre de jeunes émigrant pour tenter de trouver du
+    travail et une vie meilleure, surtout en Union européenne, atteint des
+    sommets inégalés.
+en: {}

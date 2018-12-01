@@ -1,17 +1,18 @@
 title: grippe-porcine-carte-de-suivi-de-lepidemie
-nameFr: 'Grippe porcine : carte de suivi de l''épidémie'
-nameEn: 'Grippe porcine : carte de suivi de l''épidémie'
 date: 2009-04-27T00:00:00.000Z
-bodyFr: >-
-  On peut suivre l'évolution de l'épidémie de grippe porcine sur cette carte du
-  monde. L'Organisation mondiale de la santé (OMS) s'inquiète d'une éventuelle
-  transformation de l'épidémie en pandémie planétaire, et appelle les
-  gouvernements à agir rapidement pour lutter contre ce nouveau
-  fléau.<!--more-->Pour le moment, les Etats-Unis et le Mexique sont les deux
-  principaux pays touchés par des cas de grippe porcine, une souche du virus
-  H1N1.<br />&nbsp;<iframe height="500" frameborder="0" width="500"
-  scrolling="no" marginwidth="0" marginheight="0"
-  src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=106484775090296685271.0004681a37b713f6b5950&amp;ll=32.657876,-110.390625&amp;spn=18.451383,21.972656&amp;z=3&amp;output=embed"></iframe>
-  <br /> <small>View <a style="color: rgb(0, 0, 255); text-align: left;"
-  href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=106484775090296685271.0004681a37b713f6b5950&amp;ll=32.657876,-110.390625&amp;spn=18.451383,21.972656&amp;z=5&amp;source=embed">H1N1
-  Swine Flu</a> in a larger map</small>
+fr:
+  title: 'Grippe porcine : carte de suivi de l''épidémie'
+  body: >-
+    On peut suivre l'évolution de l'épidémie de grippe porcine sur cette carte
+    du monde. L'Organisation mondiale de la santé (OMS) s'inquiète d'une
+    éventuelle transformation de l'épidémie en pandémie planétaire, et appelle
+    les gouvernements à agir rapidement pour lutter contre ce nouveau
+    fléau.<!--more-->Pour le moment, les Etats-Unis et le Mexique sont les deux
+    principaux pays touchés par des cas de grippe porcine, une souche du virus
+    H1N1.<br />&nbsp;<iframe height="500" frameborder="0" width="500"
+    scrolling="no" marginwidth="0" marginheight="0"
+    src="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=106484775090296685271.0004681a37b713f6b5950&amp;ll=32.657876,-110.390625&amp;spn=18.451383,21.972656&amp;z=3&amp;output=embed"></iframe>
+    <br /> <small>View <a style="color: rgb(0, 0, 255); text-align: left;"
+    href="http://maps.google.com/maps/ms?ie=UTF8&amp;hl=en&amp;t=p&amp;msa=0&amp;msid=106484775090296685271.0004681a37b713f6b5950&amp;ll=32.657876,-110.390625&amp;spn=18.451383,21.972656&amp;z=5&amp;source=embed">H1N1
+    Swine Flu</a> in a larger map</small>
+en: {}

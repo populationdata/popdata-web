@@ -1,11 +1,12 @@
 title: mise-a-jour-zimbabwe
-nameFr: Mise à jour Zimbabwe
-nameEn: Mise à jour Zimbabwe
 date: 2008-04-03T00:00:00.000Z
-bodyFr: >-
-  <span class="style16 style36">Violences, pauvreté, corruption, Sida, un
-  président-dictateur qui ne veut pas partir malgré les élections, le Zimbabwe
-  traverse une très mauvaise décennie. Il lui faudra du temps pour s'en
-  remettre, et qu'il prenne conscience qu'il peut s'engager dans une autre voie.
-  Surtout qu'il a des atouts, notamment dans le tourisme et
-  l'agriculture.</span>
+fr:
+  title: Mise à jour Zimbabwe
+  body: >-
+    <span class="style16 style36">Violences, pauvreté, corruption, Sida, un
+    président-dictateur qui ne veut pas partir malgré les élections, le Zimbabwe
+    traverse une très mauvaise décennie. Il lui faudra du temps pour s'en
+    remettre, et qu'il prenne conscience qu'il peut s'engager dans une autre
+    voie. Surtout qu'il a des atouts, notamment dans le tourisme et
+    l'agriculture.</span>
+en: {}

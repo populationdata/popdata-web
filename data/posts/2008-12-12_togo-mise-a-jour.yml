@@ -1,11 +1,12 @@
 title: togo-mise-a-jour
-nameFr: 'Togo : mise à jour'
-nameEn: 'Togo : mise à jour'
 date: 2008-12-13T00:00:00.000Z
-bodyFr: >-
-  Le Togo n'a pas su tirer profit de la forte croissance économique mondiale de
-  ces dernières années pour améliorer le niveau de vie de sa population. Peu
-  peuplé et coincé entre des pays qui n'ont pas plus de moyens, il possède
-  pourtant une ouverture, certes restreinte, sur l'océan, qui devrait lui
-  permettre de profiter des échanges avec les pays voisins du nord qui en sont
-  privés.  <br />
+fr:
+  title: 'Togo : mise à jour'
+  body: >-
+    Le Togo n'a pas su tirer profit de la forte croissance économique mondiale
+    de ces dernières années pour améliorer le niveau de vie de sa population.
+    Peu peuplé et coincé entre des pays qui n'ont pas plus de moyens, il possède
+    pourtant une ouverture, certes restreinte, sur l'océan, qui devrait lui
+    permettre de profiter des échanges avec les pays voisins du nord qui en sont
+    privés.  <br />
+en: {}

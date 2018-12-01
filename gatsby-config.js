@@ -1,9 +1,11 @@
 module.exports = {
   siteMetadata: {
     title: 'PopulationData.net',
+    language: process.env.GATSBY_LANGUAGE,
   },
   plugins: [
-    'gatsby-plugin-react-helmet',
+    `gatsby-plugin-sass`,
+    `gatsby-plugin-react-helmet`,
     `gatsby-transformer-yaml`,
     {
       resolve: `gatsby-source-filesystem`,

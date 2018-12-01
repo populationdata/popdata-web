@@ -1,5 +1,6 @@
 title: histoire-geopolitique-monde-cartes
-nameFr: 'Histoire géopolitique du monde, en cartes'
-nameEn: 'Histoire géopolitique du monde, en cartes'
 date: 2017-03-03T00:01:09.000Z
-bodyFr: "<p style=\"text-align: justify;\">Après l'<a href=\"https://www.populationdata.net/2017/02/28/histoire-geopolitique-de-leurope-cartes/\">histoire géopolitique de l'Europe en cartes</a>, voici la version <a href=\"https://www.populationdata.net/monde/\">Monde</a>. Un voyage à travers l'histoire et les frontières, les empires, les conquêtes. Une vidéo assez impressionnante !\r\n\r\n<iframe src=\"//www.dailymotion.com/embed/video/x5df8vj\" width=\"800\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<p style=\"text-align: justify;\"></p>"
+fr:
+  title: 'Histoire géopolitique du monde, en cartes'
+  body: "<p style=\"text-align: justify;\">Après l'<a href=\"https://www.populationdata.net/2017/02/28/histoire-geopolitique-de-leurope-cartes/\">histoire géopolitique de l'Europe en cartes</a>, voici la version <a href=\"https://www.populationdata.net/monde/\">Monde</a>. Un voyage à travers l'histoire et les frontières, les empires, les conquêtes. Une vidéo assez impressionnante !\r\n\r\n<iframe src=\"//www.dailymotion.com/embed/video/x5df8vj\" width=\"800\" height=\"450\" frameborder=\"0\" allowfullscreen=\"allowfullscreen\"></iframe></p>\r\n<p style=\"text-align: justify;\"></p>"
+en: {}

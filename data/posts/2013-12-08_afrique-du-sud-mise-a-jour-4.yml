@@ -1,8 +1,9 @@
 title: afrique-du-sud-mise-a-jour-4
-nameFr: 'Afrique du Sud : mise à jour'
-nameEn: 'Afrique du Sud : mise à jour'
 date: 2013-12-09T00:00:00.000Z
-bodyFr: >-
-  Nous venons de mettre à jour notre fiche statistique sur l'Afrique du Sud. La
-  population progresse malgré le fléau du sida, qui reste toujours la principale
-  cause de mortalité.
+fr:
+  title: 'Afrique du Sud : mise à jour'
+  body: >-
+    Nous venons de mettre à jour notre fiche statistique sur l'Afrique du Sud.
+    La population progresse malgré le fléau du sida, qui reste toujours la
+    principale cause de mortalité.
+en: {}

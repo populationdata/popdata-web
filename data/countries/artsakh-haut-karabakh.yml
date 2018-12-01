@@ -1,9 +1,12 @@
 title: artsakh-haut-karabakh
-nameFr: Artsakh (Haut-Karabakh)
-nameEn: Artsakh (Nagorno-Karabakh)
 date: 2017-03-29T19:23:16.000Z
-descriptionFr: "<p style=\"text-align: justify;\"><strong>Artsakh</strong> est une république autoproclamée de Transcaucasie, appelée jusqu'au début 2017 Haut-Karabakh. Majoritairement peuplé d'Arméniens (80\_%), le pays\_a déclaré son indépendance le <time class=\"nowrap date-lien\" datetime=\"1991-09-02\">2 septembre 1991. C</time>elle-ci n'est pas reconnue par la communauté internationale (à l'exception de l'Abkhazie, de l'Ossétie du Sud, de la Transnistrie, elles-mêmes non reconnues par la communauté internationale, ainsi que quelques régions dans divers pays).\r\nSa capitale et plus grande ville est Stepanakert.</p>"
-descriptionEn: "<p style=\"text-align: justify;\"><strong>Artsakh</strong> est une république autoproclamée de Transcaucasie, appelée jusqu'au début 2017 Haut-Karabakh. Majoritairement peuplé d'Arméniens (80\_%), le pays\_a déclaré son indépendance le <time class=\"nowrap date-lien\" datetime=\"1991-09-02\">2 septembre 1991. C</time>elle-ci n'est pas reconnue par la communauté internationale (à l'exception de l'Abkhazie, de l'Ossétie du Sud, de la Transnistrie, elles-mêmes non reconnues par la communauté internationale, ainsi que quelques régions dans divers pays).\r\nSa capitale et plus grande ville est Stepanakert.</p>"
-longName: République d'Artsakh
+fr:
+  name: Artsakh (Haut-Karabakh)
+  description: "<p style=\"text-align: justify;\"><strong>Artsakh</strong> est une république autoproclamée de Transcaucasie, appelée jusqu'au début 2017 Haut-Karabakh. Majoritairement peuplé d'Arméniens (80\_%), le pays\_a déclaré son indépendance le <time class=\"nowrap date-lien\" datetime=\"1991-09-02\">2 septembre 1991. C</time>elle-ci n'est pas reconnue par la communauté internationale (à l'exception de l'Abkhazie, de l'Ossétie du Sud, de la Transnistrie, elles-mêmes non reconnues par la communauté internationale, ainsi que quelques régions dans divers pays).\r\nSa capitale et plus grande ville est Stepanakert.</p>"
+  officialName: République d'Artsakh
+en:
+  name: Artsakh (Nagorno-Karabakh)
+  description: "<p style=\"text-align: justify;\"><strong>Artsakh</strong> est une république autoproclamée de Transcaucasie, appelée jusqu'au début 2017 Haut-Karabakh. Majoritairement peuplé d'Arméniens (80\_%), le pays\_a déclaré son indépendance le <time class=\"nowrap date-lien\" datetime=\"1991-09-02\">2 septembre 1991. C</time>elle-ci n'est pas reconnue par la communauté internationale (à l'exception de l'Abkhazie, de l'Ossétie du Sud, de la Transnistrie, elles-mêmes non reconnues par la communauté internationale, ainsi que quelques régions dans divers pays).\r\nSa capitale et plus grande ville est Stepanakert.</p>"
+  officialName: République d'Artsakh
 localeName: Արցախ (hy)
 subcontinent: asie-de-louest

@@ -1,10 +1,11 @@
 title: perou-seisme-de-magnitude-7-9
-nameFr: Pérou - Séisme de magnitude 7.9
-nameEn: Pérou - Séisme de magnitude 7.9
 date: 2007-08-16T00:00:00.000Z
-bodyFr: >-
-  <div style="text-align: justify;">Un séisme de magnitude 7.9 sur l'échelle de
-  Richter s'est produit mercredi soir au Sud de Lima, capitale du <a
-  href="/index2.php?option=pays&pid=168&nom=perou">Pérou</a>. On dénombre à 
-  l'heure actuelle au moins 337 morts, et plus de 800 blessés, ainsi que des
-  centaines d'habitations détruites.                        <br />    </div>
+fr:
+  title: Pérou - Séisme de magnitude 7.9
+  body: >-
+    <div style="text-align: justify;">Un séisme de magnitude 7.9 sur l'échelle
+    de Richter s'est produit mercredi soir au Sud de Lima, capitale du <a
+    href="/index2.php?option=pays&pid=168&nom=perou">Pérou</a>. On dénombre à 
+    l'heure actuelle au moins 337 morts, et plus de 800 blessés, ainsi que des
+    centaines d'habitations détruites.                        <br />    </div>
+en: {}

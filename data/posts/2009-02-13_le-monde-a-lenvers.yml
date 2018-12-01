@@ -1,13 +1,15 @@
 title: le-monde-a-lenvers
-nameFr: Le monde à l'envers
-nameEn: Le monde à l'envers
 date: 2009-02-14T00:00:00.000Z
-bodyFr: >-
-  Nous avons l'habitude de voir la terre représentée sous forme cartographique
-  d'une seule manière, la plus réaliste possible. Voici une carte très
-  différente : imaginez le monde à l'envers.<!--more--><div style="text-align:
-  center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1925&aid=344&nom=monde-inverse"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/monde-inverse-petite.jpg" /></a>   <br />        
-  Cliquez sur la carte pour l'agrandir         <br type="_moz" />    </div>
+fr:
+  title: Le monde à l'envers
+  body: >-
+    Nous avons l'habitude de voir la terre représentée sous forme cartographique
+    d'une seule manière, la plus réaliste possible. Voici une carte très
+    différente : imaginez le monde à l'envers.<!--more--><div style="text-align:
+    center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1925&aid=344&nom=monde-inverse"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/monde-inverse-petite.jpg" /></a>   <br
+    />         Cliquez sur la carte pour l'agrandir         <br type="_moz"
+    />    </div>
+en: {}

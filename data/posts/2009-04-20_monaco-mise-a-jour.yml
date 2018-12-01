@@ -1,10 +1,11 @@
 title: monaco-mise-a-jour
-nameFr: 'Monaco : mise à jour'
-nameEn: 'Monaco : mise à jour'
 date: 2009-04-21T00:00:00.000Z
-bodyFr: >-
-  Deuxième plus petit pays du monde après le Vatican, le « Caillou » est très à
-  l'étroit sur sa petite bande de terre entièrement urbanisée. Il tente, par de
-  gigantesques travaux, de gagner de l'espace sur la mer. Travaux financés par
-  l'apport de capitaux étrangers, qui font bondir son PIB. Le pays est en effet
-  considéré comme un paradis fiscal.
+fr:
+  title: 'Monaco : mise à jour'
+  body: >-
+    Deuxième plus petit pays du monde après le Vatican, le « Caillou » est très
+    à l'étroit sur sa petite bande de terre entièrement urbanisée. Il tente, par
+    de gigantesques travaux, de gagner de l'espace sur la mer. Travaux financés
+    par l'apport de capitaux étrangers, qui font bondir son PIB. Le pays est en
+    effet considéré comme un paradis fiscal.
+en: {}

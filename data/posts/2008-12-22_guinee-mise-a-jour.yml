@@ -1,11 +1,12 @@
 title: guinee-mise-a-jour
-nameFr: 'Guinée : mise à jour'
-nameEn: 'Guinée : mise à jour'
 date: 2008-12-23T00:00:00.000Z
-bodyFr: >-
-  Pays aux ressources énormes mais mal exploitées, la Guinée dispose d'atouts
-  certains pour aborder l'avenir sereinement. Malheureusement, comme souvent,
-  les politiciens et les militaires se déchirent pour le pouvoir, laissant la
-  population souffrir et la situation se dégrader. La confuse transition
-  politique engagée actuellement sera-t-elle démocratique et tournée vers
-  l'amélioration du niveau de vie ? Rien n'est moins sûr.  <br />
+fr:
+  title: 'Guinée : mise à jour'
+  body: >-
+    Pays aux ressources énormes mais mal exploitées, la Guinée dispose d'atouts
+    certains pour aborder l'avenir sereinement. Malheureusement, comme souvent,
+    les politiciens et les militaires se déchirent pour le pouvoir, laissant la
+    population souffrir et la situation se dégrader. La confuse transition
+    politique engagée actuellement sera-t-elle démocratique et tournée vers
+    l'amélioration du niveau de vie ? Rien n'est moins sûr.  <br />
+en: {}

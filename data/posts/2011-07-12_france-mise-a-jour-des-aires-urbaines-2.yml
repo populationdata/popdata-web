@@ -1,11 +1,12 @@
 title: france-mise-a-jour-des-aires-urbaines-2
-nameFr: 'France : mise à jour des aires urbaines'
-nameEn: 'France : mise à jour des aires urbaines'
 date: 2011-07-13T00:00:00.000Z
-bodyFr: >-
-  Nous venons de mettre à jour les populations des aires urbaines françaises.
-  Les chiffres sont ceux, officiels, de l'Insee, et datent de 2008, et
-  proviennent du dernier recensement annuel. Où l'on voit bien que les grandes
-  métropoles tirent mieux leur épingle du jeu et progressent vite, avec un trio
-  de tête de la croissance démographique composé de Toulouse, Rennes et
-  Montpellier.<!--more-->
+fr:
+  title: 'France : mise à jour des aires urbaines'
+  body: >-
+    Nous venons de mettre à jour les populations des aires urbaines françaises.
+    Les chiffres sont ceux, officiels, de l'Insee, et datent de 2008, et
+    proviennent du dernier recensement annuel. Où l'on voit bien que les grandes
+    métropoles tirent mieux leur épingle du jeu et progressent vite, avec un
+    trio de tête de la croissance démographique composé de Toulouse, Rennes et
+    Montpellier.<!--more-->
+en: {}

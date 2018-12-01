@@ -1,8 +1,9 @@
 title: egypte-mise-a-jour-2
-nameFr: 'Egypte : mise à jour'
-nameEn: 'Egypte : mise à jour'
 date: 2012-07-09T00:00:00.000Z
-bodyFr: >-
-  L'ère Hosni Moubarak est définitivement  terminée. Le pays vient d'élire un
-  nouveau président, Mohamed Morsi. Le  chemin vers la démocratie a été long et
-  difficile, mais l'Egypte semble  désormais sur la bonne voie.
+fr:
+  title: 'Egypte : mise à jour'
+  body: >-
+    L'ère Hosni Moubarak est définitivement  terminée. Le pays vient d'élire un
+    nouveau président, Mohamed Morsi. Le  chemin vers la démocratie a été long
+    et difficile, mais l'Egypte semble  désormais sur la bonne voie.
+en: {}

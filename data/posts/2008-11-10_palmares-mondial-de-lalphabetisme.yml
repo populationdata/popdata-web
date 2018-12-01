@@ -1,13 +1,14 @@
 title: palmares-mondial-de-lalphabetisme
-nameFr: Palmarès mondial de l'alphabétisme
-nameEn: Palmarès mondial de l'alphabétisme
 date: 2008-11-11T00:00:00.000Z
-bodyFr: >-
-  Voici le palmarès mondial de l'alphabétisme. Certains pays sont gravement
-  handicapés dans leur développement par un analphabétisme chronique et majeur,
-  notamment chez les femmes. Or, on sait que le développement humain des pays ne
-  peut se faire sans éduquer les femmes. Par ailleurs, les chiffres de certains
-  pays sont difficiles à évaluer, les 100% d'alphabètes trouvés chez certains
-  d'entre eux semblent en effet théoriques du fait de l'obligation de
-  l'éducation pour tous, ne prenant pas en compte ceux qui sont en difficulté ou
-  laissés pour compte.     <br />
+fr:
+  title: Palmarès mondial de l'alphabétisme
+  body: >-
+    Voici le palmarès mondial de l'alphabétisme. Certains pays sont gravement
+    handicapés dans leur développement par un analphabétisme chronique et
+    majeur, notamment chez les femmes. Or, on sait que le développement humain
+    des pays ne peut se faire sans éduquer les femmes. Par ailleurs, les
+    chiffres de certains pays sont difficiles à évaluer, les 100% d'alphabètes
+    trouvés chez certains d'entre eux semblent en effet théoriques du fait de
+    l'obligation de l'éducation pour tous, ne prenant pas en compte ceux qui
+    sont en difficulté ou laissés pour compte.     <br />
+en: {}

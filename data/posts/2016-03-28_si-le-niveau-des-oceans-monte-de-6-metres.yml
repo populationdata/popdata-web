@@ -1,8 +1,9 @@
 title: si-le-niveau-des-oceans-monte-de-6-metres
-nameFr: Si le niveau des océans monte de 6 mètres
-nameEn: Si le niveau des océans monte de 6 mètres
 date: 2016-03-29T00:00:00.000Z
-bodyFr: >-
-  Voici une carte présentant les contours des continents si le niveau des océans
-  augmentait de 6 mètres. Les zones côtières, où vivent des milliards d'humains,
-  seraient submergées. Un scénario pas si improbable que cela...
+fr:
+  title: Si le niveau des océans monte de 6 mètres
+  body: >-
+    Voici une carte présentant les contours des continents si le niveau des
+    océans augmentait de 6 mètres. Les zones côtières, où vivent des milliards
+    d'humains, seraient submergées. Un scénario pas si improbable que cela...
+en: {}

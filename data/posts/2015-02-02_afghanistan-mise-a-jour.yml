@@ -1,9 +1,10 @@
 title: afghanistan-mise-a-jour
-nameFr: 'Afghanistan : mise à jour'
-nameEn: 'Afghanistan : mise à jour'
 date: 2015-02-03T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la fiche Afghanistan, avec les derniers chiffres sortis fin
-  2014. Kaboul, la capitale, continue à grossir très vite et est devenue une
-  véritable métropole de +3,5 millions d'habitants, sans que ses infrastructures
-  aient suivi.
+fr:
+  title: 'Afghanistan : mise à jour'
+  body: >-
+    Mise à jour de la fiche Afghanistan, avec les derniers chiffres sortis fin
+    2014. Kaboul, la capitale, continue à grossir très vite et est devenue une
+    véritable métropole de +3,5 millions d'habitants, sans que ses
+    infrastructures aient suivi.
+en: {}

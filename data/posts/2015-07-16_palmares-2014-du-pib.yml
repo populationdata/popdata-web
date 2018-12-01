@@ -1,10 +1,11 @@
 title: palmares-2014-du-pib
-nameFr: Palmarès 2014 du PIB
-nameEn: Palmarès 2014 du PIB
 date: 2015-07-17T00:00:00.000Z
-bodyFr: >-
-  Le palmarès 2014 du PIB est sorti ! Découvrez le classement des pays selon
-  leur richesse globale. La fluctuation des monnaies peut modifier ce
-  classement, comme pour la France, qui passe derrière le Royaume-Uni pour la
-  première fois à cause de la baisse de l'euro face au dollars, devise dans
-  laquelle est libellé le PIB.
+fr:
+  title: Palmarès 2014 du PIB
+  body: >-
+    Le palmarès 2014 du PIB est sorti ! Découvrez le classement des pays selon
+    leur richesse globale. La fluctuation des monnaies peut modifier ce
+    classement, comme pour la France, qui passe derrière le Royaume-Uni pour la
+    première fois à cause de la baisse de l'euro face au dollars, devise dans
+    laquelle est libellé le PIB.
+en: {}

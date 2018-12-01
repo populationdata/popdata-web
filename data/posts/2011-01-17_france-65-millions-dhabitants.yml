@@ -1,10 +1,11 @@
 title: france-65-millions-dhabitants
-nameFr: 'France : 65 millions d''habitants'
-nameEn: 'France : 65 millions d''habitants'
 date: 2011-01-18T00:00:00.000Z
-bodyFr: >-
-  Pour la première fois de son histoire, la France vient de dépasser les 65
-  millions d'habitants. Au 1er janvier 2011, la France métropolitaine est
-  peuplée de 63 136 180 habitants tandis que les départements d'outre-mer (DOM)
-  accueillent 1 890 705 personnes. En ajoutant les territoires et collectivités
-  d'outre-mer, le total dépasse les 65,8 millions d'habitants.
+fr:
+  title: 'France : 65 millions d''habitants'
+  body: >-
+    Pour la première fois de son histoire, la France vient de dépasser les 65
+    millions d'habitants. Au 1er janvier 2011, la France métropolitaine est
+    peuplée de 63 136 180 habitants tandis que les départements d'outre-mer
+    (DOM) accueillent 1 890 705 personnes. En ajoutant les territoires et
+    collectivités d'outre-mer, le total dépasse les 65,8 millions d'habitants.
+en: {}

@@ -1,5 +1,7 @@
 title: union-europeenne
-nameFr: Union Européenne
-nameEn: European Union
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Union Européenne
+en:
+  name: European Union
 continent: europe

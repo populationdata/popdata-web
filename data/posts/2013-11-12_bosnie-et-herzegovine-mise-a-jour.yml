@@ -1,8 +1,9 @@
 title: bosnie-et-herzegovine-mise-a-jour
-nameFr: 'Bosnie-et-Herzégovine : mise à jour'
-nameEn: 'Bosnie-et-Herzégovine : mise à jour'
 date: 2013-11-13T00:00:00.000Z
-bodyFr: >-
-  Un recensement a été effectué récemment dans le pays. Ce qui n'était pas
-  arrivé depuis 1991, avant l'indépendance en 1992. Où l'on apprend que la
-  population a fortement chuté en deux décennies.
+fr:
+  title: 'Bosnie-et-Herzégovine : mise à jour'
+  body: >-
+    Un recensement a été effectué récemment dans le pays. Ce qui n'était pas
+    arrivé depuis 1991, avant l'indépendance en 1992. Où l'on apprend que la
+    population a fortement chuté en deux décennies.
+en: {}

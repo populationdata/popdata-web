@@ -1,9 +1,10 @@
 title: timor-oriental-mise-a-jour-2
-nameFr: 'Timor oriental : mise à jour'
-nameEn: 'Timor oriental : mise à jour'
 date: 2012-06-02T00:00:00.000Z
-bodyFr: >-
-  Après 10 ans de réelle indépendance, le pays vient d'élire un nouveau
-  président. Le bilan est globalement bon, le Timor oriental voyant son avenir
-  se dégager petit-à-petit, grâce notamment aux ressources pétrolières dont il
-  dispose.
+fr:
+  title: 'Timor oriental : mise à jour'
+  body: >-
+    Après 10 ans de réelle indépendance, le pays vient d'élire un nouveau
+    président. Le bilan est globalement bon, le Timor oriental voyant son avenir
+    se dégager petit-à-petit, grâce notamment aux ressources pétrolières dont il
+    dispose.
+en: {}

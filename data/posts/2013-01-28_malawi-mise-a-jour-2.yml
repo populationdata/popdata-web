@@ -1,9 +1,10 @@
 title: malawi-mise-a-jour-2
-nameFr: 'Malawi : mise à jour'
-nameEn: 'Malawi : mise à jour'
 date: 2013-01-29T00:00:00.000Z
-bodyFr: >-
-  Depuis l'arrivée de la nouvelle présidente Joyce Banda au printemps 2012, le
-  pays lutte avec plus d'efficacité contre la corruption endémique. Dernier
-  geste spectaculaire : la vente de l'avion présidentiel, d'une valeur de 10
-  millions d', beaucoup trop cher pour le budget d'un pays aussi pauvre.
+fr:
+  title: 'Malawi : mise à jour'
+  body: >-
+    Depuis l'arrivée de la nouvelle présidente Joyce Banda au printemps 2012, le
+    pays lutte avec plus d'efficacité contre la corruption endémique. Dernier
+    geste spectaculaire : la vente de l'avion présidentiel, d'une valeur de 10
+    millions d', beaucoup trop cher pour le budget d'un pays aussi pauvre.
+en: {}

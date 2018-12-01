@@ -1,22 +1,23 @@
 title: club-de-paris
-nameFr: Club de Paris
-nameEn: Club de Paris
 date: 2008-12-27T00:00:00.000Z
-bodyFr: >-
-  Le Club de Paris est un groupe informel de pays créanciers qui a pour but de
-  trouver des solutions coordonnées aux difficultés de paiements de nations
-  endettées. Il traite les dettes publiques, cest-à-dire celles des
-  gouvernements et du secteur privé garanties par le secteur
-  public.<!--more-->Les 19 pays membres permanents du Club de Paris :       <br
-  />  <ul>   <li>Allemagne</li>   <li>Australie</li>   <li>Autriche</li>  
-  <li>Belgique</li>   <li>Canada</li>   <li>Danemark</li>   <li>Espagne</li>  
-  <li>Etats-Unis</li>   <li>Finlande</li>   <li>France</li>   <li>Irlande</li>  
-  <li>Italie</li>   <li>Japon</li>   <li>Norvège</li>   <li>Pays-Bas</li>  
-  <li>Royaume-Uni</li>   <li>Russie</li>   <li>Suède</li>   <li>Suisse</li>
-  </ul> <div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1808&aid=282&nom=club-de-paris"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/club-de-paris-petite.jpg" /></a>   <br
-  />            Cliquez sur la carte pour l'agrandir            <br />      <br
-  />      <div style="text-align: left;">Source : Club de Paris,
-  Wikipédia          <br type="_moz" />        </div> </div>
+fr:
+  title: Club de Paris
+  body: >-
+    Le Club de Paris est un groupe informel de pays créanciers qui a pour but de
+    trouver des solutions coordonnées aux difficultés de paiements de nations
+    endettées. Il traite les dettes publiques, cest-à-dire celles des
+    gouvernements et du secteur privé garanties par le secteur
+    public.<!--more-->Les 19 pays membres permanents du Club de Paris :      
+    <br />  <ul>   <li>Allemagne</li>   <li>Australie</li>   <li>Autriche</li>  
+    <li>Belgique</li>   <li>Canada</li>   <li>Danemark</li>   <li>Espagne</li>  
+    <li>Etats-Unis</li>   <li>Finlande</li>   <li>France</li>  
+    <li>Irlande</li>   <li>Italie</li>   <li>Japon</li>   <li>Norvège</li>  
+    <li>Pays-Bas</li>   <li>Royaume-Uni</li>   <li>Russie</li>  
+    <li>Suède</li>   <li>Suisse</li> </ul> <div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1808&aid=282&nom=club-de-paris"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/club-de-paris-petite.jpg" /></a>   <br
+    />            Cliquez sur la carte pour l'agrandir            <br />     
+    <br />      <div style="text-align: left;">Source : Club de Paris,
+    Wikipédia          <br type="_moz" />        </div> </div>
+en: {}

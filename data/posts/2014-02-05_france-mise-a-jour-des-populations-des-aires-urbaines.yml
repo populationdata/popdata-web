@@ -1,9 +1,11 @@
 title: france-mise-a-jour-des-populations-des-aires-urbaines
-nameFr: 'France : mise à jour des populations des aires urbaines'
-nameEn: 'France : mise à jour des populations des aires urbaines'
 date: 2014-02-06T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la population des 50 premières grandes aires urbaines
-  françaises, avec les derniers chiffres de l'Insee de 2011. L'ouest et le
-  sud-ouest de la France continuent d'attirer de nombreux habitants. Le nord,
-  l'est et le centre stagnent. Les aires urbaines s'étendent toujours plus loin.
+fr:
+  title: 'France : mise à jour des populations des aires urbaines'
+  body: >-
+    Mise à jour de la population des 50 premières grandes aires urbaines
+    françaises, avec les derniers chiffres de l'Insee de 2011. L'ouest et le
+    sud-ouest de la France continuent d'attirer de nombreux habitants. Le nord,
+    l'est et le centre stagnent. Les aires urbaines s'étendent toujours plus
+    loin.
+en: {}

@@ -1,26 +1,27 @@
 title: opep-carte-des-flux-de-petrole-brut-et-raffine-en-2007
-nameFr: OPEP - carte des flux de pétrole brut et raffiné en 2007
-nameEn: OPEP - carte des flux de pétrole brut et raffiné en 2007
 date: 2008-10-24T00:00:00.000Z
-bodyFr: >-
-  L'OPEP est une organisation regroupant de pays producteurs de pétrole formée
-  de 12 membres. Sa production avoisine les 40% du total mondial, et ses
-  décisions influencent le cours du prix du pétrole brut au niveau mondial.
-  Voici une carte des flux de pétrole brut et raffiné de l'OPEP en
-  2007.          <br /><!--more--><div style="text-align: center;">   <div
-  style="text-align: left;">L'Indonésie ne fait plus partie de l'OPEP depuis mai
-  2008, car ce pays n'est désormais plus exportateur net de pétrole, mais bien
-  importateur. Sa consommation intérieure a fortement augmenté depuis une
-  décennie, et sa production a baissé à moins d'1 million de barils par jour,
-  seuil minimum pour être membre de l'OPEP selon les statuts de l'organisation,
-  du fait d'un sous-investissement dans le secteur de l'exploration et de la
-  production depuis 10 ans.                         <br />        </div>   <br
-  />   <a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1564&aid=154&nom=opep-flux-petrole-brut-raffine-2007"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/opep-flux-petrole-brut-et-raffine-petite.jpg"
-  /></a>   <br />    </div> <div style="text-align: center;">Cliquez sur la
-  carte pour l'agrandir                              <br />      <br />     
-  <div style="text-align: left;">Source :
-  OPEP                                             <br type="_moz" />       
-  </div> </div>
+fr:
+  title: OPEP - carte des flux de pétrole brut et raffiné en 2007
+  body: >-
+    L'OPEP est une organisation regroupant de pays producteurs de pétrole formée
+    de 12 membres. Sa production avoisine les 40% du total mondial, et ses
+    décisions influencent le cours du prix du pétrole brut au niveau mondial.
+    Voici une carte des flux de pétrole brut et raffiné de l'OPEP en
+    2007.          <br /><!--more--><div style="text-align: center;">   <div
+    style="text-align: left;">L'Indonésie ne fait plus partie de l'OPEP depuis
+    mai 2008, car ce pays n'est désormais plus exportateur net de pétrole, mais
+    bien importateur. Sa consommation intérieure a fortement augmenté depuis une
+    décennie, et sa production a baissé à moins d'1 million de barils par jour,
+    seuil minimum pour être membre de l'OPEP selon les statuts de
+    l'organisation, du fait d'un sous-investissement dans le secteur de
+    l'exploration et de la production depuis 10 ans.                         <br
+    />        </div>   <br />   <a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1564&aid=154&nom=opep-flux-petrole-brut-raffine-2007"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/opep-flux-petrole-brut-et-raffine-petite.jpg"
+    /></a>   <br />    </div> <div style="text-align: center;">Cliquez sur la
+    carte pour l'agrandir                              <br />      <br />     
+    <div style="text-align: left;">Source :
+    OPEP                                             <br type="_moz" />       
+    </div> </div>
+en: {}

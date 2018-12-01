@@ -1,22 +1,23 @@
 title: chikungunya-carte-du-monde
-nameFr: 'Chikungunya : carte du monde'
-nameEn: 'Chikungunya : carte du monde'
 date: 2009-03-16T00:00:00.000Z
-bodyFr: >-
-  Le chikungunya est une maladie infectieuse tropicale due à un arbovirus,
-  transmis par des moustiques.<!--more--><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1949&aid=378&nom=monde-chikungunya"><img
-  border="0" align="right"
-  src="/images/cartes/articles/monde-chikungunya-petite.jpg" /></a>Le nom est
-  d'origine makonde (langue d'origine tanzanienne) et signifie : « qui se
-  recourbe, qui se recroqueville », à l'image des feuilles tombées des arbres
-  qui se recourbent en séchant.     <br />  <br />     On a aussi traduit
-  chikungunya en français « maladie qui brise les os » ou « maladie de l'homme
-  courbé » car elle occasionne de très fortes douleurs articulaires associées à
-  une raideur, ce qui donne aux patients infectés une attitude courbée très
-  caractéristique.      <br />  <br />     La transmission du virus d'un humain
-  malade à un moustique se fait par le sang aspiré lors de la piqûre. La
-  contamination d'un homme sain est réalisée par la salive de moustiques qui ont
-  été infectés quelques jours ou quelques semaines auparavant. Seules les
-  moustiques femelles piquent.     <br />  <br />     Source : Wikipédia     <br
-  type="_moz" />
+fr:
+  title: 'Chikungunya : carte du monde'
+  body: >-
+    Le chikungunya est une maladie infectieuse tropicale due à un arbovirus,
+    transmis par des moustiques.<!--more--><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1949&aid=378&nom=monde-chikungunya"><img
+    border="0" align="right"
+    src="/images/cartes/articles/monde-chikungunya-petite.jpg" /></a>Le nom est
+    d'origine makonde (langue d'origine tanzanienne) et signifie : « qui se
+    recourbe, qui se recroqueville », à l'image des feuilles tombées des arbres
+    qui se recourbent en séchant.     <br />  <br />     On a aussi traduit
+    chikungunya en français « maladie qui brise les os » ou « maladie de l'homme
+    courbé » car elle occasionne de très fortes douleurs articulaires associées
+    à une raideur, ce qui donne aux patients infectés une attitude courbée très
+    caractéristique.      <br />  <br />     La transmission du virus d'un
+    humain malade à un moustique se fait par le sang aspiré lors de la piqûre.
+    La contamination d'un homme sain est réalisée par la salive de moustiques
+    qui ont été infectés quelques jours ou quelques semaines auparavant. Seules
+    les moustiques femelles piquent.     <br />  <br />     Source :
+    Wikipédia     <br type="_moz" />
+en: {}

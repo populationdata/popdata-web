@@ -1,9 +1,10 @@
 title: centrafrique-mise-a-jour
-nameFr: 'Centrafrique : mise à jour'
-nameEn: 'Centrafrique : mise à jour'
 date: 2013-11-26T00:00:00.000Z
-bodyFr: >-
-  Mise à jour de la fiche sur la République centrafricaine, souvent appelée
-  Centrafrique. Le pays est en plein chaos sécuritaire, l'ONU, la France et
-  l'Union africaine vont envoyer plusieurs milliers de soldats afin de tenter de
-  sécuriser les populations qui souffrent des violences.
+fr:
+  title: 'Centrafrique : mise à jour'
+  body: >-
+    Mise à jour de la fiche sur la République centrafricaine, souvent appelée
+    Centrafrique. Le pays est en plein chaos sécuritaire, l'ONU, la France et
+    l'Union africaine vont envoyer plusieurs milliers de soldats afin de tenter
+    de sécuriser les populations qui souffrent des violences.
+en: {}

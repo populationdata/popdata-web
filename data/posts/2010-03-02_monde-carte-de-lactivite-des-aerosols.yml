@@ -1,12 +1,13 @@
 title: monde-carte-de-lactivite-des-aerosols
-nameFr: 'Monde : carte de l''activité des aérosols'
-nameEn: 'Monde : carte de l''activité des aérosols'
 date: 2010-03-03T00:00:00.000Z
-bodyFr: >-
-  La Nasa dévoile une image d'un globe terrestre prise par le Multi-angle
-  Imaging Spectroradiometer (MISR) en 2007, qui mesure l'activité des aérosols
-  dans l'atmosphère. On voit en effet en violet sur cette image la présence des
-  aérosols, qui affectent la qualité de l'air et le climat. En provenance des
-  grands pays industriels, ils se déplacent et polluent une large zone qui va du
-  Sahara aux Caraïbes.<!--more-->[voir image en grand dans colonne
-  centrale-&gt;]<br /><br />Source : Nasa Earth Observatory<br />
+fr:
+  title: 'Monde : carte de l''activité des aérosols'
+  body: >-
+    La Nasa dévoile une image d'un globe terrestre prise par le Multi-angle
+    Imaging Spectroradiometer (MISR) en 2007, qui mesure l'activité des aérosols
+    dans l'atmosphère. On voit en effet en violet sur cette image la présence
+    des aérosols, qui affectent la qualité de l'air et le climat. En provenance
+    des grands pays industriels, ils se déplacent et polluent une large zone qui
+    va du Sahara aux Caraïbes.<!--more-->[voir image en grand dans colonne
+    centrale-&gt;]<br /><br />Source : Nasa Earth Observatory<br />
+en: {}

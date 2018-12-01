@@ -1,9 +1,10 @@
 title: saint-christophe-et-nieves-mise-a-jour
-nameFr: 'Saint-Christophe-et-Niévès : mise à jour'
-nameEn: 'Saint-Christophe-et-Niévès : mise à jour'
 date: 2009-03-19T00:00:00.000Z
-bodyFr: >-
-  Saint-Christophe-et-Niévès est un petit pays situé au coeur des Caraïbes
-  orientales. C'est un paradis à la fois fiscal et touristique, étroitement
-  surveillé en raison des activités parfois douteuses sur le plan financier que
-  l'on peut y trouver.
+fr:
+  title: 'Saint-Christophe-et-Niévès : mise à jour'
+  body: >-
+    Saint-Christophe-et-Niévès est un petit pays situé au coeur des Caraïbes
+    orientales. C'est un paradis à la fois fiscal et touristique, étroitement
+    surveillé en raison des activités parfois douteuses sur le plan financier
+    que l'on peut y trouver.
+en: {}

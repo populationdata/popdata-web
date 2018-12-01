@@ -1,17 +1,18 @@
 title: vanuatu-plaques-tectoniques
-nameFr: 'Vanuatu : plaques tectoniques'
-nameEn: 'Vanuatu : plaques tectoniques'
 date: 2009-10-14T00:00:00.000Z
-bodyFr: >-
-  De nombreux séismes ont récemment eu lieu autour de Vanuatu, dans le
-  Pacifique, à la frontière de deux plaques tectoniques : la plaque Pacifique et
-  la plaque Australienne. Cette zone est considérée comme l'une des plus
-  sismiques de la planète, la plaque australienne avançant vers la plaque
-  Pacifique à la vitesse de 91 millimètres par an en moyenne.<!--more-->C'est
-  cette forte activité qui engendre, à la rencontre des deux plaques, de
-  nombreux séismes.<br />On voit sur cette carte [colonne centrale -&gt;] les
-  lignes de faille et la frontière entre les deux plaques. Les ronds
-  représentent les séismes des derniers jours, leur taille variant en fonction
-  de l'intensité du séisme. Le plus important avait une magnitude de 7.8 sur
-  l'échelle de Richter. Au total, plus d'une vingtaine de séismes ont eu lieu en
-  quelques jours.<br />
+fr:
+  title: 'Vanuatu : plaques tectoniques'
+  body: >-
+    De nombreux séismes ont récemment eu lieu autour de Vanuatu, dans le
+    Pacifique, à la frontière de deux plaques tectoniques : la plaque Pacifique
+    et la plaque Australienne. Cette zone est considérée comme l'une des plus
+    sismiques de la planète, la plaque australienne avançant vers la plaque
+    Pacifique à la vitesse de 91 millimètres par an en moyenne.<!--more-->C'est
+    cette forte activité qui engendre, à la rencontre des deux plaques, de
+    nombreux séismes.<br />On voit sur cette carte [colonne centrale -&gt;] les
+    lignes de faille et la frontière entre les deux plaques. Les ronds
+    représentent les séismes des derniers jours, leur taille variant en fonction
+    de l'intensité du séisme. Le plus important avait une magnitude de 7.8 sur
+    l'échelle de Richter. Au total, plus d'une vingtaine de séismes ont eu lieu
+    en quelques jours.<br />
+en: {}

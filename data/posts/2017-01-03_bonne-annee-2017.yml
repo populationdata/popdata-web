@@ -1,9 +1,10 @@
 title: bonne-annee-2017
-nameFr: Bonne Année 2017 !
-nameEn: Bonne Année 2017 !
 date: 2017-01-03T22:31:49.000Z
-bodyFr: >-
-  <a href="https://www.populationdata.net/?attachment_id=36317"><img
-  class="wp-image-36317 size-full"
-  src="https://www.populationdata.net/wp-content/uploads/2017/01/2017-.png"
-  alt="2017" width="2000" height="1000" /></a>
+fr:
+  title: Bonne Année 2017 !
+  body: >-
+    <a href="https://www.populationdata.net/?attachment_id=36317"><img
+    class="wp-image-36317 size-full"
+    src="https://www.populationdata.net/wp-content/uploads/2017/01/2017-.png"
+    alt="2017" width="2000" height="1000" /></a>
+en: {}

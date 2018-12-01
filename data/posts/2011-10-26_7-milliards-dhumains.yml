@@ -1,7 +1,9 @@
 title: 7-milliards-dhumains
-nameFr: 7 milliards d'humains
-nameEn: 7 milliards d'humains
 date: 2011-10-27T00:00:00.000Z
-bodyFr: >-
-  Nous serons 7 milliards d'humains fin octobre. Suivez en direct cet événement
-  sur le compteur en temps réel de la population mondiale !<!--more-->
+fr:
+  title: 7 milliards d'humains
+  body: >-
+    Nous serons 7 milliards d'humains fin octobre. Suivez en direct cet
+    événement sur le compteur en temps réel de la population mondiale
+    !<!--more-->
+en: {}

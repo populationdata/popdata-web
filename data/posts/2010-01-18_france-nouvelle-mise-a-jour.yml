@@ -1,5 +1,6 @@
 title: france-nouvelle-mise-a-jour
-nameFr: 'France : nouvelle mise à jour'
-nameEn: 'France : nouvelle mise à jour'
 date: 2010-01-19T00:00:00.000Z
-bodyFr: "Après la parution des résultats officiels du recensement par l'INSEE le 1er janvier, millésimés 2007, voici les estimations de population pour le 1er janvier 2010 : 62 793 432 \t\t habitants en France métropolitaine. Nous avons également ajouté une section photos des pays, en partenariat avec l'encyclopédie Fotopedia, que nous remercions."
+fr:
+  title: 'France : nouvelle mise à jour'
+  body: "Après la parution des résultats officiels du recensement par l'INSEE le 1er janvier, millésimés 2007, voici les estimations de population pour le 1er janvier 2010 : 62 793 432 \t\t habitants en France métropolitaine. Nous avons également ajouté une section photos des pays, en partenariat avec l'encyclopédie Fotopedia, que nous remercions."
+en: {}

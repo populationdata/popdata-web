@@ -1,9 +1,10 @@
 title: maduro-est-elu-president-du-venezuela
-nameFr: Maduro est élu président du Venezuela
-nameEn: Maduro est élu président du Venezuela
 date: 2013-04-16T00:00:00.000Z
-bodyFr: >-
-  Nicolas Maduro a été élu à la présidence du Venezuela, succédant ainsi à Hugo
-  Chavez. Faisant partie de la même famille politique que son prédécesseur, il
-  fait face à l'opposition de droite, soutenue par les Etats-Unis, qui refuse
-  les résultats de l'élection.
+fr:
+  title: Maduro est élu président du Venezuela
+  body: >-
+    Nicolas Maduro a été élu à la présidence du Venezuela, succédant ainsi à
+    Hugo Chavez. Faisant partie de la même famille politique que son
+    prédécesseur, il fait face à l'opposition de droite, soutenue par les
+    Etats-Unis, qui refuse les résultats de l'élection.
+en: {}

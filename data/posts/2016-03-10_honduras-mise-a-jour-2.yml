@@ -1,10 +1,11 @@
 title: honduras-mise-a-jour-2
-nameFr: 'Honduras : mise à jour'
-nameEn: 'Honduras : mise à jour'
 date: 2016-03-11T00:00:00.000Z
-bodyFr: >-
-  Le Honduras est le pays le plus violent du monde, hors zones de guerre. Les
-  militants écologistes sont particulièrement visés. 111 d'entre eux ont en
-  effet été assassinés depuis 2002 ! Dernière en date, Berta Cáceres, militante
-  des droits humains des Amérindiens et écologiste, assassinée chez elle le 3
-  mars 2016.
+fr:
+  title: 'Honduras : mise à jour'
+  body: >-
+    Le Honduras est le pays le plus violent du monde, hors zones de guerre. Les
+    militants écologistes sont particulièrement visés. 111 d'entre eux ont en
+    effet été assassinés depuis 2002 ! Dernière en date, Berta Cáceres,
+    militante des droits humains des Amérindiens et écologiste, assassinée chez
+    elle le 3 mars 2016.
+en: {}

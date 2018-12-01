@@ -1,10 +1,11 @@
 title: russie-mise-a-jour-2
-nameFr: 'Russie : mise à jour'
-nameEn: 'Russie : mise à jour'
 date: 2010-01-03T00:00:00.000Z
-bodyFr: >-
-  La Russie est en train de renouer avec la croissance démographique, après deux
-  décennies de baisse. Certes, le pays voit sa population augmenter très
-  faiblement, environ 20 000 personnes pour 2009, mais la tendance est là. Il
-  s'agit pour le moment surtout d'une hausse due à l'immigration en provenance
-  des anciens pays de l'URSS.
+fr:
+  title: 'Russie : mise à jour'
+  body: >-
+    La Russie est en train de renouer avec la croissance démographique, après
+    deux décennies de baisse. Certes, le pays voit sa population augmenter très
+    faiblement, environ 20 000 personnes pour 2009, mais la tendance est là. Il
+    s'agit pour le moment surtout d'une hausse due à l'immigration en provenance
+    des anciens pays de l'URSS.
+en: {}

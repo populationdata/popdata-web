@@ -1,10 +1,11 @@
 title: irlande-mise-a-jour
-nameFr: 'Irlande : mise à jour'
-nameEn: 'Irlande : mise à jour'
 date: 2008-11-01T00:00:00.000Z
-bodyFr: >-
-  Le pays a connu depuis 20 ans une très forte croissance économique. Celle-ci
-  s'est accompagnée, récemment et pour la première fois depuis l'indépendance du
-  pays en 1922, d'une croissance démographique. Une sorte de retournement
-  spectaculaire : à l'heure actuelle, la croissance démographique irlandaise est
-  de l'ordre de +2.3% par an !
+fr:
+  title: 'Irlande : mise à jour'
+  body: >-
+    Le pays a connu depuis 20 ans une très forte croissance économique. Celle-ci
+    s'est accompagnée, récemment et pour la première fois depuis l'indépendance
+    du pays en 1922, d'une croissance démographique. Une sorte de retournement
+    spectaculaire : à l'heure actuelle, la croissance démographique irlandaise
+    est de l'ordre de +2.3% par an !
+en: {}

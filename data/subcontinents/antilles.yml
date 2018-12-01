@@ -1,5 +1,7 @@
 title: antilles
-nameFr: Antilles
-nameEn: Caribbean
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Antilles
+en:
+  name: Caribbean
 continent: ameriques

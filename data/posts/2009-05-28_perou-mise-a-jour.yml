@@ -1,14 +1,15 @@
 title: perou-mise-a-jour
-nameFr: 'Pérou : mise à jour'
-nameEn: 'Pérou : mise à jour'
 date: 2009-05-29T00:00:00.000Z
-bodyFr: >-
-  Le Pérou regorge de ressources naturelles, et notamment pétrolières et
-  gazières. Mais à la différence de ses voisins, il privilégie la privatisation
-  des investissements en faisant appel à des multinationales souvent peu
-  soucieuses des effets sur l'environnement de leurs rejets industriels. Les
-  populations locales souffrent de cette pollution, les amérindiens vivant en
-  forêt en particuliers. Et la croissance économique des dernières années,
-  censée profiter à tous, n'a en réalité fait qu'augmenter les écarts entre les
-  plus riches et les plus pauvres, qui s'entassent toujours plus dans les
-  bidonvilles de Lima.
+fr:
+  title: 'Pérou : mise à jour'
+  body: >-
+    Le Pérou regorge de ressources naturelles, et notamment pétrolières et
+    gazières. Mais à la différence de ses voisins, il privilégie la
+    privatisation des investissements en faisant appel à des multinationales
+    souvent peu soucieuses des effets sur l'environnement de leurs rejets
+    industriels. Les populations locales souffrent de cette pollution, les
+    amérindiens vivant en forêt en particuliers. Et la croissance économique des
+    dernières années, censée profiter à tous, n'a en réalité fait qu'augmenter
+    les écarts entre les plus riches et les plus pauvres, qui s'entassent
+    toujours plus dans les bidonvilles de Lima.
+en: {}

@@ -1,11 +1,13 @@
 title: indonesie-seisme-de-magnitude-6-6-mise-a-jour
-nameFr: 'Indonésie : séisme de magnitude 6.6 (mise à jour)'
-nameEn: 'Indonésie : séisme de magnitude 6.6 (mise à jour)'
 date: 2009-04-16T00:00:00.000Z
-bodyFr: >-
-  Le séisme qui a eut lieu en Indonésie hier soir sur la côte ouest de l'île de
-  Sumatra (dans la nuit à l'heure locale), que l'on a cru tout d'abord de
-  magnitude 6.6, puis de magnitude 6.1, vient d'être confirmé à une magnitude de
-  6.6. Près de 10 millions de personnes ont ressenti cette secousse sismique, à
-  divers degrés. Environ 7 000 personnes ont ressenti la secousse de manière
-  très forte. On ignore pour le moment s'il y a des dégâts et des victimes.
+fr:
+  title: 'Indonésie : séisme de magnitude 6.6 (mise à jour)'
+  body: >-
+    Le séisme qui a eut lieu en Indonésie hier soir sur la côte ouest de l'île
+    de Sumatra (dans la nuit à l'heure locale), que l'on a cru tout d'abord de
+    magnitude 6.6, puis de magnitude 6.1, vient d'être confirmé à une magnitude
+    de 6.6. Près de 10 millions de personnes ont ressenti cette secousse
+    sismique, à divers degrés. Environ 7 000 personnes ont ressenti la secousse
+    de manière très forte. On ignore pour le moment s'il y a des dégâts et des
+    victimes.
+en: {}

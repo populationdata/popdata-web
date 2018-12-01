@@ -1,9 +1,10 @@
 title: le-royaume-uni-voit-sa-population-augmenter
-nameFr: Le Royaume-Uni voit sa population augmenter
-nameEn: Le Royaume-Uni voit sa population augmenter
 date: 2015-06-30T00:00:00.000Z
-bodyFr: >-
-  En baisse démographique jusqu'au début du 21e siècle, le pays est désormais
-  dans une phase de croissance assez forte. L'immigration massive en est la
-  principale cause. Avec une répartition très inégalement en faveur du sud-est
-  et de la métropole Londres, dont l'aire urbaine progresse fortement.
+fr:
+  title: Le Royaume-Uni voit sa population augmenter
+  body: >-
+    En baisse démographique jusqu'au début du 21e siècle, le pays est désormais
+    dans une phase de croissance assez forte. L'immigration massive en est la
+    principale cause. Avec une répartition très inégalement en faveur du sud-est
+    et de la métropole Londres, dont l'aire urbaine progresse fortement.
+en: {}

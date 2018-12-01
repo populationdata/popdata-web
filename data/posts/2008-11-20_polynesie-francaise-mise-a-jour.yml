@@ -1,11 +1,12 @@
 title: polynesie-francaise-mise-a-jour
-nameFr: 'Polynésie française : mise à jour'
-nameEn: 'Polynésie française : mise à jour'
 date: 2008-11-21T00:00:00.000Z
-bodyFr: >-
-  Ce paradis touristique a longtemps vécu dans la dépendance vis-à-vis de
-  l'extérieur, notamment de la métropole. Aujourd'hui, il reste plus ouvert sur
-  le monde que jamais, et exporte même une part importante de sa production,
-  dont la pêche, mais surtout la perle noire, qui fait sa fortune. Et le
-  tourisme se porte de mieux en mieux. De quoi améliorer grandement le niveau de
-  vie moyen de la population.  <br />
+fr:
+  title: 'Polynésie française : mise à jour'
+  body: >-
+    Ce paradis touristique a longtemps vécu dans la dépendance vis-à-vis de
+    l'extérieur, notamment de la métropole. Aujourd'hui, il reste plus ouvert
+    sur le monde que jamais, et exporte même une part importante de sa
+    production, dont la pêche, mais surtout la perle noire, qui fait sa fortune.
+    Et le tourisme se porte de mieux en mieux. De quoi améliorer grandement le
+    niveau de vie moyen de la population.  <br />
+en: {}

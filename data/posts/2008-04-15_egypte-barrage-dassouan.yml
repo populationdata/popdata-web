@@ -1,9 +1,10 @@
 title: egypte-barrage-dassouan
-nameFr: Egypte - Barrage d'Assouan
-nameEn: Egypte - Barrage d'Assouan
 date: 2008-04-16T00:00:00.000Z
-bodyFr: >-
-  Le Barrage d'Assouan est un barrage hydroélectrique construit en 1970 à sept
-  kilomètres en amont d'Assouan sur le Nil en Haute-gypte. Il est décrit comme
-  un des plus grands du monde. Sa capacité de retenue est de 169 milliards de
-  mètres cubes d'eau.
+fr:
+  title: Egypte - Barrage d'Assouan
+  body: >-
+    Le Barrage d'Assouan est un barrage hydroélectrique construit en 1970 à sept
+    kilomètres en amont d'Assouan sur le Nil en Haute-gypte. Il est décrit comme
+    un des plus grands du monde. Sa capacité de retenue est de 169 milliards de
+    mètres cubes d'eau.
+en: {}

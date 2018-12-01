@@ -1,10 +1,11 @@
 title: panama-mise-a-jour
-nameFr: 'Panama : mise à jour'
-nameEn: 'Panama : mise à jour'
 date: 2008-11-20T00:00:00.000Z
-bodyFr: >-
-  La position de carrefour international permet au Panama, grâce à son canal
-  incontournable notamment, de retirer une très grande part de sa richesse de sa
-  situation géographique. Et l'augmentation des capacités du fameux canal doit
-  encore améliorer la croissance économique, qu'il reste toujours à redistribuer
-  équitablement partout au pays. <br />
+fr:
+  title: 'Panama : mise à jour'
+  body: >-
+    La position de carrefour international permet au Panama, grâce à son canal
+    incontournable notamment, de retirer une très grande part de sa richesse de
+    sa situation géographique. Et l'augmentation des capacités du fameux canal
+    doit encore améliorer la croissance économique, qu'il reste toujours à
+    redistribuer équitablement partout au pays. <br />
+en: {}

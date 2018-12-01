@@ -1,12 +1,13 @@
 title: macao-mise-a-jour
-nameFr: 'Macao : mise à jour'
-nameEn: 'Macao : mise à jour'
 date: 2010-02-22T00:00:00.000Z
-bodyFr: >-
-  Territoire des extrêmes, Macao est désormais une région intégrée à la Chine,
-  avec toutefois une grande autonomie. Son économie repose essentiellement sur
-  le jeu et le tourisme lié aux jeux d'argent, qui en font le plus grand centre
-  mondial dans le domaine, devant Las Vegas. Une richesse générée en grande
-  partie par l'ouverture de la frontière avec la Chine aux Chinois, qui viennent
-  à Macao dépenser, plus que gagner, de l'argent dans les casinos qui poussent
-  comme des champignons.
+fr:
+  title: 'Macao : mise à jour'
+  body: >-
+    Territoire des extrêmes, Macao est désormais une région intégrée à la Chine,
+    avec toutefois une grande autonomie. Son économie repose essentiellement sur
+    le jeu et le tourisme lié aux jeux d'argent, qui en font le plus grand
+    centre mondial dans le domaine, devant Las Vegas. Une richesse générée en
+    grande partie par l'ouverture de la frontière avec la Chine aux Chinois, qui
+    viennent à Macao dépenser, plus que gagner, de l'argent dans les casinos qui
+    poussent comme des champignons.
+en: {}

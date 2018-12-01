@@ -1,10 +1,11 @@
 title: seychelles-mise-a-jour
-nameFr: 'Seychelles : mise à jour'
-nameEn: 'Seychelles : mise à jour'
 date: 2009-03-30T00:00:00.000Z
-bodyFr: >-
-  Archipel bien connu pour la beauté de ses paysages, les Seychelles sont un
-  pays riche, dans le contexte africain, qui vit au-dessus de ses moyens.
-  L'Endettement est considérable, et les finances publiques doivent être
-  assainies si le pays veut relancer sa croissance et son développement,
-  particulièrement en période de crise économique.
+fr:
+  title: 'Seychelles : mise à jour'
+  body: >-
+    Archipel bien connu pour la beauté de ses paysages, les Seychelles sont un
+    pays riche, dans le contexte africain, qui vit au-dessus de ses moyens.
+    L'Endettement est considérable, et les finances publiques doivent être
+    assainies si le pays veut relancer sa croissance et son développement,
+    particulièrement en période de crise économique.
+en: {}

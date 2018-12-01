@@ -1,11 +1,12 @@
 title: groenland-mise-a-jour
-nameFr: 'Groenland : mise à jour'
-nameEn: 'Groenland : mise à jour'
 date: 2008-11-25T00:00:00.000Z
-bodyFr: >-
-  Le Groenland s'apprête à entrer dans une nouvelle ère, celle de l'autonomie,
-  qui lui permettra à terme de prendre son indépendance du Danemark. Et avec les
-  atouts naturels qu'il possède, notamment en hydrocarbures, il devrait pouvoir
-  nettement améliorer les conditions de vie d'une grande partie de sa
-  population. Reste à gérer son développement durablement, sans trop de
-  conséquences pour l'environnement, ce qui n'est jamais facile.   <br />
+fr:
+  title: 'Groenland : mise à jour'
+  body: >-
+    Le Groenland s'apprête à entrer dans une nouvelle ère, celle de l'autonomie,
+    qui lui permettra à terme de prendre son indépendance du Danemark. Et avec
+    les atouts naturels qu'il possède, notamment en hydrocarbures, il devrait
+    pouvoir nettement améliorer les conditions de vie d'une grande partie de sa
+    population. Reste à gérer son développement durablement, sans trop de
+    conséquences pour l'environnement, ce qui n'est jamais facile.   <br />
+en: {}

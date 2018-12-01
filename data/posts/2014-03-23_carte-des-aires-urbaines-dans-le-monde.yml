@@ -1,12 +1,13 @@
 title: carte-des-aires-urbaines-dans-le-monde
-nameFr: Carte des aires urbaines dans le monde
-nameEn: Carte des aires urbaines dans le monde
 date: 2014-03-24T00:00:00.000Z
-bodyFr: >-
-  Plus d'un humain sur deux vit désormais dans une aire urbaine, une ville. Soit
-  plus de 3,5 milliards d'habitants. Un phénomène qui prend de l'ampleur,
-  surtout dans les pays les plus pauvres.<!--more-->Voir la carte en cliquant
-  ci-dessous :<br /><br /><a
-  href="/indexcarte.php?monde&amp;mid=3225&amp;nom=monde-aires-urbaines-2010"><img
-  border="0" alt="" src="/images/articles/monde-urbanisation-2010-petite.png"
-  /></a><br />
+fr:
+  title: Carte des aires urbaines dans le monde
+  body: >-
+    Plus d'un humain sur deux vit désormais dans une aire urbaine, une ville.
+    Soit plus de 3,5 milliards d'habitants. Un phénomène qui prend de l'ampleur,
+    surtout dans les pays les plus pauvres.<!--more-->Voir la carte en cliquant
+    ci-dessous :<br /><br /><a
+    href="/indexcarte.php?monde&amp;mid=3225&amp;nom=monde-aires-urbaines-2010"><img
+    border="0" alt="" src="/images/articles/monde-urbanisation-2010-petite.png"
+    /></a><br />
+en: {}

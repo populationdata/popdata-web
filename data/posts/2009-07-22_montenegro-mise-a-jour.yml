@@ -1,9 +1,10 @@
 title: montenegro-mise-a-jour
-nameFr: 'Monténégro : mise à jour'
-nameEn: 'Monténégro : mise à jour'
 date: 2009-07-23T00:00:00.000Z
-bodyFr: >-
-  Devenu indépendant depuis 2006, le Monténégro commence à s'inventer son propre
-  avenir. L'économie était en plein boum jusqu'à récemment, et la crise mondiale
-  risque de ralentir son rattrapage économique et social sur le reste de
-  l'Europe.
+fr:
+  title: 'Monténégro : mise à jour'
+  body: >-
+    Devenu indépendant depuis 2006, le Monténégro commence à s'inventer son
+    propre avenir. L'économie était en plein boum jusqu'à récemment, et la crise
+    mondiale risque de ralentir son rattrapage économique et social sur le reste
+    de l'Europe.
+en: {}

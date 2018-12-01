@@ -1,10 +1,11 @@
 title: aruba-mise-a-jour
-nameFr: 'Aruba : mise à jour'
-nameEn: 'Aruba : mise à jour'
 date: 2009-04-30T00:00:00.000Z
-bodyFr: >-
-  Aruba possède trois atouts dans son jeu : finance, tourisme et pétrole. La
-  finance est désormais assainie, et le pays n'est plus considéré comme un
-  paradis fiscal. Le tourisme est devenu la première industrie de l'île et
-  emploi la moitié de la population active. Enfin, le pétrole, mais sans les
-  ressources, puisqu'Aruba ne fait que raffiner celui de ses voisins.
+fr:
+  title: 'Aruba : mise à jour'
+  body: >-
+    Aruba possède trois atouts dans son jeu : finance, tourisme et pétrole. La
+    finance est désormais assainie, et le pays n'est plus considéré comme un
+    paradis fiscal. Le tourisme est devenu la première industrie de l'île et
+    emploi la moitié de la population active. Enfin, le pétrole, mais sans les
+    ressources, puisqu'Aruba ne fait que raffiner celui de ses voisins.
+en: {}

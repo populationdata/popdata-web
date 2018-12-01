@@ -1,7 +1,9 @@
 title: chili-mise-a-jour-2
-nameFr: 'Chili : mise à jour'
-nameEn: 'Chili : mise à jour'
 date: 2013-12-16T00:00:00.000Z
-bodyFr: >-
-  Mise à jour des chiffres de la fiche Chili. Le pays, le plus avancé d'Amérique
-  du Sud, vient d'élire une nouvelle fois Michelle Bachelet à sa tête.
+fr:
+  title: 'Chili : mise à jour'
+  body: >-
+    Mise à jour des chiffres de la fiche Chili. Le pays, le plus avancé
+    d'Amérique du Sud, vient d'élire une nouvelle fois Michelle Bachelet à sa
+    tête.
+en: {}

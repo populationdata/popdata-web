@@ -1,15 +1,16 @@
 title: consommation-de-vin-dans-le-monde
-nameFr: Consommation de vin dans le monde
-nameEn: Consommation de vin dans le monde
 date: 2009-04-09T00:00:00.000Z
-bodyFr: >-
-  Voici une carte insolite sur la consommation de vin par habitant dans le
-  monde. Sans surprise, l'Europe, première région productrice de loin, est la
-  première consommatrice. L'Argentine et l'Uruguay se distinguent également.
-  Suivent l'Australie et l'Amérique du Nord, ainsi que la plupart des pays
-  producteurs.<!--more--><div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=2015&aid=425&nom=monde-vin-consommation"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/monde-vin-consommation-petite.png" /></a>   <br
-  />                  Cliquez sur la carte pour l'agrandir                  <br
-  type="_moz" />    </div>
+fr:
+  title: Consommation de vin dans le monde
+  body: >-
+    Voici une carte insolite sur la consommation de vin par habitant dans le
+    monde. Sans surprise, l'Europe, première région productrice de loin, est la
+    première consommatrice. L'Argentine et l'Uruguay se distinguent également.
+    Suivent l'Australie et l'Amérique du Nord, ainsi que la plupart des pays
+    producteurs.<!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=2015&aid=425&nom=monde-vin-consommation"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/monde-vin-consommation-petite.png" /></a>   <br
+    />                  Cliquez sur la carte pour l'agrandir                 
+    <br type="_moz" />    </div>
+en: {}

@@ -1,10 +1,11 @@
 title: botswana-delta-de-lokavango-en-crue
-nameFr: 'Botswana : delta de l''Okavango en crue'
-nameEn: 'Botswana : delta de l''Okavango en crue'
 date: 2011-07-03T00:00:00.000Z
-bodyFr: >-
-  Voici une image satellite du delta de l'Okavango en crue. Situé au Botswana,
-  ce delta intérieur, le second plus grand du monde avec 18 000 km2, est le
-  résultat du déversement en plein désert du Kalahari des eaux du fleuve du même
-  nom.<!--more-->[Voir image satellite ci-dessous] <div><br />  </div> 
-  <div>Source : Nasa Earth Observatory </div>
+fr:
+  title: 'Botswana : delta de l''Okavango en crue'
+  body: >-
+    Voici une image satellite du delta de l'Okavango en crue. Situé au Botswana,
+    ce delta intérieur, le second plus grand du monde avec 18 000 km2, est le
+    résultat du déversement en plein désert du Kalahari des eaux du fleuve du
+    même nom.<!--more-->[Voir image satellite ci-dessous] <div><br />  </div> 
+    <div>Source : Nasa Earth Observatory </div>
+en: {}

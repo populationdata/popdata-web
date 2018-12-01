@@ -1,10 +1,12 @@
 title: oman-mise-a-jour
-nameFr: 'Oman : mise à jour'
-nameEn: 'Oman : mise à jour'
 date: 2009-05-15T00:00:00.000Z
-bodyFr: >-
-  Le pétrole et le gaz ont fait la fortune du sultanat d'Oman. Trop dépendant
-  économiquement de cette manne, Oman diversifie son économie en s'équipant en
-  infrastructures de toutes sortes. Et pour ce faire, il fait venir de nombreux
-  travailleurs immigrés, sous-payés et parfois traités en véritables esclaves.
-  Une situation inacceptable au regard des droits humains fondamentaux.
+fr:
+  title: 'Oman : mise à jour'
+  body: >-
+    Le pétrole et le gaz ont fait la fortune du sultanat d'Oman. Trop dépendant
+    économiquement de cette manne, Oman diversifie son économie en s'équipant en
+    infrastructures de toutes sortes. Et pour ce faire, il fait venir de
+    nombreux travailleurs immigrés, sous-payés et parfois traités en véritables
+    esclaves. Une situation inacceptable au regard des droits humains
+    fondamentaux.
+en: {}

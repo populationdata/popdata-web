@@ -1,11 +1,12 @@
 title: grippe-a-carte-de-levolution-mondiale-au-11-mai
-nameFr: 'Grippe A : carte de l''évolution mondiale au 11 mai'
-nameEn: 'Grippe A : carte de l''évolution mondiale au 11 mai'
 date: 2009-05-12T00:00:00.000Z
-bodyFr: >-
-  L'épidémie de grippe A continue de s'étendre et touche désormais 30 pays.
-  Voici une carte de l'évolution mondiale de l'épidémie en date du 11
-  mai.<!--more-->A 6h au matin du 12 mai, l'OMS indique que le nombre de cas
-  confirmés est passé à 5251, dont 61 décès, dans 30 pays.<br />Le Mexique, les
-  Etats-Unis, le Canada et le Costa Rica ont enregistré des décès.<br /><br
-  />[voir carte dans la colonne centrale -&gt;]<br />
+fr:
+  title: 'Grippe A : carte de l''évolution mondiale au 11 mai'
+  body: >-
+    L'épidémie de grippe A continue de s'étendre et touche désormais 30 pays.
+    Voici une carte de l'évolution mondiale de l'épidémie en date du 11
+    mai.<!--more-->A 6h au matin du 12 mai, l'OMS indique que le nombre de cas
+    confirmés est passé à 5251, dont 61 décès, dans 30 pays.<br />Le Mexique,
+    les Etats-Unis, le Canada et le Costa Rica ont enregistré des décès.<br
+    /><br />[voir carte dans la colonne centrale -&gt;]<br />
+en: {}

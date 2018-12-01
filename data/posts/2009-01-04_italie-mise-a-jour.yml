@@ -1,11 +1,12 @@
 title: italie-mise-a-jour
-nameFr: 'Italie : mise à jour'
-nameEn: 'Italie : mise à jour'
 date: 2009-01-05T00:00:00.000Z
-bodyFr: >-
-  Après des années de baisse de la population, accentuée par un vieillissement
-  accéléré, le pays repart à la hausse et devrait bientôt atteindre les 60
-  millions d'habitants. C'est surtout grâce à l'immigration massive en
-  provenance d'Afrique du nord et des anciens pays de l'est. Ces immigrants vont
-  gonfler les populations des grandes aires urbaines, Milan, Rome ou Naples
-  principalement.   <br />
+fr:
+  title: 'Italie : mise à jour'
+  body: >-
+    Après des années de baisse de la population, accentuée par un vieillissement
+    accéléré, le pays repart à la hausse et devrait bientôt atteindre les 60
+    millions d'habitants. C'est surtout grâce à l'immigration massive en
+    provenance d'Afrique du nord et des anciens pays de l'est. Ces immigrants
+    vont gonfler les populations des grandes aires urbaines, Milan, Rome ou
+    Naples principalement.   <br />
+en: {}

@@ -1,11 +1,12 @@
 title: nelson-mandela-est-mort
-nameFr: Nelson Mandela est mort
-nameEn: Nelson Mandela est mort
 date: 2013-12-05T00:00:00.000Z
-bodyFr: >-
-  Nelson Mandela est mort à l'âge de 95 ans à Johannesbourg, Afrique du Sud.
-  Emprisonné de 1962 à 1990 par le pouvoir raciste qui dirigeait le pays, il a
-  ensuite été président de 1994 à 1999. Prisonnier politique le plus célèbre, il
-  représentait le symbole de la lutte pour la liberté dans le monde entier. Nous
-  lui devons tous ce sacrifice immense. "Madiba", comme il aimait à se faire
-  appeler, tu nous manques. Repose en paix.
+fr:
+  title: Nelson Mandela est mort
+  body: >-
+    Nelson Mandela est mort à l'âge de 95 ans à Johannesbourg, Afrique du Sud.
+    Emprisonné de 1962 à 1990 par le pouvoir raciste qui dirigeait le pays, il a
+    ensuite été président de 1994 à 1999. Prisonnier politique le plus célèbre,
+    il représentait le symbole de la lutte pour la liberté dans le monde entier.
+    Nous lui devons tous ce sacrifice immense. "Madiba", comme il aimait à se
+    faire appeler, tu nous manques. Repose en paix.
+en: {}

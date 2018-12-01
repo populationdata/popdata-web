@@ -1,10 +1,11 @@
 title: hugo-chavez-est-mort
-nameFr: Hugo Chavez est mort
-nameEn: Hugo Chavez est mort
 date: 2013-03-06T00:00:00.000Z
-bodyFr: >-
-  Hugo Chavez, le président emblématique du Venezuela, est mort le 5 mars 2013.
-  Après avoir été élu et réélu 4 fois, malgré l'opposition d'une partie des pays
-  riches, et un putsch militaire manqué organisé par les Etats-Unis en 2002, il
-  avait réussi à remettre son pays en marche tout en distribuant les dividendes
-  du pétrole à la population.
+fr:
+  title: Hugo Chavez est mort
+  body: >-
+    Hugo Chavez, le président emblématique du Venezuela, est mort le 5 mars
+    2013. Après avoir été élu et réélu 4 fois, malgré l'opposition d'une partie
+    des pays riches, et un putsch militaire manqué organisé par les Etats-Unis
+    en 2002, il avait réussi à remettre son pays en marche tout en distribuant
+    les dividendes du pétrole à la population.
+en: {}

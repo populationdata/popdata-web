@@ -1,14 +1,15 @@
 title: consommation-de-biere-dans-le-monde
-nameFr: Consommation de bière dans le monde
-nameEn: Consommation de bière dans le monde
 date: 2009-04-09T00:00:00.000Z
-bodyFr: >-
-  Voici une carte insolite montrant la consommation de bière par pays et par
-  habitant. L'Europe, l'Australie et les Etats-Unis sont les plus gros buveurs
-  du monde. Le Canada est 20ème, la France arrive en 38ème
-  position.<!--more--><div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=2014&aid=424&nom=monde-biere-consommation"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/monde-biere-consommation-petite.png" /></a>   <br
-  />               Cliquez sur la carte pour l'agrandir               <br
-  type="_moz" />    </div>
+fr:
+  title: Consommation de bière dans le monde
+  body: >-
+    Voici une carte insolite montrant la consommation de bière par pays et par
+    habitant. L'Europe, l'Australie et les Etats-Unis sont les plus gros buveurs
+    du monde. Le Canada est 20ème, la France arrive en 38ème
+    position.<!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=2014&aid=424&nom=monde-biere-consommation"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/monde-biere-consommation-petite.png" /></a>  
+    <br />               Cliquez sur la carte pour l'agrandir               <br
+    type="_moz" />    </div>
+en: {}

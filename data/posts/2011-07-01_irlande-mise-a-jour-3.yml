@@ -1,9 +1,10 @@
 title: irlande-mise-a-jour-3
-nameFr: 'Irlande : mise à jour'
-nameEn: 'Irlande : mise à jour'
 date: 2011-07-02T00:00:00.000Z
-bodyFr: >-
-  L'Irlande vient tout juste de publier les résultats de son dernier
-  recensement. On constate une augmentation de la population assez conséquente,
-  d'environ 1,6% par an depuis 2006. Le pays a presque 4,6 millions d'habitants
-  désormais.<!--more-->
+fr:
+  title: 'Irlande : mise à jour'
+  body: >-
+    L'Irlande vient tout juste de publier les résultats de son dernier
+    recensement. On constate une augmentation de la population assez
+    conséquente, d'environ 1,6% par an depuis 2006. Le pays a presque 4,6
+    millions d'habitants désormais.<!--more-->
+en: {}

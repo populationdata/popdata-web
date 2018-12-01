@@ -1,8 +1,9 @@
 title: ethiopie-mise-a-jour
-nameFr: 'Ethiopie : mise à jour'
-nameEn: 'Ethiopie : mise à jour'
 date: 2008-12-09T00:00:00.000Z
-bodyFr: >-
-  Avec une population aussi importante, la troisième d'Afrique, le marché
-  potentiel est là. Pourtant, les catastrophes se succèdent en Ethiopie.
-  Naturelles, mais surtout humaines.  <br />
+fr:
+  title: 'Ethiopie : mise à jour'
+  body: >-
+    Avec une population aussi importante, la troisième d'Afrique, le marché
+    potentiel est là. Pourtant, les catastrophes se succèdent en Ethiopie.
+    Naturelles, mais surtout humaines.  <br />
+en: {}

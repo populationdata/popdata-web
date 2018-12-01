@@ -1,11 +1,12 @@
 title: niue-mise-a-jour
-nameFr: 'Niué : mise à jour'
-nameEn: 'Niué : mise à jour'
 date: 2008-10-29T00:00:00.000Z
-bodyFr: >-
-  Niué est un atoll corallien particulièrement isolé. A plus de 2400 km de la
-  Nouvelle-Zélande, pays avec lequel il est en libre association depuis 1974,
-  l'île ne survit que grâce aux aides financières de son "grand-frêre".&nbsp;   
-  Niué ne manque pourtant pas de ressources, mais la population a déserté l'île.
-  Environ 22 000 niuéens vivent en dehors du pays, presque tous en
-  Nouvelle-Zélande.
+fr:
+  title: 'Niué : mise à jour'
+  body: >-
+    Niué est un atoll corallien particulièrement isolé. A plus de 2400 km de la
+    Nouvelle-Zélande, pays avec lequel il est en libre association depuis 1974,
+    l'île ne survit que grâce aux aides financières de son
+    "grand-frêre".&nbsp;    Niué ne manque pourtant pas de ressources, mais la
+    population a déserté l'île. Environ 22 000 niuéens vivent en dehors du pays,
+    presque tous en Nouvelle-Zélande.
+en: {}

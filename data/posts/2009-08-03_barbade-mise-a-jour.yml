@@ -1,9 +1,11 @@
 title: barbade-mise-a-jour
-nameFr: 'Barbade : mise à jour'
-nameEn: 'Barbade : mise à jour'
 date: 2009-08-04T00:00:00.000Z
-bodyFr: >-
-  Véritable îlot de richesse dans un océan de pauvreté, la Barbade tire ses
-  revenus d'une industrie touristique florissante, ainsi que de la culture de la
-  canne à sucre. Mais dans ce paradis, la population est classifiée en couches
-  sociales strictes, reléguant à la pauvreté une part importante de celle-ci.
+fr:
+  title: 'Barbade : mise à jour'
+  body: >-
+    Véritable îlot de richesse dans un océan de pauvreté, la Barbade tire ses
+    revenus d'une industrie touristique florissante, ainsi que de la culture de
+    la canne à sucre. Mais dans ce paradis, la population est classifiée en
+    couches sociales strictes, reléguant à la pauvreté une part importante de
+    celle-ci.
+en: {}

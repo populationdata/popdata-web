@@ -14,10 +14,18 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Slug', name: 'title', widget: 'string' }
-      - { label: 'Name (Fr)', name: 'nameFr', widget: 'string' }
-      - { label: 'Name (En)', name: 'nameEn', widget: 'string' }
+      - { label: 'Id', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
+      - label: 'Français'
+        name: 'fr'
+        widget: 'object'
+        fields:
+          - { label: 'Nom', name: 'name', widget: 'string' }
+      - label: 'English'
+        name: 'en'
+        widget: 'object'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
       - {
           label: 'Année PIB',
           name: 'gdpYear',
@@ -38,10 +46,18 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Slug', name: 'title', widget: 'string' }
-      - { label: 'Name (Fr)', name: 'nameFr', widget: 'string' }
-      - { label: 'Name (En)', name: 'nameEn', widget: 'string' }
+      - { label: 'Id', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
+      - label: 'Français'
+        name: 'fr'
+        widget: 'object'
+        fields:
+          - { label: 'Nom', name: 'name', widget: 'string' }
+      - label: 'English'
+        name: 'en'
+        widget: 'object'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
       - label: 'Continent'
         name: 'continent'
         widget: 'relation'
@@ -56,13 +72,22 @@ collections:
     create: true
     slug: '{{slug}}'
     fields:
-      - { label: 'Slug', name: 'title', widget: 'string' }
-      - { label: 'Name (Fr)', name: 'nameFr', widget: 'string' }
-      - { label: 'Name (En)', name: 'nameEn', widget: 'string' }
+      - { label: 'Id', name: 'title', widget: 'string' }
       - { label: 'Date', name: 'date', widget: 'datetime' }
-      - { label: 'Description (Fr)', name: 'descriptionFr', widget: 'markdown' }
-      - { label: 'Description (En)', name: 'descriptionEn', widget: 'markdown' }
-      - { label: 'Nom long', name: 'longName', widget: 'string' }
+      - label: 'Français'
+        name: 'fr'
+        widget: 'object'
+        fields:
+          - { label: 'Nom', name: 'name', widget: 'string' }
+          - { label: 'Nom officiel', name: 'officialName', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
+      - label: 'English'
+        name: 'en'
+        widget: 'object'
+        fields:
+          - { label: 'Name', name: 'name', widget: 'string' }
+          - { label: 'Official name', name: 'officialName', widget: 'string' }
+          - { label: 'Description', name: 'description', widget: 'markdown' }
       - { label: 'Nom local', name: 'localeName', widget: 'string' }
       - label: 'Sous-continent'
         name: 'subcontinent'
@@ -71,3 +96,45 @@ collections:
         searchFields: ['title']
         valueField: 'title'
         displayFields: ['title', 'nameFr', 'nameEn']
+  - name: 'maps'
+    label: 'Cartes'
+    label_singular: 'Carte'
+    folder: 'data/maps'
+    extension: yml
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Id', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - label: 'Français'
+        name: 'fr'
+        widget: 'object'
+        fields:
+          - { label: 'Titre', name: 'title', widget: 'string' }
+      - label: 'English'
+        name: 'en'
+        widget: 'object'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+  - name: 'posts'
+    label: 'Articles'
+    label_singular: 'Article'
+    folder: 'data/posts'
+    extension: yml
+    create: true
+    slug: '{{slug}}'
+    fields:
+      - { label: 'Id', name: 'title', widget: 'string' }
+      - { label: 'Date', name: 'date', widget: 'datetime' }
+      - label: 'Français'
+        name: 'fr'
+        widget: 'object'
+        fields:
+          - { label: 'Titre', name: 'title', widget: 'string' }
+          - { label: 'Corps de texte', name: 'body', widget: 'markdown' }
+      - label: 'English'
+        name: 'en'
+        widget: 'object'
+        fields:
+          - { label: 'Title', name: 'title', widget: 'string' }
+          - { label: 'Body', name: 'body', widget: 'markdown' }

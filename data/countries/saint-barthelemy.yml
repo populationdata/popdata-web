@@ -1,17 +1,20 @@
 title: saint-barthelemy
-nameFr: Saint-Barthélemy
-nameEn: Saint Barthélemy
 date: 2016-05-16T20:05:38.000Z
-descriptionFr: >-
-  <p style="text-align: justify;"><strong>Saint-Barthélemy</strong> est une île
-  française des Petites Antilles et une collectivité doutre-mer de la république
-  française. Son activité repose principalement sur le tourisme, notamment le
-  tourisme de luxe.</p>
-descriptionEn: >-
-  <p style="text-align: justify;"><strong>Saint-Barthélemy</strong> est une île
-  française des Petites Antilles et une collectivité doutre-mer de la république
-  française. Son activité repose principalement sur le tourisme, notamment le
-  tourisme de luxe.</p>
-longName: Collectivité de Saint-Barthélemy
+fr:
+  name: Saint-Barthélemy
+  description: >-
+    <p style="text-align: justify;"><strong>Saint-Barthélemy</strong> est une
+    île française des Petites Antilles et une collectivité doutre-mer de la
+    république française. Son activité repose principalement sur le tourisme,
+    notamment le tourisme de luxe.</p>
+  officialName: Collectivité de Saint-Barthélemy
+en:
+  name: Saint Barthélemy
+  description: >-
+    <p style="text-align: justify;"><strong>Saint-Barthélemy</strong> est une
+    île française des Petites Antilles et une collectivité doutre-mer de la
+    république française. Son activité repose principalement sur le tourisme,
+    notamment le tourisme de luxe.</p>
+  officialName: Collectivité de Saint-Barthélemy
 localeName: Saint-Barthélemy
 subcontinent: antilles

@@ -1,12 +1,13 @@
 title: cote-divoire-mise-a-jour-3
-nameFr: 'Côte d''Ivoire : mise à jour'
-nameEn: 'Côte d''Ivoire : mise à jour'
 date: 2015-08-06T00:00:00.000Z
-bodyFr: >-
-  La Côte d'Ivoire vient de publier les résultats de son recensement 2014. La
-  population continue de croître fortement, à raison de +2,6 % par an. L'aire
-  urbaine d'Abidjan concentre désormais presque 5 millions d'habitants. La
-  proportion d'étrangers reste stable, bien qu'assez élevée, à 24 % de la
-  population totale du pays. Enfin, avec seulement 43 % de ses habitants
-  alphabétisés, le pays bride son développement futur, malgré des taux de
-  croissance économique parmi les plus élevés du monde ces dernières années.
+fr:
+  title: 'Côte d''Ivoire : mise à jour'
+  body: >-
+    La Côte d'Ivoire vient de publier les résultats de son recensement 2014. La
+    population continue de croître fortement, à raison de +2,6 % par an. L'aire
+    urbaine d'Abidjan concentre désormais presque 5 millions d'habitants. La
+    proportion d'étrangers reste stable, bien qu'assez élevée, à 24 % de la
+    population totale du pays. Enfin, avec seulement 43 % de ses habitants
+    alphabétisés, le pays bride son développement futur, malgré des taux de
+    croissance économique parmi les plus élevés du monde ces dernières années.
+en: {}

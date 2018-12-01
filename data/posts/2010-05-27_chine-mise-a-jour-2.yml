@@ -1,10 +1,12 @@
 title: chine-mise-a-jour-2
-nameFr: 'Chine : mise à jour'
-nameEn: 'Chine : mise à jour'
 date: 2010-05-28T00:00:00.000Z
-bodyFr: >-
-  Le pays voit sa population continuer à augmenter, mais de manière plus lente
-  désormais. Son principal défi dans les années à venir va être de proposer à sa
-  population vieillissante des solutions de prise en charge, avec le financement
-  de la retraite. Le boum économique que continue de vivre la Chine devrait lui
-  permettre de faire face pendant les prochaines décennies, normalement...
+fr:
+  title: 'Chine : mise à jour'
+  body: >-
+    Le pays voit sa population continuer à augmenter, mais de manière plus lente
+    désormais. Son principal défi dans les années à venir va être de proposer à
+    sa population vieillissante des solutions de prise en charge, avec le
+    financement de la retraite. Le boum économique que continue de vivre la
+    Chine devrait lui permettre de faire face pendant les prochaines décennies,
+    normalement...
+en: {}

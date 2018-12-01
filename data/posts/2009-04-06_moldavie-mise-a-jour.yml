@@ -1,8 +1,9 @@
 title: moldavie-mise-a-jour
-nameFr: 'Moldavie : mise à jour'
-nameEn: 'Moldavie : mise à jour'
 date: 2009-04-07T00:00:00.000Z
-bodyFr: >-
-  Pays le plus pauvre d'Europe, la Modavie voit sa jeunesse continuer de fuir
-  son territoire. Son développement en est d'autant plus freiné qu'une partie
-  importante du pays fait toujours sécession, la Transdniestrie.
+fr:
+  title: 'Moldavie : mise à jour'
+  body: >-
+    Pays le plus pauvre d'Europe, la Modavie voit sa jeunesse continuer de fuir
+    son territoire. Son développement en est d'autant plus freiné qu'une partie
+    importante du pays fait toujours sécession, la Transdniestrie.
+en: {}

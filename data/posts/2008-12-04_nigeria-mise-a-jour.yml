@@ -1,11 +1,12 @@
 title: nigeria-mise-a-jour
-nameFr: 'Nigéria : mise à jour'
-nameEn: 'Nigéria : mise à jour'
 date: 2008-12-05T00:00:00.000Z
-bodyFr: >-
-  Les autorités font face à de nombreux défis. L'économie repose en trop grande
-  partie sur les exportations pétrolières, et le prix des matières premières est
-  en train de chuter. Le pays est divisé en deux entre le nord et le sud, sous
-  couvert d'une division religieuse, ce qui crée des tensions. Enfin, la
-  pauvreté reste très importante et la situation est explosive dans le plus
-  peuplé des pays d'Afrique.  <br />
+fr:
+  title: 'Nigéria : mise à jour'
+  body: >-
+    Les autorités font face à de nombreux défis. L'économie repose en trop
+    grande partie sur les exportations pétrolières, et le prix des matières
+    premières est en train de chuter. Le pays est divisé en deux entre le nord
+    et le sud, sous couvert d'une division religieuse, ce qui crée des tensions.
+    Enfin, la pauvreté reste très importante et la situation est explosive dans
+    le plus peuplé des pays d'Afrique.  <br />
+en: {}

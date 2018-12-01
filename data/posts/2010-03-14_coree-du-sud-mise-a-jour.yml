@@ -1,11 +1,12 @@
 title: coree-du-sud-mise-a-jour
-nameFr: 'Corée du Sud : mise à jour'
-nameEn: 'Corée du Sud : mise à jour'
 date: 2010-03-15T00:00:00.000Z
-bodyFr: >-
-  Malgré un dynamisme démographique qui tend sérieusement à s'amenuiser, avec
-  par exemple le plus bas taux de fécondité du monde, le pays vient pour la
-  première fois de dépasser les 50 millions d'habitants fin 2009. Il avait
-  atteint les 40 millions en 1983. Les autorités prévoient que la population
-  commence à baisser d'ici 2030, au plus tard, et qu'elle n'atteigne pas les 60
-  millions.
+fr:
+  title: 'Corée du Sud : mise à jour'
+  body: >-
+    Malgré un dynamisme démographique qui tend sérieusement à s'amenuiser, avec
+    par exemple le plus bas taux de fécondité du monde, le pays vient pour la
+    première fois de dépasser les 50 millions d'habitants fin 2009. Il avait
+    atteint les 40 millions en 1983. Les autorités prévoient que la population
+    commence à baisser d'ici 2030, au plus tard, et qu'elle n'atteigne pas les
+    60 millions.
+en: {}

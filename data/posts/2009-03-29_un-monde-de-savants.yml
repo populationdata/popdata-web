@@ -1,14 +1,16 @@
 title: un-monde-de-savants
-nameFr: Un monde de savants
-nameEn: Un monde de savants
 date: 2009-03-30T00:00:00.000Z
-bodyFr: >-
-  Le Monde Diplomatique publie une carte du monde des savants, une "géographie
-  des savants". On y voit clairement que les pays émergents d'Asie rejoignent
-  progressivement l'Europe et l'Amérique du Nord au premiers rangs du savoir,
-  cette industrie du 21è siècle. L'Amérique latine et l'Afrique, par contre,
-  restent à la traîne.<!--more--><div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1995&aid=413&nom=monde-savants"><img
-  border="0" align="center"
-  src="/images/cartes/articles/monde-savants-petite.jpg" /></a>   <br />        
-  Cliquez sur la carte pour l'agrandir            <br type="_moz" />    </div>
+fr:
+  title: Un monde de savants
+  body: >-
+    Le Monde Diplomatique publie une carte du monde des savants, une "géographie
+    des savants". On y voit clairement que les pays émergents d'Asie rejoignent
+    progressivement l'Europe et l'Amérique du Nord au premiers rangs du savoir,
+    cette industrie du 21è siècle. L'Amérique latine et l'Afrique, par contre,
+    restent à la traîne.<!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1995&aid=413&nom=monde-savants"><img
+    border="0" align="center"
+    src="/images/cartes/articles/monde-savants-petite.jpg" /></a>   <br
+    />         Cliquez sur la carte pour l'agrandir            <br type="_moz"
+    />    </div>
+en: {}

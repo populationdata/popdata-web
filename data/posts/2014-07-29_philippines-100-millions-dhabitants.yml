@@ -1,10 +1,11 @@
 title: philippines-100-millions-dhabitants
-nameFr: 'Philippines : 100 millions d''habitants'
-nameEn: 'Philippines : 100 millions d''habitants'
 date: 2014-07-30T00:00:00.000Z
-bodyFr: >-
-  Il y a désormais plus de 100 millions d'habitants aux Philippines. Le pays
-  vient en effet d'atteindre cette marque ce 27 juillet 2014, et rejoint ainsi
-  le petit groupe de pays dépassant ce chiffre, au nombre de 12 actuellement. Et
-  Manille, avec plus de 24 millions d'habitants, est la 3e plus grande ville du
-  monde.
+fr:
+  title: 'Philippines : 100 millions d''habitants'
+  body: >-
+    Il y a désormais plus de 100 millions d'habitants aux Philippines. Le pays
+    vient en effet d'atteindre cette marque ce 27 juillet 2014, et rejoint ainsi
+    le petit groupe de pays dépassant ce chiffre, au nombre de 12 actuellement.
+    Et Manille, avec plus de 24 millions d'habitants, est la 3e plus grande
+    ville du monde.
+en: {}

@@ -1,9 +1,10 @@
 title: colombie-eruption-du-volcan-galeras
-nameFr: 'Colombie : éruption du volcan Galeras'
-nameEn: 'Colombie : éruption du volcan Galeras'
 date: 2009-02-15T00:00:00.000Z
-bodyFr: >-
-  Le volcan Galeras, situé au sud de la Colombie, près de la ville de Pasto, est
-  entré en éruption, forçant l'évacuation rapide de plus de 8 000 personnes qui
-  vivent sur ses flancs. Ce volcan, d'une hauteur de 4270 m, est très actif. Sa
-  dernière éruption date de janvier 2008.
+fr:
+  title: 'Colombie : éruption du volcan Galeras'
+  body: >-
+    Le volcan Galeras, situé au sud de la Colombie, près de la ville de Pasto,
+    est entré en éruption, forçant l'évacuation rapide de plus de 8 000
+    personnes qui vivent sur ses flancs. Ce volcan, d'une hauteur de 4270 m, est
+    très actif. Sa dernière éruption date de janvier 2008.
+en: {}

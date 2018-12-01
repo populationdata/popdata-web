@@ -1,8 +1,9 @@
 title: macedoine-mise-a-jour-2
-nameFr: 'Macédoine : mise à jour'
-nameEn: 'Macédoine : mise à jour'
 date: 2014-01-02T00:00:00.000Z
-bodyFr: >-
-  La Macédoine voit sa population augmenter à un rythme très lent, mais elle
-  augmente, contrairement à bon nombre des pays de l'ancienne Europe de l'Est
-  situés autour d'elle.
+fr:
+  title: 'Macédoine : mise à jour'
+  body: >-
+    La Macédoine voit sa population augmenter à un rythme très lent, mais elle
+    augmente, contrairement à bon nombre des pays de l'ancienne Europe de l'Est
+    situés autour d'elle.
+en: {}

@@ -1,11 +1,12 @@
 title: comores-mise-a-jour
-nameFr: 'Comores : mise à jour'
-nameEn: 'Comores : mise à jour'
 date: 2009-07-01T00:00:00.000Z
-bodyFr: >-
-  Alors que le pays vit un drame avec l'accident d'avion en provenance de
-  Djibouti et dans lequel 152 personnes ont péri, le monde entier constate le
-  manque d'équipements de secours et les imperfections des hôpitaux locaux. Le
-  sous-développement du pays reste un grave problème pour les populations, mais
-  les autorités, constamment prises dans des querelles politiciennes, ne se
-  soucient encore que bien peu du bien-être des Comoriens.
+fr:
+  title: 'Comores : mise à jour'
+  body: >-
+    Alors que le pays vit un drame avec l'accident d'avion en provenance de
+    Djibouti et dans lequel 152 personnes ont péri, le monde entier constate le
+    manque d'équipements de secours et les imperfections des hôpitaux locaux. Le
+    sous-développement du pays reste un grave problème pour les populations,
+    mais les autorités, constamment prises dans des querelles politiciennes, ne
+    se soucient encore que bien peu du bien-être des Comoriens.
+en: {}

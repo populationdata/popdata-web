@@ -1,11 +1,12 @@
 title: lesotho-mise-a-jour
-nameFr: 'Lesotho : mise à jour'
-nameEn: 'Lesotho : mise à jour'
 date: 2010-04-07T00:00:00.000Z
-bodyFr: >-
-  Pays pauvre enclavé au sein de l'Afrique du Sud, le Lesotho est très touché
-  par l'épidémie de sida, ce qui bride très fortement son développement. Et la
-  crise économique qui sévit chez le puissant voisin, l'Afrique du Sud, dont
-  dépend grandement le Lesotho, a fait chuter la croissance. Heureusement, le
-  pays a des atouts indéniables pour le futur : hydroélectricité, mines de
-  diamants et tourisme.
+fr:
+  title: 'Lesotho : mise à jour'
+  body: >-
+    Pays pauvre enclavé au sein de l'Afrique du Sud, le Lesotho est très touché
+    par l'épidémie de sida, ce qui bride très fortement son développement. Et la
+    crise économique qui sévit chez le puissant voisin, l'Afrique du Sud, dont
+    dépend grandement le Lesotho, a fait chuter la croissance. Heureusement, le
+    pays a des atouts indéniables pour le futur : hydroélectricité, mines de
+    diamants et tourisme.
+en: {}

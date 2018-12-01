@@ -1,9 +1,10 @@
 title: guinee-equatoriale-oyala-nouvelle-capitale-en-vue
-nameFr: 'Guinée équatoriale : Oyala, nouvelle capitale en vue'
-nameEn: 'Guinée équatoriale : Oyala, nouvelle capitale en vue'
 date: 2015-02-20T00:00:00.000Z
-bodyFr: >-
-  Grâce aux revenus pétroliers et gaziers, la Guinée équatoriale a vu son
-  économie croître de manière exponentielle. A tel point que les projets
-  d'infrastructures ont couvert le pays. Oyala est en construction au coeur de
-  la jungle et deviendra la nouvelle capitale du pays.
+fr:
+  title: 'Guinée équatoriale : Oyala, nouvelle capitale en vue'
+  body: >-
+    Grâce aux revenus pétroliers et gaziers, la Guinée équatoriale a vu son
+    économie croître de manière exponentielle. A tel point que les projets
+    d'infrastructures ont couvert le pays. Oyala est en construction au coeur de
+    la jungle et deviendra la nouvelle capitale du pays.
+en: {}

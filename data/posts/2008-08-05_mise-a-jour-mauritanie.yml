@@ -1,13 +1,14 @@
 title: mise-a-jour-mauritanie
-nameFr: Mise à jour Mauritanie
-nameEn: Mise à jour Mauritanie
 date: 2008-08-06T00:00:00.000Z
-bodyFr: >-
-  <span class="paysTexte"><font>La Mauritanie est l'un des pays les plus
-  pauvres                            du monde. Sa richesse repose en grande
-  partie sur ses                            ressources minières, exploitées
-  principalement                            au nord du pays, et les cultures,
-  concentrées                            au sud. Après une crise politique qui
-  durait depuis plusieurs mois, les militaires viennent de reprendre le pouvoir
-  par la force, emprisonnant le président de la république élu en 2007.     <br
-  />     </font></span>
+fr:
+  title: Mise à jour Mauritanie
+  body: >-
+    <span class="paysTexte"><font>La Mauritanie est l'un des pays les plus
+    pauvres                            du monde. Sa richesse repose en grande
+    partie sur ses                            ressources minières, exploitées
+    principalement                            au nord du pays, et les cultures,
+    concentrées                            au sud. Après une crise politique qui
+    durait depuis plusieurs mois, les militaires viennent de reprendre le
+    pouvoir par la force, emprisonnant le président de la république élu en
+    2007.     <br />     </font></span>
+en: {}

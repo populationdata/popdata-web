@@ -1,11 +1,12 @@
 title: slovaquie-mise-a-jour
-nameFr: 'Slovaquie : mise à jour'
-nameEn: 'Slovaquie : mise à jour'
 date: 2008-12-29T00:00:00.000Z
-bodyFr: >-
-  La Slovaquie va entrer dans la zone euro le 1er janvier 2009. Une intégration
-  économique réussie, qui a permis de remettre le pays sur les rails du
-  développement, grâce principalement à ses atouts de carrefour entre l'est et
-  l'ouest du continent. Et la démographie est également repartie à la hausse,
-  modestement, mais c'est la preuve que la population croit en son avenir. <br
-  />
+fr:
+  title: 'Slovaquie : mise à jour'
+  body: >-
+    La Slovaquie va entrer dans la zone euro le 1er janvier 2009. Une
+    intégration économique réussie, qui a permis de remettre le pays sur les
+    rails du développement, grâce principalement à ses atouts de carrefour entre
+    l'est et l'ouest du continent. Et la démographie est également repartie à la
+    hausse, modestement, mais c'est la preuve que la population croit en son
+    avenir. <br />
+en: {}

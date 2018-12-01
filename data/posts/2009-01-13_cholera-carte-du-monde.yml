@@ -1,20 +1,21 @@
 title: cholera-carte-du-monde
-nameFr: 'Choléra : carte du monde'
-nameEn: 'Choléra : carte du monde'
 date: 2009-01-14T00:00:00.000Z
-bodyFr: >-
-  Le choléra est une toxi-infection entérique épidémique contagieuse due à la
-  Vibrio cholerae, ou bacille virgule, découverte par Pacini en 1854 et
-  redécouverte par Koch en 1883. Elle est caractérisée par des diarrhées
-  brutales et très abondantes. La forme majeure classique est fatale dans plus
-  de la moitié des cas, en labsence de traitement (de quelques heures à trois
-  jours). La contamination est orale, dorigine fécale, par leau de boisson ou
-  des aliments souillés. Le choléra a été la première maladie pestilentielle à
-  faire lobjet, dès le XIX<sup>e</sup>&nbsp;siècle, dune surveillance
-  internationale.<!--more--><div style="text-align: center;"><a
-  href="/indexcarte.php?option=article&origine=accueil&mid=1877&aid=312&nom=monde-cholera"><img
-  border="0" align="middle"
-  src="/images/cartes/articles/monde-cholera-petite.jpg" /></a>   <br
-  />                     Cliquez sur la carte pour
-  l'agrandir                     <br />    </div> <br />       Source :
-  Wikipédia       <br type="_moz" />
+fr:
+  title: 'Choléra : carte du monde'
+  body: >-
+    Le choléra est une toxi-infection entérique épidémique contagieuse due à la
+    Vibrio cholerae, ou bacille virgule, découverte par Pacini en 1854 et
+    redécouverte par Koch en 1883. Elle est caractérisée par des diarrhées
+    brutales et très abondantes. La forme majeure classique est fatale dans plus
+    de la moitié des cas, en labsence de traitement (de quelques heures à trois
+    jours). La contamination est orale, dorigine fécale, par leau de boisson ou
+    des aliments souillés. Le choléra a été la première maladie pestilentielle à
+    faire lobjet, dès le XIX<sup>e</sup>&nbsp;siècle, dune surveillance
+    internationale.<!--more--><div style="text-align: center;"><a
+    href="/indexcarte.php?option=article&origine=accueil&mid=1877&aid=312&nom=monde-cholera"><img
+    border="0" align="middle"
+    src="/images/cartes/articles/monde-cholera-petite.jpg" /></a>   <br
+    />                     Cliquez sur la carte pour
+    l'agrandir                     <br />    </div> <br />       Source :
+    Wikipédia       <br type="_moz" />
+en: {}

@@ -1,9 +1,10 @@
 title: iles-salomon-tsunami-violent
-nameFr: 'Iles Salomon : tsunami violent'
-nameEn: 'Iles Salomon : tsunami violent'
 date: 2007-04-02T00:00:00.000Z
-bodyFr: >-
-  <span class=""><font><font>Un violent tsunami a frappé l'île de Gizo après un
-  séïsme de 8 sur l'échelle de Richter. De nombreux villages côtiers ont été
-  détruits et on dénombre des morts et des
-  disparus.</font></font></span><!--more--><font>   <br />   </font>
+fr:
+  title: 'Iles Salomon : tsunami violent'
+  body: >-
+    <span class=""><font><font>Un violent tsunami a frappé l'île de Gizo après
+    un séïsme de 8 sur l'échelle de Richter. De nombreux villages côtiers ont
+    été détruits et on dénombre des morts et des
+    disparus.</font></font></span><!--more--><font>   <br />   </font>
+en: {}

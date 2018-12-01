@@ -1,8 +1,9 @@
 title: pays-bas-mise-a-jour-2
-nameFr: 'Pays-Bas : mise à jour'
-nameEn: 'Pays-Bas : mise à jour'
 date: 2013-05-06T00:00:00.000Z
-bodyFr: >-
-  Le pays vient de changer de chef d'Etat, la reine ayant abdiqué en faveur de
-  son fils Willem-Alexander. Un système de gouvernance étonnamment archaïque
-  pour un pays au développement pourtant très avancé.
+fr:
+  title: 'Pays-Bas : mise à jour'
+  body: >-
+    Le pays vient de changer de chef d'Etat, la reine ayant abdiqué en faveur de
+    son fils Willem-Alexander. Un système de gouvernance étonnamment archaïque
+    pour un pays au développement pourtant très avancé.
+en: {}

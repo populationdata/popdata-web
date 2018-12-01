@@ -1,11 +1,12 @@
 title: coree-du-nord-mise-a-jour
-nameFr: 'Corée du Nord : mise à jour'
-nameEn: 'Corée du Nord : mise à jour'
 date: 2008-12-09T00:00:00.000Z
-bodyFr: >-
-  La situation de crise permanente dans laquelle vit une grande partie de la
-  population de la Corée du Nord semble échapper aux autorités du pays. La
-  famine d'un côté, la technologie nucléaire de l'autre. Des ressources
-  largement gaspillée dans une armée gigantesque, peut-être la cinquième du
-  monde en taille, ne permettent pas non plus d'espérer voir le pays se
-  développer durablement dans un avenir proche. <br />
+fr:
+  title: 'Corée du Nord : mise à jour'
+  body: >-
+    La situation de crise permanente dans laquelle vit une grande partie de la
+    population de la Corée du Nord semble échapper aux autorités du pays. La
+    famine d'un côté, la technologie nucléaire de l'autre. Des ressources
+    largement gaspillée dans une armée gigantesque, peut-être la cinquième du
+    monde en taille, ne permettent pas non plus d'espérer voir le pays se
+    développer durablement dans un avenir proche. <br />
+en: {}

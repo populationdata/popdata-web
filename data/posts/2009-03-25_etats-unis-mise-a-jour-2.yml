@@ -1,10 +1,11 @@
 title: etats-unis-mise-a-jour-2
-nameFr: 'Etats-Unis : mise à jour'
-nameEn: 'Etats-Unis : mise à jour'
 date: 2009-03-26T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des chiffres des Etats-Unis, et ajout de cartes, notamment
-  de la densité de population. Le PIB 2008 du pays a vu sa croissance fortement
-  chuter, à seulement 1.1%, après la forte contraction du quatrième trimestre
-  2008. Le chômage grossit lui aussi rapidement, et la crise économique risque
-  de durer plus longtemps que prévu.
+fr:
+  title: 'Etats-Unis : mise à jour'
+  body: >-
+    Petite mise à jour des chiffres des Etats-Unis, et ajout de cartes,
+    notamment de la densité de population. Le PIB 2008 du pays a vu sa
+    croissance fortement chuter, à seulement 1.1%, après la forte contraction du
+    quatrième trimestre 2008. Le chômage grossit lui aussi rapidement, et la
+    crise économique risque de durer plus longtemps que prévu.
+en: {}

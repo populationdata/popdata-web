@@ -1,10 +1,12 @@
 title: jordanie-mise-a-jour-2
-nameFr: 'Jordanie : mise à jour'
-nameEn: 'Jordanie : mise à jour'
 date: 2010-09-21T00:00:00.000Z
-bodyFr: >-
-  Avec une croissance démographique annuelle de plus de 2,1%, le pays doit faire
-  face à de nombreux problèmes. Congestion urbaine de plus en plus importante,
-  difficulté de fournir de l'eau et de l'énergie en quantité suffisante pour
-  tous, environnement de plus en plus dégradé, notamment sur la côte sud. Cette
-  zone est en effet désormais presque entièrement urbanisée et industrialisée.
+fr:
+  title: 'Jordanie : mise à jour'
+  body: >-
+    Avec une croissance démographique annuelle de plus de 2,1%, le pays doit
+    faire face à de nombreux problèmes. Congestion urbaine de plus en plus
+    importante, difficulté de fournir de l'eau et de l'énergie en quantité
+    suffisante pour tous, environnement de plus en plus dégradé, notamment sur
+    la côte sud. Cette zone est en effet désormais presque entièrement urbanisée
+    et industrialisée.
+en: {}

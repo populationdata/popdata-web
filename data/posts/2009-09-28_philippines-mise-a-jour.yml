@@ -1,11 +1,12 @@
 title: philippines-mise-a-jour
-nameFr: 'Philippines : mise à jour'
-nameEn: 'Philippines : mise à jour'
 date: 2009-09-29T00:00:00.000Z
-bodyFr: >-
-  Durement touchées par la tempête Ketsana, les Philippines doivent faire face à
-  de nombreux défis. Le développement démographique du pays tout d'abord, qui
-  reste élevé, et lui fera passer dans les prochaines années le cap des 100
-  millions d'habitants. La pauvreté, qui ne recule que très peu, même après des
-  années de forte croissance économique. Et le manque d'infrastructures dignes
-  d'un des pays les plus peuplés de la planète.
+fr:
+  title: 'Philippines : mise à jour'
+  body: >-
+    Durement touchées par la tempête Ketsana, les Philippines doivent faire face
+    à de nombreux défis. Le développement démographique du pays tout d'abord,
+    qui reste élevé, et lui fera passer dans les prochaines années le cap des
+    100 millions d'habitants. La pauvreté, qui ne recule que très peu, même
+    après des années de forte croissance économique. Et le manque
+    d'infrastructures dignes d'un des pays les plus peuplés de la planète.
+en: {}

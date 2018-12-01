@@ -1,8 +1,9 @@
 title: etats-unis-mise-a-jour-7
-nameFr: 'Etats-Unis : mise à jour'
-nameEn: 'Etats-Unis : mise à jour'
 date: 2012-08-30T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour de la population des aires métropolitaines des Etats-Unis.
-  Nous venons de mettre en ligne les derniers chiffres en provenance du Bureau
-  de recensement, datés de 2011.
+fr:
+  title: 'Etats-Unis : mise à jour'
+  body: >-
+    Petite mise à jour de la population des aires métropolitaines des
+    Etats-Unis. Nous venons de mettre en ligne les derniers chiffres en
+    provenance du Bureau de recensement, datés de 2011.
+en: {}

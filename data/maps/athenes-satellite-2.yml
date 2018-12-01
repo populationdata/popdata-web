@@ -1,4 +1,6 @@
 title: athenes-satellite-2
-nameFr: 'Athènes : satellite'
-nameEn: 'Athènes : satellite'
 date: 2016-09-21T20:15:46.000Z
+fr:
+  title: 'Athènes : satellite'
+en:
+  title: 'Athènes : satellite'

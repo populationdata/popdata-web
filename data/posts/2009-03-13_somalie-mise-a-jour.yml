@@ -1,11 +1,12 @@
 title: somalie-mise-a-jour
-nameFr: 'Somalie : mise à jour'
-nameEn: 'Somalie : mise à jour'
 date: 2009-03-14T00:00:00.000Z
-bodyFr: >-
-  Depuis quelques mois, le pays à de nouveau une équipe dirigeante en place,
-  avec un président et un gouvernement. Celle-ci reprend lentement les choses en
-  main, mais la situation reste difficile, et le chemin à parcourir est immense.
-  La communauté internationale doit aider beaucoup plus ce pays et sa population
-  sur la voie du développement si elle veut contrer plus efficacement la
-  piraterie et les trafics en tout genre.
+fr:
+  title: 'Somalie : mise à jour'
+  body: >-
+    Depuis quelques mois, le pays à de nouveau une équipe dirigeante en place,
+    avec un président et un gouvernement. Celle-ci reprend lentement les choses
+    en main, mais la situation reste difficile, et le chemin à parcourir est
+    immense. La communauté internationale doit aider beaucoup plus ce pays et sa
+    population sur la voie du développement si elle veut contrer plus
+    efficacement la piraterie et les trafics en tout genre.
+en: {}

@@ -1,9 +1,10 @@
 title: chine-mise-a-jour-3
-nameFr: 'Chine : mise à jour'
-nameEn: 'Chine : mise à jour'
 date: 2013-01-21T00:00:00.000Z
-bodyFr: >-
-  Une petite, si l'on peut dire, mise à jour de la fiche Chine, avec notamment
-  les nouveaux chiffres de population, dont les grandes villes. Elles évoluent
-  très rapidement, Pékin et Shanghaï en tête, qui ont toutes deux environ 20
-  millions d'habitants désormais !
+fr:
+  title: 'Chine : mise à jour'
+  body: >-
+    Une petite, si l'on peut dire, mise à jour de la fiche Chine, avec notamment
+    les nouveaux chiffres de population, dont les grandes villes. Elles évoluent
+    très rapidement, Pékin et Shanghaï en tête, qui ont toutes deux environ 20
+    millions d'habitants désormais !
+en: {}

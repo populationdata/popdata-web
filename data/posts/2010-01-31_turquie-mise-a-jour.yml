@@ -1,12 +1,14 @@
 title: turquie-mise-a-jour
-nameFr: 'Turquie : mise à jour'
-nameEn: 'Turquie : mise à jour'
 date: 2010-02-01T00:00:00.000Z
-bodyFr: >-
-  La Turquie est en pleine discussion pour adhérer à l'Union Européenne. Malgré
-  les réticences de certains européens, le pays fait partie intégrante, d'un
-  point de vue économique en tout cas, du continent. Les grandes entreprises
-  Européennes sont partout présentes, et les échanges sont nombreux. De plus,
-  avec 72.5 millions d'habitants, le pays pourrait faire office de formidable
-  débouché, véritable relais de croissance pour l'Europe. Sans compter sur sa
-  situation stratégique au carrefour de l'Europe et de l'Asie.
+fr:
+  title: 'Turquie : mise à jour'
+  body: >-
+    La Turquie est en pleine discussion pour adhérer à l'Union Européenne.
+    Malgré les réticences de certains européens, le pays fait partie intégrante,
+    d'un point de vue économique en tout cas, du continent. Les grandes
+    entreprises Européennes sont partout présentes, et les échanges sont
+    nombreux. De plus, avec 72.5 millions d'habitants, le pays pourrait faire
+    office de formidable débouché, véritable relais de croissance pour l'Europe.
+    Sans compter sur sa situation stratégique au carrefour de l'Europe et de
+    l'Asie.
+en: {}

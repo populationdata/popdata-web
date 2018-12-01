@@ -1,10 +1,11 @@
 title: norvege-mise-a-jour
-nameFr: 'Norvège : mise à jour'
-nameEn: 'Norvège : mise à jour'
 date: 2010-01-19T00:00:00.000Z
-bodyFr: >-
-  Grand pays vide, à part le sud qui concentre pratiquement toute la population,
-  la Norvège recèle de nombreuses richesses naturelles. Le pétrole et le gaz
-  naturel permettent au royaume de vivre très confortablement et d'assurer un
-  niveau de vie parmi les plus élevés du monde, et une politique sociale très
-  avantageuse.
+fr:
+  title: 'Norvège : mise à jour'
+  body: >-
+    Grand pays vide, à part le sud qui concentre pratiquement toute la
+    population, la Norvège recèle de nombreuses richesses naturelles. Le pétrole
+    et le gaz naturel permettent au royaume de vivre très confortablement et
+    d'assurer un niveau de vie parmi les plus élevés du monde, et une politique
+    sociale très avantageuse.
+en: {}

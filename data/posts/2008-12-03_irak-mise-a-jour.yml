@@ -1,13 +1,14 @@
 title: irak-mise-a-jour
-nameFr: 'Irak : mise à jour'
-nameEn: 'Irak : mise à jour'
 date: 2008-12-04T00:00:00.000Z
-bodyFr: >-
-  L'augmentation très forte des prix du pétrole ces dernières années a été
-  économiquement bénéfique pour l'Irak. Le pays est en marche pour se redresser,
-  d'autant que la situation sécuritaire s'améliore, même si elle prend de
-  nouvelles formes. Mais avec la crise économique mondiale qui se profile, la
-  baisse, forte également, des prix du pétrole, cette situation peut-elle
-  perdurer ? Enfin, la situation sanitaire et sociale, les droits humains
-  souvent bafoués, notamment ceux des femmes, sont toujours un problème majeur
-  pour le futur développement.  <br />
+fr:
+  title: 'Irak : mise à jour'
+  body: >-
+    L'augmentation très forte des prix du pétrole ces dernières années a été
+    économiquement bénéfique pour l'Irak. Le pays est en marche pour se
+    redresser, d'autant que la situation sécuritaire s'améliore, même si elle
+    prend de nouvelles formes. Mais avec la crise économique mondiale qui se
+    profile, la baisse, forte également, des prix du pétrole, cette situation
+    peut-elle perdurer ? Enfin, la situation sanitaire et sociale, les droits
+    humains souvent bafoués, notamment ceux des femmes, sont toujours un
+    problème majeur pour le futur développement.  <br />
+en: {}

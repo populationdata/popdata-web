@@ -1,10 +1,11 @@
 title: vanuatu-mise-a-jour
-nameFr: 'Vanuatu : mise à jour'
-nameEn: 'Vanuatu : mise à jour'
 date: 2009-06-03T00:00:00.000Z
-bodyFr: >-
-  Indépendant depuis moins de trois décennies, l'archipel reste pour autant sous
-  l'influence permanente des deux grandes puissances qui l'ont colonisé. Il
-  s'agit surtout pour les francophones et anglophones de garder la mainmise
-  linguistique, sous l'oeil indifférent des vanuatais, qui parlent, eux, surtout
-  le Bichlamar.
+fr:
+  title: 'Vanuatu : mise à jour'
+  body: >-
+    Indépendant depuis moins de trois décennies, l'archipel reste pour autant
+    sous l'influence permanente des deux grandes puissances qui l'ont colonisé.
+    Il s'agit surtout pour les francophones et anglophones de garder la mainmise
+    linguistique, sous l'oeil indifférent des vanuatais, qui parlent, eux,
+    surtout le Bichlamar.
+en: {}

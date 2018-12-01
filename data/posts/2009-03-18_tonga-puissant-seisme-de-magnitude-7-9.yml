@@ -1,9 +1,10 @@
 title: tonga-puissant-seisme-de-magnitude-7-9
-nameFr: 'Tonga : puissant séisme de magnitude 7.9'
-nameEn: 'Tonga : puissant séisme de magnitude 7.9'
 date: 2009-03-19T00:00:00.000Z
-bodyFr: >-
-  Un très puissant séisme, de magnitude 7.9 sur l'échelle de Richter, s'est
-  produit aux environ de Tonga, dans le Pacifique. Il était 6h17 du matin heure
-  locale, vendredi 20 mars 2009, soit 18h17 UTC le jeudi 20 mars 2009. On ne
-  sait pas encore s'il y a eut des dégâts ou des victimes à Tonga.
+fr:
+  title: 'Tonga : puissant séisme de magnitude 7.9'
+  body: >-
+    Un très puissant séisme, de magnitude 7.9 sur l'échelle de Richter, s'est
+    produit aux environ de Tonga, dans le Pacifique. Il était 6h17 du matin
+    heure locale, vendredi 20 mars 2009, soit 18h17 UTC le jeudi 20 mars 2009.
+    On ne sait pas encore s'il y a eut des dégâts ou des victimes à Tonga.
+en: {}

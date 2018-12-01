@@ -1,9 +1,11 @@
 title: eclipse-solaire-sur-leurope
-nameFr: Éclipse solaire sur l'Europe
-nameEn: Éclipse solaire sur l'Europe
 date: 2015-03-19T00:00:00.000Z
-bodyFr: >-
-  Une éclipse solaire est prévue ce vendredi 20 mars en Europe. Voici une carte
-  des zones touchées et quelques explications. Phénomène rare, il n'en reste pas
-  moins dangereux pour les yeux. ATTENTION ! Il faut vous protéger et ne pas
-  utiliser de lunettes de soleil, au risque de subir des lésions oculaires !
+fr:
+  title: Éclipse solaire sur l'Europe
+  body: >-
+    Une éclipse solaire est prévue ce vendredi 20 mars en Europe. Voici une
+    carte des zones touchées et quelques explications. Phénomène rare, il n'en
+    reste pas moins dangereux pour les yeux. ATTENTION ! Il faut vous protéger
+    et ne pas utiliser de lunettes de soleil, au risque de subir des lésions
+    oculaires !
+en: {}

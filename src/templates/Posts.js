@@ -4,13 +4,11 @@ import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
 
 const PostPage = ({ data }) => {
-  const post = data.postsYaml
-
   return (
     <Layout>
-      <h1>{post.fields.name}</h1>
+      <h1>{data.post.fields.title}</h1>
       <section>
-        <HTMLContent content={post.bodyFr} />
+        <HTMLContent content={data.post.fields.body} />
       </section>
     </Layout>
   )
@@ -20,10 +18,10 @@ export default PostPage
 
 export const mapQuery = graphql`
   query PostByID($id: String!) {
-    postsYaml(id: { eq: $id }) {
-      bodyFr
+    post: postsYaml(id: { eq: $id }) {
       fields {
-        name
+        title
+        body
       }
     }
   }

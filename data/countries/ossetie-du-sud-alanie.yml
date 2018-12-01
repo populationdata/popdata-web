@@ -1,10 +1,13 @@
 title: ossetie-du-sud-alanie
-nameFr: Ossétie-du-Sud-Alanie
-nameEn: South Ossetia Alania
 date: 2017-06-02T19:24:44.000Z
-descriptionFr: ''
-descriptionEn: ''
-longName: République d'Ossétie-du-Sud-Alanie
+fr:
+  name: Ossétie-du-Sud-Alanie
+  description: ''
+  officialName: République d'Ossétie-du-Sud-Alanie
+en:
+  name: South Ossetia Alania
+  description: ''
+  officialName: République d'Ossétie du Sud
 localeName: >-
   Республикӕ Хуссар Ирыстон (os) ; სამხრეთ ოსეთის რესპუბლიკა (ka) ; Республика
   Южная Осетия (ru)

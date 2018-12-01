@@ -1,9 +1,10 @@
 title: tanzanie-mise-a-jour-2
-nameFr: 'Tanzanie : mise à jour'
-nameEn: 'Tanzanie : mise à jour'
 date: 2013-01-03T00:00:00.000Z
-bodyFr: >-
-  Petite mise à jour des chiffres de la Tanzanie. La stabilité politique du pays
-  lui permet de recevoir de nombreux investissements étrangers, ce qui aide au
-  développement économique et social. Il faut dire que la Tanzanie part de loin
-  et doit se rattraper dans de nombreux domaines.
+fr:
+  title: 'Tanzanie : mise à jour'
+  body: >-
+    Petite mise à jour des chiffres de la Tanzanie. La stabilité politique du
+    pays lui permet de recevoir de nombreux investissements étrangers, ce qui
+    aide au développement économique et social. Il faut dire que la Tanzanie
+    part de loin et doit se rattraper dans de nombreux domaines.
+en: {}

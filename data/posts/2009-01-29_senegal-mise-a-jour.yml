@@ -1,10 +1,11 @@
 title: senegal-mise-a-jour
-nameFr: 'Sénégal : mise à jour'
-nameEn: 'Sénégal : mise à jour'
 date: 2009-01-30T00:00:00.000Z
-bodyFr: >-
-  En pleine croissance économique, le pays voit cependant sa route vers le
-  progrès semée d'embûches : crise économique mondiale, et analphabétisme
-  bridant son développement. Le tourisme, qui progresse bien depuis quelques
-  années, est l'une des solutions pour continuer sa marche en avant, et sortir
-  enfin d'un état global peu avancé.
+fr:
+  title: 'Sénégal : mise à jour'
+  body: >-
+    En pleine croissance économique, le pays voit cependant sa route vers le
+    progrès semée d'embûches : crise économique mondiale, et analphabétisme
+    bridant son développement. Le tourisme, qui progresse bien depuis quelques
+    années, est l'une des solutions pour continuer sa marche en avant, et sortir
+    enfin d'un état global peu avancé.
+en: {}

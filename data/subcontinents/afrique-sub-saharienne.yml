@@ -1,5 +1,7 @@
 title: afrique-sub-saharienne
-nameFr: Afrique subsaharienne
-nameEn: Sub-Saharan Africa
 date: 2016-03-13T22:11:57.000Z
+fr:
+  name: Afrique subsaharienne
+en:
+  name: Sub-Saharan Africa
 continent: afrique

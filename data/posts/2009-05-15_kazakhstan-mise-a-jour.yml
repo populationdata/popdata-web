@@ -1,12 +1,13 @@
 title: kazakhstan-mise-a-jour
-nameFr: 'Kazakhstan : mise à jour'
-nameEn: 'Kazakhstan : mise à jour'
 date: 2009-05-16T00:00:00.000Z
-bodyFr: >-
-  Vaste pays pratiquement vide, avec une densité moyenne inférieure à 6
-  habitants au km2, le Kazakhstan est doté d'énormes ressources naturelles. Leur
-  exploitation, souvent dans des conditions très dures pour les populations
-  locales, ne profite pas à l'enrichissement de tous les kazakhs. Malgré tout,
-  les conditions de vie se sont améliorées ces dernières années, et la baisse
-  très forte de la démographie a été enrayée. La population recommence donc à
-  croître, lentement.
+fr:
+  title: 'Kazakhstan : mise à jour'
+  body: >-
+    Vaste pays pratiquement vide, avec une densité moyenne inférieure à 6
+    habitants au km2, le Kazakhstan est doté d'énormes ressources naturelles.
+    Leur exploitation, souvent dans des conditions très dures pour les
+    populations locales, ne profite pas à l'enrichissement de tous les kazakhs.
+    Malgré tout, les conditions de vie se sont améliorées ces dernières années,
+    et la baisse très forte de la démographie a été enrayée. La population
+    recommence donc à croître, lentement.
+en: {}

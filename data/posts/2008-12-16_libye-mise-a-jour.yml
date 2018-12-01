@@ -1,9 +1,11 @@
 title: libye-mise-a-jour
-nameFr: 'Libye : mise à jour'
-nameEn: 'Libye : mise à jour'
 date: 2008-12-17T00:00:00.000Z
-bodyFr: >-
-  Après des dizaines d'années passées dans l'ombre, le pays vient d'accéder à la
-  respectabilité internationale. On lui a même confié les rênes de la commission
-  des droits de l'homme de l'ONU, un comble pour un pays dirigé depuis 1969 par
-  un dictateur ! Mais le pétrole permet apparemment de tout acheter. <br />
+fr:
+  title: 'Libye : mise à jour'
+  body: >-
+    Après des dizaines d'années passées dans l'ombre, le pays vient d'accéder à
+    la respectabilité internationale. On lui a même confié les rênes de la
+    commission des droits de l'homme de l'ONU, un comble pour un pays dirigé
+    depuis 1969 par un dictateur ! Mais le pétrole permet apparemment de tout
+    acheter. <br />
+en: {}

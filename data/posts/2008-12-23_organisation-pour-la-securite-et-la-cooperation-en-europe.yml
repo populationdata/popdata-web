@@ -1,11 +1,13 @@
 title: organisation-pour-la-securite-et-la-cooperation-en-europe
-nameFr: Organisation pour la sécurité et la coopération en Europe (OSCE)
-nameEn: Organisation pour la sécurité et la coopération en Europe (OSCE)
 date: 2008-12-24T00:00:00.000Z
-bodyFr: >-
-  <p style="text-align: justify;">L'Organisation pour la sécurité et la
-  coopération en Europe (OSCE) est une organisation internationale ayant pour
-  but de favoriser le dialogue et la négociation entre l'est et l'ouest. L'OSCE
-  est la seule organisation européenne à vocation généraliste accueillant la
-  totalité des États du continent européen, ainsi que ceux qui n'en sont pas,
-  mais qui sont nés de la dissolution de l'Union soviétique (ex-URSS).</p>
+fr:
+  title: Organisation pour la sécurité et la coopération en Europe (OSCE)
+  body: >-
+    <p style="text-align: justify;">L'Organisation pour la sécurité et la
+    coopération en Europe (OSCE) est une organisation internationale ayant pour
+    but de favoriser le dialogue et la négociation entre l'est et l'ouest.
+    L'OSCE est la seule organisation européenne à vocation généraliste
+    accueillant la totalité des États du continent européen, ainsi que ceux qui
+    n'en sont pas, mais qui sont nés de la dissolution de l'Union soviétique
+    (ex-URSS).</p>
+en: {}

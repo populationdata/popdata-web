@@ -1,7 +1,8 @@
 title: je-suis-charlie
-nameFr: Je suis Charlie
-nameEn: Je suis Charlie
 date: 2015-01-07T00:00:00.000Z
-bodyFr: >-
-  <img width="480" height="712" title="Je suis Charlie" alt="Je suis Charlie"
-  src="/images/articles/je-suis-charlie.jpg" />
+fr:
+  title: Je suis Charlie
+  body: >-
+    <img width="480" height="712" title="Je suis Charlie" alt="Je suis Charlie"
+    src="/images/articles/je-suis-charlie.jpg" />
+en: {}

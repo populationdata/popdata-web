@@ -1,12 +1,13 @@
 title: tunisie-ben-ali-en-fuite
-nameFr: 'Tunisie : Ben Ali en fuite'
-nameEn: 'Tunisie : Ben Ali en fuite'
 date: 2011-01-14T00:00:00.000Z
-bodyFr: >-
-  La Tunisie vient de changer 2 fois de président en 24h. Ben Ali, ancien
-  président-dictateur, est en fuite (en Arabie saoudite) depuis vendredi 14
-  janvier, et a été remplacé dans un premier  temps par son premier ministre
-  Mohamed Ghannouchi. Puis, aujourd'hui, un deuxième président vient d'être
-  nommé : Fouad  Mebazaâ, président de la Chambre des députés. Ce poste en fait
-  le successeur constitutionnel du président Ben Ali en cas de vacance de la
-  présidence.
+fr:
+  title: 'Tunisie : Ben Ali en fuite'
+  body: >-
+    La Tunisie vient de changer 2 fois de président en 24h. Ben Ali, ancien
+    président-dictateur, est en fuite (en Arabie saoudite) depuis vendredi 14
+    janvier, et a été remplacé dans un premier  temps par son premier ministre
+    Mohamed Ghannouchi. Puis, aujourd'hui, un deuxième président vient d'être
+    nommé : Fouad  Mebazaâ, président de la Chambre des députés. Ce poste en
+    fait le successeur constitutionnel du président Ben Ali en cas de vacance de
+    la présidence.
+en: {}

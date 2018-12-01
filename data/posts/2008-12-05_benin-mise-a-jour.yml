@@ -1,10 +1,11 @@
 title: benin-mise-a-jour
-nameFr: 'Bénin : mise à jour'
-nameEn: 'Bénin : mise à jour'
 date: 2008-12-06T00:00:00.000Z
-bodyFr: >-
-  Le pays connaît une forte croissance démographique. Les villes gonflent de
-  manière exponentielle, principalement dans des bidonvilles de plus en plus
-  grands. Les infrastructures de toutes sortes manquent cruellement, et les
-  migrants issus des campagnes, qui viennent en ville pensant trouver du
-  travail, finissent souvent par végéter dans ces bidonvilles.  <br />
+fr:
+  title: 'Bénin : mise à jour'
+  body: >-
+    Le pays connaît une forte croissance démographique. Les villes gonflent de
+    manière exponentielle, principalement dans des bidonvilles de plus en plus
+    grands. Les infrastructures de toutes sortes manquent cruellement, et les
+    migrants issus des campagnes, qui viennent en ville pensant trouver du
+    travail, finissent souvent par végéter dans ces bidonvilles.  <br />
+en: {}

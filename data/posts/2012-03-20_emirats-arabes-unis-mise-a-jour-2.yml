@@ -1,9 +1,10 @@
 title: emirats-arabes-unis-mise-a-jour-2
-nameFr: 'Emirats arabes unis : mise à jour'
-nameEn: 'Emirats arabes unis : mise à jour'
 date: 2012-03-21T00:00:00.000Z
-bodyFr: >-
-  La folle croissance économique du pays le pousse à urbaniser à outrance son
-  littoral. L'aire urbaine de Doubaï qui se prolonge parfois loin à la fois en
-  mer avec ses îles artificielles, et dans le désert, a véritablement explosé.
-  Elle approche des 5 millions d'habitants désormais.
+fr:
+  title: 'Emirats arabes unis : mise à jour'
+  body: >-
+    La folle croissance économique du pays le pousse à urbaniser à outrance son
+    littoral. L'aire urbaine de Doubaï qui se prolonge parfois loin à la fois en
+    mer avec ses îles artificielles, et dans le désert, a véritablement explosé.
+    Elle approche des 5 millions d'habitants désormais.
+en: {}

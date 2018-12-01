@@ -1,10 +1,11 @@
 title: bonne-annee-2012
-nameFr: Bonne année 2012
-nameEn: Bonne année 2012
 date: 2012-01-02T00:00:00.000Z
-bodyFr: >-
-  Toute l'équipe de PopulationData.net vous souhaite une excellente année 2012 !
-  Après une incroyable année 2011 qui a permis à de nombreux peuples de se
-  débarrasser de personnages peu recommandables, que nous réserve 2012 ? Nul ne
-  le sait, mais nous souhaitons à notre planète de continuer à se libérer de ses
-  chaînes et de mieux vivre encore ! :-)
+fr:
+  title: Bonne année 2012
+  body: >-
+    Toute l'équipe de PopulationData.net vous souhaite une excellente année 2012
+    ! Après une incroyable année 2011 qui a permis à de nombreux peuples de se
+    débarrasser de personnages peu recommandables, que nous réserve 2012 ? Nul
+    ne le sait, mais nous souhaitons à notre planète de continuer à se libérer
+    de ses chaînes et de mieux vivre encore ! :-)
+en: {}

@@ -1,9 +1,10 @@
 title: glaciers-dans-le-monde
-nameFr: Glaciers dans le monde
-nameEn: Glaciers dans le monde
 date: 2014-05-21T00:00:00.000Z
-bodyFr: >-
-  Les glaciers représentent 70% des eaux douces de la planète, et constituent
-  également une partie importante de la cryosphère terrestre. Ils sont en danger
-  et fondent dramatiquement depuis des décennies. Voici une carte montrant
-  l'étendue des glaciers dans le monde.
+fr:
+  title: Glaciers dans le monde
+  body: >-
+    Les glaciers représentent 70% des eaux douces de la planète, et constituent
+    également une partie importante de la cryosphère terrestre. Ils sont en
+    danger et fondent dramatiquement depuis des décennies. Voici une carte
+    montrant l'étendue des glaciers dans le monde.
+en: {}

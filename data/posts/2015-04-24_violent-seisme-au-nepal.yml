@@ -1,24 +1,25 @@
 title: violent-seisme-au-nepal
-nameFr: Violent séisme au Népal
-nameEn: Violent séisme au Népal
 date: 2015-04-25T00:00:00.000Z
-bodyFr: >-
-  Un très violent séisme de magnitude 7.8 s'est produit au Népal à 11h56 ce
-  samedi. On dénombre actuellement (dimanche 3 mai) au moins 7040 morts et plus
-  de 14 000 blessés, et les dégâts sont considérables. Les normes de
-  construction anti-sismiques sont pratiquement inexistantes dans le
-  pays.<!--more-->Ce séisme a été suivi par plusieurs dizaines de répliques
-  puissantes, dont une de magnitude 6.6 quelques dizaines de minutes plus
-  tard.<br />La capitale Katmandou, située au centre d'une plaine où vivent 2,5
-  millions de personnes, a été particulièrement touchée. De nombreux bâtiments
-  se sont effondrés et les autorités redoutent que le bilan ne s'alourdisse
-  encore.<br />Des centaines d'alpinistes se trouvaient au camp de base de
-  l'Everest, qui a été fortement touché par le séisme et une avalanche aurait
-  enseveli des campements et tué 17 personnes.<br />Au Bangladesh, en Chine et
-  dans le nord de l'Inde, la secousse à également été ressentie, et a fait 90
-  morts.<br /><br />Carte du séisme et des dizaines de répliques au Népal
-  (source Le Monde)<br /> <iframe width="100%" height="520" frameborder="0"
-  msallowfullscreen="" oallowfullscreen="" mozallowfullscreen=""
-  webkitallowfullscreen="" allowfullscreen=""
-  src="https://lemonde.cartodb.com/viz/752ce872-ecc1-11e4-b890-0e018d66dc29/embed_map"></iframe>
-  <br /><br />Voir carte dans colonne centrale -&gt;<br />
+fr:
+  title: Violent séisme au Népal
+  body: >-
+    Un très violent séisme de magnitude 7.8 s'est produit au Népal à 11h56 ce
+    samedi. On dénombre actuellement (dimanche 3 mai) au moins 7040 morts et
+    plus de 14 000 blessés, et les dégâts sont considérables. Les normes de
+    construction anti-sismiques sont pratiquement inexistantes dans le
+    pays.<!--more-->Ce séisme a été suivi par plusieurs dizaines de répliques
+    puissantes, dont une de magnitude 6.6 quelques dizaines de minutes plus
+    tard.<br />La capitale Katmandou, située au centre d'une plaine où vivent
+    2,5 millions de personnes, a été particulièrement touchée. De nombreux
+    bâtiments se sont effondrés et les autorités redoutent que le bilan ne
+    s'alourdisse encore.<br />Des centaines d'alpinistes se trouvaient au camp
+    de base de l'Everest, qui a été fortement touché par le séisme et une
+    avalanche aurait enseveli des campements et tué 17 personnes.<br />Au
+    Bangladesh, en Chine et dans le nord de l'Inde, la secousse à également été
+    ressentie, et a fait 90 morts.<br /><br />Carte du séisme et des dizaines de
+    répliques au Népal (source Le Monde)<br /> <iframe width="100%" height="520"
+    frameborder="0" msallowfullscreen="" oallowfullscreen=""
+    mozallowfullscreen="" webkitallowfullscreen="" allowfullscreen=""
+    src="https://lemonde.cartodb.com/viz/752ce872-ecc1-11e4-b890-0e018d66dc29/embed_map"></iframe>
+    <br /><br />Voir carte dans colonne centrale -&gt;<br />
+en: {}

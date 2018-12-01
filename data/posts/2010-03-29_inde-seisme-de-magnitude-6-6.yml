@@ -1,13 +1,14 @@
 title: inde-seisme-de-magnitude-6-6
-nameFr: 'Inde : séisme de magnitude 6.6'
-nameEn: 'Inde : séisme de magnitude 6.6'
 date: 2010-03-30T00:00:00.000Z
-bodyFr: >-
-  Un puissant séisme de magnitude 6.6 s'est produit au nord de l'archipel
-  d'Andaman, en Inde, à 22h24 (heure locale) mardi 30 mars. Situées au sud de la
-  Birmanie, ces îles sont fréquemment frappées par des tremblements de
-  terre.<!--more-->Environ 36 000 personnes ont ressenti fortement le
-  tremblement de terre, et au total près d'1.9 million de personnes ont senti ce
-  séisme.<br /><br />On ignore pour le moment l'étendue des dégâts et s'il y a
-  d'éventuelles victimes.<br /><br />[carte dans colonne centrale-&gt;]<br /><br
-  />Source : USGS - Earthquake Hazards Program<br />
+fr:
+  title: 'Inde : séisme de magnitude 6.6'
+  body: >-
+    Un puissant séisme de magnitude 6.6 s'est produit au nord de l'archipel
+    d'Andaman, en Inde, à 22h24 (heure locale) mardi 30 mars. Situées au sud de
+    la Birmanie, ces îles sont fréquemment frappées par des tremblements de
+    terre.<!--more-->Environ 36 000 personnes ont ressenti fortement le
+    tremblement de terre, et au total près d'1.9 million de personnes ont senti
+    ce séisme.<br /><br />On ignore pour le moment l'étendue des dégâts et s'il
+    y a d'éventuelles victimes.<br /><br />[carte dans colonne centrale-&gt;]<br
+    /><br />Source : USGS - Earthquake Hazards Program<br />
+en: {}

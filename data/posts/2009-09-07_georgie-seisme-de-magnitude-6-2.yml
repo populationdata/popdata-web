@@ -1,10 +1,11 @@
 title: georgie-seisme-de-magnitude-6-2
-nameFr: 'Géorgie : séisme de magnitude 6.2'
-nameEn: 'Géorgie : séisme de magnitude 6.2'
 date: 2009-09-08T00:00:00.000Z
-bodyFr: >-
-  Un séisme de magnitude 6.2 s'est produit en Géorgie mardi 8 septembre à 3h41
-  du matin. L'épicentre se situe à environ 80km au nord-est de Kutaisi. Environ
-  36 000 personnes ont ressenti la secousse de manière forte à très forte. Au
-  total, plus de 12 millions de personnes ont ressenti cette secousse
-  sismique.<!--more-->[carte dans colonne centrale -&gt;]<br />
+fr:
+  title: 'Géorgie : séisme de magnitude 6.2'
+  body: >-
+    Un séisme de magnitude 6.2 s'est produit en Géorgie mardi 8 septembre à 3h41
+    du matin. L'épicentre se situe à environ 80km au nord-est de Kutaisi.
+    Environ 36 000 personnes ont ressenti la secousse de manière forte à très
+    forte. Au total, plus de 12 millions de personnes ont ressenti cette
+    secousse sismique.<!--more-->[carte dans colonne centrale -&gt;]<br />
+en: {}

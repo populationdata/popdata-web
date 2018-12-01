@@ -1,8 +1,9 @@
 title: algerie-387-millions-dhabitants-en-2014
-nameFr: 'Algérie : 38,7 millions d''habitants en 2014'
-nameEn: 'Algérie : 38,7 millions d''habitants en 2014'
 date: 2014-03-31T00:00:00.000Z
-bodyFr: >-
-  L'Office national des statistiques d'Algérie (ONS) vient de publier ses
-  estimations de population au 1er janvier 2014. Il y a 38,7 millions
-  d'habitants dans le pays, en croissance de plus de 2% sur un an.
+fr:
+  title: 'Algérie : 38,7 millions d''habitants en 2014'
+  body: >-
+    L'Office national des statistiques d'Algérie (ONS) vient de publier ses
+    estimations de population au 1er janvier 2014. Il y a 38,7 millions
+    d'habitants dans le pays, en croissance de plus de 2% sur un an.
+en: {}

@@ -1,11 +1,12 @@
 title: nouvelle-zelande-mise-a-jour
-nameFr: 'Nouvelle-Zélande : mise à jour'
-nameEn: 'Nouvelle-Zélande : mise à jour'
 date: 2009-02-06T00:00:00.000Z
-bodyFr: >-
-  Pays isolé géographiquement, il n'en reste pas moins un pays développé qui
-  entretient de nombreuses relations, notamment économiques, avec ses voisins
-  comme avec le bout du monde. Plusieurs défis se posent actuellement à lui :
-  faire face à la crise économique mondiale, prendre en charge de plus en plus
-  de petites îles océaniennes et leurs citoyens, submergées par la montée des
-  eaux, mais aussi améliorer le sort de ses minorités maoris.
+fr:
+  title: 'Nouvelle-Zélande : mise à jour'
+  body: >-
+    Pays isolé géographiquement, il n'en reste pas moins un pays développé qui
+    entretient de nombreuses relations, notamment économiques, avec ses voisins
+    comme avec le bout du monde. Plusieurs défis se posent actuellement à lui :
+    faire face à la crise économique mondiale, prendre en charge de plus en plus
+    de petites îles océaniennes et leurs citoyens, submergées par la montée des
+    eaux, mais aussi améliorer le sort de ses minorités maoris.
+en: {}

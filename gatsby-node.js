@@ -28,33 +28,38 @@ exports.onCreateNode = ({ node, actions }) => {
       'SubcontinentsYaml',
     ].includes(node.internal.type)
   ) {
-    const languageSuffix =
-      language.slice(0, 1).toUpperCase() + language.slice(1, 2)
-    for (const property in node) {
-      if (node.hasOwnProperty(property)) {
-        let propertyName = property
-        if (propertyName.endsWith(languageSuffix)) {
-          propertyName = property.slice(0, property.length - 2)
-          createNodeField({
-            name: propertyName,
-            node,
-            value: node[property],
-          })
-        }
+    const translatedObject = node[language]
+    for (const property in translatedObject) {
+      if (translatedObject.hasOwnProperty(property)) {
+        createNodeField({
+          name: property,
+          node,
+          value: translatedObject[property],
+        })
       }
     }
-    if (
-      ['ContinentsYaml', 'CountriesYaml', 'MapsYaml', 'PostsYaml'].includes(
-        node.internal.type
-      )
-    ) {
-      if (node.fields.name) {
+    if (['ContinentsYaml', 'CountriesYaml'].includes(node.internal.type)) {
+      if (node.fields && node.fields.name) {
         createNodeField({
           name: `slug`,
           node,
           value: `/${getCategory(node.internal.type)}/${slug(node.fields.name, {
             lower: true,
           })}/`,
+        })
+      }
+    }
+    if (['MapsYaml', 'PostsYaml'].includes(node.internal.type)) {
+      if (node.fields && node.fields.title) {
+        createNodeField({
+          name: `slug`,
+          node,
+          value: `/${getCategory(node.internal.type)}/${slug(
+            node.fields.title,
+            {
+              lower: true,
+            }
+          )}/`,
         })
       }
     }

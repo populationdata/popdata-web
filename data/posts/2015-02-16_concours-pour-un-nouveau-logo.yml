@@ -1,10 +1,11 @@
 title: concours-pour-un-nouveau-logo
-nameFr: Concours pour un nouveau logo
-nameEn: Concours pour un nouveau logo
 date: 2015-02-17T00:00:00.000Z
-bodyFr: >-
-  PopulationData.net organise un concours pour son nouveau logo. Appel aux
-  web-designers ! Proposez-nous vos idées de logos ! Le gagnant verra son logo
-  affiché sur le nouveau site qui sortira au printemps. Et nous lui verserons
-  300 $CAD. Relayez ce concours auprès de vos connaissances
-  !<!--more-->Envoyez-nous vos créations à info @ populationdata . net
+fr:
+  title: Concours pour un nouveau logo
+  body: >-
+    PopulationData.net organise un concours pour son nouveau logo. Appel aux
+    web-designers ! Proposez-nous vos idées de logos ! Le gagnant verra son logo
+    affiché sur le nouveau site qui sortira au printemps. Et nous lui verserons
+    300 $CAD. Relayez ce concours auprès de vos connaissances
+    !<!--more-->Envoyez-nous vos créations à info @ populationdata . net
+en: {}

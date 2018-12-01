@@ -1,10 +1,11 @@
 title: autriche-mise-a-jour
-nameFr: 'Autriche : mise à jour'
-nameEn: 'Autriche : mise à jour'
 date: 2015-05-06T00:00:00.000Z
-bodyFr: >-
-  L'Autriche a dépassé pour la première fois les 8,5 millions d'habitants au
-  début 2015. Sa capitale, Vienne, siège de nombreuses institutions
-  internationales en raison du caractère neutre du pays, avec notamment l'ONU,
-  l'OPEP ou encore L'OSCE et l'AIEA, regroupe le tiers de la population du
-  pays.<!--more-->
+fr:
+  title: 'Autriche : mise à jour'
+  body: >-
+    L'Autriche a dépassé pour la première fois les 8,5 millions d'habitants au
+    début 2015. Sa capitale, Vienne, siège de nombreuses institutions
+    internationales en raison du caractère neutre du pays, avec notamment l'ONU,
+    l'OPEP ou encore L'OSCE et l'AIEA, regroupe le tiers de la population du
+    pays.<!--more-->
+en: {}

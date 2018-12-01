@@ -1,9 +1,10 @@
 title: challenge-2008-cafesfrance-com
-nameFr: Challenge 2008 CafésFrance.com
-nameEn: Challenge 2008 CafésFrance.com
 date: 2008-11-22T00:00:00.000Z
-bodyFr: >-
-  CafésFrance.com, guide communautaire des lieux où sortir dans les grandes
-  villes de France, lance son deuxième grand Challenge 2008 CafésFrance.com ! Le
-  principe est de découvrir « Quelle est la ville la plus fêtarde de France ?
-  »    <br />
+fr:
+  title: Challenge 2008 CafésFrance.com
+  body: >-
+    CafésFrance.com, guide communautaire des lieux où sortir dans les grandes
+    villes de France, lance son deuxième grand Challenge 2008 CafésFrance.com !
+    Le principe est de découvrir « Quelle est la ville la plus fêtarde de France
+    ? »    <br />
+en: {}
