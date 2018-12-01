@@ -8,6 +8,7 @@ import Header from './Header'
 import Footer from './Footer'
 
 import './Layout.scss'
+import favicon from '../images/favicon.png'
 
 const Layout = ({ children, col1, col2 }) => (
   <StaticQuery
@@ -25,6 +26,7 @@ const Layout = ({ children, col1, col2 }) => (
       <>
         <Helmet title={data.site.siteMetadata.title}>
           <html lang={data.site.siteMetadata.language} />
+          <link href={favicon} rel="icon" />
         </Helmet>
         <Header siteMetadata={data.site.siteMetadata} />
         <Container
