@@ -10,6 +10,20 @@ import Footer from './Footer'
 import './Layout.scss'
 import favicon from '../images/favicon.png'
 
+const mainColSize = (col1, col2) => {
+  if (col1) {
+    if (col2) {
+      return 7
+    }
+    return 10
+  }
+
+  if (col2) {
+    return 9
+  }
+  return 12
+}
+
 const Layout = ({ children, col1, col2 }) => (
   <StaticQuery
     query={graphql`
@@ -35,24 +49,28 @@ const Layout = ({ children, col1, col2 }) => (
           })}
         >
           <Row>
-            <Col xl="7">{children}</Col>
-            <Col
-              {...css({
-                borderLeft: '1px solid rgb(233, 233, 233)',
-              })}
-              className="d-none d-xl-block"
-              xl="2"
-            >
-              {col1}
-            </Col>
-            <Col
-              {...css({
-                borderLeft: '1px solid rgb(233, 233, 233)',
-              })}
-              xl="3"
-            >
-              {col2}
-            </Col>
+            <Col xl={mainColSize(col1, col2)}>{children}</Col>
+            {!!col1 && (
+              <Col
+                {...css({
+                  borderLeft: '1px solid rgb(233, 233, 233)',
+                })}
+                className="d-none d-xl-block"
+                xl="2"
+              >
+                {col1}
+              </Col>
+            )}
+            {!!col2 && (
+              <Col
+                {...css({
+                  borderLeft: '1px solid rgb(233, 233, 233)',
+                })}
+                xl="3"
+              >
+                {col2}
+              </Col>
+            )}
           </Row>
         </Container>
         <Footer />

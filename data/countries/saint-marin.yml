@@ -2,11 +2,65 @@ title: saint-marin
 date: 2016-05-16T20:05:19.000Z
 fr:
   name: Saint-Marin
-  description: "<p style=\"text-align: justify;\"><strong>Saint-Marin</strong> est un État indépendant enclavé dans l'<a href=\"https://www.populationdata.net/pays/italie/\">Italie</a>. C'est le 3<sup>e</sup> plus petit État d'Europe et le 5<sup>e</sup> plus petit du monde.\r\nC'est aussi l'une des plus anciennes républiques du monde après l'Islande, et la plus ancienne république du monde ayant continuellement existé depuis sa création. Sa constitution, qui date de 1600, est la plus ancienne constitution encore en vigueur de nos jours. Il fait partie des <a href=\"https://www.populationdata.net/cartes/monde-pays-sans-acces-a-la-mer/\">pays sans accès à la mer</a>.</p>\r\n\r\n\r\n[caption id=\"attachment_38944\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://www.populationdata.net/pays/saint-marin/saint-marin-3/\" rel=\"attachment wp-att-38944\"><img class=\"size-full wp-image-38944\" src=\"https://www.populationdata.net/wp-content/uploads/2016/05/Saint-Marin.jpg\" alt=\"Saint-Marin\" width=\"1280\" height=\"305\" /></a> Saint-Marin. Photo : Matl[/caption]"
   officialName: République de Saint-Marin
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Saint-Marin</strong> est un État indépendant enclavé dans l'<a href=\"https://www.populationdata.net/pays/italie/\">Italie</a>. C'est le 3<sup>e</sup> plus petit État d'Europe et le 5<sup>e</sup> plus petit du monde.\r\nC'est aussi l'une des plus anciennes républiques du monde après l'Islande, et la plus ancienne république du monde ayant continuellement existé depuis sa création. Sa constitution, qui date de 1600, est la plus ancienne constitution encore en vigueur de nos jours. Il fait partie des <a href=\"https://www.populationdata.net/cartes/monde-pays-sans-acces-a-la-mer/\">pays sans accès à la mer</a>.</p>\r\n\r\n\r\n[caption id=\"attachment_38944\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://www.populationdata.net/pays/saint-marin/saint-marin-3/\" rel=\"attachment wp-att-38944\"><img class=\"size-full wp-image-38944\" src=\"https://www.populationdata.net/wp-content/uploads/2016/05/Saint-Marin.jpg\" alt=\"Saint-Marin\" width=\"1280\" height=\"305\" /></a> Saint-Marin. Photo : Matl[/caption]"
+  natureOfTheState: République parlementaire
+  headOfState: Capitaines-régentes Mimma Zavoli et Vanessa D'Ambrosio
+  nationalDay: 3 septembre (fondation de Saint-Marin)
+  demonym: 'Saint-Marinaise, Saint-Marinais'
+  officialLanguages: Italien
 en:
   name: San Marino
-  description: "<p style=\"text-align: justify;\"><strong>Saint-Marin</strong> est un État indépendant enclavé dans l'<a href=\"https://www.populationdata.net/pays/italie/\">Italie</a>. C'est le 3<sup>e</sup> plus petit État d'Europe et le 5<sup>e</sup> plus petit du monde.\r\nC'est aussi l'une des plus anciennes républiques du monde après l'Islande, et la plus ancienne république du monde ayant continuellement existé depuis sa création. Sa constitution, qui date de 1600, est la plus ancienne constitution encore en vigueur de nos jours. Il fait partie des <a href=\"https://www.populationdata.net/cartes/monde-pays-sans-acces-a-la-mer/\">pays sans accès à la mer</a>.</p>\r\n\r\n\r\n[caption id=\"attachment_38944\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://www.populationdata.net/pays/saint-marin/saint-marin-3/\" rel=\"attachment wp-att-38944\"><img class=\"size-full wp-image-38944\" src=\"https://www.populationdata.net/wp-content/uploads/2016/05/Saint-Marin.jpg\" alt=\"Saint-Marin\" width=\"1280\" height=\"305\" /></a> Saint-Marin. Photo : Matl[/caption]"
   officialName: République de Saint-Marin
-localeName: Repubblica di San Marino (it)
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Saint-Marin</strong> est un État indépendant enclavé dans l'<a href=\"https://www.populationdata.net/pays/italie/\">Italie</a>. C'est le 3<sup>e</sup> plus petit État d'Europe et le 5<sup>e</sup> plus petit du monde.\r\nC'est aussi l'une des plus anciennes républiques du monde après l'Islande, et la plus ancienne république du monde ayant continuellement existé depuis sa création. Sa constitution, qui date de 1600, est la plus ancienne constitution encore en vigueur de nos jours. Il fait partie des <a href=\"https://www.populationdata.net/cartes/monde-pays-sans-acces-a-la-mer/\">pays sans accès à la mer</a>.</p>\r\n\r\n\r\n[caption id=\"attachment_38944\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://www.populationdata.net/pays/saint-marin/saint-marin-3/\" rel=\"attachment wp-att-38944\"><img class=\"size-full wp-image-38944\" src=\"https://www.populationdata.net/wp-content/uploads/2016/05/Saint-Marin.jpg\" alt=\"Saint-Marin\" width=\"1280\" height=\"305\" /></a> Saint-Marin. Photo : Matl[/caption]"
+  natureOfTheState: République parlementaire
+  headOfState: Capitaines-régentes Mimma Zavoli et Vanessa D'Ambrosio
+  nationalDay: 3 septembre (fondation de Saint-Marin)
+  demonym: 'Saint-Marinaise, Saint-Marinais'
+  officialLanguages: Italien
 subcontinent: europe-hors-union-europeenne
+localeName: Repubblica di San Marino (it)
+iso2: SM
+iso3: SMR
+population:
+  population: 34359
+  year: 2017
+  yearlyGrowth: 0.57
+area: 61
+density: 561.51
+currency: Euro (€ EUR)
+gdp:
+  gdp: 1.379
+  year: null
+  gdpPerCapita: 45849
+  yearlyGrowth: 0.5
+lifeExpectancy:
+  lifeExpectancy: 84.65
+  year: 2016
+birthRate:
+  birthRate: 8.6
+  year: 2016
+fertilityRate:
+  fertilityRate: 1.5
+  year: 2016
+deathRate:
+  deathRate: 8.6
+  year: 2016
+  infantDeathRate: 4.4
+  infantDeathRateYear: 2016
+literacyRate:
+  literacyRate: 100
+  year: 2017
+hdi:
+  hdi: 0
+  year: 2015
+epi:
+  epi: 0
+  year: 2016
+tourism:
+  tourism: 1940178
+  year: 2016
+settings:
+  noStats: false

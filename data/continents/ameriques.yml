@@ -6,3 +6,11 @@ en:
   name: Americas
 gdpYear: 2014
 numberOfTimeZones: 12
+lifeExpectancy: 75
+birthRate: 17
+deathRate: 6
+infantMortalityRate: 15
+numberOfLanguagesSpoken: 1000
+surroundedBy: >-
+  Océan Atlantique, Océan Pacifique, Océan Arctique, Mer des Caraïbes, Golfe du
+  Mexique

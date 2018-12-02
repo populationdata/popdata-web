@@ -2,13 +2,67 @@ title: ossetie-du-sud-alanie
 date: 2017-06-02T19:24:44.000Z
 fr:
   name: Ossétie-du-Sud-Alanie
-  description: ''
   officialName: République d'Ossétie-du-Sud-Alanie
+  header: ''
+  description: ''
+  natureOfTheState: République
+  headOfState: Président Anatoli Bibilov
+  nationalDay: ''
+  demonym: Sud-Ossète
+  officialLanguages: 'Ossète, géorgien, russe'
 en:
   name: South Ossetia Alania
-  description: ''
   officialName: République d'Ossétie du Sud
+  header: ''
+  description: ''
+  natureOfTheState: République
+  headOfState: Président Anatoli Bibilov
+  nationalDay: ''
+  demonym: Sud-Ossète
+  officialLanguages: 'Ossète, géorgien, russe'
+subcontinent: asie-de-louest
 localeName: >-
   Республикӕ Хуссар Ирыстон (os) ; სამხრეთ ოსეთის რესპუბლიკა (ka) ; Республика
   Южная Осетия (ru)
-subcontinent: asie-de-louest
+iso2: ''
+iso3: ''
+population:
+  population: 51547
+  year: 2013
+  yearlyGrowth: 0
+area: 3900
+density: 13.22
+currency: 'Lari (GEL), Rouble russe (₽ RUB)'
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 0
+  year: 0
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 0
+  year: 0
+  infantDeathRate: 0
+  infantDeathRateYear: 0
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 0
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 0
+  year: 0
+settings:
+  noStats: false

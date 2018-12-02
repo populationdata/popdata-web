@@ -6,3 +6,9 @@ en:
   name: Oceania
 gdpYear: 2014
 numberOfTimeZones: 12
+lifeExpectancy: 75
+birthRate: 16
+deathRate: 7
+infantMortalityRate: 25
+numberOfLanguagesSpoken: 1302
+surroundedBy: 'Océan Pacifique, Océan Indien'

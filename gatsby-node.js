@@ -1,6 +1,6 @@
-const _ = require('lodash')
 const path = require('path')
 const slug = require('slug')
+const gql = require('gatsby/graphql')
 const language = process.env.GATSBY_LANGUAGE
 
 const getCategory = type => {
@@ -14,6 +14,11 @@ const getCategory = type => {
     case 'PostsYaml':
       return language === 'fr' ? 'articles' : 'posts'
   }
+}
+
+const atlas = {
+  continents: {},
+  subcontinents: {},
 }
 
 exports.onCreateNode = ({ node, actions }) => {
@@ -63,7 +68,48 @@ exports.onCreateNode = ({ node, actions }) => {
         })
       }
     }
+
+    switch (node.internal.type) {
+      case 'ContinentsYaml':
+        atlas.continents[node.title] = node
+        break
+      case 'SubcontinentsYaml':
+        atlas.subcontinents[node.title] = node
+        break
+    }
   }
+}
+
+exports.setFieldsOnGraphQLNodeType = ({ type }) => {
+  if (type.name === `SubcontinentsYaml`) {
+    return {
+      continentNodeId: {
+        type: gql.GraphQLString,
+        resolve: source => {
+          const continent = atlas.continents[source.continent]
+          if (continent) {
+            return continent.id
+          }
+        },
+      },
+    }
+  }
+  if (type.name === `CountriesYaml`) {
+    return {
+      continentNodeId: {
+        type: gql.GraphQLString,
+        resolve: source => {
+          const subcontinent = atlas.subcontinents[source.subcontinent]
+          if (subcontinent) {
+            return atlas.continents[subcontinent.continent].id
+          }
+          return null
+        },
+      },
+    }
+  }
+
+  return {}
 }
 
 exports.createPages = ({ actions, graphql }) => {

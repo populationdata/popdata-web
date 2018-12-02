@@ -6,3 +6,11 @@ en:
   name: Europe
 gdpYear: 2015
 numberOfTimeZones: 6
+lifeExpectancy: 74
+birthRate: 10
+deathRate: 11
+infantMortalityRate: 8
+numberOfLanguagesSpoken: 225
+surroundedBy: >-
+  Océan Atlantique, Océan Arctique, Mer du Nord, Mer Baltique, Mer Méditerranée,
+  Mer Noire, Mer Caspienne

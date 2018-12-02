@@ -2,11 +2,65 @@ title: norfolk
 date: 2016-05-16T20:05:09.000Z
 fr:
   name: Norfolk
-  description: "L'île Norfolk est un territoire autogouverné associé à l'Australie, situé à mi-chemin de la Nouvelle-Zélande, de la Nouvelle-Calédonie et de l'Australie.\r\nElle est peuplé notamment d'une partie des descendants du fameux Bounty, qui y sont arrivés au milieu du 19e siècle car Pitcairn, l'île où la majeure partie de ces descendants se trouvent encore, commençait à être trop peuplée."
   officialName: Ile Norfolk
+  header: ''
+  description: "L'île Norfolk est un territoire autogouverné associé à l'Australie, situé à mi-chemin de la Nouvelle-Zélande, de la Nouvelle-Calédonie et de l'Australie.\r\nElle est peuplé notamment d'une partie des descendants du fameux Bounty, qui y sont arrivés au milieu du 19e siècle car Pitcairn, l'île où la majeure partie de ces descendants se trouvent encore, commençait à être trop peuplée."
+  natureOfTheState: Territoire autogouverné associé à l'Australie
+  headOfState: Reine Élisabeth II
+  nationalDay: ''
+  demonym: 'Norfolkienne, Norfolkien'
+  officialLanguages: Anglais
 en:
   name: Norfolk Island
-  description: "L'île Norfolk est un territoire autogouverné associé à l'Australie, situé à mi-chemin de la Nouvelle-Zélande, de la Nouvelle-Calédonie et de l'Australie.\r\nElle est peuplé notamment d'une partie des descendants du fameux Bounty, qui y sont arrivés au milieu du 19e siècle car Pitcairn, l'île où la majeure partie de ces descendants se trouvent encore, commençait à être trop peuplée."
   officialName: Ile Norfolk
-localeName: Norfolk Island
+  header: ''
+  description: "L'île Norfolk est un territoire autogouverné associé à l'Australie, situé à mi-chemin de la Nouvelle-Zélande, de la Nouvelle-Calédonie et de l'Australie.\r\nElle est peuplé notamment d'une partie des descendants du fameux Bounty, qui y sont arrivés au milieu du 19e siècle car Pitcairn, l'île où la majeure partie de ces descendants se trouvent encore, commençait à être trop peuplée."
+  natureOfTheState: Territoire autogouverné associé à l'Australie
+  headOfState: Reine Élisabeth II
+  nationalDay: ''
+  demonym: 'Norfolkienne, Norfolkien'
+  officialLanguages: Anglais
 subcontinent: oceanie
+localeName: Norfolk Island
+iso2: NF
+iso3: NFK
+population:
+  population: 2196
+  year: 2013
+  yearlyGrowth: 0.01
+area: 35
+density: 63.47
+currency: Dollar australien (AUD)
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 2013
+birthRate:
+  birthRate: 0
+  year: 2013
+fertilityRate:
+  fertilityRate: 0
+  year: 2013
+deathRate:
+  deathRate: 0
+  year: 2013
+  infantDeathRate: 0
+  infantDeathRateYear: 2013
+literacyRate:
+  literacyRate: 0
+  year: 2013
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 0
+  year: 2015
+settings:
+  noStats: false

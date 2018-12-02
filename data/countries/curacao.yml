@@ -2,11 +2,65 @@ title: curacao
 date: 2017-05-02T18:51:18.000Z
 fr:
   name: Curaçao
-  description: "<p style=\"text-align: justify;\"><strong>Curaçao</strong> est l'une des<a href=\"https://www.populationdata.net/cartes/caraibes-iles-vent/\"> îles Sous-le-Vent</a> aux petites Antilles (Caraïbes), formant un État autonome au sein du Royaume des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> depuis la dissolution de la fédération des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a> le 10 octobre 2010. Elle compte environ 150 000 habitants pour une superficie de 444\_km<sup>2</sup>. Sa capitale est Willemstad. Elle est située au large des côtes du <a href=\"https://www.populationdata.net/pays/venezuela/\">Venezuela</a>.</p>"
   officialName: Curaçao
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Curaçao</strong> est l'une des<a href=\"https://www.populationdata.net/cartes/caraibes-iles-vent/\"> îles Sous-le-Vent</a> aux petites Antilles (Caraïbes), formant un État autonome au sein du Royaume des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> depuis la dissolution de la fédération des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a> le 10 octobre 2010. Elle compte environ 150 000 habitants pour une superficie de 444\_km<sup>2</sup>. Sa capitale est Willemstad. Elle est située au large des côtes du <a href=\"https://www.populationdata.net/pays/venezuela/\">Venezuela</a>.</p>"
+  natureOfTheState: 'Monarchie unitaire, parlementaire (État autonome du Royaume des Pays-Bas)'
+  headOfState: Roi Willem-Alexander (Guillaume-Alexandre)
+  nationalDay: ''
+  demonym: 'Curacienne, Curacien'
+  officialLanguages: 'Néerlandais, papiamento'
 en:
   name: Curaçao
-  description: "<p style=\"text-align: justify;\"><strong>Curaçao</strong> est l'une des<a href=\"https://www.populationdata.net/cartes/caraibes-iles-vent/\"> îles Sous-le-Vent</a> aux petites Antilles (Caraïbes), formant un État autonome au sein du Royaume des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> depuis la dissolution de la fédération des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a> le 10 octobre 2010. Elle compte environ 150 000 habitants pour une superficie de 444\_km<sup>2</sup>. Sa capitale est Willemstad. Elle est située au large des côtes du <a href=\"https://www.populationdata.net/pays/venezuela/\">Venezuela</a>.</p>"
   officialName: Curaçao
-localeName: Curaçao (nl) ; Kòrsou (pa)
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Curaçao</strong> est l'une des<a href=\"https://www.populationdata.net/cartes/caraibes-iles-vent/\"> îles Sous-le-Vent</a> aux petites Antilles (Caraïbes), formant un État autonome au sein du Royaume des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> depuis la dissolution de la fédération des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a> le 10 octobre 2010. Elle compte environ 150 000 habitants pour une superficie de 444\_km<sup>2</sup>. Sa capitale est Willemstad. Elle est située au large des côtes du <a href=\"https://www.populationdata.net/pays/venezuela/\">Venezuela</a>.</p>"
+  natureOfTheState: 'Monarchie unitaire, parlementaire (État autonome du Royaume des Pays-Bas)'
+  headOfState: Roi Willem-Alexander (Guillaume-Alexandre)
+  nationalDay: ''
+  demonym: 'Curacienne, Curacien'
+  officialLanguages: 'Néerlandais, papiamento'
 subcontinent: antilles
+localeName: Curaçao (nl) ; Kòrsou (pa)
+iso2: CW
+iso3: CUW
+population:
+  population: 160337
+  year: 2017
+  yearlyGrowth: 0.85
+area: 444
+density: 361.12
+currency: Florin des Antilles néerlandaises (ANG)
+gdp:
+  gdp: 3.155
+  year: null
+  gdpPerCapita: 19721
+  yearlyGrowth: 0.3
+lifeExpectancy:
+  lifeExpectancy: 77.95
+  year: 2016
+birthRate:
+  birthRate: 11.2
+  year: 2016
+fertilityRate:
+  fertilityRate: 1.7
+  year: 2016
+deathRate:
+  deathRate: 9.3
+  year: 2016
+  infantDeathRate: 11.2
+  infantDeathRateYear: 2016
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 0
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 468442
+  year: 2015
+settings:
+  noStats: false

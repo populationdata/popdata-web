@@ -2,11 +2,65 @@ title: abkhazie
 date: 2017-06-02T21:13:25.000Z
 fr:
   name: Abkhazie
-  description: ''
   officialName: République d'Abkhazie
+  header: ''
+  description: ''
+  natureOfTheState: République
+  headOfState: Président Raul Khadjimba
+  nationalDay: ''
+  demonym: 'Abkhaze, Abkhazienne, Abkhazien'
+  officialLanguages: 'Abkhaze, géorgien, russe'
 en:
   name: Abkhazia
-  description: ''
   officialName: République d'Abkhazie
-localeName: Аҧсны (ab) ; აფხაზეთი (ka) ; Абхазия (ru)
+  header: ''
+  description: ''
+  natureOfTheState: République
+  headOfState: Président Raul Khadjimba
+  nationalDay: ''
+  demonym: 'Abkhaze, Abkhazienne, Abkhazien'
+  officialLanguages: 'Abkhaze, géorgien, russe'
 subcontinent: asie-de-louest
+localeName: Аҧсны (ab) ; აფხაზეთი (ka) ; Абхазия (ru)
+iso2: ''
+iso3: ''
+population:
+  population: 263042
+  year: 2017
+  yearlyGrowth: 1.49
+area: 8653
+density: 30.4
+currency: 'Lari (GEL), Rouble russe (₽ RUB)'
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 0
+  year: 0
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 0
+  year: 0
+  infantDeathRate: 0
+  infantDeathRateYear: 0
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 0
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 0
+  year: 0
+settings:
+  noStats: false

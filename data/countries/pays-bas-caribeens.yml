@@ -2,11 +2,65 @@ title: pays-bas-caribeens
 date: 2017-05-04T19:56:06.000Z
 fr:
   name: Pays-Bas caribéens
-  description: "<p style=\"text-align: justify;\">Les <b>Pays-Bas caribéens</b> est le nom donné à l'ancien regroupement des îles néerlandaises de <strong>Bonaire</strong>, <strong>Saint-Eustache</strong> et <strong>Saba</strong> (d'où l'acronyme <b>îles BES</b>). Depuis le <time class=\"nowrap date-lien\" datetime=\"2010-10-10\">10 octobre 2010</time>, après la dissolution de l'État des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a>, les trois îles ont réintégré l'État des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> en tant qu'entités publiques au statut de municipalité à caractère particulier.\r\nLes autres îles néerlandaises situées dans les Antilles sont devenues des États autonomes : <a href=\"https://www.populationdata.net/pays/curacao/\">Curaçao</a>, <a href=\"https://www.populationdata.net/pays/saint-martin-pays-bas/\">Saint-Martin</a> (partie néerlandaise) et <a href=\"https://www.populationdata.net/pays/aruba/\">Aruba</a>.</p>"
   officialName: Pays-Bas caribéens Îles BES
+  header: ''
+  description: "<p style=\"text-align: justify;\">Les <b>Pays-Bas caribéens</b> est le nom donné à l'ancien regroupement des îles néerlandaises de <strong>Bonaire</strong>, <strong>Saint-Eustache</strong> et <strong>Saba</strong> (d'où l'acronyme <b>îles BES</b>). Depuis le <time class=\"nowrap date-lien\" datetime=\"2010-10-10\">10 octobre 2010</time>, après la dissolution de l'État des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a>, les trois îles ont réintégré l'État des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> en tant qu'entités publiques au statut de municipalité à caractère particulier.\r\nLes autres îles néerlandaises situées dans les Antilles sont devenues des États autonomes : <a href=\"https://www.populationdata.net/pays/curacao/\">Curaçao</a>, <a href=\"https://www.populationdata.net/pays/saint-martin-pays-bas/\">Saint-Martin</a> (partie néerlandaise) et <a href=\"https://www.populationdata.net/pays/aruba/\">Aruba</a>.</p>"
+  natureOfTheState: Municipalités à caractère particulier des Pays-Bas
+  headOfState: Roi Willem-Alexander (Guillaume-Alexandre)
+  nationalDay: ''
+  demonym: 'Néerlandaise, néerlandais'
+  officialLanguages: 'Néerlandais, papiamento'
 en:
   name: Caribbean Netherlands
-  description: "<p style=\"text-align: justify;\">Les <b>Pays-Bas caribéens</b> est le nom donné à l'ancien regroupement des îles néerlandaises de <strong>Bonaire</strong>, <strong>Saint-Eustache</strong> et <strong>Saba</strong> (d'où l'acronyme <b>îles BES</b>). Depuis le <time class=\"nowrap date-lien\" datetime=\"2010-10-10\">10 octobre 2010</time>, après la dissolution de l'État des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a>, les trois îles ont réintégré l'État des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> en tant qu'entités publiques au statut de municipalité à caractère particulier.\r\nLes autres îles néerlandaises situées dans les Antilles sont devenues des États autonomes : <a href=\"https://www.populationdata.net/pays/curacao/\">Curaçao</a>, <a href=\"https://www.populationdata.net/pays/saint-martin-pays-bas/\">Saint-Martin</a> (partie néerlandaise) et <a href=\"https://www.populationdata.net/pays/aruba/\">Aruba</a>.</p>"
   officialName: Pays-Bas caribéens Îles BES
-localeName: Caribisch Nederland BES-eilanden (nl)
+  header: ''
+  description: "<p style=\"text-align: justify;\">Les <b>Pays-Bas caribéens</b> est le nom donné à l'ancien regroupement des îles néerlandaises de <strong>Bonaire</strong>, <strong>Saint-Eustache</strong> et <strong>Saba</strong> (d'où l'acronyme <b>îles BES</b>). Depuis le <time class=\"nowrap date-lien\" datetime=\"2010-10-10\">10 octobre 2010</time>, après la dissolution de l'État des <a href=\"https://www.populationdata.net/pays/antilles-neerlandaises/\">Antilles néerlandaises</a>, les trois îles ont réintégré l'État des <a href=\"https://www.populationdata.net/pays/pays-bas/\">Pays-Bas</a> en tant qu'entités publiques au statut de municipalité à caractère particulier.\r\nLes autres îles néerlandaises situées dans les Antilles sont devenues des États autonomes : <a href=\"https://www.populationdata.net/pays/curacao/\">Curaçao</a>, <a href=\"https://www.populationdata.net/pays/saint-martin-pays-bas/\">Saint-Martin</a> (partie néerlandaise) et <a href=\"https://www.populationdata.net/pays/aruba/\">Aruba</a>.</p>"
+  natureOfTheState: Municipalités à caractère particulier des Pays-Bas
+  headOfState: Roi Willem-Alexander (Guillaume-Alexandre)
+  nationalDay: ''
+  demonym: 'Néerlandaise, néerlandais'
+  officialLanguages: 'Néerlandais, papiamento'
 subcontinent: antilles
+localeName: Caribisch Nederland BES-eilanden (nl)
+iso2: BQ
+iso3: BES
+population:
+  population: 24548
+  year: 2016
+  yearlyGrowth: -0.18
+area: 322
+density: 76.24
+currency: Dollar des États-Unis ($ USD)
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 0
+  year: 0
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 0
+  year: 0
+  infantDeathRate: 0
+  infantDeathRateYear: 0
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 0
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 0
+  year: 0
+settings:
+  noStats: false

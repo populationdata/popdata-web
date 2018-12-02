@@ -2,11 +2,65 @@ title: lesotho
 date: 2016-05-16T20:04:57.000Z
 fr:
   name: Lesotho
-  description: "Pays pauvre enclavé au sein de l'Afrique du Sud, le Lesotho est très touché par l'épidémie de sida. Un adulte sur quatre en est atteint, ce qui bride très fortement le développement du pays.\r\nUne grande partie de la société civile est ainsi sans emploi ou incapable de travailler normalement.\r\nLe gouvernement tente tant bien que mal de prendre en charge les traitements des malades, onéreux, grâce à l'aide extérieure fournie surtout par les Nations Unies.\r\nLe pays a pourtant réussi ces dernières années à relever la tête, avec des taux de croissance économique respectables.\r\nLes atouts du pays, grand château d'eau situé au centre de l'Afrique du Sud, consistent en ses exportations d'énergie hydroélectrique, ses mines de diamants, et enfin ses magnifiques paysages montagneux. Le tourisme est en plein boum, et devrait continuer à croître dans les années à venir."
   officialName: Royaume du Lesotho
+  header: Un sous-développement aggravé par le sida et la dépendance extérieure
+  description: "Pays pauvre enclavé au sein de l'Afrique du Sud, le Lesotho est très touché par l'épidémie de sida. Un adulte sur quatre en est atteint, ce qui bride très fortement le développement du pays.\r\nUne grande partie de la société civile est ainsi sans emploi ou incapable de travailler normalement.\r\nLe gouvernement tente tant bien que mal de prendre en charge les traitements des malades, onéreux, grâce à l'aide extérieure fournie surtout par les Nations Unies.\r\nLe pays a pourtant réussi ces dernières années à relever la tête, avec des taux de croissance économique respectables.\r\nLes atouts du pays, grand château d'eau situé au centre de l'Afrique du Sud, consistent en ses exportations d'énergie hydroélectrique, ses mines de diamants, et enfin ses magnifiques paysages montagneux. Le tourisme est en plein boum, et devrait continuer à croître dans les années à venir."
+  natureOfTheState: Monarchie constitutionnelle
+  headOfState: Roi Letsie III
+  nationalDay: ''
+  demonym: 'Lesothane, Lesothan'
+  officialLanguages: 'Sesotho, anglais'
 en:
   name: Lesotho
-  description: "Pays pauvre enclavé au sein de l'Afrique du Sud, le Lesotho est très touché par l'épidémie de sida. Un adulte sur quatre en est atteint, ce qui bride très fortement le développement du pays.\r\nUne grande partie de la société civile est ainsi sans emploi ou incapable de travailler normalement.\r\nLe gouvernement tente tant bien que mal de prendre en charge les traitements des malades, onéreux, grâce à l'aide extérieure fournie surtout par les Nations Unies.\r\nLe pays a pourtant réussi ces dernières années à relever la tête, avec des taux de croissance économique respectables.\r\nLes atouts du pays, grand château d'eau situé au centre de l'Afrique du Sud, consistent en ses exportations d'énergie hydroélectrique, ses mines de diamants, et enfin ses magnifiques paysages montagneux. Le tourisme est en plein boum, et devrait continuer à croître dans les années à venir."
   officialName: Royaume du Lesotho
-localeName: Muso oa Lesotho
+  header: Un sous-développement aggravé par le sida et la dépendance extérieure
+  description: "Pays pauvre enclavé au sein de l'Afrique du Sud, le Lesotho est très touché par l'épidémie de sida. Un adulte sur quatre en est atteint, ce qui bride très fortement le développement du pays.\r\nUne grande partie de la société civile est ainsi sans emploi ou incapable de travailler normalement.\r\nLe gouvernement tente tant bien que mal de prendre en charge les traitements des malades, onéreux, grâce à l'aide extérieure fournie surtout par les Nations Unies.\r\nLe pays a pourtant réussi ces dernières années à relever la tête, avec des taux de croissance économique respectables.\r\nLes atouts du pays, grand château d'eau situé au centre de l'Afrique du Sud, consistent en ses exportations d'énergie hydroélectrique, ses mines de diamants, et enfin ses magnifiques paysages montagneux. Le tourisme est en plein boum, et devrait continuer à croître dans les années à venir."
+  natureOfTheState: Monarchie constitutionnelle
+  headOfState: Roi Letsie III
+  nationalDay: ''
+  demonym: 'Lesothane, Lesothan'
+  officialLanguages: 'Sesotho, anglais'
 subcontinent: afrique-australe
+localeName: Muso oa Lesotho
+iso2: LS
+iso3: LSO
+population:
+  population: 1924381
+  year: 2015
+  yearlyGrowth: 0.407
+area: 30355
+density: 63.4
+currency: Loti (LSL)
+gdp:
+  gdp: 2.088
+  year: null
+  gdpPerCapita: 1169
+  yearlyGrowth: 2
+lifeExpectancy:
+  lifeExpectancy: 44.52
+  year: 2015
+birthRate:
+  birthRate: 29.45
+  year: 2015
+fertilityRate:
+  fertilityRate: 3.18
+  year: 2015
+deathRate:
+  deathRate: 19.85
+  year: 2015
+  infantDeathRate: 73.36
+  infantDeathRateYear: 2015
+literacyRate:
+  literacyRate: 87.4
+  year: 2011
+hdi:
+  hdi: 0.497
+  year: 2015
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 320000
+  year: 2013
+settings:
+  noStats: false

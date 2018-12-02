@@ -2,11 +2,65 @@ title: tuvalu
 date: 2016-05-16T20:05:29.000Z
 fr:
   name: Tuvalu
-  description: "<p style=\"text-align: justify;\"><strong>Tuvalu</strong> est un archipel polynésien situé au centre de l'océan Pacifique. Il est indépendant depuis 1978. Constitué de neuf atolls coralliens qui sont tous habités, le pays fait dramatiquement face aux changements climatiques mondiaux.\r\nEn effet, le niveau des mers monte et menace de submerger les atolls, qui sont à peine au-dessus du niveau de la mer. La surface des îles (25,63 km2) est en train de diminuer, laissant de moins en moins de place pour vivre. Et force la population à fuir. La population baisse actuellement au rythme de -1,69 %/an.\r\nLa situation est donc potentiellement catastrophique, et de gros travaux sont à entreprendre afin de rehausser le niveau des terres, si le pays ne veut pas être totalement évacué.</p>"
   officialName: État de Tuvalu
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Tuvalu</strong> est un archipel polynésien situé au centre de l'océan Pacifique. Il est indépendant depuis 1978. Constitué de neuf atolls coralliens qui sont tous habités, le pays fait dramatiquement face aux changements climatiques mondiaux.\r\nEn effet, le niveau des mers monte et menace de submerger les atolls, qui sont à peine au-dessus du niveau de la mer. La surface des îles (25,63 km2) est en train de diminuer, laissant de moins en moins de place pour vivre. Et force la population à fuir. La population baisse actuellement au rythme de -1,69 %/an.\r\nLa situation est donc potentiellement catastrophique, et de gros travaux sont à entreprendre afin de rehausser le niveau des terres, si le pays ne veut pas être totalement évacué.</p>"
+  natureOfTheState: Monarchie constitutionnelle
+  headOfState: Reine Élisabeth II ; Gouverneur général Iakoba Italeli
+  nationalDay: ''
+  demonym: Tuvaluan
+  officialLanguages: 'Tuvaluan, anglais'
 en:
   name: Tuvalu
-  description: "<p style=\"text-align: justify;\"><strong>Tuvalu</strong> est un archipel polynésien situé au centre de l'océan Pacifique. Il est indépendant depuis 1978. Constitué de neuf atolls coralliens qui sont tous habités, le pays fait dramatiquement face aux changements climatiques mondiaux.\r\nEn effet, le niveau des mers monte et menace de submerger les atolls, qui sont à peine au-dessus du niveau de la mer. La surface des îles est en train de diminuer, laissant de moins en moins de place pour vivre. Et la population continue de grossir, au rythme de +1,72%/an.\r\nLa situation est donc potentiellement catastrophique, et de gros travaux sont à entreprendre afin de rehausser le niveau des terres, si le pays ne veut pas être évacué.</p>"
   officialName: tat de Tuvalu
-localeName: Tuvalu
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Tuvalu</strong> est un archipel polynésien situé au centre de l'océan Pacifique. Il est indépendant depuis 1978. Constitué de neuf atolls coralliens qui sont tous habités, le pays fait dramatiquement face aux changements climatiques mondiaux.\r\nEn effet, le niveau des mers monte et menace de submerger les atolls, qui sont à peine au-dessus du niveau de la mer. La surface des îles est en train de diminuer, laissant de moins en moins de place pour vivre. Et la population continue de grossir, au rythme de +1,72%/an.\r\nLa situation est donc potentiellement catastrophique, et de gros travaux sont à entreprendre afin de rehausser le niveau des terres, si le pays ne veut pas être évacué.</p>"
+  natureOfTheState: Monarchie constitutionnelle
+  headOfState: Reine Élisabeth II ; Gouverneur général Iakoba Italeli
+  nationalDay: ''
+  demonym: Tuvaluan
+  officialLanguages: 'Tuvaluan, anglais'
 subcontinent: oceanie
+localeName: Tuvalu
+iso2: TV
+iso3: TUV
+population:
+  population: 10100
+  year: 2016
+  yearlyGrowth: -1.69
+area: 26
+density: 388.46
+currency: Dollar australien ($ AUD)
+gdp:
+  gdp: 0.038
+  year: null
+  gdpPerCapita: 3509
+  yearlyGrowth: 1.1
+lifeExpectancy:
+  lifeExpectancy: 65.47
+  year: 2013
+birthRate:
+  birthRate: 23.56
+  year: 2013
+fertilityRate:
+  fertilityRate: 3.06
+  year: 2013
+deathRate:
+  deathRate: 8.97
+  year: 2013
+  infantDeathRate: 32.61
+  infantDeathRateYear: 2013
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 1000
+  year: 2014
+settings:
+  noStats: false

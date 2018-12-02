@@ -2,11 +2,65 @@ title: nioue
 date: 2016-05-16T20:05:09.000Z
 fr:
   name: Nioué
-  description: "Nioué (aussi appelé Niue) est un atoll corallien particulièrement isolé. A plus de 2400 km de la Nouvelle-Zélande, avec lequel le pays est en libre association depuis 1974, l'île ne survit que grâce aux aides financières de son \"grand-frère\".\r\nNiue ne manque pourtant pas de ressources."
   officialName: Nioué
+  header: Un pays isolé et vidé de sa population
+  description: "Nioué (aussi appelé Niue) est un atoll corallien particulièrement isolé. A plus de 2400 km de la Nouvelle-Zélande, avec lequel le pays est en libre association depuis 1974, l'île ne survit que grâce aux aides financières de son \"grand-frère\".\r\nNiue ne manque pourtant pas de ressources."
+  natureOfTheState: Monarchie parlementaire
+  headOfState: 'Reine Elisabeth II, Haut-commissaire : Jerry Mateparae'
+  nationalDay: ''
+  demonym: 'Niuéenne, Niuéen'
+  officialLanguages: 'Niuéen, anglais'
 en:
   name: Niue
-  description: "Nioué (aussi appelé Niue) est un atoll corallien particulièrement isolé. A plus de 2400 km de la Nouvelle-Zélande, avec lequel le pays est en libre association depuis 1974, l'île ne survit que grâce aux aides financières de son \"grand-frère\".\r\nNiue ne manque pourtant pas de ressources."
   officialName: Nioué
-localeName: Niu Fekai
+  header: Un pays isolé et vidé de sa population
+  description: "Nioué (aussi appelé Niue) est un atoll corallien particulièrement isolé. A plus de 2400 km de la Nouvelle-Zélande, avec lequel le pays est en libre association depuis 1974, l'île ne survit que grâce aux aides financières de son \"grand-frère\".\r\nNiue ne manque pourtant pas de ressources."
+  natureOfTheState: Monarchie parlementaire
+  headOfState: 'Reine Elisabeth II, Haut-commissaire : Jerry Mateparae'
+  nationalDay: ''
+  demonym: 'Niuéenne, Niuéen'
+  officialLanguages: 'Niuéen, anglais'
 subcontinent: oceanie
+localeName: Niu Fekai
+iso2: NU
+iso3: NIU
+population:
+  population: 1229
+  year: 2013
+  yearlyGrowth: -0.032
+area: 260
+density: 4.73
+currency: Dollar néo-zélandais (NZD)
+gdp:
+  gdp: 0.01
+  year: null
+  gdpPerCapita: 5436
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 69.5
+  year: 2005
+birthRate:
+  birthRate: 0
+  year: 0
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 0
+  year: 0
+  infantDeathRate: 17.5
+  infantDeathRateYear: 2005
+literacyRate:
+  literacyRate: 98
+  year: 2005
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 7000
+  year: 2014
+settings:
+  noStats: false

@@ -2,11 +2,65 @@ title: bermudes
 date: 2016-05-16T20:04:26.000Z
 fr:
   name: Bermudes
-  description: "Les Bermudes sont un paradis fiscal et un paradis touristique. Les deux vont de paire dans le domaine du luxe, cible privilégiée des autorités. Le petit archipel est donc riche, très riche, et peine à collaborer avec les autres pays en matière de transparence fiscale, même si quelques avancées ont vu le jour ces dernières années.\r\nPourtant, il fait complètement partie du Royaume-Uni, dont il est un territoire d'outre-mer. Les politiciens anglais ont donc bon dos de crier sur tous les toits leurs hypocrites apostrophes envers les paradis fiscaux, ils en abritent plus d'un ! Et le Royaume-Uni est loin d'être un cas unique...\r\nIl faut dire que les ressources naturelles sont limités, ainsi que la place. L'archipel est entièrement urbanisé, la densité atteint presque 1300 habitants au km2.\r\nPourtant, la population continue à croître, ce qui commence à poser des problèmes sérieux en matière de ressources disponibles localement, dont l'eau douce, que l'on ne trouve pas sur place."
   officialName: Bermudes
+  header: Paradis fiscal et touristique
+  description: "Les Bermudes sont un paradis fiscal et un paradis touristique. Les deux vont de paire dans le domaine du luxe, cible privilégiée des autorités. Le petit archipel est donc riche, très riche, et peine à collaborer avec les autres pays en matière de transparence fiscale, même si quelques avancées ont vu le jour ces dernières années.\r\nPourtant, il fait complètement partie du Royaume-Uni, dont il est un territoire d'outre-mer. Les politiciens anglais ont donc bon dos de crier sur tous les toits leurs hypocrites apostrophes envers les paradis fiscaux, ils en abritent plus d'un ! Et le Royaume-Uni est loin d'être un cas unique...\r\nIl faut dire que les ressources naturelles sont limités, ainsi que la place. L'archipel est entièrement urbanisé, la densité atteint presque 1300 habitants au km2.\r\nPourtant, la population continue à croître, ce qui commence à poser des problèmes sérieux en matière de ressources disponibles localement, dont l'eau douce, que l'on ne trouve pas sur place."
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine lisabeth II
+  nationalDay: 24 mai
+  demonym: 'Bermudienne, Bermudien'
+  officialLanguages: Anglais
 en:
   name: Bermuda
-  description: "Les Bermudes sont un paradis fiscal et un paradis touristique. Les deux vont de paire dans le domaine du luxe, cible privilégiée des autorités. Le petit archipel est donc riche, très riche, et peine à collaborer avec les autres pays en matière de transparence fiscale, même si quelques avancées ont vu le jour ces dernières années.\r\nPourtant, il fait complètement partie du Royaume-Uni, dont il est un territoire d'outre-mer. Les politiciens anglais ont donc bon dos de crier sur tous les toits leurs hypocrites apostrophes envers les paradis fiscaux, ils en abritent plus d'un ! Et le Royaume-Uni est loin d'être un cas unique...\r\nIl faut dire que les ressources naturelles sont limités, ainsi que la place. L'archipel est entièrement urbanisé, la densité atteint presque 1300 habitants au km2.\r\nPourtant, la population continue à croître, ce qui commence à poser des problèmes sérieux en matière de ressources disponibles localement, dont l'eau douce, que l'on ne trouve pas sur place."
   officialName: Bermudes
-localeName: Bermuda
+  header: Paradis fiscal et touristique
+  description: "Les Bermudes sont un paradis fiscal et un paradis touristique. Les deux vont de paire dans le domaine du luxe, cible privilégiée des autorités. Le petit archipel est donc riche, très riche, et peine à collaborer avec les autres pays en matière de transparence fiscale, même si quelques avancées ont vu le jour ces dernières années.\r\nPourtant, il fait complètement partie du Royaume-Uni, dont il est un territoire d'outre-mer. Les politiciens anglais ont donc bon dos de crier sur tous les toits leurs hypocrites apostrophes envers les paradis fiscaux, ils en abritent plus d'un ! Et le Royaume-Uni est loin d'être un cas unique...\r\nIl faut dire que les ressources naturelles sont limités, ainsi que la place. L'archipel est entièrement urbanisé, la densité atteint presque 1300 habitants au km2.\r\nPourtant, la population continue à croître, ce qui commence à poser des problèmes sérieux en matière de ressources disponibles localement, dont l'eau douce, que l'on ne trouve pas sur place."
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine lisabeth II
+  nationalDay: 24 mai
+  demonym: 'Bermudienne, Bermudien'
+  officialLanguages: Anglais
 subcontinent: amerique-du-nord
+localeName: Bermuda
+iso2: BM
+iso3: BMU
+population:
+  population: 68679
+  year: 2011
+  yearlyGrowth: 0.62
+area: 53
+density: 1288.08
+currency: Dollar Bermudien (BMD)
+gdp:
+  gdp: 5.85
+  year: null
+  gdpPerCapita: 91477
+  yearlyGrowth: 4.6
+lifeExpectancy:
+  lifeExpectancy: 80.6
+  year: 2010
+birthRate:
+  birthRate: 11.47
+  year: 2010
+fertilityRate:
+  fertilityRate: 1.98
+  year: 2010
+deathRate:
+  deathRate: 7.43
+  year: 2010
+  infantDeathRate: 2.46
+  infantDeathRateYear: 2010
+literacyRate:
+  literacyRate: 100
+  year: 2010
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 220000
+  year: 2015
+settings:
+  noStats: false

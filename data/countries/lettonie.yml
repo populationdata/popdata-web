@@ -2,11 +2,65 @@ title: lettonie
 date: 2016-05-16T20:04:58.000Z
 fr:
   name: Lettonie
-  description: "<p style=\"text-align: justify;\">Après des années d'euphorie économique et de croissance à 10 %, liées au rattrapage du pays sur le niveau de vie moyen européen, la crise mondiale a fait subir ses pires effets en Lettonie.\r\nEn effet, le chômage était fortement remonté (18,4 % au 3è trimestre 2009), les investissements publics ont fondu, et les pressions internationales pour éviter une banqueroute du pays et réduire considérablement les salaires, les retraites et le nombre d'emplois publics, ont dûrement touché les populations.\r\nDans un tel climat, la démographie, souvent sensible au climat économique, est en baisse continue.\r\nDe nombreux jeunes partent à l'étranger chercher du travail, et le taux de fécondité est particulièrement bas, à 1,31 enfant/femme.\r\nComme l'économie repose en grande partie sur la consommations intérieure, la baisse de population risque de ne pas aider à améliorer la situation.\r\nDepuis 2 ans le pays est à nouveau sur le chemin de la croissance économique, l'une des plus fortes de l'Union européenne, mais cela ne suffit pas encore à faire remonter les courbes démographiques.</p>"
   officialName: République de Lettonie
+  header: La crise touche dûrement les populations
+  description: "<p style=\"text-align: justify;\">Après des années d'euphorie économique et de croissance à 10 %, liées au rattrapage du pays sur le niveau de vie moyen européen, la crise mondiale a fait subir ses pires effets en Lettonie.\r\nEn effet, le chômage était fortement remonté (18,4 % au 3è trimestre 2009), les investissements publics ont fondu, et les pressions internationales pour éviter une banqueroute du pays et réduire considérablement les salaires, les retraites et le nombre d'emplois publics, ont dûrement touché les populations.\r\nDans un tel climat, la démographie, souvent sensible au climat économique, est en baisse continue.\r\nDe nombreux jeunes partent à l'étranger chercher du travail, et le taux de fécondité est particulièrement bas, à 1,31 enfant/femme.\r\nComme l'économie repose en grande partie sur la consommations intérieure, la baisse de population risque de ne pas aider à améliorer la situation.\r\nDepuis 2 ans le pays est à nouveau sur le chemin de la croissance économique, l'une des plus fortes de l'Union européenne, mais cela ne suffit pas encore à faire remonter les courbes démographiques.</p>"
+  natureOfTheState: République parlementaire
+  headOfState: Président Andris Brzi
+  nationalDay: ''
+  demonym: 'Lettonne, Letton'
+  officialLanguages: Letton
 en:
   name: Latvia
-  description: "<p style=\"text-align: justify;\">Après des années d'euphorie économique et de croissance à 10 %, liées au rattrapage du pays sur le niveau de vie moyen européen, la crise mondiale a fait subir ses pires effets en Lettonie.\r\nEn effet, le chômage était fortement remonté (18,4 % au 3è trimestre 2009), les investissements publics ont fondu, et les pressions internationales pour éviter une banqueroute du pays et réduire considérablement les salaires, les retraites et le nombre d'emplois publics, ont dûrement touché les populations.\r\nDans un tel climat, la démographie, souvent sensible au climat économique, est en baisse continue.\r\nDe nombreux jeunes partent à l'étranger chercher du travail, et le taux de fécondité est particulièrement bas, à 1,31 enfant/femme.\r\nComme l'économie repose en grande partie sur la consommations intérieure, la baisse de population risque de ne pas aider à améliorer la situation.\r\nDepuis 2 ans le pays est à nouveau sur le chemin de la croissance économique, l'une des plus fortes de l'Union européenne, mais cela ne suffit pas encore à faire remonter les courbes démographiques.</p>"
   officialName: République de Lettonie
-localeName: Latvijas Republika
+  header: La crise touche dûrement les populations
+  description: "<p style=\"text-align: justify;\">Après des années d'euphorie économique et de croissance à 10 %, liées au rattrapage du pays sur le niveau de vie moyen européen, la crise mondiale a fait subir ses pires effets en Lettonie.\r\nEn effet, le chômage était fortement remonté (18,4 % au 3è trimestre 2009), les investissements publics ont fondu, et les pressions internationales pour éviter une banqueroute du pays et réduire considérablement les salaires, les retraites et le nombre d'emplois publics, ont dûrement touché les populations.\r\nDans un tel climat, la démographie, souvent sensible au climat économique, est en baisse continue.\r\nDe nombreux jeunes partent à l'étranger chercher du travail, et le taux de fécondité est particulièrement bas, à 1,31 enfant/femme.\r\nComme l'économie repose en grande partie sur la consommations intérieure, la baisse de population risque de ne pas aider à améliorer la situation.\r\nDepuis 2 ans le pays est à nouveau sur le chemin de la croissance économique, l'une des plus fortes de l'Union européenne, mais cela ne suffit pas encore à faire remonter les courbes démographiques.</p>"
+  natureOfTheState: République parlementaire
+  headOfState: Président Andris Brzi
+  nationalDay: ''
+  demonym: 'Lettonne, Letton'
+  officialLanguages: Letton
 subcontinent: union-europeenne
+localeName: Latvijas Republika
+iso2: LV
+iso3: LVA
+population:
+  population: 2028200
+  year: 2013
+  yearlyGrowth: -0.57
+area: 64589
+density: 31.4
+currency: Lats letton (LVL)
+gdp:
+  gdp: 31.921
+  year: null
+  gdpPerCapita: 13316
+  yearlyGrowth: 2.4
+lifeExpectancy:
+  lifeExpectancy: 72.42
+  year: 2010
+birthRate:
+  birthRate: 9.9
+  year: 2010
+fertilityRate:
+  fertilityRate: 1.31
+  year: 2010
+deathRate:
+  deathRate: 13.6
+  year: 2010
+  infantDeathRate: 8.59
+  infantDeathRateYear: 2010
+literacyRate:
+  literacyRate: 99.8
+  year: 2007
+hdi:
+  hdi: 0.83
+  year: 2015
+epi:
+  epi: 72.5
+  year: 2010
+tourism:
+  tourism: 2024000
+  year: 2015
+settings:
+  noStats: false

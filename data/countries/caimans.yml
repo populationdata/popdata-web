@@ -2,11 +2,65 @@ title: caimans
 date: 2016-05-16T20:04:47.000Z
 fr:
   name: Caïmans
-  description: "<p style=\"text-align: justify;\">Les îles <strong>Caïmans</strong>, territoire d'outre-mer du Royaume-Uni, sont un véritable paradis touristique de luxe, ainsi qu'un paradis fiscal.\r\nAbritant un grand nombre de banques et d'établissements financiers qui proposent à de riches clients de partout dans le monde de recycler, sinon de blanchir, en secret, de l'argent, l'archipel est placé sur une liste grise des paradis fiscaux de l'OCDE.\r\nLe Royaume-Uni pourrait pourtant y mettre bon ordre rapidement, preuve que la volonté politique réelle d'éradiquer cette forme de délinquance est absente malgré les discours.\r\nL'archipel voit sa population augmenter très fortement année après année.\r\nSon taux de croissance est digne des pays les plus sous-développés, alors même qu'au contraire, le territoire est l'un des mieux lotis financièrement et l'un des plus développés dans toutes les Caraïbes.</p>"
   officialName: Îles Caïmans
+  header: Un paradis touristique et fiscal
+  description: "<p style=\"text-align: justify;\">Les îles <strong>Caïmans</strong>, territoire d'outre-mer du Royaume-Uni, sont un véritable paradis touristique de luxe, ainsi qu'un paradis fiscal.\r\nAbritant un grand nombre de banques et d'établissements financiers qui proposent à de riches clients de partout dans le monde de recycler, sinon de blanchir, en secret, de l'argent, l'archipel est placé sur une liste grise des paradis fiscaux de l'OCDE.\r\nLe Royaume-Uni pourrait pourtant y mettre bon ordre rapidement, preuve que la volonté politique réelle d'éradiquer cette forme de délinquance est absente malgré les discours.\r\nL'archipel voit sa population augmenter très fortement année après année.\r\nSon taux de croissance est digne des pays les plus sous-développés, alors même qu'au contraire, le territoire est l'un des mieux lotis financièrement et l'un des plus développés dans toutes les Caraïbes.</p>"
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine lisabeth II
+  nationalDay: ''
+  demonym: 'Caïmanienne, Caïmanien'
+  officialLanguages: Anglais
 en:
   name: Cayman Islands
-  description: "<p style=\"text-align: justify;\">Les îles <strong>Caïmans</strong>, territoire d'outre-mer du Royaume-Uni, sont un véritable paradis touristique de luxe, ainsi qu'un paradis fiscal.\r\nAbritant un grand nombre de banques et d'établissements financiers qui proposent à de riches clients de partout dans le monde de recycler, sinon de blanchir, en secret, de l'argent, l'archipel est placé sur une liste grise des paradis fiscaux de l'OCDE.\r\nLe Royaume-Uni pourrait pourtant y mettre bon ordre rapidement, preuve que la volonté politique réelle d'éradiquer cette forme de délinquance est absente malgré les discours.\r\nL'archipel voit sa population augmenter très fortement année après année.\r\nSon taux de croissance est digne des pays les plus sous-développés, alors même qu'au contraire, le territoire est l'un des mieux lotis financièrement et l'un des plus développés dans toutes les Caraïbes.</p>"
   officialName: Îles Caïmans
-localeName: Cayman Islands
+  header: Un paradis touristique et fiscal
+  description: "<p style=\"text-align: justify;\">Les îles <strong>Caïmans</strong>, territoire d'outre-mer du Royaume-Uni, sont un véritable paradis touristique de luxe, ainsi qu'un paradis fiscal.\r\nAbritant un grand nombre de banques et d'établissements financiers qui proposent à de riches clients de partout dans le monde de recycler, sinon de blanchir, en secret, de l'argent, l'archipel est placé sur une liste grise des paradis fiscaux de l'OCDE.\r\nLe Royaume-Uni pourrait pourtant y mettre bon ordre rapidement, preuve que la volonté politique réelle d'éradiquer cette forme de délinquance est absente malgré les discours.\r\nL'archipel voit sa population augmenter très fortement année après année.\r\nSon taux de croissance est digne des pays les plus sous-développés, alors même qu'au contraire, le territoire est l'un des mieux lotis financièrement et l'un des plus développés dans toutes les Caraïbes.</p>"
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine lisabeth II
+  nationalDay: ''
+  demonym: 'Caïmanienne, Caïmanien'
+  officialLanguages: Anglais
 subcontinent: antilles
+localeName: Cayman Islands
+iso2: KY
+iso3: CYM
+population:
+  population: 61306
+  year: 2010
+  yearlyGrowth: 4.53
+area: 264
+density: 232.22
+currency: Dollar des les Caïmans (KYD)
+gdp:
+  gdp: 2.704
+  year: null
+  gdpPerCapita: 48300
+  yearlyGrowth: 5.3
+lifeExpectancy:
+  lifeExpectancy: 80.57
+  year: 2010
+birthRate:
+  birthRate: 14.2
+  year: 2008
+fertilityRate:
+  fertilityRate: 1.88
+  year: 2010
+deathRate:
+  deathRate: 3
+  year: 2008
+  infantDeathRate: 6.78
+  infantDeathRateYear: 2010
+literacyRate:
+  literacyRate: 98.9
+  year: 2007
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 385000
+  year: 2015
+settings:
+  noStats: false

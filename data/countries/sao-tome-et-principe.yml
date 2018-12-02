@@ -2,11 +2,65 @@ title: sao-tome-et-principe
 date: 2016-05-16T20:05:20.000Z
 fr:
   name: Sao Tomé-et-Principe
-  description: "<strong>Sao Tomé-et-Principe</strong> est un archipel de relief volcanique et de climat équatorial situé au coeur du golfe de Guinée, et est l'un des plus petits pays d'Afrique.\r\nIl possède des ressources pétrolières encore peu exploitées et qui devraient l'aider à sortir du sous-développement chronique."
   officialName: République démocratique de Sao Tomé-et-Principe
+  header: ''
+  description: "<strong>Sao Tomé-et-Principe</strong> est un archipel de relief volcanique et de climat équatorial situé au coeur du golfe de Guinée, et est l'un des plus petits pays d'Afrique.\r\nIl possède des ressources pétrolières encore peu exploitées et qui devraient l'aider à sortir du sous-développement chronique."
+  natureOfTheState: République
+  headOfState: Président Manuel Pinto da Costa
+  nationalDay: ''
+  demonym: 'Santoméenne, Santoméen'
+  officialLanguages: Portugais
 en:
   name: São Tomé and Príncipe
-  description: "<strong>Sao Tomé-et-Principe</strong> est un archipel de relief volcanique et de climat équatorial situé au coeur du golfe de Guinée, et est l'un des plus petits pays d'Afrique.\r\nIl possède des ressources pétrolières encore peu exploitées et qui devraient l'aider à sortir du sous-développement chronique."
   officialName: République démocratique de Sao Tomé-et-Principe
-localeName: República Democrática de São Tomé e Príncipe
+  header: ''
+  description: "<strong>Sao Tomé-et-Principe</strong> est un archipel de relief volcanique et de climat équatorial situé au coeur du golfe de Guinée, et est l'un des plus petits pays d'Afrique.\r\nIl possède des ressources pétrolières encore peu exploitées et qui devraient l'aider à sortir du sous-développement chronique."
+  natureOfTheState: République
+  headOfState: Président Manuel Pinto da Costa
+  nationalDay: ''
+  demonym: 'Santoméenne, Santoméen'
+  officialLanguages: Portugais
 subcontinent: afrique-sub-saharienne
+localeName: República Democrática de São Tomé e Príncipe
+iso2: ST
+iso3: STP
+population:
+  population: 199848
+  year: 2014
+  yearlyGrowth: 3.28
+area: 1001
+density: 199.65
+currency: Dobra (STD)
+gdp:
+  gdp: 0.335
+  year: null
+  gdpPerCapita: 1406
+  yearlyGrowth: 4.2
+lifeExpectancy:
+  lifeExpectancy: 63.86
+  year: 2013
+birthRate:
+  birthRate: 36.05
+  year: 2013
+fertilityRate:
+  fertilityRate: 4.81
+  year: 2013
+deathRate:
+  deathRate: 7.68
+  year: 2013
+  infantDeathRate: 50.48
+  infantDeathRateYear: 2013
+literacyRate:
+  literacyRate: 87.9
+  year: 2007
+hdi:
+  hdi: 0.574
+  year: 2015
+epi:
+  epi: 57.3
+  year: 2010
+tourism:
+  tourism: 12000
+  year: 2011
+settings:
+  noStats: false

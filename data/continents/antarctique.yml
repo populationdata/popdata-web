@@ -6,3 +6,9 @@ en:
   name: Antarctica
 gdpYear: 0
 numberOfTimeZones: 24
+lifeExpectancy: 0
+birthRate: 0
+deathRate: 0
+infantMortalityRate: 0
+numberOfLanguagesSpoken: 0
+surroundedBy: 'Océan Atlantique, Océan Indien, Océan Pacifique'

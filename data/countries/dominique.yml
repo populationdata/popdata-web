@@ -2,11 +2,65 @@ title: dominique
 date: 2016-05-16T20:04:35.000Z
 fr:
   name: Dominique
-  description: "<p style=\"text-align: justify;\">La <strong>Dominique</strong> est une île paradisiaque comme on en rencontre souvent dans les Caraïbes. Elle est située à mi-chemin entre la Martinique et la Guadeloupe, d'où la lutte incessante pendant des siècles entre Français et Anglais pour s'approprier ce territoire.\r\nC'est là que l'on retrouve le dernier endroit où rencontrer des amérindiens Caraïbes (estimés à 3 000 environ), qui avaient colonisé toutes les îles de la région ou presque avant l'arrivée des Européens. Ces derniers ont véritablement exterminé les habitants lorsqu'ils sont arrivés, comme ils l'ont fait dans bien des endroits colonisés sur la planète.\r\nL'île est désormais indépendante du colonisateur britannique, et vit grâce à l'agriculture et le tourisme. Une économie fragile qui est dépendante de l'extérieur, ce qui pousse régulièrement de nombreux jeunes à partir tenter leur chance à l'étranger, vidant le pays d'une partie de ses forces vives.</p>"
   officialName: Communauté de la Dominique
+  header: 'Coincée entre Français et Anglais, la Dominique se cherche une identité'
+  description: "<p style=\"text-align: justify;\">La <strong>Dominique</strong> est une île paradisiaque comme on en rencontre souvent dans les Caraïbes. Elle est située à mi-chemin entre la Martinique et la Guadeloupe, d'où la lutte incessante pendant des siècles entre Français et Anglais pour s'approprier ce territoire.\r\nC'est là que l'on retrouve le dernier endroit où rencontrer des amérindiens Caraïbes (estimés à 3 000 environ), qui avaient colonisé toutes les îles de la région ou presque avant l'arrivée des Européens. Ces derniers ont véritablement exterminé les habitants lorsqu'ils sont arrivés, comme ils l'ont fait dans bien des endroits colonisés sur la planète.\r\nL'île est désormais indépendante du colonisateur britannique, et vit grâce à l'agriculture et le tourisme. Une économie fragile qui est dépendante de l'extérieur, ce qui pousse régulièrement de nombreux jeunes à partir tenter leur chance à l'étranger, vidant le pays d'une partie de ses forces vives.</p>"
+  natureOfTheState: République
+  headOfState: Président Charles Savarin
+  nationalDay: 3 novembre (indépendance de 1978)
+  demonym: 'Dominiquaise, Dominiquais'
+  officialLanguages: 'Anglais (parlé : créole à base de français à 80%)'
 en:
   name: Dominica
-  description: "<p style=\"text-align: justify;\">La <strong>Dominique</strong> est une île paradisiaque comme on en rencontre souvent dans les Caraïbes. Elle est située à mi-chemin entre la Martinique et la Guadeloupe, d'où la lutte incessante pendant des siècles entre Français et Anglais pour s'approprier ce territoire.\r\nC'est là que l'on retrouve le dernier endroit où rencontrer des amérindiens Caraïbes (estimés à 3 000 environ), qui avaient colonisé toutes les îles de la région ou presque avant l'arrivée des Européens. Ces derniers ont véritablement exterminé les habitants lorsqu'ils sont arrivés, comme ils l'ont fait dans bien des endroits colonisés sur la planète.\r\nL'île est désormais indépendante du colonisateur britannique, et vit grâce à l'agriculture et le tourisme. Une économie fragile qui est dépendante de l'extérieur, ce qui pousse régulièrement de nombreux jeunes à partir tenter leur chance à l'étranger, vidant le pays d'une partie de ses forces vives.</p>"
   officialName: Communauté de la Dominique
-localeName: Commonwealth of Dominica
+  header: 'Coincée entre Français et Anglais, la Dominique se cherche une identité'
+  description: "<p style=\"text-align: justify;\">La <strong>Dominique</strong> est une île paradisiaque comme on en rencontre souvent dans les Caraïbes. Elle est située à mi-chemin entre la Martinique et la Guadeloupe, d'où la lutte incessante pendant des siècles entre Français et Anglais pour s'approprier ce territoire.\r\nC'est là que l'on retrouve le dernier endroit où rencontrer des amérindiens Caraïbes (estimés à 3 000 environ), qui avaient colonisé toutes les îles de la région ou presque avant l'arrivée des Européens. Ces derniers ont véritablement exterminé les habitants lorsqu'ils sont arrivés, comme ils l'ont fait dans bien des endroits colonisés sur la planète.\r\nL'île est désormais indépendante du colonisateur britannique, et vit grâce à l'agriculture et le tourisme. Une économie fragile qui est dépendante de l'extérieur, ce qui pousse régulièrement de nombreux jeunes à partir tenter leur chance à l'étranger, vidant le pays d'une partie de ses forces vives.</p>"
+  natureOfTheState: République
+  headOfState: Président Charles Savarin
+  nationalDay: 3 novembre (indépendance de 1978)
+  demonym: 'Dominiquaise, Dominiquais'
+  officialLanguages: 'Anglais (parlé : créole à base de français à 80%)'
 subcontinent: antilles
+localeName: Commonwealth of Dominica
+iso2: DM
+iso3: DMA
+population:
+  population: 72813
+  year: 2010
+  yearlyGrowth: 0.21
+area: 754
+density: 96.57
+currency: Dollar de la Caraïbe orientale (XCD)
+gdp:
+  gdp: 0.538
+  year: null
+  gdpPerCapita: 5082
+  yearlyGrowth: 2.4
+lifeExpectancy:
+  lifeExpectancy: 75.77
+  year: 2010
+birthRate:
+  birthRate: 15.68
+  year: 2010
+fertilityRate:
+  fertilityRate: 2.08
+  year: 2010
+deathRate:
+  deathRate: 8.12
+  year: 2010
+  infantDeathRate: 13.2
+  infantDeathRateYear: 2010
+literacyRate:
+  literacyRate: 94
+  year: 2003
+hdi:
+  hdi: 0.726
+  year: 2015
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 74000
+  year: 2015
+settings:
+  noStats: false

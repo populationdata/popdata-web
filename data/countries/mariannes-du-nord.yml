@@ -2,19 +2,73 @@ title: mariannes-du-nord
 date: 2016-05-16T20:04:48.000Z
 fr:
   name: Mariannes du Nord
+  officialName: Iles Mariannes du Nord
+  header: ''
   description: >-
     Les îles Mariannes du Nord font partie de l'archipel des Mariannes dans
     locéan Pacifique, au nord de Guam. Elles forment un commonwealth américain,
     en partenariat avec les tats-Unis dont elles sont un territoire organisé non
     incorporé.
-  officialName: Iles Mariannes du Nord
+  natureOfTheState: Commonwealth des tats-Unis
+  headOfState: Président Barack Obama ; Gouverneur Eloy Inos
+  nationalDay: ''
+  demonym: ''
+  officialLanguages: 'Anglais, chamorro, carolinien'
 en:
   name: Northern Mariana Islands
+  officialName: Iles Mariannes du Nord
+  header: ''
   description: >-
     Les îles Mariannes du Nord font partie de l'archipel des Mariannes dans
     locéan Pacifique, au nord de Guam. Elles forment un commonwealth américain,
     en partenariat avec les tats-Unis dont elles sont un territoire organisé non
     incorporé.
-  officialName: Iles Mariannes du Nord
-localeName: Sankattan Siha Na Islas Mariånas
+  natureOfTheState: Commonwealth des tats-Unis
+  headOfState: Président Barack Obama ; Gouverneur Eloy Inos
+  nationalDay: ''
+  demonym: ''
+  officialLanguages: 'Anglais, chamorro, carolinien'
 subcontinent: oceanie
+localeName: Sankattan Siha Na Islas Mariånas
+iso2: MP
+iso3: MNP
+population:
+  population: 53883
+  year: 2010
+  yearlyGrowth: -2.21
+area: 464
+density: 116.13
+currency: Dollar des Etats-Unis ($USD)
+gdp:
+  gdp: 0.701
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 5.2
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 19.27
+  year: 2007
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 2.29
+  year: 2007
+  infantDeathRate: 6.98
+  infantDeathRateYear: 2006
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 479000
+  year: 2015
+settings:
+  noStats: false

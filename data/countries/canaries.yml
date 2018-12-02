@@ -2,11 +2,65 @@ title: canaries
 date: 2016-05-16T20:05:40.000Z
 fr:
   name: Canaries
-  description: "<p style=\"text-align: justify;\">Les <strong>Canaries</strong>, ou îles Canaries est une <a href=\"https://www.populationdata.net/cartes/espagne-communautes-autonomes-regions/\">communauté autonome espagnole</a>. L'archipel est situé dans l'atlantique est, à 150\_km à l'ouest du Maroc et à plus de 1\_000\_km du sud de l'<a href=\"https://www.populationdata.net/pays/espagne/\">Espagne</a>.\r\nLes deux plus grandes villes de l'archipel alternent tous les 4 ans le rôle de capitale de la communauté autonome.</p>"
   officialName: Îles Canaries
+  header: ''
+  description: "<p style=\"text-align: justify;\">Les <strong>Canaries</strong>, ou îles Canaries est une <a href=\"https://www.populationdata.net/cartes/espagne-communautes-autonomes-regions/\">communauté autonome espagnole</a>. L'archipel est situé dans l'atlantique est, à 150\_km à l'ouest du Maroc et à plus de 1\_000\_km du sud de l'<a href=\"https://www.populationdata.net/pays/espagne/\">Espagne</a>.\r\nLes deux plus grandes villes de l'archipel alternent tous les 4 ans le rôle de capitale de la communauté autonome.</p>"
+  natureOfTheState: Communauté autonome d'Espagne
+  headOfState: Roi Felipe VI
+  nationalDay: 12 octobre
+  demonym: 'Canarienne, Canarien. Espagnole, Espagnol'
+  officialLanguages: Espagnol
 en:
   name: Canary Islands
-  description: "<p style=\"text-align: justify;\">Les <strong>Canaries</strong>, ou îles Canaries est une <a href=\"https://www.populationdata.net/cartes/espagne-communautes-autonomes-regions/\">communauté autonome espagnole</a>. L'archipel est situé dans l'atlantique est, à 150\_km à l'ouest du Maroc et à plus de 1\_000\_km du sud de l'<a href=\"https://www.populationdata.net/pays/espagne/\">Espagne</a>.\r\nLes deux plus grandes villes de l'archipel alternent tous les 4 ans le rôle de capitale de la communauté autonome.</p>"
   officialName: Canary Islands
-localeName: Islas Canarias
+  header: ''
+  description: "<p style=\"text-align: justify;\">Les <strong>Canaries</strong>, ou îles Canaries est une <a href=\"https://www.populationdata.net/cartes/espagne-communautes-autonomes-regions/\">communauté autonome espagnole</a>. L'archipel est situé dans l'atlantique est, à 150\_km à l'ouest du Maroc et à plus de 1\_000\_km du sud de l'<a href=\"https://www.populationdata.net/pays/espagne/\">Espagne</a>.\r\nLes deux plus grandes villes de l'archipel alternent tous les 4 ans le rôle de capitale de la communauté autonome.</p>"
+  natureOfTheState: Communauté autonome d'Espagne
+  headOfState: King Felipe VI
+  nationalDay: 12 octobre
+  demonym: 'Canarienne, Canarien. Espagnole, Espagnol'
+  officialLanguages: Spanish
 subcontinent: afrique-du-nord
+localeName: Islas Canarias
+iso2: IC
+iso3: ''
+population:
+  population: 2101924
+  year: 2016
+  yearlyGrowth: 1.57
+area: 7447
+density: 282.25
+currency: Euro (€ EUR)
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 8.22
+  year: 2012
+fertilityRate:
+  fertilityRate: 3.13
+  year: 2012
+deathRate:
+  deathRate: 6.73
+  year: 2012
+  infantDeathRate: 0
+  infantDeathRateYear: 0
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 0
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 0
+  year: 0
+settings:
+  noStats: false

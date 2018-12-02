@@ -2,11 +2,69 @@ title: anguilla
 date: 2016-05-16T20:04:19.000Z
 fr:
   name: Anguilla
-  description: "Le tourisme est la principale activité de ce tout petit archipel qui compte à peine plus de 14 000 habitants. Proche des Etats-Unis, il est situé en face de Saint-Martin, l'île que se partagent la France et les Pays-Bas.\r\nIl s'est spécialisé dans le tourisme ultra-luxueux, attirant ainsi moins de touristes mais qui dépensent beaucoup plus, et qui ensuite n'hésitent pas à y investir dans le domaine financier, en plein développement. Ce dernier représente déjà 13% de l'activité.\r\nEt malgré les déclarations de bonnes intentions, il demeure que l'archipel est toujours un paradis fiscal."
   officialName: Anguilla
+  header: >-
+    Tourisme ultra-luxueux et finance internationale douteuse pour attirer les
+    clients
+  description: "Le tourisme est la principale activité de ce tout petit archipel qui compte à peine plus de 14 000 habitants. Proche des Etats-Unis, il est situé en face de Saint-Martin, l'île que se partagent la France et les Pays-Bas.\r\nIl s'est spécialisé dans le tourisme ultra-luxueux, attirant ainsi moins de touristes mais qui dépensent beaucoup plus, et qui ensuite n'hésitent pas à y investir dans le domaine financier, en plein développement. Ce dernier représente déjà 13% de l'activité.\r\nEt malgré les déclarations de bonnes intentions, il demeure que l'archipel est toujours un paradis fiscal."
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine Elizabeth II ; Gouverneur William Alistair Harrison
+  nationalDay: 30 mai
+  demonym: 'Anguillaise, Anguillais'
+  officialLanguages: Anglais (créole anguillais majoritaire)
 en:
   name: Anguilla
-  description: "Le tourisme est la principale activité de ce tout petit archipel qui compte à peine plus de 14 000 habitants. Proche des Etats-Unis, il est situé en face de Saint-Martin, l'île que se partagent la France et les Pays-Bas.\r\nIl s'est spécialisé dans le tourisme ultra-luxueux, attirant ainsi moins de touristes mais qui dépensent beaucoup plus, et qui ensuite n'hésitent pas à y investir dans le domaine financier, en plein développement. Ce dernier représente déjà 13% de l'activité.\r\nEt malgré les déclarations de bonnes intentions, il demeure que l'archipel est toujours un paradis fiscal."
   officialName: Anguilla
-localeName: Anguilla
+  header: >-
+    Tourisme ultra-luxueux et finance internationale douteuse pour attirer les
+    clients
+  description: "Le tourisme est la principale activité de ce tout petit archipel qui compte à peine plus de 14 000 habitants. Proche des Etats-Unis, il est situé en face de Saint-Martin, l'île que se partagent la France et les Pays-Bas.\r\nIl s'est spécialisé dans le tourisme ultra-luxueux, attirant ainsi moins de touristes mais qui dépensent beaucoup plus, et qui ensuite n'hésitent pas à y investir dans le domaine financier, en plein développement. Ce dernier représente déjà 13% de l'activité.\r\nEt malgré les déclarations de bonnes intentions, il demeure que l'archipel est toujours un paradis fiscal."
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine Elizabeth II ; Gouverneur William Alistair Harrison
+  nationalDay: 30 mai
+  demonym: 'Anguillaise, Anguillais'
+  officialLanguages: Anglais (créole anguillais majoritaire)
 subcontinent: antilles
+localeName: Anguilla
+iso2: AI
+iso3: AIA
+population:
+  population: 15094
+  year: 2011
+  yearlyGrowth: 2.27
+area: 102
+density: 141.53
+currency: Dollar de la Caraïbe orientale (XCD)
+gdp:
+  gdp: 0.109
+  year: null
+  gdpPerCapita: 8800
+  yearlyGrowth: 7.69
+lifeExpectancy:
+  lifeExpectancy: 80.65
+  year: 2009
+birthRate:
+  birthRate: 13.02
+  year: 2009
+fertilityRate:
+  fertilityRate: 1.75
+  year: 2009
+deathRate:
+  deathRate: 4.36
+  year: 2009
+  infantDeathRate: 3.52
+  infantDeathRateYear: 2009
+literacyRate:
+  literacyRate: 95.4
+  year: 1984
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 73000
+  year: 2015
+settings:
+  noStats: false

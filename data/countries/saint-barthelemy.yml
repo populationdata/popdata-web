@@ -2,19 +2,73 @@ title: saint-barthelemy
 date: 2016-05-16T20:05:38.000Z
 fr:
   name: Saint-Barthélemy
+  officialName: Collectivité de Saint-Barthélemy
+  header: ''
   description: >-
     <p style="text-align: justify;"><strong>Saint-Barthélemy</strong> est une
     île française des Petites Antilles et une collectivité doutre-mer de la
     république française. Son activité repose principalement sur le tourisme,
     notamment le tourisme de luxe.</p>
-  officialName: Collectivité de Saint-Barthélemy
+  natureOfTheState: Collectivité d'outre-mer de la République française
+  headOfState: Président Emmanuel Macron
+  nationalDay: 14 juillet (Révolution française)
+  demonym: 'Saint-Barthéléminoise, Saint-Barthéléminois, Française, Français'
+  officialLanguages: Français
 en:
   name: Saint Barthélemy
+  officialName: Collectivité de Saint-Barthélemy
+  header: ''
   description: >-
     <p style="text-align: justify;"><strong>Saint-Barthélemy</strong> est une
     île française des Petites Antilles et une collectivité doutre-mer de la
     république française. Son activité repose principalement sur le tourisme,
     notamment le tourisme de luxe.</p>
-  officialName: Collectivité de Saint-Barthélemy
-localeName: Saint-Barthélemy
+  natureOfTheState: Collectivité d'outre-mer de la République française
+  headOfState: Président Emmanuel Macron
+  nationalDay: 14 juillet (Révolution française)
+  demonym: 'Saint-Barthéléminoise, Saint-Barthéléminois, Française, Français'
+  officialLanguages: Français
 subcontinent: antilles
+localeName: Saint-Barthélemy
+iso2: BL
+iso3: BLM
+population:
+  population: 9417
+  year: 2013
+  yearlyGrowth: 1.62
+area: 21
+density: 448.43
+currency: Euro (€ EUR)
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 0
+  year: 0
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 0
+  year: 0
+  infantDeathRate: 0
+  infantDeathRateYear: 0
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 2011
+epi:
+  epi: 0
+  year: 2010
+tourism:
+  tourism: 0
+  year: 2015
+settings:
+  noStats: false

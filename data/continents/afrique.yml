@@ -6,3 +6,9 @@ en:
   name: Africa
 gdpYear: 2014
 numberOfTimeZones: 6
+lifeExpectancy: 53
+birthRate: 35
+deathRate: 13
+infantMortalityRate: 84
+numberOfLanguagesSpoken: 1302
+surroundedBy: 'Océan Atlantique, Océan Indien, Mer Méditerranée, Mer Rouge'

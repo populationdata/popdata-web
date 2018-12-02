@@ -2,11 +2,65 @@ title: pitcairn
 date: 2016-05-16T20:05:13.000Z
 fr:
   name: Pitcairn
-  description: "Pitcairn est un petit archipel dont l'île principale est Pitcairn, par ailleurs seule seule île à abriter une population. Isolé du monde, il est peuplé de seulement 65 personnes.\r\nSes habitants sont des descendants des mutins du Bounty et de leurs femmes Tahitiennes."
   officialName: 'les Pitcairn, Henderson, Ducie et Oeno'
+  header: L'un des endroits les plus isolés du monde
+  description: "Pitcairn est un petit archipel dont l'île principale est Pitcairn, par ailleurs seule seule île à abriter une population. Isolé du monde, il est peuplé de seulement 65 personnes.\r\nSes habitants sont des descendants des mutins du Bounty et de leurs femmes Tahitiennes."
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine Elisabeth II ; Gouverneur Victoria Treadell
+  nationalDay: ''
+  demonym: 'Pitcairnaise, Pitcairnais'
+  officialLanguages: Anglais (pitkern parlé)
 en:
   name: Pitcairn Islands
-  description: "Pitcairn est un petit archipel dont l'île principale est Pitcairn, par ailleurs seule seule île à abriter une population. Isolé du monde, il est peuplé de seulement 65 personnes.\r\nSes habitants sont des descendants des mutins du Bounty et de leurs femmes Tahitiennes."
   officialName: 'les Pitcairn, Henderson, Ducie et Oeno'
-localeName: Pitcairn
+  header: L'un des endroits les plus isolés du monde
+  description: "Pitcairn est un petit archipel dont l'île principale est Pitcairn, par ailleurs seule seule île à abriter une population. Isolé du monde, il est peuplé de seulement 65 personnes.\r\nSes habitants sont des descendants des mutins du Bounty et de leurs femmes Tahitiennes."
+  natureOfTheState: Territoire d'outre-mer du Royaume-Uni
+  headOfState: Reine Elisabeth II ; Gouverneur Victoria Treadell
+  nationalDay: ''
+  demonym: 'Pitcairnaise, Pitcairnais'
+  officialLanguages: Anglais (pitkern parlé)
 subcontinent: oceanie
+localeName: Pitcairn
+iso2: PN
+iso3: PCN
+population:
+  population: 46
+  year: 2015
+  yearlyGrowth: 0
+area: 47
+density: 0.98
+currency: Dollar néo-zélandais (NZD)
+gdp:
+  gdp: 0
+  year: null
+  gdpPerCapita: 0
+  yearlyGrowth: 0
+lifeExpectancy:
+  lifeExpectancy: 0
+  year: 0
+birthRate:
+  birthRate: 0
+  year: 0
+fertilityRate:
+  fertilityRate: 0
+  year: 0
+deathRate:
+  deathRate: 0
+  year: 0
+  infantDeathRate: 0
+  infantDeathRateYear: 0
+literacyRate:
+  literacyRate: 0
+  year: 0
+hdi:
+  hdi: 0
+  year: 0
+epi:
+  epi: 0
+  year: 0
+tourism:
+  tourism: 0
+  year: 2015
+settings:
+  noStats: false

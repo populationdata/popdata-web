@@ -2,11 +2,69 @@ title: andorre
 date: 2016-05-16T20:04:19.000Z
 fr:
   name: Andorre
-  description: "<p style=\"text-align: justify;\"><strong>Andorre</strong> est un État d'Europe du Sud et de l'Ouest. Enclavé entre\_l'<a href=\"https://www.populationdata.net/pays/espagne/\">Espagne</a> et la <a href=\"https://www.populationdata.net/pays/france/\">France</a>,\_donc par l'Union Européenne, sa localisation au coeur du\_massif des Pyrénées\_en fait un pays\_constitué de montagnes élevées.</p>\r\n\r\n\r\n[caption id=\"attachment_39540\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://www.populationdata.net/pays/andorre/andorre-la-vieille/\" rel=\"attachment wp-att-39540\"><img class=\"size-full wp-image-39540\" src=\"https://www.populationdata.net/wp-content/uploads/2016/05/Andorre-la-Vieille.jpg\" alt=\"Andorre-la-Vieille, capitale de l'Andorre\" width=\"1280\" height=\"857\" /></a> Andorre-la-Vieille, capitale de l'Andorre. Source : Wikipédia[/caption]"
   officialName: Principauté d'Andorre
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Andorre</strong> est un État d'Europe du Sud et de l'Ouest. Enclavé entre\_l'<a href=\"https://www.populationdata.net/pays/espagne/\">Espagne</a> et la <a href=\"https://www.populationdata.net/pays/france/\">France</a>,\_donc par l'Union Européenne, sa localisation au coeur du\_massif des Pyrénées\_en fait un pays\_constitué de montagnes élevées.</p>\r\n\r\n\r\n[caption id=\"attachment_39540\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://www.populationdata.net/pays/andorre/andorre-la-vieille/\" rel=\"attachment wp-att-39540\"><img class=\"size-full wp-image-39540\" src=\"https://www.populationdata.net/wp-content/uploads/2016/05/Andorre-la-Vieille.jpg\" alt=\"Andorre-la-Vieille, capitale de l'Andorre\" width=\"1280\" height=\"857\" /></a> Andorre-la-Vieille, capitale de l'Andorre. Source : Wikipédia[/caption]"
+  natureOfTheState: Coprincipauté parlementaire
+  headOfState: >-
+    Coprince français Emmanuel Macron (président français)/Coprince épiscopal
+    Joan-Enric Vives i Sicília (évêque d'Urgell, Espagne)
+  nationalDay: 8 septembre
+  demonym: 'Andorranne, Andorran'
+  officialLanguages: Catalan (Français et Espagnol parlés)
 en:
   name: Andorra
-  description: "<p style=\"text-align: justify;\"><strong>Andorra</strong> is a state of Southern and Western Europe. Enclosed between <a href=\"https://en.populationdata.net/countries/spain/\">Spain</a> and <a href=\"https://en.populationdata.net/countries/france/\">France</a>, and therefore by the European Union, its location in the heart of the Pyrenees makes it a country of high mountains.</p>\r\n\r\n\r\n[caption id=\"attachment_41149\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://en.populationdata.net/countries/andorra/andorre-la-vieille/\" rel=\"attachment wp-att-41149\"><img class=\"size-full wp-image-41149\" src=\"https://en.populationdata.net/wp-content/uploads/2016/05/Andorre-la-Vieille.jpg\" alt=\"Andorra la Vella, capital city of Andorra\" width=\"1280\" height=\"857\" /></a> Andorra la Vella, capital city of Andorra. Source: Wikipedia[/caption]"
   officialName: Principality of Andorra
-localeName: Principat d'Andorra (ca)
+  header: ''
+  description: "<p style=\"text-align: justify;\"><strong>Andorra</strong> is a state of Southern and Western Europe. Enclosed between <a href=\"https://en.populationdata.net/countries/spain/\">Spain</a> and <a href=\"https://en.populationdata.net/countries/france/\">France</a>, and therefore by the European Union, its location in the heart of the Pyrenees makes it a country of high mountains.</p>\r\n\r\n\r\n[caption id=\"attachment_41149\" align=\"aligncenter\" width=\"1280\"]<a href=\"https://en.populationdata.net/countries/andorra/andorre-la-vieille/\" rel=\"attachment wp-att-41149\"><img class=\"size-full wp-image-41149\" src=\"https://en.populationdata.net/wp-content/uploads/2016/05/Andorre-la-Vieille.jpg\" alt=\"Andorra la Vella, capital city of Andorra\" width=\"1280\" height=\"857\" /></a> Andorra la Vella, capital city of Andorra. Source: Wikipedia[/caption]"
+  natureOfTheState: Unitary parliamentary semi-elective diarchy
+  headOfState: >-
+    Co-Monarchs Emmanuel Macron (french president)/Joan-Enric Vives i Sicília
+    (bishop of Urgell, Spain)
+  nationalDay: 8 September
+  demonym: Andorran
+  officialLanguages: Catalan (French and Spanish spoken)
 subcontinent: europe-hors-union-europeenne
+localeName: Principat d'Andorra (ca)
+iso2: AD
+iso3: AND
+population:
+  population: 76522
+  year: 2018
+  yearlyGrowth: 2.31
+area: 468
+density: 163.51
+currency: Euro (€ EUR)
+gdp:
+  gdp: 3.013
+  year: null
+  gdpPerCapita: 39147
+  yearlyGrowth: 1.87
+lifeExpectancy:
+  lifeExpectancy: 89.14
+  year: 2016
+birthRate:
+  birthRate: 8.67
+  year: 2016
+fertilityRate:
+  fertilityRate: 1.19
+  year: 2016
+deathRate:
+  deathRate: 4.24
+  year: 2016
+  infantDeathRate: 2.1
+  infantDeathRateYear: 2015
+literacyRate:
+  literacyRate: 100
+  year: 2018
+hdi:
+  hdi: 0.858
+  year: 2017
+epi:
+  epi: 0
+  year: 2018
+tourism:
+  tourism: 2999722
+  year: 2017
+settings:
+  noStats: false
