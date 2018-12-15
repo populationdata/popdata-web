@@ -1,61 +1,79 @@
 import React from 'react'
 import { graphql, Link } from 'gatsby'
-import { Table } from 'reactstrap'
+import { css } from 'glamor'
 import Layout from '../components/Layout'
+import ColBlock from '../components/ColBlock'
+import DataTable from '../components/DataTable'
+import NumberFormat from '../components/NumberFormat'
 
 const allLabels = {
   fr: {
     colCountries: 'Pays et territoires',
     colPopulation: 'Population',
     inhabitants: 'habitants',
+    maps: 'Cartes',
   },
   en: {
     colCountries: 'Countries and territories',
     colPopulation: 'Population',
     inhabitants: 'inhabitants',
+    maps: 'Maps',
   },
 }
 
 const labels = allLabels[process.env.GATSBY_LANGUAGE]
 
 const SubContinentSection = ({ name, countries }) => (
-  <section>
+  <section
+    {...css({
+      marginTop: '25px',
+    })}
+  >
     <h2>{name}</h2>
-    <Table size="sm">
-      <thead>
-        <tr>
-          <th>{labels.colCountries}</th>
-          <th>{labels.colPopulation}</th>
-        </tr>
-      </thead>
-      <tbody>
-        {countries.map(country => (
-          <tr>
-            <th>
-              <Link to={country.fields.slug}>{country.fields.name}</Link>
-            </th>
-            <td>
-              {country.population.population} {labels.inhabitants}
-            </td>
-          </tr>
-        ))}
-      </tbody>
-    </Table>
+    <DataTable
+      columns={[
+        {
+          id: 'country',
+          header: labels.colCountries,
+          renderer: country => (
+            <Link to={country.fields.slug}>{country.fields.name}</Link>
+          ),
+          rowClassName: 'text-left',
+        },
+        {
+          id: 'population',
+          header: labels.colPopulation,
+          renderer: country => (
+            <>
+              <NumberFormat value={country.population.population} />{' '}
+              {labels.inhabitants}
+            </>
+          ),
+          rowClassName: 'text-right',
+          className: 'w-25',
+        },
+      ]}
+      data={countries}
+    />
   </section>
 )
 
 const ContinentPage = ({ data }) => (
-  <Layout>
+  <Layout col1={<ColBlock title={labels.maps} />}>
     <h1>{data.continent.fields.name}</h1>
     {data.subcontinents.edges
       .map(subcontinent => subcontinent.node)
       .map(subcontinent => (
         <SubContinentSection
+          key={subcontinent.id}
           name={subcontinent.fields.name}
           countries={data.countries.edges
             .map(country => country.node)
             .filter(
               country => country.subcontinent.title === subcontinent.title
+            )
+            .sort(
+              (c1, c2) => c1.population.population > c2.population.population
             )}
         />
       ))}
@@ -78,6 +96,7 @@ export const continentQuery = graphql`
     ) {
       edges {
         node {
+          id
           title
           fields {
             name
@@ -88,6 +107,7 @@ export const continentQuery = graphql`
     countries: allCountriesYaml(filter: { continentNodeId: { eq: $id } }) {
       edges {
         node {
+          id
           subcontinent {
             title
           }
