@@ -39,8 +39,10 @@ const SubContinentSection = ({ name, countries }) => (
             <Link to={country.fields.slug}>{country.fields.name}</Link>
           ),
           rowClassName: 'text-left',
+          valueAccessor: country => country.fields.name,
         },
         {
+          className: 'w-25',
           id: 'population',
           header: labels.colPopulation,
           renderer: country => (
@@ -50,10 +52,11 @@ const SubContinentSection = ({ name, countries }) => (
             </>
           ),
           rowClassName: 'text-right',
-          className: 'w-25',
+          valueAccessor: country => country.population.population,
         },
       ]}
       data={countries}
+      defaultSort="country"
     />
   </section>
 )
