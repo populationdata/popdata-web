@@ -1,5 +1,5 @@
 import React from 'react'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 
 import Layout from '../components/Layout'
 import ColBlockItems from '../components/ColBlockItems'
@@ -18,7 +18,7 @@ const allLabels = {
 
 const labels = allLabels[process.env.GATSBY_LANGUAGE]
 
-const IndexPage = ({ data }) => (
+const HomePage = ({ data }) => (
   <Layout
     col1={[
       <ColBlockItems
@@ -29,20 +29,44 @@ const IndexPage = ({ data }) => (
       <ColBlock key="col-rankings" title={labels.colRankings} />,
     ]}
   >
-    This is where content will appear.
+    <ul>
+      {data.posts.edges
+        .map(x => x.node)
+        .map(post => (
+          <li key={post.id}>
+            <Link to={post.fields.slug}>{post.fields.title}</Link>
+          </li>
+        ))}
+    </ul>
   </Layout>
 )
 
-export default IndexPage
+export default HomePage
 
-export const indexQuery = graphql`
-  query Index {
+export const homeQuery = graphql`
+  query Home($skip: Int!, $limit: Int!) {
     continents: allContinentsYaml(sort: { fields: [fields___name] }) {
       edges {
         node {
           fields {
             link: slug
             title: name
+          }
+        }
+      }
+    }
+    posts: allPostsYaml(
+      sort: { fields: date, order: DESC }
+      skip: $skip
+      limit: $limit
+    ) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+            title
+            body
           }
         }
       }

@@ -3,21 +3,26 @@ import { graphql, Link } from 'gatsby'
 import { css } from 'glamor'
 import Layout from '../components/Layout'
 import ColBlock from '../components/ColBlock'
+import HeaderTable from '../components/HeaderTable'
 import DataTable from '../components/DataTable'
 import NumberFormat from '../components/NumberFormat'
 
 const allLabels = {
   fr: {
-    colCountries: 'Pays et territoires',
-    colPopulation: 'Population',
+    area: 'Superficie',
+    countries: 'Pays et territoires',
     inhabitants: 'habitants',
     maps: 'Cartes',
+    numberOfCountries: 'Nombre de pays & territoires',
+    population: 'Population',
   },
   en: {
-    colCountries: 'Countries and territories',
-    colPopulation: 'Population',
+    area: 'Area',
+    countries: 'Countries and territories',
     inhabitants: 'inhabitants',
     maps: 'Maps',
+    numberOfCountries: 'Number of countries & territories',
+    population: 'Population',
   },
 }
 
@@ -34,7 +39,7 @@ const SubContinentSection = ({ name, countries }) => (
       columns={[
         {
           id: 'country',
-          header: labels.colCountries,
+          header: labels.countries,
           renderer: country => (
             <Link to={country.fields.slug}>{country.fields.name}</Link>
           ),
@@ -44,7 +49,7 @@ const SubContinentSection = ({ name, countries }) => (
         {
           className: 'w-25',
           id: 'population',
-          header: labels.colPopulation,
+          header: labels.population,
           renderer: country => (
             <>
               <NumberFormat value={country.population.population} />{' '}
@@ -61,25 +66,60 @@ const SubContinentSection = ({ name, countries }) => (
   </section>
 )
 
+const ContinentHeader = ({ continent }) => (
+  <HeaderTable
+    rows={[
+      {
+        id: 'population',
+        header: labels.population,
+        renderer: value => (
+          <>
+            <NumberFormat value={value.population} /> {labels.inhabitants}
+          </>
+        ),
+      },
+      {
+        id: 'area',
+        header: labels.area,
+        renderer: value => (
+          <>
+            <NumberFormat value={value.area} /> km²
+          </>
+        ),
+      },
+      {
+        id: 'numberOfCountries',
+        header: labels.numberOfCountries,
+      },
+    ]}
+    data={continent}
+  />
+)
+
 const ContinentPage = ({ data }) => (
   <Layout col1={<ColBlock title={labels.maps} />}>
     <h1>{data.continent.fields.name}</h1>
-    {data.subcontinents.edges
-      .map(subcontinent => subcontinent.node)
-      .map(subcontinent => (
-        <SubContinentSection
-          key={subcontinent.id}
-          name={subcontinent.fields.name}
-          countries={data.countries.edges
-            .map(country => country.node)
-            .filter(
-              country => country.subcontinent.title === subcontinent.title
-            )
-            .sort(
-              (c1, c2) => c1.population.population > c2.population.population
-            )}
-        />
-      ))}
+    <section>
+      <ContinentHeader continent={data.continent} />
+    </section>
+    <section>
+      {data.subcontinents.edges
+        .map(subcontinent => subcontinent.node)
+        .map(subcontinent => (
+          <SubContinentSection
+            key={subcontinent.id}
+            name={subcontinent.fields.name}
+            countries={data.countries.edges
+              .map(country => country.node)
+              .filter(
+                country => country.subcontinent.title === subcontinent.title
+              )
+              .sort(
+                (c1, c2) => c1.population.population > c2.population.population
+              )}
+          />
+        ))}
+    </section>
   </Layout>
 )
 
@@ -93,6 +133,7 @@ export const continentQuery = graphql`
         name
       }
       area
+      numberOfCountries
       population
     }
     subcontinents: allSubcontinentsYaml(

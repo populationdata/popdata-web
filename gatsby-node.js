@@ -109,6 +109,10 @@ exports.setFieldsOnGraphQLNodeType = ({ type }) => {
         source => statsOnlyCountriesInContinent(source.title),
         x => parseInt(x.area, 10)
       ),
+      numberOfCountries: sumGraphQLField(
+        source => statsOnlyCountriesInContinent(source.title),
+        _ => 1
+      ),
       population: sumGraphQLField(
         source => statsOnlyCountriesInContinent(source.title),
         x => parseInt(x.population.population, 10)
@@ -230,5 +234,22 @@ exports.createPages = ({ actions, graphql }) => {
         })
       }
     })
+    const postsPerPage = 5
+    const numberOfFrontPages = Math.round(
+      result.data.allPostsYaml.edges.length / postsPerPage
+    )
+
+    for (let index = 0; index < numberOfFrontPages; index++) {
+      createPage({
+        path: index === 0 ? `/` : `/page/${index + 1}`,
+        component: path.resolve(`src/templates/Home.js`),
+        context: {
+          index,
+          limit: postsPerPage,
+          skip: index * postsPerPage,
+          totalPages: numberOfFrontPages,
+        },
+      })
+    }
   })
 }
