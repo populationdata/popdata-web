@@ -92,6 +92,8 @@ export const continentQuery = graphql`
       fields {
         name
       }
+      area
+      population
     }
     subcontinents: allSubcontinentsYaml(
       filter: { continentNodeId: { eq: $id } }

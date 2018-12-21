@@ -1,6 +1,7 @@
 const path = require('path')
 const slug = require('slug')
 const gql = require('gatsby/graphql')
+const _ = require('lodash')
 const language = process.env.GATSBY_LANGUAGE
 
 const getCategory = type => {
@@ -18,6 +19,7 @@ const getCategory = type => {
 
 const atlas = {
   continents: {},
+  countries: {},
   subcontinents: {},
 }
 
@@ -73,6 +75,9 @@ exports.onCreateNode = ({ node, actions }) => {
       case 'ContinentsYaml':
         atlas.continents[node.title] = node
         break
+      case 'CountriesYaml':
+        atlas.countries[node.title] = node
+        break
       case 'SubcontinentsYaml':
         atlas.subcontinents[node.title] = node
         break
@@ -80,7 +85,36 @@ exports.onCreateNode = ({ node, actions }) => {
   }
 }
 
+const countriesInContinent = continentTitle => {
+  const allSubContinentTitles = Object.values(atlas.subcontinents)
+    .filter(x => x.continent === continentTitle)
+    .map(x => x.title)
+  return Object.values(atlas.countries).filter(x =>
+    allSubContinentTitles.includes(x.subcontinent)
+  )
+}
+
+const statsOnlyCountriesInContinent = continentTitle =>
+  countriesInContinent(continentTitle).filter(x => !x.settings.noStats)
+
+const sumGraphQLField = (dataset, sumBy) => ({
+  type: gql.GraphQLFloat,
+  resolve: source => _.sumBy(dataset(source), sumBy),
+})
+
 exports.setFieldsOnGraphQLNodeType = ({ type }) => {
+  if (type.name === `ContinentsYaml`) {
+    return {
+      area: sumGraphQLField(
+        source => statsOnlyCountriesInContinent(source.title),
+        x => parseInt(x.area, 10)
+      ),
+      population: sumGraphQLField(
+        source => statsOnlyCountriesInContinent(source.title),
+        x => parseInt(x.population.population, 10)
+      ),
+    }
+  }
   if (type.name === `SubcontinentsYaml`) {
     return {
       continentNodeId: {
