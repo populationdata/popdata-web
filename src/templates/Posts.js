@@ -1,14 +1,22 @@
 import React from 'react'
+import { css } from 'glamor'
 import { graphql } from 'gatsby'
 import Layout from '../components/Layout'
 import { HTMLContent } from '../components/Content'
+
+const contentCss = css({
+  '& img': {
+    height: 'auto',
+    maxWidth: '100%',
+  },
+})
 
 const PostPage = ({ data }) => {
   return (
     <Layout>
       <h1>{data.post.fields.title}</h1>
       <section>
-        <HTMLContent content={data.post.fields.body} />
+        <HTMLContent {...contentCss} content={data.post.fields.body} />
       </section>
     </Layout>
   )

@@ -2,6 +2,7 @@ const path = require('path')
 const slug = require('slug')
 const gql = require('gatsby/graphql')
 const _ = require('lodash')
+const excerpts = require('excerpts')
 const language = process.env.GATSBY_LANGUAGE
 
 const getCategory = type => {
@@ -142,6 +143,16 @@ exports.setFieldsOnGraphQLNodeType = ({ type }) => {
             return atlas.continents[subcontinent.continent].id
           }
           return null
+        },
+      },
+    }
+  }
+  if (type.name === `PostsYaml`) {
+    return {
+      excerpt: {
+        type: gql.GraphQLString,
+        resolve: source => {
+          return excerpts(source.fields.body, { words: 50 })
         },
       },
     }
