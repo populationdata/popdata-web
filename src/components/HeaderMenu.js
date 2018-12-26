@@ -65,6 +65,7 @@ class HeaderMenu extends React.Component {
           {...css({
             fontSize: '12px',
           })}
+          light
           expand="md"
         >
           <Nav className="border-right mr-auto">
@@ -81,7 +82,7 @@ class HeaderMenu extends React.Component {
             </Link>
           </Nav>
           <NavbarToggler onClick={this.toggle} />
-          <Collapse isOpen={!this.state.collapsed} navbar>
+          <Collapse isOpen={this.state.isOpen} navbar>
             <Nav navbar>
               <UncontrolledDropdown nav inNavbar>
                 <DropdownToggle

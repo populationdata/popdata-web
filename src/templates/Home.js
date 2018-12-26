@@ -95,7 +95,7 @@ const HomePage = ({ pageContext: { index, totalPages }, data }) => (
           </li>
         )}
         {index !== totalPages && (
-          <li class="list-inline-item">
+          <li className="list-inline-item">
             <Button tag={Link} to={`/page/${index + 2}`} color="primary">
               {labels.next}
             </Button>
