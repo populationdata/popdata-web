@@ -4,8 +4,9 @@ import { css } from 'glamor'
 import Layout from '../components/Layout'
 import ColBlock from '../components/ColBlock'
 import HeaderTable from '../components/HeaderTable'
+import DataMap from '../components/DataMap'
 import DataTable from '../components/DataTable'
-import NumberFormat from '../components/NumberFormat'
+import NumberFormat, { numberFormat } from '../components/NumberFormat'
 
 const allLabels = {
   fr: {
@@ -103,6 +104,21 @@ const ContinentPage = ({ data }) => (
       <ContinentHeader continent={data.continent} />
     </section>
     <section>
+      <DataMap
+        scope="africa"
+        data={data.countries.edges
+          .filter(x => !!x.node.iso3)
+          .map(x => ({
+            iso3: x.node.iso3,
+            title: x.node.fields.name,
+            value: x.node.population.population,
+          }))}
+        valueFormatter={value =>
+          `${numberFormat.format(value)} ${labels.inhabitants}`
+        }
+      />
+    </section>
+    <section>
       {data.subcontinents.edges
         .map(subcontinent => subcontinent.node)
         .map(subcontinent => (
@@ -164,6 +180,7 @@ export const continentQuery = graphql`
           population {
             population
           }
+          iso3
         }
       }
     }
