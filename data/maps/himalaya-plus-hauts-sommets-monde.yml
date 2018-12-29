@@ -4,3 +4,17 @@ fr:
   title: Himalaya - Les plus hauts sommets du monde
 en:
   title: Himalaya - Les plus hauts sommets du monde
+continents:
+  - asie
+countries:
+  - chine
+  - inde
+  - pakistan
+  - tadjikistan
+  - afghanistan
+  - nepal
+  - bhoutan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Himalaya-plus-hauts-sommets.jpg
+source: Wikipédia
+type: image

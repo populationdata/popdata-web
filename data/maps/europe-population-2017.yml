@@ -3,3 +3,10 @@ date: '2018-06-04T20:55:05.000Z'
 fr:
   title: Europe - Population (2017)
 en: null
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/06/Europe-Population-2017.png
+source: 'Le Monde diplomatique, Cécile Marin'
+type: image

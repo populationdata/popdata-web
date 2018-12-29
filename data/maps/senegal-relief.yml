@@ -4,3 +4,9 @@ fr:
   title: Sénégal - relief
 en:
   title: Sénégal - relief
+continents: []
+countries:
+  - senegal
+image: 'http://www.populationdata.net/wp-content/uploads/senegal_relief.jpg'
+source: CIA
+type: image

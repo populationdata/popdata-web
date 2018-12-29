@@ -4,3 +4,11 @@ fr:
   title: Fleuve Niémen
 en:
   title: Fleuve Niémen
+continents: []
+countries:
+  - lituanie
+  - belarus-bielorussie
+  - russie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Niemen.png'
+source: Wikipédia
+type: image

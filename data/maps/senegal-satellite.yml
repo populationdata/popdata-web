@@ -4,3 +4,13 @@ fr:
   title: Sénégal - satellite
 en:
   title: Sénégal - satellite
+continents: []
+countries:
+  - senegal
+gmaps:
+  latitude: 14.631424
+  longitude: -14.952393
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

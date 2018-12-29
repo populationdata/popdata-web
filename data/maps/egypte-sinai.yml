@@ -4,3 +4,9 @@ fr:
   title: Égypte - Sinaï
 en:
   title: Égypte - Sinaï
+continents: []
+countries:
+  - egypte
+image: 'http://www.populationdata.net/wp-content/uploads/egypte_sinai.jpg'
+source: CIA
+type: image

@@ -4,3 +4,11 @@ fr:
   title: Tchad - massif du Tibesti
 en:
   title: Tchad - massif du Tibesti
+continents: []
+countries:
+  - tchad
+  - libye
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Tchad-Massif-du-Tibesti-topographique.jpg
+source: Wikipédia
+type: image

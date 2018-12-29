@@ -4,3 +4,9 @@ fr:
   title: Océanie - Forêts
 en:
   title: Océanie - Forêts
+continents:
+  - oceanie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/forets_oceanie.gif'
+source: nc
+type: image

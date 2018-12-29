@@ -4,3 +4,12 @@ fr:
   title: Fleuve Sénégal
 en:
   title: Fleuve Sénégal
+continents: []
+countries:
+  - mauritanie
+  - senegal
+  - guinee
+  - mali
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/fleuve-Senegal.png'
+source: Wikipédia
+type: image

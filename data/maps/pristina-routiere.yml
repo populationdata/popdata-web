@@ -4,3 +4,12 @@ fr:
   title: Pristina - routière
 en:
   title: Pristina - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 42.655803
+  longitude: 21.151257
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

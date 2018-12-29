@@ -4,3 +4,10 @@ fr:
   title: 'France - Bretagne : distribution de la population (2012)'
 en:
   title: 'France - Bretagne : distribution de la population (2012)'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/france-bretagne-population-2012.jpg
+source: 'Insee, Bretagne Environnement'
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Champ de maïs près de Paris
 en:
   title: Champ de maïs près de Paris
+continents: []
+countries: []
+gmaps:
+  latitude: 48.81247
+  longitude: 2.796817
+  type: hybrid
+  zoom: 18
+source: Google Maps
+type: gmaps

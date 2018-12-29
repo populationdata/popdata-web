@@ -4,3 +4,18 @@ fr:
   title: Vikings - expansion
 en:
   title: Vikings - expansion
+continents:
+  - europe
+countries:
+  - groenland
+  - islande
+  - danemark
+  - suede
+  - norvege
+  - russie
+  - royaume-uni
+  - irlande
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Viking-expansion.png'
+source: Wikipédia
+type: image

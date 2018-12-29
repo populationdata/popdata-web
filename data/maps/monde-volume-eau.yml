@@ -4,3 +4,10 @@ fr:
   title: Monde - volume d'eau
 en:
   title: Monde - volume d'eau
+continents: []
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/monde-eau-volume.jpg'
+source: >-
+  Howard Perlman, USGS ; globe illustration by Jack Cook, Woods Hole
+  Oceanographic Institution ; Adam Nieman
+type: image

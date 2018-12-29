@@ -4,3 +4,13 @@ fr:
   title: Papouasie-Nouvelle-Guinée - routière
 en:
   title: Papouasie-Nouvelle-Guinée - routière
+continents: []
+countries:
+  - papouasie-nouvelle-guinee
+gmaps:
+  latitude: -5.987607
+  longitude: 148.348389
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

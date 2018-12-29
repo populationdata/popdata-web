@@ -4,3 +4,9 @@ fr:
   title: Cook - situation régionale
 en:
   title: Cook - situation régionale
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-situation-regionale.png'
+source: Wikipédia
+type: image

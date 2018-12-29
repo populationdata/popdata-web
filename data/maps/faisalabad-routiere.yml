@@ -4,3 +4,12 @@ fr:
   title: Faisalabad - routière
 en:
   title: Faisalabad - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 31.414471
+  longitude: 73.094454
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

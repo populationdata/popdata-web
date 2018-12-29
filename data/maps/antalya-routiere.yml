@@ -4,3 +4,12 @@ fr:
   title: Antalya - routière
 en:
   title: Antalya - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 36.898748
+  longitude: 30.69538
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

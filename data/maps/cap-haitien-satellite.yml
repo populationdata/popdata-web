@@ -4,3 +4,12 @@ fr:
   title: Cap-Haïtien - satellite
 en:
   title: Cap-Haïtien - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 19.750387
+  longitude: -72.20129
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: République démocratique du Congo - Sud-Kivu
 en:
   title: République démocratique du Congo - Sud-Kivu
+continents: []
+countries:
+  - republique-democratique-du-congo
+image: 'http://www.populationdata.net/wp-content/uploads/rdc-sud-kivu.jpg'
+source: OCHA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Islamabad-Rawalpindi - satellite
 en:
   title: Islamabad-Rawalpindi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 33.636346
+  longitude: 73.061142
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

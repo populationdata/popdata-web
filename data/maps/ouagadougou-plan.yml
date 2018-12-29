@@ -4,3 +4,9 @@ fr:
   title: Ouagadougou - plan
 en:
   title: Ouagadougou - plan
+continents: []
+countries:
+  - burkina-faso
+image: 'http://www.populationdata.net/wp-content/uploads/burkina_faso_ouagadougou.gif'
+source: Alègre Raymond
+type: image

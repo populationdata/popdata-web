@@ -4,3 +4,9 @@ fr:
   title: Luxembourg - densité (2014)
 en:
   title: Luxembourg - densité (2014)
+continents: []
+countries:
+  - luxembourg
+image: 'http://www.populationdata.net/wp-content/uploads/luxembourg-densite-2014.jpg'
+source: Statec
+type: image

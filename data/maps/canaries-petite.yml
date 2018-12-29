@@ -4,3 +4,9 @@ fr:
   title: Canaries - petite
 en:
   title: Canaries - petite
+continents: []
+countries:
+  - canaries
+image: 'http://www.populationdata.net/wp-content/uploads/canaries-petite.png'
+source: Wikipédia
+type: image

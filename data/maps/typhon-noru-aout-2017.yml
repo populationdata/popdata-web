@@ -4,3 +4,9 @@ fr:
   title: Typhon Noru (août 2017)
 en:
   title: Typhon Noru (août 2017)
+continents: []
+countries:
+  - japon
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Typhon-Noru-2017.jpg'
+source: Nasa Earth Observatory
+type: image

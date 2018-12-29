@@ -4,3 +4,13 @@ fr:
   title: Cuba - satellite
 en:
   title: Cuba - satellite
+continents: []
+countries:
+  - cuba
+gmaps:
+  latitude: 21.993989
+  longitude: -79.969482
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

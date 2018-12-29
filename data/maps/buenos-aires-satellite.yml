@@ -4,3 +4,12 @@ fr:
   title: Buenos Aires - satellite
 en:
   title: Buenos Aires - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -34.615268
+  longitude: -58.393707
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

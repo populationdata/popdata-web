@@ -4,3 +4,9 @@ fr:
   title: Macédoine - villes
 en:
   title: Macédoine - villes
+continents: []
+countries:
+  - macedoine-du-nord
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Macedoine-villes.png'
+source: Wikipédia
+type: image

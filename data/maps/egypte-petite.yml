@@ -4,3 +4,9 @@ fr:
   title: Égypte - petite
 en:
   title: Égypte - petite
+continents: []
+countries:
+  - egypte
+image: 'http://www.populationdata.net/wp-content/uploads/egypte-petite.png'
+source: Wikipédia
+type: image

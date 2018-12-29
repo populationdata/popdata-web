@@ -4,3 +4,10 @@ fr:
   title: Liban - administrative
 en:
   title: Liban - administrative
+continents: []
+countries:
+  - liban
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/liban-administrative.gif
+source: Wikipédia
+type: image

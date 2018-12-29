@@ -4,3 +4,13 @@ fr:
   title: Chili - séisme de magnitude 6.1 (3 mars 2010)
 en:
   title: Chili - séisme de magnitude 6.1 (3 mars 2010)
+continents: []
+countries:
+  - chili
+gmaps:
+  latitude: -33.1537
+  longitude: -72.0645
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

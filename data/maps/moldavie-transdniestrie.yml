@@ -4,3 +4,10 @@ fr:
   title: Moldavie - Transniestrie
 en:
   title: Moldavie - Transniestrie
+continents: []
+countries:
+  - transnistrie
+  - moldavie
+image: 'http://www.populationdata.net/wp-content/uploads/moldavie-transdniestrie.gif'
+source: CIA
+type: image

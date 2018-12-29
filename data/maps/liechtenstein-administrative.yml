@@ -4,3 +4,10 @@ fr:
   title: Liechtenstein - administrative
 en:
   title: Liechtenstein - administrative
+continents: []
+countries:
+  - liechtenstein
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Liechtenstein-administrative.png
+source: Wikipédia
+type: image

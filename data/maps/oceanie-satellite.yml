@@ -4,3 +4,13 @@ fr:
   title: Océanie - Satellite
 en:
   title: Océanie - Satellite
+continents:
+  - oceanie
+countries: []
+gmaps:
+  latitude: -9.622414
+  longitude: -150.117187
+  type: hybrid
+  zoom: 2
+source: Google Maps
+type: gmaps

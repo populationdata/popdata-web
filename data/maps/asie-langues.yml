@@ -4,3 +4,9 @@ fr:
   title: Asie - Langues
 en:
   title: Asie - Langues
+continents:
+  - asie
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Asie-langues.jpg'
+source: Wikipédia
+type: image

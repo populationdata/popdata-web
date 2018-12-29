@@ -4,3 +4,9 @@ fr:
   title: Malawi - petite
 en:
   title: Malawi - petite
+continents: []
+countries:
+  - malawi
+image: 'http://www.populationdata.net/wp-content/uploads/malawi-petite.png'
+source: Wikipédia
+type: image

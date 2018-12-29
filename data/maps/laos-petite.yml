@@ -4,3 +4,9 @@ fr:
   title: Laos - petite
 en:
   title: Laos - petite
+continents: []
+countries:
+  - laos
+image: 'http://www.populationdata.net/wp-content/uploads/laos-petite.gif'
+source: Wikipédia
+type: image

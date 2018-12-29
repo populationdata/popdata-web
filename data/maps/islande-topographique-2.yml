@@ -4,3 +4,10 @@ fr:
   title: Islande - topographique
 en:
   title: Islande - topographique
+continents: []
+countries:
+  - islande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Islande-topographique.jpg
+source: Wikipédia
+type: image

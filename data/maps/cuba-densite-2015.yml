@@ -4,3 +4,10 @@ fr:
   title: Cuba - densité (2015)
 en:
   title: Cuba - densité (2015)
+continents: []
+countries:
+  - cuba
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Cuba-densite-2015.png
+source: Office statistique national de Cuba
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Micronésie - satellite
 en:
   title: Micronésie - satellite
+continents: []
+countries:
+  - micronesie
+gmaps:
+  latitude: 6.271618
+  longitude: 153.588867
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

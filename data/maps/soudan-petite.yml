@@ -4,3 +4,9 @@ fr:
   title: Soudan - petite
 en:
   title: Soudan - petite
+continents: []
+countries:
+  - soudan
+image: 'http://www.populationdata.net/wp-content/uploads/soudan-petite.png'
+source: Wikipédia
+type: image

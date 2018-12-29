@@ -4,3 +4,12 @@ fr:
   title: Skopje - satellite
 en:
   title: Skopje - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 41.999687
+  longitude: 21.427288
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Bolivie - densité
 en:
   title: Bolivie - densité
+continents: []
+countries:
+  - bolivie
+image: 'http://www.populationdata.net/wp-content/uploads/bolivie_densite.gif'
+source: Philippe Waniez
+type: image

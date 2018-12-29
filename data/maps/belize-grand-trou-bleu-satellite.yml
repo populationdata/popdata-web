@@ -4,3 +4,13 @@ fr:
   title: 'Belize - Grand trou bleu : satellite'
 en:
   title: 'Belize - Grand trou bleu : satellite'
+continents: []
+countries:
+  - belize
+gmaps:
+  latitude: 17.315817
+  longitude: -87.537432
+  type: satellite
+  zoom: 15
+source: Google Maps
+type: gmaps

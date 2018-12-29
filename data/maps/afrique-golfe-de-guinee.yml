@@ -4,3 +4,19 @@ fr:
   title: Afrique - Golfe de Guinée
 en:
   title: Afrique - Golfe de Guinée
+continents:
+  - afrique
+countries:
+  - guinee-equatoriale
+  - sao-tome-et-principe
+  - nigeria
+  - cameroun
+  - gabon
+  - benin
+  - togo
+  - ghana
+  - cote-divoire
+  - congo
+image: 'http://www.populationdata.net/wp-content/uploads/golf-de-guinee.jpg'
+source: Wikipédia
+type: image

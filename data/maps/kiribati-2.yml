@@ -4,3 +4,9 @@ fr:
   title: Kiribati
 en:
   title: Kiribati
+continents: []
+countries:
+  - kiribati
+image: 'http://www.populationdata.net/wp-content/uploads/kiribati.jpg'
+source: CIA
+type: image

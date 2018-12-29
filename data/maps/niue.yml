@@ -4,3 +4,9 @@ fr:
   title: Niue
 en:
   title: Niue
+continents: []
+countries:
+  - nioue
+image: 'http://www.populationdata.net/wp-content/uploads/niue.jpg'
+source: Wikipédia
+type: image

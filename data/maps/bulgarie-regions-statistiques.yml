@@ -4,3 +4,9 @@ fr:
   title: Bulgarie - régions statistiques
 en:
   title: Bulgarie - régions statistiques
+continents: []
+countries:
+  - bulgarie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Bulgarie-regions.png'
+source: Wikipédia
+type: image

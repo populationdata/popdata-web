@@ -4,3 +4,9 @@ fr:
   title: Qatar - relief
 en:
   title: Qatar - relief
+continents: []
+countries:
+  - qatar
+image: 'http://www.populationdata.net/wp-content/uploads/qatar_relief.jpg'
+source: CIA
+type: image

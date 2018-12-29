@@ -4,3 +4,12 @@ fr:
   title: Prague - satellite
 en:
   title: Prague - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 50.079616
+  longitude: 14.424019
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

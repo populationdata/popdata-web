@@ -4,3 +4,13 @@ fr:
   title: 'Chine - Inde - Bangladesh : Brahmapoutre et Ganges'
 en:
   title: 'Chine - Inde - Bangladesh : Brahmapoutre et Ganges'
+continents:
+  - asie
+countries:
+  - chine
+  - bangladesh
+  - inde
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Chine-Inde-Brahmapoutre.png
+source: Wikipédia
+type: image

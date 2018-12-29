@@ -4,3 +4,12 @@ fr:
   title: Concepción - routière
 en:
   title: Concepción - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -36.816284
+  longitude: -73.051901
+  type: ''
+  zoom: 12
+source: Google Maps
+type: gmaps

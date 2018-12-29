@@ -4,3 +4,10 @@ fr:
   title: 'France - outre-mer, comparatif territorial'
 en:
   title: 'France - outre-mer, comparatif territorial'
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/france-outre-mer-territoires-comparaison.png
+source: Wikipédia
+type: image

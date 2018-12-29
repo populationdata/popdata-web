@@ -4,3 +4,11 @@ fr:
   title: France - Kerguelen topographique
 en:
   title: France - Kerguelen topographique
+continents: []
+countries:
+  - france
+  - terres-australes-antarctiques-francaises
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-Kerguelen-topographique.jpg
+source: Wikipédia
+type: image

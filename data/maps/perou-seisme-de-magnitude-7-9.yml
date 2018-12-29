@@ -4,3 +4,13 @@ fr:
   title: Pérou - séisme de magnitude 7.9
 en:
   title: Pérou - séisme de magnitude 7.9
+continents: []
+countries:
+  - perou
+gmaps:
+  latitude: -13.314794
+  longitude: -76.508789
+  type: terrain
+  zoom: 7
+source: Earthquake Hazards Program - USGS
+type: gmaps

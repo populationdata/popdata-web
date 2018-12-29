@@ -4,3 +4,13 @@ fr:
   title: Royaume-Uni - satellite
 en:
   title: Royaume-Uni - satellite
+continents: []
+countries:
+  - royaume-uni
+gmaps:
+  latitude: 54.76267
+  longitude: -1.911621
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

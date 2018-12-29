@@ -4,3 +4,10 @@ fr:
   title: Antilles néerlandaises - petite
 en:
   title: Antilles néerlandaises - petite
+continents: []
+countries:
+  - antilles-neerlandaises
+image: >-
+  http://www.populationdata.net/wp-content/uploads/antilles-neerlandaises-petite.png
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Lesotho
 en:
   title: Lesotho
+continents: []
+countries:
+  - lesotho
+image: 'http://www.populationdata.net/wp-content/uploads/lesotho.jpg'
+source: CIA
+type: image

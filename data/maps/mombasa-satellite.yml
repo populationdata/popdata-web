@@ -4,3 +4,12 @@ fr:
   title: Mombasa - satellite
 en:
   title: Mombasa - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -4.044412
+  longitude: 39.663219
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

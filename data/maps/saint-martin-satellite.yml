@@ -4,3 +4,13 @@ fr:
   title: Saint-Martin - satellite
 en:
   title: Saint-Martin - satellite
+continents: []
+countries:
+  - saint-martin-france
+gmaps:
+  latitude: 18.086464
+  longitude: -63.05732
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

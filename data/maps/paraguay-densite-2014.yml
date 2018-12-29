@@ -4,3 +4,10 @@ fr:
   title: Paraguay - densité (2014)
 en:
   title: Paraguay - densité (2014)
+continents: []
+countries:
+  - paraguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Paraguay-densite-2014.jpg
+source: 'Direction général des statistiques, des enquêtes et du recensement du Paraguay'
+type: image

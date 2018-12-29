@@ -4,3 +4,12 @@ fr:
   title: Durban - satellite
 en:
   title: Durban - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -29.862679
+  longitude: 31.013718
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

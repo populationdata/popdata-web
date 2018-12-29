@@ -4,3 +4,10 @@ fr:
   title: Norvège - Bouvet
 en:
   title: Norvège - Bouvet
+continents:
+  - antarctique
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege_bouvet.jpg'
+source: CIA
+type: image

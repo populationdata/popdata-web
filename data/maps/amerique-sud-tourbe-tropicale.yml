@@ -3,3 +3,10 @@ date: '2017-12-20T22:00:00.000Z'
 fr:
   title: Amérique du Sud - tourbe tropicale
 en: null
+continents:
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/12/Amerique-du-Sud-tourbe.jpg
+source: NASA
+type: image

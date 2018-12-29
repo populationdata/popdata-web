@@ -4,3 +4,9 @@ fr:
   title: Turquie - petite
 en:
   title: Turquie - petite
+continents: []
+countries:
+  - turquie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/turquie.png'
+source: Wikipédia
+type: image

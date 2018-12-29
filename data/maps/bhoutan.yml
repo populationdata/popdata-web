@@ -4,3 +4,9 @@ fr:
   title: Bhoutan
 en:
   title: Bhoutan
+continents: []
+countries:
+  - bhoutan
+image: 'http://www.populationdata.net/wp-content/uploads/bhoutan.jpg'
+source: CIA
+type: image

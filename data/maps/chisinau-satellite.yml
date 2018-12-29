@@ -4,3 +4,12 @@ fr:
   title: Chisinau - satellite
 en:
   title: Chisinau - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 47.012918
+  longitude: 28.870697
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

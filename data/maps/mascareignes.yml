@@ -4,3 +4,11 @@ fr:
   title: Mascareignes
 en:
   title: Mascareignes
+continents:
+  - afrique
+countries:
+  - reunion
+  - maurice
+image: 'https://www.populationdata.net/wp-content/uploads/Mascareignes.png'
+source: Wikipédia
+type: image

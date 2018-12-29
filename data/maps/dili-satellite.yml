@@ -4,3 +4,12 @@ fr:
   title: Dili - satellite
 en:
   title: Dili - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -8.560143
+  longitude: 125.559568
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

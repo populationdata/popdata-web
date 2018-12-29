@@ -4,3 +4,10 @@ fr:
   title: République dominicaine - relief
 en:
   title: République dominicaine - relief
+continents: []
+countries:
+  - republique-dominicaine
+image: >-
+  http://www.populationdata.net/wp-content/uploads/republique_dominicaine_relief.jpg
+source: CIA
+type: image

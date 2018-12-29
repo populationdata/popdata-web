@@ -4,3 +4,12 @@ fr:
   title: Oranjestad - routière
 en:
   title: Oranjestad - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 12.522391
+  longitude: -70.03355
+  type: roadmap
+  zoom: 14
+source: Google Maps
+type: gmaps

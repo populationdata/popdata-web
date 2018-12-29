@@ -4,3 +4,9 @@ fr:
   title: Libéria - petite
 en:
   title: Libéria - petite
+continents: []
+countries:
+  - liberia
+image: 'http://www.populationdata.net/wp-content/uploads/liberia-petite.gif'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Union européenne
 en:
   title: Union européenne
+continents:
+  - europe
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/Union-europeenne.png'
+source: Wikipédia
+type: image

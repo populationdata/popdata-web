@@ -4,3 +4,10 @@ fr:
   title: Namibie - parcs nationaux
 en:
   title: Namibie - parcs nationaux
+continents: []
+countries:
+  - namibie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/namibie-parcs-nationaux.png
+source: Wikipédia
+type: image

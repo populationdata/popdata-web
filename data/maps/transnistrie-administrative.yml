@@ -4,3 +4,10 @@ fr:
   title: Transnistrie - administrative
 en:
   title: Transnistrie - administrative
+continents: []
+countries:
+  - transnistrie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/transnistrie-administrative.png
+source: Wikipédia
+type: image

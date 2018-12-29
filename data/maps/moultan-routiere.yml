@@ -4,3 +4,12 @@ fr:
   title: Moultan - routière
 en:
   title: Moultan - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 30.193912
+  longitude: 71.460593
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

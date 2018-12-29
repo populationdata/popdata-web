@@ -4,3 +4,12 @@ fr:
   title: Bangui - satellite
 en:
   title: Bangui - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 4.369861
+  longitude: 18.554792
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

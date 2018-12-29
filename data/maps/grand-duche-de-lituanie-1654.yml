@@ -4,3 +4,10 @@ fr:
   title: Grand Duché de Lituanie (1654)
 en:
   title: Grand Duché de Lituanie (1654)
+continents: []
+countries:
+  - belarus-bielorussie
+  - lituanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Lituanie-1654.png'
+source: Wikipédia
+type: image

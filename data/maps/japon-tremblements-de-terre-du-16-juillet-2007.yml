@@ -4,3 +4,13 @@ fr:
   title: Japon - tremblements de terre du 16 juillet 2007
 en:
   title: Japon - tremblements de terre du 16 juillet 2007
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 36.774092
+  longitude: 134.884644
+  type: satellite
+  zoom: 6
+source: USGS
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: 'Palestine - mur de la honte, partie nord-ouest'
 en:
   title: 'Palestine - mur de la honte, partie nord-ouest'
+continents: []
+countries:
+  - israel
+  - palestine
+image: 'http://www.populationdata.net/wp-content/uploads/palestine_mur_de_la_honte.gif'
+source: Wikipédia
+type: image

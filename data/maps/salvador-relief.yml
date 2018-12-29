@@ -4,3 +4,9 @@ fr:
   title: Salvador - relief
 en:
   title: Salvador - relief
+continents: []
+countries:
+  - salvador
+image: 'http://www.populationdata.net/wp-content/uploads/salvador-relief.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Jordanie - relief
 en:
   title: Jordanie - relief
+continents: []
+countries:
+  - jordanie
+image: 'http://www.populationdata.net/wp-content/uploads/jordanie_relief.jpg'
+source: CIA
+type: image

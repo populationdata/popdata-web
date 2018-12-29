@@ -4,3 +4,12 @@ fr:
   title: Etats-Unis - séisme de magnitude 6.5 en Californie (9 janvier 2010)
 en:
   title: Etats-Unis - séisme de magnitude 6.5 en Californie (9 janvier 2010)
+continents: []
+countries: []
+gmaps:
+  latitude: 40.6448
+  longitude: -124.763
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

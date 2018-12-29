@@ -4,3 +4,59 @@ fr:
   title: 'Monde - Français : langue'
 en:
   title: 'World - French : language'
+continents: []
+countries:
+  - burundi
+  - roumanie
+  - vanuatu
+  - seychelles
+  - italie
+  - luxembourg
+  - nigeria
+  - burkina-faso
+  - etats-unis
+  - guadeloupe
+  - martinique
+  - gabon
+  - republique-centrafricaine
+  - tchad
+  - niger
+  - tunisie
+  - mauritanie
+  - cote-divoire
+  - togo
+  - benin
+  - comores
+  - reunion
+  - polynesie-francaise
+  - nouvelle-caledonie
+  - laos
+  - cambodge
+  - viet-nam
+  - maurice
+  - madagascar
+  - djibouti
+  - cameroun
+  - guinee
+  - mali
+  - haiti
+  - senegal
+  - maroc
+  - algerie
+  - republique-democratique-du-congo
+  - congo
+  - canada
+  - suisse
+  - belgique
+  - france
+  - rwanda
+  - guinee-equatoriale
+  - guyane
+  - liban
+  - syrie
+  - andorre
+  - monaco
+  - egypte
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Monde-francais.png'
+source: Université de Stockholm
+type: image

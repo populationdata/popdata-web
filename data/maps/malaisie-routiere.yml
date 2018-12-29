@@ -4,3 +4,13 @@ fr:
   title: Malaisie - routière
 en:
   title: Malaisie - routière
+continents: []
+countries:
+  - malaisie
+gmaps:
+  latitude: 4.390229
+  longitude: 107.973633
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Empire russe (1866)
 en:
   title: Empire russe (1866)
+continents:
+  - ameriques
+  - asie
+  - europe
+countries:
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/empire-russe-1866.png
+source: Wikipédia
+type: image

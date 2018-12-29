@@ -4,3 +4,12 @@ fr:
   title: Nouméa - routière
 en:
   title: Nouméa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -22.260185
+  longitude: 166.459351
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Mauritanie - relief
 en:
   title: Mauritanie - relief
+continents: []
+countries:
+  - mauritanie
+image: 'http://www.populationdata.net/wp-content/uploads/mauritanie_relief.jpg'
+source: CIA
+type: image

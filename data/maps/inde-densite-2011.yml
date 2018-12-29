@@ -4,3 +4,9 @@ fr:
   title: Inde - densité (2011)
 en:
   title: Inde - densité (2011)
+continents: []
+countries:
+  - inde
+image: 'http://www.populationdata.net/wp-content/uploads/inde-densite.gif'
+source: Wikipédia
+type: image

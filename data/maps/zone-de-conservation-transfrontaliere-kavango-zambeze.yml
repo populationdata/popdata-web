@@ -4,3 +4,15 @@ fr:
   title: Zone de conservation transfrontalière du Kavango-Zambèze
 en:
   title: Zone de conservation transfrontalière du Kavango-Zambèze
+continents:
+  - afrique
+countries:
+  - botswana
+  - namibie
+  - angola
+  - zambie
+  - zimbabwe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Zone-de-conservation-transfrontaliere-Kavango-Zambeze.png
+source: Wikipédia
+type: image

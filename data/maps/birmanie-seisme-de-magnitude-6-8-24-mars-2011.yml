@@ -4,3 +4,13 @@ fr:
   title: Birmanie - séisme de magnitude 6.8 (24 mars 2011)
 en:
   title: Birmanie - séisme de magnitude 6.8 (24 mars 2011)
+continents: []
+countries:
+  - myanmar-birmanie
+gmaps:
+  latitude: 20.7049
+  longitude: 99.949
+  type: terrain
+  zoom: 5
+source: USGS - Earthquake Hazards Program
+type: gmaps

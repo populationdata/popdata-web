@@ -4,3 +4,9 @@ fr:
   title: Suriname - petite
 en:
   title: Suriname - petite
+continents: []
+countries:
+  - suriname
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/suriname.gif'
+source: CIA
+type: image

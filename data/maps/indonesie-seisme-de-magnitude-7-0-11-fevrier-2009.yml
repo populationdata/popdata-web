@@ -4,3 +4,13 @@ fr:
   title: Indonésie - séisme de magnitude 7.0 (11 février 2009)
 en:
   title: Indonésie - séisme de magnitude 7.0 (11 février 2009)
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: 3.861514
+  longitude: 126.433411
+  type: terrain
+  zoom: 9
+source: USGS - Earthquake Hazards Program
+type: gmaps

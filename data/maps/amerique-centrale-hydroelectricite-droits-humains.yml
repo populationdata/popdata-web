@@ -4,3 +4,17 @@ fr:
   title: Amérique centrale - Hydroélectricité et droits humains
 en:
   title: Amérique centrale - Hydroélectricité et droits humains
+continents:
+  - ameriques
+countries:
+  - belize
+  - guatemala
+  - salvador
+  - honduras
+  - costa-rica
+  - panama
+  - nicaragua
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Amerique-centrale-hydroelectricite.png
+source: 'Cécile Marin, Le Monde diplomatique'
+type: image

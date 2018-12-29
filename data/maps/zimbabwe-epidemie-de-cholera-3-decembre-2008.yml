@@ -4,3 +4,9 @@ fr:
   title: Zimbabwé - épidémie de choléra (3 décembre 2008)
 en:
   title: Zimbabwé - épidémie de choléra (3 décembre 2008)
+continents: []
+countries:
+  - zimbabwe
+image: 'http://www.populationdata.net/wp-content/uploads/zimbabwe-cholera-3dec08.jpg'
+source: ReliefWeb
+type: image

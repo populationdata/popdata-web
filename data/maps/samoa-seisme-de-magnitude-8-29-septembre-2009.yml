@@ -4,3 +4,12 @@ fr:
   title: 'Samoa : séisme de magnitude 8 (29 septembre 2009)'
 en:
   title: 'Samoa : séisme de magnitude 8 (29 septembre 2009)'
+continents: []
+countries: []
+gmaps:
+  latitude: -15.5577
+  longitude: -172.0726
+  type: terrain
+  zoom: 7
+source: USGS
+type: gmaps

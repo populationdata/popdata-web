@@ -4,3 +4,13 @@ fr:
   title: 'Seychelles - Aldabra : satellite'
 en:
   title: 'Seychelles - Aldabra : satellite'
+continents: []
+countries:
+  - seychelles
+gmaps:
+  latitude: -9.419766
+  longitude: 46.335869
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

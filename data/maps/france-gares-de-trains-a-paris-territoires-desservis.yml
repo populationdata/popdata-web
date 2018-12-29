@@ -4,3 +4,10 @@ fr:
   title: 'France - gares de trains à Paris : territoires desservis'
 en:
   title: 'France - gares de trains à Paris : territoires desservis'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/france-gares-trains-paris.png
+source: Wikipédia
+type: image

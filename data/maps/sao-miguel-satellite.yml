@@ -4,3 +4,13 @@ fr:
   title: São Miguel - satellite
 en:
   title: São Miguel - satellite
+continents: []
+countries:
+  - acores
+gmaps:
+  latitude: 37.7867
+  longitude: -25.499597
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

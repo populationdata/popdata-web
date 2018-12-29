@@ -4,3 +4,12 @@ fr:
   title: Bobo-Dioulasso - satellite
 en:
   title: Bobo-Dioulasso - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 11.180245
+  longitude: -4.305189
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

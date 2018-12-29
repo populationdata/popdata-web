@@ -4,3 +4,9 @@ fr:
   title: Maldives - Haa Dhaalu
 en:
   title: Maldives - Haa Dhaalu
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Haa_Dhaalu.png'
+source: Wikipédia
+type: image

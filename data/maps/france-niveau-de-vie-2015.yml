@@ -4,3 +4,9 @@ fr:
   title: France - niveau de vie (2015)
 en:
   title: France - niveau de vie (2015)
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-niveau-de-vie-2015.png'
+source: Insee
+type: image

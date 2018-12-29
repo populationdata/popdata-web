@@ -4,3 +4,9 @@ fr:
   title: Ghana - régions administratives
 en:
   title: Ghana - régions administratives
+continents: []
+countries:
+  - ghana
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/Ghana-regions.png'
+source: Wikipédia
+type: image

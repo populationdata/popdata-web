@@ -4,3 +4,13 @@ fr:
   title: Suisse - routière
 en:
   title: Suisse - routière
+continents: []
+countries:
+  - suisse
+gmaps:
+  latitude: 46.965259
+  longitude: 8.305664
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

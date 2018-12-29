@@ -4,3 +4,9 @@ fr:
   title: Danemark - relief
 en:
   title: Danemark - relief
+continents: []
+countries:
+  - danemark
+image: 'http://www.populationdata.net/wp-content/uploads/danemark_relief.gif'
+source: CIA
+type: image

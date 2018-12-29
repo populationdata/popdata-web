@@ -4,3 +4,9 @@ fr:
   title: Vanuatu - relief
 en:
   title: Vanuatu - relief
+continents: []
+countries:
+  - vanuatu
+image: 'http://www.populationdata.net/wp-content/uploads/vanuatu_relief.jpg'
+source: CIA
+type: image

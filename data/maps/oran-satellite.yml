@@ -4,3 +4,12 @@ fr:
   title: Oran - satellite
 en:
   title: Oran - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.710002
+  longitude: -0.643044
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

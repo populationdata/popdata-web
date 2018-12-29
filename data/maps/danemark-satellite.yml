@@ -4,3 +4,13 @@ fr:
   title: Danemark - satellite
 en:
   title: Danemark - satellite
+continents: []
+countries:
+  - danemark
+gmaps:
+  latitude: 56.212814
+  longitude: 10.38208
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

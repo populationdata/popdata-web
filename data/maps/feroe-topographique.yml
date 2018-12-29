@@ -4,3 +4,10 @@ fr:
   title: Féroé - topographique
 en:
   title: Féroé - topographique
+continents: []
+countries:
+  - feroe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Feroe-topographique.png
+source: Wikipédia
+type: image

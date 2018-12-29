@@ -4,3 +4,9 @@ fr:
   title: Éthiopie - densité (2004)
 en:
   title: Éthiopie - densité (2004)
+continents: []
+countries:
+  - ethiopie
+image: 'http://www.populationdata.net/wp-content/uploads/ethiopie-densite.jpg'
+source: Wikipédia
+type: image

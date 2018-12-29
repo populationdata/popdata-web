@@ -4,3 +4,12 @@ fr:
   title: Dodoma - satellite
 en:
   title: Dodoma - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -6.175286
+  longitude: 35.74007
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

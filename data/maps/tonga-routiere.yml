@@ -4,3 +4,13 @@ fr:
   title: Tonga - routière
 en:
   title: Tonga - routière
+continents: []
+countries:
+  - tonga
+gmaps:
+  latitude: -18.638954
+  longitude: -174.893947
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Guinée-Bissau - satellite
 en:
   title: Guinée-Bissau - satellite
+continents: []
+countries:
+  - guinee-bissau
+gmaps:
+  latitude: 11.832406
+  longitude: -15.240784
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

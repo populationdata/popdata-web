@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Zélande - Île du Nord
 en:
   title: New Zealand - North Island
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  http://www.populationdata.net/wp-content/uploads/nouvelle-zelande-ile-du-nord.gif
+source: Wikipédia
+type: image

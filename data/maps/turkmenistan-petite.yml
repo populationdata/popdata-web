@@ -4,3 +4,9 @@ fr:
   title: Turkménistan - petite
 en:
   title: Turkménistan - petite
+continents: []
+countries:
+  - turkmenistan
+image: 'http://www.populationdata.net/wp-content/uploads/turkmenistan-petite.gif'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Mexico - routière
 en:
   title: Mexico - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 19.423859
+  longitude: -99.104919
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

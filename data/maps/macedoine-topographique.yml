@@ -4,3 +4,10 @@ fr:
   title: Macédoine - topographique
 en:
   title: Macédoine - topographique
+continents: []
+countries:
+  - macedoine-du-nord
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Macedoine-topographique.jpg
+source: Wikipédia
+type: image

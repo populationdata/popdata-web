@@ -4,3 +4,13 @@ fr:
   title: Soudan - routière
 en:
   title: Soudan - routière
+continents: []
+countries:
+  - soudan
+gmaps:
+  latitude: 15.601875
+  longitude: 30.904541
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

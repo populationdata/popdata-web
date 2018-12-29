@@ -4,3 +4,12 @@ fr:
   title: Chittagong - satellite
 en:
   title: Chittagong - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 22.322765
+  longitude: 91.803217
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

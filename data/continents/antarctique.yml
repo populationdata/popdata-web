@@ -4,6 +4,7 @@ fr:
   name: Antarctique
 en:
   name: Antarctica
+datamapScope: ''
 gdpYear: 0
 numberOfTimeZones: 24
 lifeExpectancy: 0

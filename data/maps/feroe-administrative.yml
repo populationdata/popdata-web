@@ -4,3 +4,10 @@ fr:
   title: Féroé - administrative
 en:
   title: Féroé - administrative
+continents: []
+countries:
+  - feroe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Feroe-administrative.png
+source: Wikipédia
+type: image

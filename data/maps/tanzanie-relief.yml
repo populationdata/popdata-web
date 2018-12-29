@@ -4,3 +4,9 @@ fr:
   title: Tanzanie - relief
 en:
   title: Tanzanie - relief
+continents: []
+countries:
+  - tanzanie
+image: 'http://www.populationdata.net/wp-content/uploads/tanzanie_relief.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Manuae
 en:
   title: Manuae
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-manuae.png'
+source: Wikipédia
+type: image

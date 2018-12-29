@@ -4,3 +4,10 @@ fr:
   title: 'Soudan - Soudan du Sud : hydrocarbures'
 en:
   title: 'Soudan - Soudan du Sud : hydrocarbures'
+continents: []
+countries:
+  - soudan
+  - soudan-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/Soudan-petrole-et-gaz.png'
+source: Wikipédia
+type: image

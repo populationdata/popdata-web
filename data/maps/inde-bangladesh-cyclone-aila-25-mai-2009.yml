@@ -4,3 +4,11 @@ fr:
   title: 'Inde - Bangladesh : cyclone Aila (25 mai 2009)'
 en:
   title: 'Inde - Bangladesh : cyclone Aila (25 mai 2009)'
+continents: []
+countries:
+  - bangladesh
+  - inde
+image: >-
+  http://www.populationdata.net/wp-content/uploads/inde-bangladesh-cyclone-aila.jpg
+source: Nasa Earth Observatory
+type: image

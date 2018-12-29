@@ -4,3 +4,12 @@ fr:
   title: Amman - satellite
 en:
   title: Amman - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 31.964542
+  longitude: 35.92701
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

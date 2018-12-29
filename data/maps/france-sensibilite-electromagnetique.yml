@@ -4,3 +4,10 @@ fr:
   title: France - sensibilité électromagnétique
 en:
   title: France - sensibilité électromagnétique
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/france-electro-hypersensibles.jpg
+source: Réseau EHS Entraide
+type: image

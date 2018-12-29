@@ -4,3 +4,9 @@ fr:
   title: Norvège - langues
 en:
   title: Norvège - langues
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege-langues.jpg'
+source: Wikipédia
+type: image

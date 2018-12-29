@@ -4,3 +4,13 @@ fr:
   title: Taïwan - routière
 en:
   title: Taïwan - routière
+continents: []
+countries:
+  - taiwan
+gmaps:
+  latitude: 23.868257
+  longitude: 120.802917
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

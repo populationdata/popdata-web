@@ -4,3 +4,10 @@ fr:
   title: Chine - grands ports
 en:
   title: Chine - grands ports
+continents: []
+countries:
+  - chine
+  - hong-kong
+image: 'https://www.populationdata.net/wp-content/uploads/Chine-grands-ports.jpg'
+source: Isemar
+type: image

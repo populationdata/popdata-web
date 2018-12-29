@@ -3,3 +3,10 @@ date: '2017-10-15T17:01:20.000Z'
 fr:
   title: États-Unis - athéisme
 en: null
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Etats-Unis-atheisme.jpg
+source: Mapchart
+type: image

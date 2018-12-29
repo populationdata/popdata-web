@@ -4,3 +4,9 @@ fr:
   title: France - relief
 en:
   title: France - relief
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france_relief.gif'
+source: IGN
+type: image

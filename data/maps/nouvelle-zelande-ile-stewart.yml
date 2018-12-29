@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Zélande - Île Stewart
 en:
   title: New Zealand - Stewart Island
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Nouvelle-Zelande-ile-Stewart.png
+source: Wikipédia
+type: image

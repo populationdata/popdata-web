@@ -4,3 +4,10 @@ fr:
   title: Mayotte - administrative
 en:
   title: Mayotte - administrative
+continents: []
+countries:
+  - mayotte
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Mayotte-administrative.png
+source: Wikipédia
+type: image

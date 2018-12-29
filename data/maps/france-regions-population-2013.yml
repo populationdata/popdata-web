@@ -4,3 +4,10 @@ fr:
   title: 'France - régions : population (2013)'
 en:
   title: 'France - régions : population (2013)'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/France-regions-population-2013.png
+source: 'Insee, Khartis'
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Turkménistan - relief
 en:
   title: Turkménistan - relief
+continents: []
+countries:
+  - turkmenistan
+image: 'http://www.populationdata.net/wp-content/uploads/turkmenistan-relief.jpg'
+source: CIA
+type: image

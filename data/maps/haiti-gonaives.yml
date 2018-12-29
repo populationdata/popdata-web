@@ -4,3 +4,12 @@ fr:
   title: Haïti - Gonaïves
 en:
   title: Haïti - Gonaïves
+continents: []
+countries: []
+gmaps:
+  latitude: 19.45591
+  longitude: -72.697392
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Afrique - Régimes politiques depuis l'indépendance
 en:
   title: Afrique - Régimes politiques depuis l'indépendance
+continents:
+  - afrique
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/Afrique-Gouvernance.png'
+source: 'Cécile Marin, Le Monde Diplomatique'
+type: image

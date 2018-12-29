@@ -4,3 +4,9 @@ fr:
   title: Angola - topographique
 en:
   title: Angola - topographique
+continents: []
+countries:
+  - angola
+image: 'http://www.populationdata.net/wp-content/uploads/angola-topographique.jpg'
+source: Wikipédia
+type: image

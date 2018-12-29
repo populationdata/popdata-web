@@ -4,3 +4,11 @@ fr:
   title: 'Inde - Chine : frontière est'
 en:
   title: 'Inde - Chine : frontière est'
+continents: []
+countries:
+  - chine
+  - inde
+image: >-
+  http://www.populationdata.net/wp-content/uploads/inde_chine_frontiere_nord_est.jpg
+source: CIA
+type: image

@@ -4,3 +4,8 @@ fr:
   title: GAFI - pays membres
 en:
   title: GAFI - pays membres
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/gafi-fatf.png'
+source: GAFI
+type: image

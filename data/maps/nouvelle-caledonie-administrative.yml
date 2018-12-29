@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Calédonie - administrative
 en:
   title: Nouvelle-Calédonie - administrative
+continents: []
+countries:
+  - nouvelle-caledonie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Nouvelle-Caledonie-administrative.png
+source: Wikipédia
+type: image

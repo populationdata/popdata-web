@@ -4,3 +4,10 @@ fr:
   title: 'États-Unis - Feux de forêt : origine (1992-2012)'
 en:
   title: 'États-Unis - Feux de forêt : origine (1992-2012)'
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/etats-unis-feux-1992-2012.jpg
+source: Nasa Earth Observatory
+type: image

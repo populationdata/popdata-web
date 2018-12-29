@@ -4,3 +4,12 @@ fr:
   title: Yamoussoukro - satellite
 en:
   title: Yamoussoukro - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.809342
+  longitude: -5.277557
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

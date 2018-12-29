@@ -4,3 +4,10 @@ fr:
   title: Iran - Désert de Lout (satellite)
 en:
   title: Iran - Désert de Lout (satellite)
+continents: []
+countries:
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Iran-Desert-de-Lout-satellite.jpg
+source: Nasa Earth Observatory
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Asie - Routière
 en:
   title: Asie - Routière
+continents:
+  - asie
+countries: []
+gmaps:
+  latitude: 44.465151
+  longitude: 81.914063
+  type: roadmap
+  zoom: 2
+source: Google Maps
+type: gmaps

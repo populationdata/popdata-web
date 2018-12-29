@@ -4,3 +4,12 @@ fr:
   title: Hargeisa - satellite
 en:
   title: Hargeisa - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 9.555894
+  longitude: 44.059811
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

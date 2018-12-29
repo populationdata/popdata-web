@@ -4,3 +4,9 @@ fr:
   title: Mauritanie
 en:
   title: Mauritanie
+continents: []
+countries:
+  - mauritanie
+image: 'http://www.populationdata.net/wp-content/uploads/mauritanie.jpg'
+source: CIA
+type: image

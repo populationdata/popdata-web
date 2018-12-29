@@ -4,3 +4,13 @@ fr:
   title: Mariannes du Nord - routière
 en:
   title: Mariannes du Nord - routière
+continents: []
+countries:
+  - mariannes-du-nord
+gmaps:
+  latitude: 16.22572
+  longitude: 145.454149
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

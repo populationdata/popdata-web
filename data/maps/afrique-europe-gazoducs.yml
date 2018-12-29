@@ -4,3 +4,14 @@ fr:
   title: Afrique-Europe - gazoducs
 en:
   title: Afrique-Europe - gazoducs
+continents:
+  - afrique
+  - europe
+countries:
+  - algerie
+  - nigeria
+  - libye
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Afrique-Europe-gazoducs.jpg
+source: Wikipédia
+type: image

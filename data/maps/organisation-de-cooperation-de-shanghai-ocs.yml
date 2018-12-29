@@ -4,3 +4,18 @@ fr:
   title: Organisation de cooperation de Shanghai (OCS)
 en:
   title: Shanghai Cooperation Organization (SCO)
+continents:
+  - asie
+countries:
+  - chine
+  - russie
+  - pakistan
+  - inde
+  - kazakhstan
+  - kirghizistan
+  - ouzbekistan
+  - tadjikistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Organisation-de-cooperation-de-Shanghai-OCS.png
+source: Wikipédia
+type: image

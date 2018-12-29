@@ -4,3 +4,9 @@ fr:
   title: Abkhazie
 en:
   title: Abkhazie
+continents: []
+countries:
+  - abkhazie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Abkhazie-1.png'
+source: ONU
+type: image

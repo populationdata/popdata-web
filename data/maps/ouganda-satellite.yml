@@ -4,3 +4,13 @@ fr:
   title: Ouganda - satellite
 en:
   title: Ouganda - satellite
+continents: []
+countries:
+  - ouganda
+gmaps:
+  latitude: 1.48848
+  longitude: 32.151489
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

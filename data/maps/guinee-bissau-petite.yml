@@ -4,3 +4,9 @@ fr:
   title: Guinée-Bissau - petite
 en:
   title: Guinée-Bissau - petite
+continents: []
+countries:
+  - guinee-bissau
+image: 'https://www.populationdata.net/wp-content/uploads/Guinee-Bissau.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Mexique - langues parlées par +100 000 personnes
 en:
   title: Mexique - langues parlées par +100 000 personnes
+continents: []
+countries:
+  - mexique
+image: 'http://www.populationdata.net/wp-content/uploads/mexique-langues-parlees.png'
+source: Wikipédia
+type: image

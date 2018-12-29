@@ -4,3 +4,13 @@ fr:
   title: Aruba - routière
 en:
   title: Aruba - routière
+continents: []
+countries:
+  - aruba
+gmaps:
+  latitude: 12.517028
+  longitude: -69.977074
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

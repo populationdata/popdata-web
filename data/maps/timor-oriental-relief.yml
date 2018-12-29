@@ -4,3 +4,9 @@ fr:
   title: Timor oriental - relief
 en:
   title: Timor oriental - relief
+continents: []
+countries:
+  - timor-oriental
+image: 'http://www.populationdata.net/wp-content/uploads/timor-oriental-relief.png'
+source: Wikipédia
+type: image

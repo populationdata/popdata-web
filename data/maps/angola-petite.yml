@@ -4,3 +4,9 @@ fr:
   title: Angola - petite
 en:
   title: Angola - petite
+continents: []
+countries:
+  - angola
+image: 'http://www.populationdata.net/wp-content/uploads/angola-petite.png'
+source: Wikipédia
+type: image

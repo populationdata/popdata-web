@@ -4,3 +4,10 @@ fr:
   title: Union européenne – Territoires périphériques associés
 en:
   title: Union européenne – Territoires périphériques associés
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Monde-Union-europeenne-territoires.png
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Paraguay - administrative
 en:
   title: Paraguay - administrative
+continents: []
+countries:
+  - paraguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Paraguay-administrative.jpg
+source: 'Direction général des statistiques, des enquêtes et du recensement du Paraguay'
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Australie (1851)
 en:
   title: Australie (1851)
+continents: []
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Australie-1851.jpg'
+source: Sunmap
+type: image

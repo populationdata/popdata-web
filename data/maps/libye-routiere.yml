@@ -4,3 +4,13 @@ fr:
   title: Libye - routière
 en:
   title: Libye - routière
+continents: []
+countries:
+  - libye
+gmaps:
+  latitude: 26.377392
+  longitude: 17.226058
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

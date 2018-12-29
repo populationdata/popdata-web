@@ -4,3 +4,10 @@ fr:
   title: Canada - Terre-Neuve-et-Labrador
 en:
   title: Canada - Terre-Neuve-et-Labrador
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada_terre_neuve_et_labrador.jpg
+source: Ressources Naturelles Canada
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Suède - petite
 en:
   title: Suède - petite
+continents: []
+countries:
+  - suede
+image: 'http://www.populationdata.net/wp-content/uploads/suede-petite.gif'
+source: Wikipédia
+type: image

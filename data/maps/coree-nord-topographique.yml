@@ -4,3 +4,10 @@ fr:
   title: Corée du Nord - topographique
 en:
   title: Corée du Nord - topographique
+continents: []
+countries:
+  - coree-du-nord
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Coree-du-Nord-topographique.jpg
+source: Wikipédia
+type: image

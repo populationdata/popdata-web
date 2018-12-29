@@ -4,3 +4,13 @@ fr:
   title: Espagne - satellite
 en:
   title: Espagne - satellite
+continents: []
+countries:
+  - espagne
+gmaps:
+  latitude: 40.588928
+  longitude: -3.240967
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

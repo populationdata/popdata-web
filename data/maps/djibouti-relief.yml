@@ -4,3 +4,9 @@ fr:
   title: Djibouti - relief
 en:
   title: Djibouti - relief
+continents: []
+countries:
+  - djibouti
+image: 'http://www.populationdata.net/wp-content/uploads/djibouti_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Timor oriental - satellite
 en:
   title: Timor oriental - satellite
+continents: []
+countries:
+  - timor-oriental
+gmaps:
+  latitude: -8.840491
+  longitude: 125.714279
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

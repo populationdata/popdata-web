@@ -4,3 +4,12 @@ fr:
   title: Zanzibar - satellite
 en:
   title: Zanzibar - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -6.172982
+  longitude: 39.21793
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

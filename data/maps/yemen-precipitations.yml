@@ -4,3 +4,9 @@ fr:
   title: Yémen - précipitations
 en:
   title: Yémen - précipitations
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen_precipitations.jpg'
+source: CIA
+type: image

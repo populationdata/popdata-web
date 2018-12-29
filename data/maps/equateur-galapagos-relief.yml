@@ -4,3 +4,9 @@ fr:
   title: 'Équateur - Galapagos : relief'
 en:
   title: 'Équateur - Galapagos : relief'
+continents: []
+countries:
+  - equateur
+image: 'http://www.populationdata.net/wp-content/uploads/equateur_galapagos_relief.jpg'
+source: CIA
+type: image

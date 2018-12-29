@@ -4,3 +4,12 @@ fr:
   title: Nouadhibou - routière
 en:
   title: Nouadhibou - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 20.92649
+  longitude: -17.032757
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

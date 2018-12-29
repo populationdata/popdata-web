@@ -4,3 +4,9 @@ fr:
   title: Turquie (1940)
 en:
   title: Turquie (1940)
+continents: []
+countries:
+  - turquie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/turquie-1940.gif'
+source: Wikipédia
+type: image

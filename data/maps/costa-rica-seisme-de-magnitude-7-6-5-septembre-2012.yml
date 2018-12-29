@@ -4,3 +4,13 @@ fr:
   title: Costa Rica - séisme de magnitude 7.6 (5 septembre 2012)
 en:
   title: Costa Rica - séisme de magnitude 7.6 (5 septembre 2012)
+continents: []
+countries:
+  - costa-rica
+gmaps:
+  latitude: 9.9964
+  longitude: -85.318
+  type: terrain
+  zoom: 8
+source: USGS - Earthquake Hazards Program
+type: gmaps

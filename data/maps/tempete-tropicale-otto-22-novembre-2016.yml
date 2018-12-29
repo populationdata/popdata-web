@@ -4,3 +4,13 @@ fr:
   title: Tempête tropicale Otto (22 novembre 2016)
 en:
   title: Tempête tropicale Otto (22 novembre 2016)
+continents:
+  - ameriques
+countries:
+  - panama
+  - costa-rica
+  - nicaragua
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Tempete-tropicale-Otto-22-novembre-2016.png
+source: Nasa
+type: image

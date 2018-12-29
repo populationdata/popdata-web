@@ -4,3 +4,10 @@ fr:
   title: 'Hô-Chi-Minh-Ville - Viêt Nam : Montée des eaux'
 en:
   title: 'Hô-Chi-Minh-Ville - Viêt Nam : Montée des eaux'
+continents: []
+countries:
+  - viet-nam
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/montee-eaux-ho-chi-minh-viet-nam.jpg
+source: Université d'Arizona / Business Insider
+type: image

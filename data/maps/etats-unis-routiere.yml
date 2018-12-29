@@ -4,3 +4,13 @@ fr:
   title: États-Unis - routière
 en:
   title: États-Unis - routière
+continents: []
+countries:
+  - etats-unis
+gmaps:
+  latitude: 40.713956
+  longitude: -106.962891
+  type: roadmap
+  zoom: 4
+source: Google Maps
+type: gmaps

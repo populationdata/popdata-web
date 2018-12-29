@@ -4,3 +4,10 @@ fr:
   title: Corée du Nord - région de Pyongyang
 en:
   title: Corée du Nord - région de Pyongyang
+continents: []
+countries:
+  - coree-du-nord
+image: >-
+  http://www.populationdata.net/wp-content/uploads/coree_du_nord_pyongyang_region.jpg
+source: CIA
+type: image

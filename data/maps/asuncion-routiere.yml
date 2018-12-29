@@ -4,3 +4,12 @@ fr:
   title: Asunción - routière
 en:
   title: Asunción - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -25.313532
+  longitude: -57.594452
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

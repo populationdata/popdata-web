@@ -4,3 +4,16 @@ fr:
   title: 'Fleuves Tigre et Euphrate : bassins hydrographiques'
 en:
   title: 'Fleuves Tigre et Euphrate : bassins hydrographiques'
+continents:
+  - asie
+countries:
+  - turquie
+  - syrie
+  - irak
+  - iran
+  - arabie-saoudite
+  - koweit
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Tigre-Euphrate-bassin-hydrographique.png
+source: Wikipédia
+type: image

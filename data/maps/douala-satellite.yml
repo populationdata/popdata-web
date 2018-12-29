@@ -4,3 +4,12 @@ fr:
   title: Douala - satellite
 en:
   title: Douala - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 4.061878
+  longitude: 9.726334
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

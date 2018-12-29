@@ -4,6 +4,7 @@ fr:
   name: Europe
 en:
   name: Europe
+datamapScope: europa
 gdpYear: 2015
 numberOfTimeZones: 6
 lifeExpectancy: 74

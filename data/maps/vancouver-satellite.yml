@@ -4,3 +4,12 @@ fr:
   title: Vancouver - satellite
 en:
   title: Vancouver - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 49.22169
+  longitude: -123.029647
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Burkina Faso - topographique
 en:
   title: Burkina Faso - topographique
+continents: []
+countries:
+  - burkina-faso
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Burkina_Faso_relief.jpg
+source: Wikipédia
+type: image

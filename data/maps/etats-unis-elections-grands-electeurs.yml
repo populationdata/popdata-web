@@ -4,3 +4,10 @@ fr:
   title: États-Unis - élections (grands électeurs)
 en:
   title: États-Unis - élections (grands électeurs)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Etats-Unis-elections-grandes-electeurs.png
+source: Le Monde Diplomatique
+type: image

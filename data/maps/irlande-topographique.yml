@@ -4,3 +4,10 @@ fr:
   title: Irlande - topographique
 en:
   title: Irlande - topographique
+continents: []
+countries:
+  - irlande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Irlande-topographique.png
+source: Wikipédia
+type: image

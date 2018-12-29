@@ -4,3 +4,9 @@ fr:
   title: Nigéria - densité
 en:
   title: Nigéria - densité
+continents: []
+countries:
+  - nigeria
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/nigeria-densite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Alicante-Elche - routière
 en:
   title: Alicante-Elche - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.34893
+  longitude: -0.580746
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

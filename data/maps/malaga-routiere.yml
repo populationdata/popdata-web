@@ -4,3 +4,12 @@ fr:
   title: Málaga - routière
 en:
   title: Málaga - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 36.71389
+  longitude: -4.434321
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

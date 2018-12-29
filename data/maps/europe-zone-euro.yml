@@ -4,3 +4,35 @@ fr:
   title: Europe - Zone Euro
 en:
   title: Europe - Zone Euro
+continents:
+  - europe
+countries:
+  - finlande
+  - estonie
+  - lettonie
+  - lituanie
+  - irlande
+  - allemagne
+  - slovaquie
+  - slovenie
+  - grece
+  - chypre
+  - malte
+  - italie
+  - france
+  - espagne
+  - portugal
+  - kosovo
+  - montenegro
+  - belgique
+  - pays-bas
+  - luxembourg
+  - autriche
+  - andorre
+  - monaco
+  - vatican
+  - saint-marin
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Union-europeenne-zone-Euro.png
+source: Wikipédia
+type: image

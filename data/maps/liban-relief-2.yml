@@ -4,3 +4,13 @@ fr:
   title: Liban - relief
 en:
   title: Liban - relief
+continents: []
+countries:
+  - liban
+gmaps:
+  latitude: 33.865854
+  longitude: 35.892334
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Vanuatu - relief
 en:
   title: Vanuatu - relief
+continents: []
+countries: []
+gmaps:
+  latitude: -16.54143
+  longitude: 168.354492
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

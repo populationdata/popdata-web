@@ -4,3 +4,9 @@ fr:
   title: Madère - topographique
 en:
   title: Madère - topographique
+continents: []
+countries:
+  - madere
+image: 'http://www.populationdata.net/wp-content/uploads/madere-topographique.png'
+source: Wikipédia
+type: image

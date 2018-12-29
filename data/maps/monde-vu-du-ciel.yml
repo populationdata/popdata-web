@@ -4,3 +4,8 @@ fr:
   title: Monde - Vu du ciel
 en:
   title: Monde - Vu du ciel
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde.jpg'
+source: Nasa
+type: image

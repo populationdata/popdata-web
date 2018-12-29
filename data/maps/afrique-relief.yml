@@ -4,3 +4,9 @@ fr:
   title: Afrique - Relief
 en:
   title: Afrique - Relief
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-relief.jpg'
+source: Nasa
+type: image

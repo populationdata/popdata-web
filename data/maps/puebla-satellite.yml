@@ -4,3 +4,12 @@ fr:
   title: Puebla - satellite
 en:
   title: Puebla - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 19.198427
+  longitude: -98.217544
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

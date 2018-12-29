@@ -4,3 +4,13 @@ fr:
   title: Bosnie-et-Herzégovine - relief
 en:
   title: Bosnie-et-Herzégovine - relief
+continents: []
+countries:
+  - bosnie-et-herzegovine
+gmaps:
+  latitude: 43.992815
+  longitude: 17.457275
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

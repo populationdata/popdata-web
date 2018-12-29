@@ -4,3 +4,12 @@ fr:
   title: Lagos - satellite
 en:
   title: Lagos - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.616843
+  longitude: 3.368945
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

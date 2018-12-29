@@ -4,3 +4,12 @@ fr:
   title: Gaborone - satellite
 en:
   title: Gaborone - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -24.622363
+  longitude: 25.908165
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

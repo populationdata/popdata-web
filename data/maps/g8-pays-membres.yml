@@ -4,3 +4,16 @@ fr:
   title: G8 - pays membres
 en:
   title: G8 - pays membres
+continents: []
+countries:
+  - allemagne
+  - canada
+  - etats-unis
+  - france
+  - italie
+  - japon
+  - royaume-uni
+  - russie
+image: 'http://www.populationdata.net/wp-content/uploads/monde_g8.gif'
+source: PopulationData.net
+type: image

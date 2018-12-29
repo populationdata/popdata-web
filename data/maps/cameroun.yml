@@ -4,3 +4,9 @@ fr:
   title: Cameroun
 en:
   title: Cameroun
+continents: []
+countries:
+  - cameroun
+image: 'http://www.populationdata.net/wp-content/uploads/cameroun.jpg'
+source: CIA
+type: image

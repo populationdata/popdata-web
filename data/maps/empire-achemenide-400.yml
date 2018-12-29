@@ -4,3 +4,11 @@ fr:
   title: Empire achéménide (-400)
 en:
   title: Empire achéménide (-400)
+continents:
+  - asie
+countries:
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Empire-achemenide-400.png
+source: Wikipédia
+type: image

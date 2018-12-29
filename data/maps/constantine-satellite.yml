@@ -4,3 +4,12 @@ fr:
   title: Constantine - satellite
 en:
   title: Constantine - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.359237
+  longitude: 6.630421
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

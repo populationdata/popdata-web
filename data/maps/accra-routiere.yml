@@ -4,3 +4,12 @@ fr:
   title: Accra - routière
 en:
   title: Accra - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 5.589164
+  longitude: -0.211487
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

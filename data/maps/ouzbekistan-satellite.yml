@@ -4,3 +4,13 @@ fr:
   title: Ouzbékistan - satellite
 en:
   title: Ouzbékistan - satellite
+continents: []
+countries:
+  - ouzbekistan
+gmaps:
+  latitude: 41.120746
+  longitude: 65.906982
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

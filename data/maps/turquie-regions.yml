@@ -4,3 +4,9 @@ fr:
   title: Turquie - régions
 en:
   title: Turquie - régions
+continents: []
+countries:
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/turquie-regions.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Finlande - communes
 en:
   title: Finlande - communes
+continents: []
+countries:
+  - finlande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Finlande-communes.png
+source: Wikipédia
+type: image

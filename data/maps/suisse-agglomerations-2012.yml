@@ -4,3 +4,10 @@ fr:
   title: Suisse - agglomérations (2012)
 en:
   title: Suisse - agglomérations (2012)
+continents: []
+countries:
+  - suisse
+image: >-
+  http://www.populationdata.net/wp-content/uploads/suisse-agglomerations-2012.jpg
+source: OFS
+type: image

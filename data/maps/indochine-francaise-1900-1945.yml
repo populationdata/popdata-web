@@ -4,3 +4,12 @@ fr:
   title: Indochine française (1900-1945)
 en:
   title: French Indochina (1900-1945)
+continents: []
+countries:
+  - laos
+  - viet-nam
+  - cambodge
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Indochine-francaise-1900-1945.png
+source: Wikipédia
+type: image

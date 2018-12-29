@@ -4,3 +4,9 @@ fr:
   title: Europa
 en:
   title: Europa
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Europa.png'
+source: Wikipédia
+type: image

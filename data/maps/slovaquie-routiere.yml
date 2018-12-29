@@ -4,3 +4,13 @@ fr:
   title: Slovaquie - routière
 en:
   title: Slovaquie - routière
+continents: []
+countries:
+  - slovaquie
+gmaps:
+  latitude: 48.698212
+  longitude: 19.099731
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

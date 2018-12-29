@@ -4,3 +4,13 @@ fr:
   title: Trinité-et-Tobago - satellite
 en:
   title: Trinité-et-Tobago - satellite
+continents: []
+countries:
+  - trinite-et-tobago
+gmaps:
+  latitude: 10.657909
+  longitude: -61.246033
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

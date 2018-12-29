@@ -4,3 +4,9 @@ fr:
   title: Salomon - atoll
 en:
   title: Salomon - atoll
+continents: []
+countries:
+  - chagos
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Chagos-Salomon.png'
+source: Wikipédia
+type: image

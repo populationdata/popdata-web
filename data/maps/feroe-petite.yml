@@ -4,3 +4,9 @@ fr:
   title: Féroé - petite
 en:
   title: Féroé - petite
+continents: []
+countries:
+  - feroe
+image: 'http://www.populationdata.net/wp-content/uploads/feroe-petite.png'
+source: Wikipédia
+type: image

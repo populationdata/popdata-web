@@ -4,3 +4,9 @@ fr:
   title: Brésil - petite
 en:
   title: Brésil - petite
+continents: []
+countries:
+  - bresil
+image: 'http://www.populationdata.net/wp-content/uploads/bresil-petite.gif'
+source: CIA
+type: image

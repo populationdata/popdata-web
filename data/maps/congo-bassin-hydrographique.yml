@@ -4,3 +4,12 @@ fr:
   title: Congo - bassin hydrographique
 en:
   title: Congo - bassin hydrographique
+continents:
+  - afrique
+countries:
+  - republique-democratique-du-congo
+  - congo
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Fleuve-Congo-bassin-hydrographique.png
+source: Wikipédia
+type: image

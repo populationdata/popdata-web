@@ -4,3 +4,10 @@ fr:
   title: Indochine - topographique
 en:
   title: Indochine - topographique
+continents:
+  - asie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Indochine-topographique.png
+source: Wikipédia
+type: image

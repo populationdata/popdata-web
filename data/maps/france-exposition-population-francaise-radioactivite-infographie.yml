@@ -8,3 +8,10 @@ en:
   title: >-
     France - exposition de la population française à la radioactivité
     (infographie)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-IRSN-Exposition-population-2016.jpg
+source: IRSN
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Népal - topographique
 en:
   title: Népal - topographique
+continents: []
+countries:
+  - nepal
+image: 'http://www.populationdata.net/wp-content/uploads/nepal-topographique.jpg'
+source: Wikipédia
+type: image

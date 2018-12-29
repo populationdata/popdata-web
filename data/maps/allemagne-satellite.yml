@@ -4,3 +4,13 @@ fr:
   title: Allemagne - satellite
 en:
   title: Allemagne - satellite
+continents: []
+countries:
+  - allemagne
+gmaps:
+  latitude: 51.165691
+  longitude: 10.451526
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

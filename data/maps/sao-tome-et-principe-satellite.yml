@@ -4,3 +4,13 @@ fr:
   title: Sao Tomé-et-Principe - satellite
 en:
   title: Sao Tomé-et-Principe - satellite
+continents: []
+countries:
+  - sao-tome-et-principe
+gmaps:
+  latitude: 0.859648
+  longitude: 6.789551
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

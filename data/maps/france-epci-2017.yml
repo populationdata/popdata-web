@@ -4,3 +4,9 @@ fr:
   title: France - EPCI (2017)
 en:
   title: France - EPCI (2017)
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/france-epci-2017.jpg'
+source: Direction générale des collectivités locales de France
+type: image

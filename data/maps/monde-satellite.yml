@@ -4,3 +4,12 @@ fr:
   title: Monde - Satellite
 en:
   title: Monde - Satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 10.487812
+  longitude: 14.0625
+  type: satellite
+  zoom: 1
+source: Google Maps
+type: gmaps

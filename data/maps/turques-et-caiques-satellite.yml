@@ -4,3 +4,13 @@ fr:
   title: Turques-et-Caïques - satellite
 en:
   title: Turques-et-Caïques - satellite
+continents: []
+countries:
+  - turques-et-caiques
+gmaps:
+  latitude: 21.614026
+  longitude: -71.834106
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

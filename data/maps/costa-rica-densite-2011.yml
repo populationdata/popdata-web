@@ -4,3 +4,9 @@ fr:
   title: Costa Rica - densité (2011)
 en:
   title: Costa Rica - densité (2011)
+continents: []
+countries:
+  - costa-rica
+image: 'http://www.populationdata.net/wp-content/uploads/costa-rica-densite-2011.png'
+source: Institut national des statistiques du Costa Rica
+type: image

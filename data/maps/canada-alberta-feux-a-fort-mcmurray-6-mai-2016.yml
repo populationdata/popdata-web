@@ -4,3 +4,10 @@ fr:
   title: 'Canada - Alberta : feux à Fort McMurray (6 mai 2016)'
 en:
   title: 'Canada - Alberta : feux à Fort McMurray (6 mai 2016)'
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada-alberta-fortmcmurray-feux-2016.jpg
+source: Nasa Earth Observatory
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Mali - régions
 en:
   title: Mali - régions
+continents: []
+countries:
+  - mali
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/mali-regions.png'
+source: 'Wikipédia, PopulationData.net'
+type: image

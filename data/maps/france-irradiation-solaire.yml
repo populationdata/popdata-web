@@ -4,3 +4,10 @@ fr:
   title: France - irradiation solaire
 en:
   title: France - irradiation solaire
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/France-irradiation-solaire.png
+source: 'Wikipédia, GeoModel Solar'
+type: image

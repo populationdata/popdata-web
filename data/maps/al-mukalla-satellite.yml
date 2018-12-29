@@ -4,3 +4,12 @@ fr:
   title: Al Moukalla - satellite
 en:
   title: Al Moukalla - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.547696
+  longitude: 49.120731
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

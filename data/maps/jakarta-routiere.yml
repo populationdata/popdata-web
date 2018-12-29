@@ -4,3 +4,12 @@ fr:
   title: Jakarta - routière
 en:
   title: Jakarta - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -6.160524
+  longitude: 106.815434
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Népal - séisme de magnitude 7.8 (25 avril 2015)
 en:
   title: Népal - séisme de magnitude 7.8 (25 avril 2015)
+continents: []
+countries:
+  - nepal
+gmaps:
+  latitude: 28.147
+  longitude: 84.708
+  type: terrain
+  zoom: 8
+source: USGS - Earthquake Hazards Program
+type: gmaps

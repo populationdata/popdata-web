@@ -4,3 +4,12 @@ fr:
   title: 'Inde – Pakistan : Cachemire'
 en:
   title: 'Inde – Pakistan : Cachemire'
+continents: []
+countries:
+  - inde
+  - chine
+  - pakistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Inde-–-Pakistan-Cachemire.jpg
+source: Wikipédia
+type: image

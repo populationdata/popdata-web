@@ -4,3 +4,12 @@ fr:
   title: Al Hudaydah - satellite
 en:
   title: Al Hudaydah - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.803762
+  longitude: 42.953453
+  type: ''
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,20 @@ fr:
   title: Arctique - routes maritimes polaires
 en:
   title: Arctique - routes maritimes polaires
+continents:
+  - ameriques
+  - asie
+  - europe
+countries:
+  - canada
+  - russie
+  - etats-unis
+  - groenland
+  - danemark
+  - suede
+  - norvege
+  - islande
+image: >-
+  http://www.populationdata.net/wp-content/uploads/arctique-routes-maritimes-polaires.jpg
+source: Cahiers de géographie du Québec. Frédéric Lasserre
+type: image

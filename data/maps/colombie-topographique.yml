@@ -4,3 +4,9 @@ fr:
   title: Colombie - topographique
 en:
   title: Colombie - topographique
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-relief.png'
+source: Wikipédia
+type: image

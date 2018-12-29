@@ -4,3 +4,9 @@ fr:
   title: France - Seine
 en:
   title: France - Seine
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/2017/09/France-Seine.jpg'
+source: Wikipédia
+type: image

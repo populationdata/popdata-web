@@ -4,3 +4,10 @@ fr:
   title: Kerguelen - satellite
 en:
   title: Kerguelen - satellite
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/kerguelen-satellite.jpg
+source: Nasa
+type: image

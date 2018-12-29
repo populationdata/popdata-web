@@ -4,3 +4,12 @@ fr:
   title: Mexico - satellite
 en:
   title: Mexico - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 19.423859
+  longitude: -99.104919
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

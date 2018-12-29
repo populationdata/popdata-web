@@ -4,3 +4,12 @@ fr:
   title: Abidjan - satellite
 en:
   title: Abidjan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 5.35537
+  longitude: -3.990665
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

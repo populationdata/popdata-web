@@ -4,3 +4,12 @@ fr:
   title: Arbil - satellite
 en:
   title: Arbil - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.188044
+  longitude: 44.012947
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

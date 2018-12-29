@@ -4,3 +4,9 @@ fr:
   title: Barbade - petite
 en:
   title: Barbade - petite
+continents: []
+countries:
+  - barbade
+image: 'http://www.populationdata.net/wp-content/uploads/barbade-petite.png'
+source: Wikipédia
+type: image

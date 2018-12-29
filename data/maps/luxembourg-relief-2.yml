@@ -4,3 +4,13 @@ fr:
   title: Luxembourg - relief
 en:
   title: Luxembourg - relief
+continents: []
+countries:
+  - luxembourg
+gmaps:
+  latitude: 49.811404
+  longitude: 6.170197
+  type: terrain
+  zoom: 10
+source: Google Maps
+type: gmaps

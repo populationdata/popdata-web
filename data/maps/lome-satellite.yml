@@ -4,3 +4,12 @@ fr:
   title: Lomé - satellite
 en:
   title: Lomé - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.153441
+  longitude: 1.248236
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

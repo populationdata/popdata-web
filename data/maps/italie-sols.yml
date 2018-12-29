@@ -4,3 +4,9 @@ fr:
   title: Italie - sols
 en:
   title: Italie - sols
+continents: []
+countries:
+  - italie
+image: 'http://www.populationdata.net/wp-content/uploads/italie-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Japon - site de la centrale nucléaire de Fukushima Daiichi
 en:
   title: Japon - site de la centrale nucléaire de Fukushima Daiichi
+continents: []
+countries:
+  - japon
+image: >-
+  http://www.populationdata.net/wp-content/uploads/japon-centrale-nucleaire-fukushima-daiichi.png
+source: Rémy Scoccimarro - Université Toulouse Le Mirail
+type: image

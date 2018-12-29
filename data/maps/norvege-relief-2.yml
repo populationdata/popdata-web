@@ -4,3 +4,13 @@ fr:
   title: Norvège - relief
 en:
   title: Norvège - relief
+continents: []
+countries:
+  - norvege
+gmaps:
+  latitude: 66.337505
+  longitude: 16.699219
+  type: terrain
+  zoom: 5
+source: Google Maps
+type: gmaps

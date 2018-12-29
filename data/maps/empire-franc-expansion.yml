@@ -4,3 +4,17 @@ fr:
   title: Empire Franc - expansion
 en:
   title: Empire Franc - expansion
+continents:
+  - europe
+countries:
+  - france
+  - allemagne
+  - italie
+  - suisse
+  - autriche
+  - belgique
+  - pays-bas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Empire-Franc-expansion.png
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Bornéo - topographique
 en:
   title: Bornéo - topographique
+continents: []
+countries:
+  - indonesie
+  - malaisie
+  - brunei
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/borneo-topographique.jpg
+source: Wikipédia
+type: image

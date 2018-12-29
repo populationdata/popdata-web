@@ -4,3 +4,13 @@ fr:
   title: 'G8 - Heiligendamm, Allemagne'
 en:
   title: 'G8 - Heiligendamm, Allemagne'
+continents: []
+countries:
+  - allemagne
+gmaps:
+  latitude: 54.143707
+  longitude: 11.84184
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

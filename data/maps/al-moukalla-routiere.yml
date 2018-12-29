@@ -4,3 +4,12 @@ fr:
   title: Al Moukalla - routière
 en:
   title: Al Moukalla - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 14.547696
+  longitude: 49.120731
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

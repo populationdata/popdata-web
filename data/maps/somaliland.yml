@@ -4,3 +4,9 @@ fr:
   title: Somaliland
 en:
   title: Somaliland
+continents: []
+countries:
+  - somaliland
+image: 'http://www.populationdata.net/wp-content/uploads/somaliland.gif'
+source: Gouvernement du Somaliland
+type: image

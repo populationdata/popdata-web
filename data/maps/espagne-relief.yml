@@ -4,3 +4,9 @@ fr:
   title: Espagne - relief
 en:
   title: Espagne - relief
+continents: []
+countries:
+  - espagne
+image: 'http://www.populationdata.net/wp-content/uploads/espagne_relief.jpg'
+source: CIA
+type: image

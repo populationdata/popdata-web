@@ -4,3 +4,12 @@ fr:
   title: Santa Cruz de la Sierra - routière
 en:
   title: Santa Cruz de la Sierra - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -17.790208
+  longitude: -63.178082
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

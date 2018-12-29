@@ -4,3 +4,13 @@ fr:
   title: Donetsk - satellite
 en:
   title: Donetsk - satellite
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 47.987279
+  longitude: 37.797432
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

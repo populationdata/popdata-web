@@ -4,3 +4,13 @@ fr:
   title: Salvador - satellite
 en:
   title: Salvador - satellite
+continents: []
+countries:
+  - salvador
+gmaps:
+  latitude: 13.790071
+  longitude: -88.764038
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

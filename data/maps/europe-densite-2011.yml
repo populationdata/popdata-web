@@ -4,3 +4,9 @@ fr:
   title: Europe - Densité (2011)
 en:
   title: Europe - Density (2011)
+continents:
+  - europe
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/Europe-densite-2011.jpg'
+source: Eurostat
+type: image

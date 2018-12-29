@@ -4,3 +4,11 @@ fr:
   title: 'Australie - Heard et McDonald : topographique'
 en:
   title: 'Australie - Heard et McDonald : topographique'
+continents:
+  - antarctique
+countries:
+  - australie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Heard-McDonald-topographique.png
+source: Wikipédia
+type: image

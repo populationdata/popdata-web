@@ -4,3 +4,12 @@ fr:
   title: Varadero - routière
 en:
   title: Varadero - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 23.16327
+  longitude: -81.211029
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

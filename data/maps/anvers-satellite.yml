@@ -4,3 +4,12 @@ fr:
   title: Anvers - satellite
 en:
   title: Anvers - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.218282
+  longitude: 4.404831
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Niue - satellite
 en:
   title: Niue - satellite
+continents: []
+countries:
+  - nioue
+gmaps:
+  latitude: -19.052383
+  longitude: -169.864769
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

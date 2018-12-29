@@ -4,3 +4,9 @@ fr:
   title: Brunei - petite
 en:
   title: Brunei - petite
+continents: []
+countries:
+  - brunei
+image: 'http://www.populationdata.net/wp-content/uploads/brunei-petite.png'
+source: Wikipédia
+type: image

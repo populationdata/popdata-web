@@ -4,3 +4,12 @@ fr:
   title: Osaka-Kyoto-Kobé - routière
 en:
   title: Osaka-Kyoto-Kobé - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 34.702257
+  longitude: 135.473785
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

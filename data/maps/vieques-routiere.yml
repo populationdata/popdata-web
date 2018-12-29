@@ -4,3 +4,13 @@ fr:
   title: Vieques - routière
 en:
   title: Vieques - routière
+continents: []
+countries:
+  - porto-rico
+gmaps:
+  latitude: 18.139327
+  longitude: -65.44693
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

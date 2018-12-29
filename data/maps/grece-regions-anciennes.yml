@@ -4,3 +4,9 @@ fr:
   title: Grèce - régions (anciennes)
 en:
   title: Grèce - régions (anciennes)
+continents: []
+countries:
+  - grece
+image: 'http://www.populationdata.net/wp-content/uploads/grece-regions.png'
+source: Wikipédia
+type: image

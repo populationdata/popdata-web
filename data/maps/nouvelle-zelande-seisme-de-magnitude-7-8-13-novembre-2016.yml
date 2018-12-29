@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Zélande - séisme de magnitude 7.8 (13 novembre 2016)
 en:
   title: New Zealand - Magnitude 7.8 Earthquake (13 November 2016)
+continents: []
+countries:
+  - nouvelle-zelande
+gmaps:
+  latitude: -42.757
+  longitude: 173.077
+  type: terrain
+  zoom: 8
+source: Earthquake Hazards Program - USGS
+type: gmaps

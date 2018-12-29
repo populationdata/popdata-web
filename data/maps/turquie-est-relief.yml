@@ -4,3 +4,9 @@ fr:
   title: 'Turquie - est : relief'
 en:
   title: 'Turquie - est : relief'
+continents: []
+countries:
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/turquie_relief_est.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Mexique - petite
 en:
   title: Mexique - petite
+continents: []
+countries:
+  - mexique
+image: 'http://www.populationdata.net/wp-content/uploads/mexique-petite.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Sénégal
 en:
   title: Sénégal
+continents: []
+countries:
+  - senegal
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/Senegal.jpg'
+source: ONU
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Kaboul - satellite
 en:
   title: Kaboul - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 34.532015
+  longitude: 69.176445
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

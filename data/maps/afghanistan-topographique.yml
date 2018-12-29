@@ -3,3 +3,10 @@ date: '2017-12-01T22:57:08.000Z'
 fr:
   title: Afghanistan - topographique
 en: null
+continents: []
+countries:
+  - afghanistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/12/Afghanistan-topographique.png
+source: Wikipédia
+type: image

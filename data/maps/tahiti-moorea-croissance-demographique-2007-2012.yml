@@ -4,3 +4,10 @@ fr:
   title: Tahiti et Moorea - croissance démographique (2007-2012)
 en:
   title: Tahiti et Moorea - croissance démographique (2007-2012)
+continents: []
+countries:
+  - polynesie-francaise
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/tahiti-croissance-demographique-2006-2012.jpg
+source: ISPF
+type: image

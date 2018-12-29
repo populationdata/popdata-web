@@ -4,3 +4,9 @@ fr:
   title: Mayotte - topographique
 en:
   title: Mayotte - topographique
+continents: []
+countries:
+  - mayotte
+image: 'http://www.populationdata.net/wp-content/uploads/mayotte-topographique.png'
+source: Wikipédia
+type: image

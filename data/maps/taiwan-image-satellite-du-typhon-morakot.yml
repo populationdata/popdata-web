@@ -4,3 +4,9 @@ fr:
   title: Taïwan - image satellite du typhon Morakot
 en:
   title: Taïwan - image satellite du typhon Morakot
+continents: []
+countries:
+  - taiwan
+image: 'http://www.populationdata.net/wp-content/uploads/taiwan-morakot.jpg'
+source: Nasa Earth Observatory
+type: image

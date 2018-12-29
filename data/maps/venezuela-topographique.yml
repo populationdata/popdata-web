@@ -4,3 +4,9 @@ fr:
   title: Venezuela - topographique
 en:
   title: Venezuela - topographique
+continents: []
+countries:
+  - venezuela
+image: 'https://www.populationdata.net/wp-content/uploads/Venezuela-topographique.png'
+source: Wikipédia
+type: image

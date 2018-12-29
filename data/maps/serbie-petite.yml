@@ -4,3 +4,9 @@ fr:
   title: Serbie - petite
 en:
   title: Serbie - petite
+continents: []
+countries:
+  - serbie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/serbie.png'
+source: Wikipédia
+type: image

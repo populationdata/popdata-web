@@ -4,3 +4,10 @@ fr:
   title: Royaume-Uni - topographique
 en:
   title: Royaume-Uni - topographique
+continents: []
+countries:
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Royaume-Uni-topographique.jpg
+source: Wikipédia
+type: image

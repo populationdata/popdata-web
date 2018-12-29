@@ -4,3 +4,12 @@ fr:
   title: Monterrey - Saltillo - satellite
 en:
   title: Monterrey - Saltillo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 25.646244
+  longitude: -100.547663
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Angola - Cabinda
 en:
   title: Angola - Cabinda
+continents: []
+countries:
+  - angola
+image: 'http://www.populationdata.net/wp-content/uploads/angola-cabinda.jpg'
+source: Wikipédia
+type: image

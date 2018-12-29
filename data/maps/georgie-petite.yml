@@ -4,3 +4,9 @@ fr:
   title: Géorgie - petite
 en:
   title: Géorgie - petite
+continents: []
+countries:
+  - georgie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Georgie.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,15 @@ fr:
   title: 'Israël - Palestine (Gaza) : point de passage de Kerem Shalom'
 en:
   title: 'Israël - Palestine (Gaza) : point de passage de Kerem Shalom'
+continents: []
+countries:
+  - israel
+  - palestine
+  - egypte
+gmaps:
+  latitude: 31.219022
+  longitude: 34.270971
+  type: hybrid
+  zoom: 15
+source: Google Maps
+type: gmaps

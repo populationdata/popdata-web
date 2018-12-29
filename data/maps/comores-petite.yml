@@ -4,3 +4,9 @@ fr:
   title: Comores - petite
 en:
   title: Comores - petite
+continents: []
+countries:
+  - comores
+image: 'http://www.populationdata.net/wp-content/uploads/comores-petite.gif'
+source: Wikipédia
+type: image

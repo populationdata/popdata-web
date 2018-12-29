@@ -4,3 +4,9 @@ fr:
   title: Turques-et-Caïques - petite
 en:
   title: Turques-et-Caïques - petite
+continents: []
+countries:
+  - turques-et-caiques
+image: 'http://www.populationdata.net/wp-content/uploads/turques-et-caiques-petite.png'
+source: Wikipédia
+type: image

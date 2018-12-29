@@ -4,3 +4,9 @@ fr:
   title: Ouzbékistan - petite
 en:
   title: Ouzbékistan - petite
+continents: []
+countries:
+  - ouzbekistan
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Ouzbekistan.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Kolonia-Palikir - routière
 en:
   title: Kolonia-Palikir - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 6.967323
+  longitude: 158.209391
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

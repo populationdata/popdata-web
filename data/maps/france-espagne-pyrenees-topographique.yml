@@ -4,3 +4,11 @@ fr:
   title: 'France-Espagne - Pyrénées : topographique'
 en:
   title: 'France-Espagne - Pyrénées : topographique'
+continents: []
+countries:
+  - france
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/France-Espagne-Pyrenees-topographique.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Tunisie - relief
 en:
   title: Tunisie - relief
+continents: []
+countries:
+  - tunisie
+image: 'http://www.populationdata.net/wp-content/uploads/tunisie_relief.gif'
+source: CIA
+type: image

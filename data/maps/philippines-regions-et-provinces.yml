@@ -4,3 +4,10 @@ fr:
   title: Philippines - régions et provinces
 en:
   title: Philippines - régions et provinces
+continents: []
+countries:
+  - philippines
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/philippines-regions-provinces.png
+source: Wikipédia
+type: image

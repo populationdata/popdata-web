@@ -4,3 +4,9 @@ fr:
   title: Viêt Nam - petite
 en:
   title: Viêt Nam - petite
+continents: []
+countries:
+  - viet-nam
+image: 'http://www.populationdata.net/wp-content/uploads/viet-nam-petite.png'
+source: CIA
+type: image

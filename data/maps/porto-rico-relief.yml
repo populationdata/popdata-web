@@ -4,3 +4,13 @@ fr:
   title: Porto Rico - relief
 en:
   title: Porto Rico - relief
+continents: []
+countries:
+  - porto-rico
+gmaps:
+  latitude: 18.213698
+  longitude: -66.380768
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

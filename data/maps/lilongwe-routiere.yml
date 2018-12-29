@@ -4,3 +4,12 @@ fr:
   title: Lilongwe - routière
 en:
   title: Lilongwe - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -13.947396
+  longitude: 33.778152
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

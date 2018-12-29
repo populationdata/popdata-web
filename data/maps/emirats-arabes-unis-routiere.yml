@@ -4,3 +4,13 @@ fr:
   title: Émirats arabes unis - routière
 en:
   title: Émirats arabes unis - routière
+continents: []
+countries:
+  - emirats-arabes-unis
+gmaps:
+  latitude: 24.502145
+  longitude: 54.239502
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Afrique - Villes à risque face à la montée des eaux
 en:
   title: Afrique - Villes à risque face à la montée des eaux
+continents:
+  - afrique
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/afrique-villes-risque-eaux.png
+source: ReliefWeb
+type: image

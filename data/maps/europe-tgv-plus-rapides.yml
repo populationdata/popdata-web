@@ -4,3 +4,9 @@ fr:
   title: Europe - TGV les plus rapides
 en:
   title: Europe - TGV les plus rapides
+continents:
+  - europe
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/TGV-Europe.png'
+source: GoEuro
+type: image

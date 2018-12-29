@@ -4,3 +4,12 @@ fr:
   title: Tokyo - routière
 en:
   title: Tokyo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 35.602602
+  longitude: 139.645844
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

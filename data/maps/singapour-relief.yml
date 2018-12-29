@@ -4,3 +4,9 @@ fr:
   title: Singapour - relief
 en:
   title: Singapour - relief
+continents: []
+countries:
+  - singapour
+image: 'http://www.populationdata.net/wp-content/uploads/singapour_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Libéria - relief
 en:
   title: Libéria - relief
+continents: []
+countries:
+  - liberia
+image: 'http://www.populationdata.net/wp-content/uploads/liberia_relief.jpg'
+source: CIA
+type: image

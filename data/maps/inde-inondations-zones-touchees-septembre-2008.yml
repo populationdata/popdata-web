@@ -4,3 +4,13 @@ fr:
   title: 'Inde - inondations, zones touchées (septembre 2008)'
 en:
   title: 'Inde - inondations, zones touchées (septembre 2008)'
+continents: []
+countries:
+  - inde
+gmaps:
+  latitude: 25.799891
+  longitude: 86.781006
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Tobrouk - routière
 en:
   title: Tobrouk - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 32.07129
+  longitude: 23.947831
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: 'Colombie - coca : culture (2013)'
 en:
   title: 'Colombie - coca : culture (2013)'
+continents: []
+countries:
+  - colombie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/colombie-culture-coca-2013.jpg
+source: ONU
+type: image

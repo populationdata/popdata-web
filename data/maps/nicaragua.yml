@@ -4,3 +4,9 @@ fr:
   title: Nicaragua
 en:
   title: Nicaragua
+continents: []
+countries:
+  - nicaragua
+image: 'http://www.populationdata.net/wp-content/uploads/nicaragua.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Ponta Delgada - routière
 en:
   title: Ponta Delgada - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 37.785148
+  longitude: -25.606424
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

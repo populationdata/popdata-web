@@ -4,3 +4,12 @@ fr:
   title: Union européenne - Anglais
 en:
   title: Union européenne - Anglais
+continents:
+  - europe
+countries:
+  - royaume-uni
+  - irlande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Union-europeenne-anglais.png
+source: Wikipédia
+type: image

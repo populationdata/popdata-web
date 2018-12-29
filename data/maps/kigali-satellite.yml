@@ -4,3 +4,12 @@ fr:
   title: Kigali - satellite
 en:
   title: Kigali - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -1.951927
+  longitude: 30.079794
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

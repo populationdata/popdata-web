@@ -4,3 +4,9 @@ fr:
   title: Nigéria - relief
 en:
   title: Nigéria - relief
+continents: []
+countries:
+  - nigeria
+image: 'http://www.populationdata.net/wp-content/uploads/nigeria_relief.gif'
+source: CIA
+type: image

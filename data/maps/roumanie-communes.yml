@@ -4,3 +4,10 @@ fr:
   title: Roumanie - communes
 en:
   title: Roumanie - communes
+continents: []
+countries:
+  - roumanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Roumanie-communes.jpg
+source: Wikipédia
+type: image

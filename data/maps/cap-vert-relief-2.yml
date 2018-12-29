@@ -4,3 +4,13 @@ fr:
   title: Cap-Vert - relief
 en:
   title: Cap-Vert - relief
+continents: []
+countries:
+  - cap-vert
+gmaps:
+  latitude: 16.014136
+  longitude: -23.950195
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: France - Francie occidentale au Xe siècle
 en:
   title: France - Francie occidentale au Xe siècle
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-Francie-Xe-siecle.png
+source: Wikipédia
+type: image

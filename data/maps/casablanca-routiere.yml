@@ -4,3 +4,12 @@ fr:
   title: Casablanca - routière
 en:
   title: Casablanca - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 33.579731
+  longitude: -7.593613
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

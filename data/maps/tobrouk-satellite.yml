@@ -4,3 +4,12 @@ fr:
   title: Tobrouk - satellite
 en:
   title: Tobrouk - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 32.07129
+  longitude: 23.947831
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,23 @@ fr:
   title: Union des Nations sud-américaines (UNASUR)
 en:
   title: Union des Nations sud-américaines (UNASUR)
+continents:
+  - ameriques
+countries:
+  - argentine
+  - bresil
+  - venezuela
+  - colombie
+  - guyana
+  - guyane
+  - perou
+  - equateur
+  - chili
+  - uruguay
+  - paraguay
+  - bolivie
+  - suriname
+image: >-
+  http://www.populationdata.net/wp-content/uploads/union-nations-sud-americaines.jpg
+source: Wikipédia
+type: image

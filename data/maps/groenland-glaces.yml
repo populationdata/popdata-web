@@ -4,3 +4,9 @@ fr:
   title: Groenland - glaces
 en:
   title: Groenland - glaces
+continents: []
+countries:
+  - groenland
+image: 'http://www.populationdata.net/wp-content/uploads/groenland_glaces.gif'
+source: CIA
+type: image

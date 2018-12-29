@@ -4,3 +4,12 @@ fr:
   title: Hamhung - routière
 en:
   title: Hamhung - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 39.894329
+  longitude: 127.564316
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

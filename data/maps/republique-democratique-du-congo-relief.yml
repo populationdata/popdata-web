@@ -4,3 +4,13 @@ fr:
   title: République démocratique du Congo - relief
 en:
   title: République démocratique du Congo - relief
+continents: []
+countries:
+  - republique-democratique-du-congo
+gmaps:
+  latitude: -2.504085
+  longitude: 22.983398
+  type: terrain
+  zoom: 5
+source: Google Maps
+type: gmaps

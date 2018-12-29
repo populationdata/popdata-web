@@ -4,3 +4,10 @@ fr:
   title: Chine - image satellite de la tempête de poussière (avril 2009)
 en:
   title: Chine - image satellite de la tempête de poussière (avril 2009)
+continents: []
+countries:
+  - chine
+image: >-
+  http://www.populationdata.net/wp-content/uploads/chine-tempete-poussiere-avril2009.jpg
+source: Nasa Earth Observatory
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Mexique - relief
 en:
   title: Mexique - relief
+continents: []
+countries:
+  - mexique
+gmaps:
+  latitude: 23.14036
+  longitude: -101.403809
+  type: terrain
+  zoom: 5
+source: Google Maps
+type: gmaps

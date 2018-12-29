@@ -4,3 +4,12 @@ fr:
   title: Artsakh (Haut-Karabakh)
 en:
   title: Artsakh (Haut-Karabakh)
+continents: []
+countries:
+  - azerbaidjan
+  - artsakh-haut-karabakh
+  - armenie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/azerbaidjan_nagorno_karabakh.gif
+source: CIA
+type: image

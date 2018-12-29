@@ -4,3 +4,13 @@ fr:
   title: Grande Colombie (1824)
 en:
   title: Grande Colombie (1824)
+continents: []
+countries:
+  - colombie
+  - venezuela
+  - equateur
+  - panama
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grande-Colombie-1824.png
+source: Wikipédia
+type: image

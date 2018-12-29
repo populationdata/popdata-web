@@ -4,3 +4,10 @@ fr:
   title: Géorgie - topographique
 en:
   title: Géorgie - topographique
+continents: []
+countries:
+  - georgie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Georgie-topographique.jpg
+source: Wikipédia
+type: image

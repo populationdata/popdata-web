@@ -4,3 +4,12 @@ fr:
   title: Empire sassanide (621)
 en:
   title: Empire sassanide (621)
+continents:
+  - asie
+  - afrique
+countries:
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Empire-sassanide-621.jpg
+source: Wikipédia
+type: image

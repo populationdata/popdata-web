@@ -4,3 +4,10 @@ fr:
   title: Côte d'Ivoire - violences électorales (situation au 10 mars 2011)
 en:
   title: Côte d'Ivoire - violences électorales (situation au 10 mars 2011)
+continents: []
+countries:
+  - cote-divoire
+image: >-
+  http://www.populationdata.net/wp-content/uploads/cote-d-ivoire-violences-electorales-mars2011.jpg
+source: OCHA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: France - risques climatiques (2014)
 en:
   title: France - risques climatiques (2014)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/france-risques-climatiques-2014.png
+source: Insee
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'Monde - Italien : langue'
 en:
   title: 'Monde - Italien : langue'
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Monde-Italien-langue.png
+source: Wikipédia
+type: image

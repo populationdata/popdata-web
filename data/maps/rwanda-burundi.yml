@@ -4,3 +4,10 @@ fr:
   title: Rwanda et Burundi
 en:
   title: Rwanda et Burundi
+continents: []
+countries:
+  - rwanda
+  - burundi
+image: 'http://www.populationdata.net/wp-content/uploads/rwanda.jpg'
+source: CIA
+type: image

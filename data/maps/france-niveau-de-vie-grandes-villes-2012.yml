@@ -4,3 +4,10 @@ fr:
   title: France - niveau de vie des grandes villes (2012)
 en:
   title: France - niveau de vie des grandes villes (2012)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/France-niveau-de-vie-des-grandes-villes.png
+source: INSEE
+type: image

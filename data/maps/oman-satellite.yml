@@ -4,3 +4,13 @@ fr:
   title: Oman - satellite
 en:
   title: Oman - satellite
+continents: []
+countries:
+  - oman
+gmaps:
+  latitude: 21.871695
+  longitude: 56.162109
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

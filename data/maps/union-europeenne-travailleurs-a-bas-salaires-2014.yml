@@ -4,3 +4,10 @@ fr:
   title: Union européenne - Travailleurs à bas salaires (2014)
 en:
   title: Union européenne - Travailleurs à bas salaires (2014)
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/union-europeenne-travailleurs-bas-salaires-2014.jpg
+source: Eurostat
+type: image

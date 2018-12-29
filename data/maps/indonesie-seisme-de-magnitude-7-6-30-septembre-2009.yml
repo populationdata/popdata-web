@@ -4,3 +4,13 @@ fr:
   title: 'Indonésie - séisme de magnitude 7,6 (30 septembre 2009)'
 en:
   title: 'Indonésie - séisme de magnitude 7,6 (30 septembre 2009)'
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: -0.7889
+  longitude: 99.9606
+  type: terrain
+  zoom: 9
+source: USGS
+type: gmaps

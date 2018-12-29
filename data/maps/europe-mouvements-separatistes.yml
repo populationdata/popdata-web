@@ -4,3 +4,10 @@ fr:
   title: Europe - Mouvements séparatistes
 en:
   title: Europe - Mouvements séparatistes
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/europe-mouvements-separatistes.png
+source: Wikipédia ; Geopolitical Futures
+type: image

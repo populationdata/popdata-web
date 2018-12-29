@@ -4,3 +4,10 @@ fr:
   title: États-Unis - États (abréviations)
 en:
   title: États-Unis - États (abréviations)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Etats-Unis-Etats-abreviations.png
+source: Wikipédia
+type: image

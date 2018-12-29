@@ -4,3 +4,9 @@ fr:
   title: Malte - relief
 en:
   title: Malte - relief
+continents: []
+countries:
+  - malte
+image: 'http://www.populationdata.net/wp-content/uploads/malte-relief.gif'
+source: CIA
+type: image

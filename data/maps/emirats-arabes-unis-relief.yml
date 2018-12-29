@@ -4,3 +4,10 @@ fr:
   title: Émirats arabes unis - relief
 en:
   title: Émirats arabes unis - relief
+continents: []
+countries:
+  - emirats-arabes-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/emirats_arabes_unis_relief.jpg
+source: CIA
+type: image

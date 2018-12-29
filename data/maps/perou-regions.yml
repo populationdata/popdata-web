@@ -4,3 +4,9 @@ fr:
   title: Pérou - régions
 en:
   title: Pérou - régions
+continents: []
+countries:
+  - perou
+image: 'https://www.populationdata.net/wp-content/uploads/Perou-regions.png'
+source: Wikipédia
+type: image

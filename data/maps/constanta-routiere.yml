@@ -4,3 +4,12 @@ fr:
   title: Constanța - routière
 en:
   title: Constanța - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 44.175679
+  longitude: 28.617153
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: eSwatini (Swaziland) - relief
 en:
   title: eSwatini (Swaziland) - relief
+continents: []
+countries:
+  - eswatini-swaziland
+image: 'http://www.populationdata.net/wp-content/uploads/swaziland_relief.jpg'
+source: CIA
+type: image

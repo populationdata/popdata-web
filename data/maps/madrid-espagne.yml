@@ -4,3 +4,8 @@ fr:
   title: 'Madrid, Espagne'
 en:
   title: 'Madrid, Espagne'
+continents: []
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/Madrid-Espagne.jpg'
+source: ESA
+type: image

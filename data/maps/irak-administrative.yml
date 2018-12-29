@@ -4,3 +4,10 @@ fr:
   title: Irak - administrative
 en:
   title: Irak - administrative
+continents: []
+countries:
+  - irak
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Irak-administrative.png
+source: Wikipédia
+type: image

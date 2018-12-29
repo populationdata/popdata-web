@@ -4,3 +4,12 @@ fr:
   title: Phuket - satellite
 en:
   title: Phuket - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 7.908709
+  longitude: 98.382479
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Tripoli - routière
 en:
   title: Tripoli - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 32.839181
+  longitude: 13.189048
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

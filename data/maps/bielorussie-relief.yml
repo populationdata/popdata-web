@@ -4,3 +4,9 @@ fr:
   title: Biélorussie - relief
 en:
   title: Biélorussie - relief
+continents: []
+countries:
+  - belarus-bielorussie
+image: 'http://www.populationdata.net/wp-content/uploads/belarus_relief.jpg'
+source: CIA
+type: image

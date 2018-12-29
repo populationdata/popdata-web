@@ -4,3 +4,10 @@ fr:
   title: Suisse - langues (2017)
 en:
   title: Suisse - langues (2017)
+continents: []
+countries:
+  - suisse
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Suisse-langues-2017.png
+source: Office fédéral de la statistique
+type: image

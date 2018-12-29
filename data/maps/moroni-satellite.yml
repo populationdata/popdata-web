@@ -4,3 +4,12 @@ fr:
   title: Moroni - satellite
 en:
   title: Moroni - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -11.700904
+  longitude: 43.256049
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Maldives - topographique
 en:
   title: Maldives - topographique
+continents: []
+countries:
+  - maldives
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Maldives-topographique.jpg
+source: Wikipédia
+type: image

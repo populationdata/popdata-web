@@ -4,3 +4,12 @@ fr:
   title: Managua - satellite
 en:
   title: Managua - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 12.14104
+  longitude: -86.244736
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Pacifique - Ouragans Madeline et Lester sur la même image satellite
 en:
   title: Pacifique - Ouragans Madeline et Lester sur la même image satellite
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Pacifique-ouragans-Madeline-et-Lester-31-aout-2016.jpg
+source: Nasa
+type: image

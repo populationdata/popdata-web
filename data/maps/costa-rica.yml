@@ -4,3 +4,9 @@ fr:
   title: Costa Rica
 en:
   title: Costa Rica
+continents: []
+countries:
+  - costa-rica
+image: 'http://www.populationdata.net/wp-content/uploads/costa_rica.jpg'
+source: CIA
+type: image

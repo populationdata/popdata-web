@@ -4,3 +4,9 @@ fr:
   title: Paraguay
 en:
   title: Paraguay
+continents: []
+countries:
+  - paraguay
+image: 'http://www.populationdata.net/wp-content/uploads/paraguay.jpg'
+source: CIA
+type: image

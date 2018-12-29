@@ -4,3 +4,17 @@ fr:
   title: 'Himalaya - Tibet : satellite'
 en:
   title: 'Himalaya - Tibet : satellite'
+continents:
+  - asie
+countries:
+  - chine
+  - tadjikistan
+  - pakistan
+  - afghanistan
+  - inde
+  - nepal
+  - bhoutan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Himalaya-Tibet-satellite.jpg
+source: Wikipédia
+type: image

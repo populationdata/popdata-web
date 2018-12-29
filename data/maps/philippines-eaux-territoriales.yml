@@ -4,3 +4,10 @@ fr:
   title: Philippines - eaux territoriales
 en:
   title: Philippines - eaux territoriales
+continents: []
+countries:
+  - philippines
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Philippines-eaux-territoriales.png
+source: Wikipédia
+type: image

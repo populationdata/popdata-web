@@ -4,3 +4,10 @@ fr:
   title: Slovénie - topographique
 en:
   title: Slovénie - topographique
+continents: []
+countries:
+  - slovenie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Slovenie-topographique.png
+source: Wikipédia
+type: image

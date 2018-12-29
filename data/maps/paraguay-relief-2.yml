@@ -4,3 +4,13 @@ fr:
   title: Paraguay - relief
 en:
   title: Paraguay - relief
+continents: []
+countries:
+  - paraguay
+gmaps:
+  latitude: -23.684774
+  longitude: -57.579346
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

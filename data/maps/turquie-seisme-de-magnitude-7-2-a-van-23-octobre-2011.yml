@@ -4,3 +4,13 @@ fr:
   title: Turquie - séisme de magnitude 7.2 à Van (23 octobre 2011)
 en:
   title: Turquie - séisme de magnitude 7.2 à Van (23 octobre 2011)
+continents: []
+countries:
+  - turquie
+gmaps:
+  latitude: 38.628
+  longitude: 43.486
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

@@ -4,3 +4,16 @@ fr:
   title: Mer de Chine méridionale - revendications
 en:
   title: Mer de Chine méridionale - revendications
+continents:
+  - asie
+countries:
+  - chine
+  - viet-nam
+  - philippines
+  - malaisie
+  - taiwan
+  - brunei
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Revendications-Mer-de-Chine-meridionale.jpg
+source: Wikipédia
+type: image

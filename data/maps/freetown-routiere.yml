@@ -4,3 +4,12 @@ fr:
   title: Freetown - routière
 en:
   title: Freetown - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 8.454714
+  longitude: -13.21003
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

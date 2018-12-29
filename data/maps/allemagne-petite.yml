@@ -4,3 +4,9 @@ fr:
   title: Allemagne - petite
 en:
   title: Allemagne - petite
+continents: []
+countries:
+  - allemagne
+image: 'http://www.populationdata.net/wp-content/uploads/allemagne-petite.gif'
+source: CIA
+type: image

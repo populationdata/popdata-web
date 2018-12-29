@@ -4,3 +4,15 @@ fr:
   title: Copenhague-Malmö - satellite
 en:
   title: Copenhague-Malmö - satellite
+continents:
+  - europe
+countries:
+  - danemark
+  - suede
+gmaps:
+  latitude: 55.663257
+  longitude: 12.607498
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

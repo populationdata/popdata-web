@@ -4,3 +4,10 @@ fr:
   title: Polynésie - exclaves polynésiennes
 en:
   title: Polynésie - exclaves polynésiennes
+continents:
+  - oceanie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/polynesie-exclaves-polynesiennes.png
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Marquises - topographique
 en:
   title: Marquises - topographique
+continents: []
+countries:
+  - polynesie-francaise
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Marquises-topographique.jpg
+source: Wikipédia
+type: image

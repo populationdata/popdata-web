@@ -4,3 +4,13 @@ fr:
   title: Kenya - satellite
 en:
   title: Kenya - satellite
+continents: []
+countries:
+  - kenya
+gmaps:
+  latitude: 0.57128
+  longitude: 36.97998
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

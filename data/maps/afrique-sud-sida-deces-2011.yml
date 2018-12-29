@@ -4,3 +4,10 @@ fr:
   title: 'Afrique du Sud - sida : décès (2011)'
 en:
   title: 'South Africa - AIDS: deaths (2011)'
+continents: []
+countries:
+  - afrique-du-sud
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Afrique-du-Sud-sida-deces-2011.jpg
+source: Sciences Po
+type: image

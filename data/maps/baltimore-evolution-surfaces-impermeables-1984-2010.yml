@@ -4,3 +4,10 @@ fr:
   title: Baltimore - évolution des surfaces imperméables (1984-2010)
 en:
   title: Baltimore - évolution des surfaces imperméables (1984-2010)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/baltimore-artificialisation-1.jpg
+source: Nasa
+type: image

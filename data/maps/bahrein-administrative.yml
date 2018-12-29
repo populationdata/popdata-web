@@ -4,3 +4,10 @@ fr:
   title: Bahreïn - administrative
 en:
   title: Bahreïn - administrative
+continents: []
+countries:
+  - bahrein
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Bahrein-gouvernorats.png
+source: Wikipédia
+type: image

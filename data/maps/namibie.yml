@@ -4,3 +4,9 @@ fr:
   title: Namibie
 en:
   title: Namibie
+continents: []
+countries:
+  - namibie
+image: 'http://www.populationdata.net/wp-content/uploads/namibie.jpg'
+source: CIA
+type: image

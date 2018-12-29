@@ -4,3 +4,9 @@ fr:
   title: Brésil - densité et villes
 en:
   title: Brésil - densité et villes
+continents: []
+countries:
+  - bresil
+image: 'http://www.populationdata.net/wp-content/uploads/bresil_densite.gif'
+source: Francis Monthé
+type: image

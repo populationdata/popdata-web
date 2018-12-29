@@ -4,3 +4,12 @@ fr:
   title: Dacca - routière
 en:
   title: Dacca - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 23.716289
+  longitude: 90.40761
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

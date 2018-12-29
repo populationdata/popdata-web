@@ -4,3 +4,10 @@ fr:
   title: Irlande - administrative
 en:
   title: Irlande - administrative
+continents: []
+countries:
+  - irlande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Irlande-administrative.png
+source: Wikipédia
+type: image

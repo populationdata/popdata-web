@@ -4,3 +4,12 @@ fr:
   title: Seattle - routière
 en:
   title: Seattle - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 47.61357
+  longitude: -122.309418
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

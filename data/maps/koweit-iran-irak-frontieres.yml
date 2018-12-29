@@ -4,3 +4,12 @@ fr:
   title: 'Koweït - Iran - Irak : frontières'
 en:
   title: 'Koweït - Iran - Irak : frontières'
+continents: []
+countries:
+  - koweit
+  - iran
+  - irak
+image: >-
+  http://www.populationdata.net/wp-content/uploads/koweit_frontiere_iran_iraq.jpg
+source: CIA
+type: image

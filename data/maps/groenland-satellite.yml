@@ -4,3 +4,13 @@ fr:
   title: Groenland - satellite
 en:
   title: Groenland - satellite
+continents: []
+countries:
+  - groenland
+gmaps:
+  latitude: 75.693931
+  longitude: -46.318359
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

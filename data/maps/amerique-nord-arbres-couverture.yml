@@ -4,3 +4,12 @@ fr:
   title: Amérique du Nord - Arbres (couverture)
 en:
   title: Amérique du Nord - Arbres (couverture)
+continents:
+  - ameriques
+countries:
+  - etats-unis
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Amerique-du-Nord-arbres.jpg
+source: 'Bill Rankin, Radical Cartography'
+type: image

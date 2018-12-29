@@ -4,3 +4,16 @@ fr:
   title: Communauté d'Afrique de l'Est
 en:
   title: Communauté d'Afrique de l'Est
+continents:
+  - afrique
+countries:
+  - soudan-du-sud
+  - kenya
+  - tanzanie
+  - ouganda
+  - burundi
+  - rwanda
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Afrique-Communaute-Afrique-Est.png
+source: Wikipédia
+type: image

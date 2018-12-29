@@ -3,3 +3,11 @@ date: '2017-10-10T03:50:11.000Z'
 fr:
   title: Canada-Groenland - Pikialasorsuaq (Polynie des eaux du nord)
 en: null
+continents: []
+countries:
+  - groenland
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Canada-Groenland-Pikialasorsuaq.jpg
+source: Commission Pikialasorsuaq
+type: image

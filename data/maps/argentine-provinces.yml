@@ -4,3 +4,10 @@ fr:
   title: Argentine - provinces
 en:
   title: Argentine - provinces
+continents: []
+countries:
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/argentine-provinces-.png
+source: Wikipédia
+type: image

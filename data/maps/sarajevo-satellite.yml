@@ -4,3 +4,12 @@ fr:
   title: Sarajevo - satellite
 en:
   title: Sarajevo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.845918
+  longitude: 18.356266
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

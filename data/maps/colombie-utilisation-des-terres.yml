@@ -4,3 +4,10 @@ fr:
   title: Colombie - utilisation des terres
 en:
   title: Colombie - utilisation des terres
+continents: []
+countries:
+  - colombie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/colombie-utilisation-terres.jpg
+source: CIA
+type: image

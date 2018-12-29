@@ -4,3 +4,9 @@ fr:
   title: Autriche - petite
 en:
   title: Autriche - petite
+continents: []
+countries:
+  - autriche
+image: 'http://www.populationdata.net/wp-content/uploads/autriche-petite.png'
+source: Wikipédia
+type: image

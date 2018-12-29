@@ -3,3 +3,10 @@ date: '2017-10-17T13:46:27.000Z'
 fr:
   title: Tour de France 2018
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Tour-de-France-2018.jpg
+source: Le Tour
+type: image

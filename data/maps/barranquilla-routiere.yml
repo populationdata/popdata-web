@@ -4,3 +4,12 @@ fr:
   title: Barranquilla - routière
 en:
   title: Barranquilla - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 10.965461
+  longitude: -74.788399
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

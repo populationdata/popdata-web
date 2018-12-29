@@ -4,3 +4,8 @@ fr:
   title: Monde - Localisation des séismes
 en:
   title: Monde - Localisation des séismes
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-seismes-1963-1998.png'
+source: USGS - Earthquake Hazards Program
+type: image

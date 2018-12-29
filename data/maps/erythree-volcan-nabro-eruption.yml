@@ -4,3 +4,9 @@ fr:
   title: Érythrée - volcan Nabro en éruption
 en:
   title: Érythrée - volcan Nabro en éruption
+continents: []
+countries:
+  - erythree
+image: 'http://www.populationdata.net/wp-content/uploads/erythree-volcan-nabro.jpg'
+source: Nasa Earth Observatory
+type: image

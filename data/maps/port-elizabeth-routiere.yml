@@ -4,3 +4,12 @@ fr:
   title: Port Elizabeth - routière
 en:
   title: Port Elizabeth - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -33.904616
+  longitude: 25.528793
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

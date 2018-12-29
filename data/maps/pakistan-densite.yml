@@ -4,3 +4,9 @@ fr:
   title: Pakistan - densité
 en:
   title: Pakistan - densité
+continents: []
+countries:
+  - pakistan
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Pakistan-densite.png'
+source: Wikipédia
+type: image

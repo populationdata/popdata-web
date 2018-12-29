@@ -4,3 +4,10 @@ fr:
   title: Empire aztèque (1519)
 en:
   title: Empire aztèque (1519)
+continents: []
+countries:
+  - mexique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Empire-azteque-1519.png
+source: Wikipédia
+type: image

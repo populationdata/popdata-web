@@ -4,3 +4,12 @@ fr:
   title: Adana - satellite
 en:
   title: Adana - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.997121
+  longitude: 35.326714
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Mangaia
 en:
   title: Mangaia
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-mangaiamap.png'
+source: Wikipédia
+type: image

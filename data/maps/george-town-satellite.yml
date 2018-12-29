@@ -4,3 +4,12 @@ fr:
   title: George Town - satellite
 en:
   title: George Town - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 19.300613
+  longitude: -81.369896
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Saint-Martin (Sint Maarten) - routière
 en:
   title: Saint-Martin (Sint Maarten) - routière
+continents: []
+countries:
+  - saint-martin-pays-bas
+gmaps:
+  latitude: 18.042758
+  longitude: -63.07152
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

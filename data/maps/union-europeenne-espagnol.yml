@@ -4,3 +4,11 @@ fr:
   title: Union européenne - Espagnol
 en:
   title: Union européenne - Espagnol
+continents:
+  - europe
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Union-europeenne-espagnol.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Niger - régions
 en:
   title: Niger - régions
+continents: []
+countries:
+  - niger
+image: 'http://www.populationdata.net/wp-content/uploads/niger-regions.png'
+source: Wikipédia
+type: image

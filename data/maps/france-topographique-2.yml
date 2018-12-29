@@ -4,3 +4,10 @@ fr:
   title: France - topographique
 en:
   title: France - topographique
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-topographique.jpg
+source: ''
+type: image

@@ -3,3 +3,11 @@ date: '2018-07-13T17:46:29.000Z'
 fr:
   title: OTAN - Dépenses militaires par pays
 en: null
+continents:
+  - europe
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/07/OTAN-depenses-militaires.jpg
+source: Émilie Canova
+type: image

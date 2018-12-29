@@ -4,3 +4,38 @@ fr:
   title: Empire ottoman (1683)
 en:
   title: Empire ottoman (1683)
+continents:
+  - asie
+  - afrique
+  - europe
+countries:
+  - turquie
+  - grece
+  - syrie
+  - egypte
+  - bulgarie
+  - roumanie
+  - ukraine
+  - hongrie
+  - albanie
+  - serbie
+  - bosnie-et-herzegovine
+  - liban
+  - palestine
+  - israel
+  - libye
+  - tunisie
+  - algerie
+  - arabie-saoudite
+  - erythree
+  - soudan
+  - djibouti
+  - irak
+  - jordanie
+  - armenie
+  - azerbaidjan
+  - koweit
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Empire-ottoman-1683.png
+source: Wikipédia
+type: image

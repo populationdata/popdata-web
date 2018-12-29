@@ -4,3 +4,10 @@ fr:
   title: République dominicaine - petite
 en:
   title: République dominicaine - petite
+continents: []
+countries:
+  - republique-dominicaine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/republique-dominicaine.gif
+source: Wikipédia
+type: image

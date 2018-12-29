@@ -4,3 +4,12 @@ fr:
   title: Nuku'alofa - routière
 en:
   title: Nuku'alofa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -21.138787
+  longitude: -175.204124
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

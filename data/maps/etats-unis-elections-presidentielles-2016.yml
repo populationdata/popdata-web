@@ -4,3 +4,10 @@ fr:
   title: États-Unis - élections présidentielles 2016
 en:
   title: États-Unis – élections présidentielles 2016
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Etats-unis-elections-2016-resultats.png
+source: Wikipédia
+type: image

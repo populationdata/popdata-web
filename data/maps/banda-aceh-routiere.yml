@@ -4,3 +4,12 @@ fr:
   title: Banda Aceh - routière
 en:
   title: Banda Aceh - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 5.557471
+  longitude: 95.323648
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

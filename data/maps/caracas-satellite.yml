@@ -4,3 +4,12 @@ fr:
   title: Caracas - satellite
 en:
   title: Caracas - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 10.500977
+  longitude: -66.901588
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

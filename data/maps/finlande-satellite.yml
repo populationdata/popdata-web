@@ -4,3 +4,13 @@ fr:
   title: Finlande - satellite
 en:
   title: Finlande - satellite
+continents: []
+countries:
+  - finlande
+gmaps:
+  latitude: 65.07213
+  longitude: 23.90625
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Dalap-Uliga-Darrit - satellite
 en:
   title: Dalap-Uliga-Darrit - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 7.099488
+  longitude: 171.352808
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

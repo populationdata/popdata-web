@@ -4,3 +4,13 @@ fr:
   title: Salomon - routière
 en:
   title: Salomon - routière
+continents: []
+countries:
+  - salomon
+gmaps:
+  latitude: -9.248037
+  longitude: 160.549695
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

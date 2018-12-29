@@ -4,3 +4,12 @@ fr:
   title: Katowice - satellite
 en:
   title: Katowice - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 50.265863
+  longitude: 19.008751
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

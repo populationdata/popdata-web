@@ -4,3 +4,9 @@ fr:
   title: France - régions
 en:
   title: France - régions
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/France-regions.png'
+source: Wikipédia
+type: image

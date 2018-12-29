@@ -4,3 +4,9 @@ fr:
   title: Cuba
 en:
   title: Cuba
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba.jpg'
+source: CIA
+type: image

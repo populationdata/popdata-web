@@ -4,3 +4,9 @@ fr:
   title: Gabon - petite
 en:
   title: Gabon - petite
+continents: []
+countries:
+  - gabon
+image: 'http://www.populationdata.net/wp-content/uploads/gabon-petite.png'
+source: Wikipédia
+type: image

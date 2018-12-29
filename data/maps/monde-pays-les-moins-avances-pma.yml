@@ -4,3 +4,12 @@ fr:
   title: Monde - Pays les moins avancés (PMA)
 en:
   title: Monde - Pays les moins avancés (PMA)
+continents:
+  - oceanie
+  - asie
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Monde-Pays-les-moins-avances.png
+source: Wikipédia
+type: image

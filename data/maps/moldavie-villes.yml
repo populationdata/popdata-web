@@ -4,3 +4,9 @@ fr:
   title: Moldavie - villes
 en:
   title: Moldavie - villes
+continents: []
+countries:
+  - moldavie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Moldavie-villes.jpg'
+source: Wikipédia
+type: image

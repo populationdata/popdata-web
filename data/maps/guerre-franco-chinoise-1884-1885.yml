@@ -4,3 +4,12 @@ fr:
   title: Guerre franco-chinoise (1884-1885)
 en:
   title: Guerre franco-chinoise (1884-1885)
+continents: []
+countries:
+  - chine
+  - france
+  - taiwan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/guerre-franco-chinoise-1884-1885.png
+source: Wikipédia
+type: image

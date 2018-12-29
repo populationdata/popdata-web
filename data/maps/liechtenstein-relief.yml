@@ -4,3 +4,13 @@ fr:
   title: Liechtenstein - relief
 en:
   title: Liechtenstein - relief
+continents: []
+countries:
+  - liechtenstein
+gmaps:
+  latitude: 47.146299
+  longitude: 9.544373
+  type: terrain
+  zoom: 11
+source: Google Maps
+type: gmaps

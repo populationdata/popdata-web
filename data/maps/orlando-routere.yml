@@ -4,3 +4,12 @@ fr:
   title: Orlando - routère
 en:
   title: Orlando - routère
+continents: []
+countries: []
+gmaps:
+  latitude: 28.518176
+  longitude: -81.385345
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

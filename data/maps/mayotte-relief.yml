@@ -4,3 +4,13 @@ fr:
   title: Mayotte - relief
 en:
   title: Mayotte - relief
+continents: []
+countries:
+  - mayotte
+gmaps:
+  latitude: -12.821175
+  longitude: 45.186081
+  type: terrain
+  zoom: 11
+source: Google Maps
+type: gmaps

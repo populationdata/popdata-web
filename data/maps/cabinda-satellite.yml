@@ -4,3 +4,12 @@ fr:
   title: Cabinda - satellite
 en:
   title: Cabinda - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -5.574385
+  longitude: 12.202549
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

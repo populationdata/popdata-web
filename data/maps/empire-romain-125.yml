@@ -3,3 +3,12 @@ date: '2017-12-19T21:25:18.000Z'
 fr:
   title: Empire romain (125)
 en: null
+continents:
+  - afrique
+  - asie
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/12/Empire-romain-125.jpg
+source: Wikipédia
+type: image

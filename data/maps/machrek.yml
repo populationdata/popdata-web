@@ -4,3 +4,19 @@ fr:
   title: Machrek
 en:
   title: Machrek
+continents:
+  - asie
+countries:
+  - turquie
+  - syrie
+  - liban
+  - israel
+  - palestine
+  - jordanie
+  - irak
+  - arabie-saoudite
+  - koweit
+  - kurdistan
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Machrek.png'
+source: Wikipédia
+type: image

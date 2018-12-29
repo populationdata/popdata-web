@@ -4,3 +4,9 @@ fr:
   title: Aitutaki
 en:
   title: Aitutaki
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-aitutakitopo.png'
+source: Wikipédia
+type: image

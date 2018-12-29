@@ -4,3 +4,12 @@ fr:
   title: Sanliurfa - satellite
 en:
   title: Sanliurfa - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 37.163674
+  longitude: 38.797498
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

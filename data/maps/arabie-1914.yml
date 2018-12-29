@@ -4,3 +4,10 @@ fr:
   title: Arabie (1914)
 en:
   title: Arabie (1914)
+continents:
+  - asie
+countries:
+  - arabie-saoudite
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Arabie-1914.png'
+source: Wikipédia
+type: image

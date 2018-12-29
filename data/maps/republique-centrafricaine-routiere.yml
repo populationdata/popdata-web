@@ -4,3 +4,13 @@ fr:
   title: République centrafricaine - routière
 en:
   title: République centrafricaine - routière
+continents: []
+countries:
+  - republique-centrafricaine
+gmaps:
+  latitude: 6.719165
+  longitude: 20.456543
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

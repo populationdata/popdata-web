@@ -4,3 +4,9 @@ fr:
   title: Kirghizistan
 en:
   title: Kirghizistan
+continents: []
+countries:
+  - kirghizistan
+image: 'http://www.populationdata.net/wp-content/uploads/kirghizstan.jpg'
+source: CIA
+type: image

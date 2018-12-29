@@ -4,3 +4,11 @@ fr:
   title: Syrie-Liban - mandat français (1920-1946)
 en:
   title: Syrie-Liban - mandat français (1920-1946)
+continents: []
+countries:
+  - syrie
+  - liban
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Syrie-Liban-mandat-francais.png
+source: Wikipédia
+type: image

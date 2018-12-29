@@ -4,3 +4,9 @@ fr:
   title: Gabon - relief
 en:
   title: Gabon - relief
+continents: []
+countries:
+  - gabon
+image: 'http://www.populationdata.net/wp-content/uploads/gabon_relief.jpg'
+source: CIA
+type: image

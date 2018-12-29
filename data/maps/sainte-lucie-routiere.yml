@@ -4,3 +4,13 @@ fr:
   title: Sainte-Lucie - routière
 en:
   title: Sainte-Lucie - routière
+continents: []
+countries:
+  - sainte-lucie
+gmaps:
+  latitude: 13.900743
+  longitude: -60.991974
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

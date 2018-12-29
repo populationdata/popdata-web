@@ -4,3 +4,9 @@ fr:
   title: Europe - Forêts
 en:
   title: Europe - Forêts
+continents:
+  - europe
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/forets_europe.gif'
+source: nc
+type: image

@@ -4,3 +4,9 @@ fr:
   title: République centrafricaine - relief
 en:
   title: République centrafricaine - relief
+continents: []
+countries:
+  - republique-centrafricaine
+image: 'http://www.populationdata.net/wp-content/uploads/centrafrique_relief.jpg'
+source: CIA
+type: image

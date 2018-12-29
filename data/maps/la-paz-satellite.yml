@@ -4,3 +4,12 @@ fr:
   title: La Paz - satellite
 en:
   title: La Paz - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -16.508681
+  longitude: -68.150253
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

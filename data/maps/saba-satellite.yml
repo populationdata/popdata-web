@@ -4,3 +4,13 @@ fr:
   title: Saba - satellite
 en:
   title: Saba - satellite
+continents: []
+countries:
+  - pays-bas-caribeens
+gmaps:
+  latitude: 17.633114
+  longitude: -63.239936
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

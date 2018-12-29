@@ -4,3 +4,13 @@ fr:
   title: Saba - routière
 en:
   title: Saba - routière
+continents: []
+countries:
+  - pays-bas-caribeens
+gmaps:
+  latitude: 17.633114
+  longitude: -63.239936
+  type: roadmap
+  zoom: 14
+source: Google Maps
+type: gmaps

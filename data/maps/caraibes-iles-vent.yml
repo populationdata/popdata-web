@@ -4,3 +4,12 @@ fr:
   title: Caraïbes - Îles Sous-le-Vent
 en:
   title: Caraïbes - Îles Sous-le-Vent
+continents:
+  - ameriques
+countries:
+  - curacao
+  - aruba
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Caraibes-iles-sous-le-vent.png
+source: Wikipédia
+type: image

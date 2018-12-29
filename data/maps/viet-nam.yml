@@ -4,3 +4,9 @@ fr:
   title: Viêt Nam
 en:
   title: Viêt Nam
+continents: []
+countries:
+  - viet-nam
+image: 'http://www.populationdata.net/wp-content/uploads/vietnam_politique.jpg'
+source: CIA
+type: image

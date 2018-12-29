@@ -4,3 +4,12 @@ fr:
   title: Yaoundé - routière
 en:
   title: Yaoundé - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 3.854663
+  longitude: 11.509552
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

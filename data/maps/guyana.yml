@@ -4,3 +4,9 @@ fr:
   title: Guyana
 en:
   title: Guyana
+continents: []
+countries:
+  - guyana
+image: 'http://www.populationdata.net/wp-content/uploads/guyana.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Papouasie-Nouvelle-Guinée
 en:
   title: Papouasie-Nouvelle-Guinée
+continents: []
+countries:
+  - papouasie-nouvelle-guinee
+image: 'http://www.populationdata.net/wp-content/uploads/papouasie_nouvelle_guinee.jpg'
+source: CIA
+type: image

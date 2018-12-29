@@ -4,3 +4,9 @@ fr:
   title: Gibraltar
 en:
   title: Gibraltar
+continents: []
+countries:
+  - gibraltar
+image: 'http://www.populationdata.net/wp-content/uploads/gibraltar.jpg'
+source: CIA
+type: image

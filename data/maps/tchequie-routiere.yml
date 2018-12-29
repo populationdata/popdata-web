@@ -4,3 +4,13 @@ fr:
   title: Tchéquie - routière
 en:
   title: Tchéquie - routière
+continents: []
+countries:
+  - tchequie
+gmaps:
+  latitude: 49.845072
+  longitude: 15.538126
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

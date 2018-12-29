@@ -4,3 +4,12 @@ fr:
   title: Koror - routière
 en:
   title: Koror - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 7.345953
+  longitude: 134.474373
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

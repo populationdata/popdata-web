@@ -4,3 +4,9 @@ fr:
   title: Soudan - satellite
 en:
   title: Soudan - satellite
+continents: []
+countries:
+  - soudan
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Soudan-satellite.jpg'
+source: Wikipédia
+type: image

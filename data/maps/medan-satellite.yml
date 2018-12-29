@@ -4,3 +4,12 @@ fr:
   title: Medan - satellite
 en:
   title: Medan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 3.588122
+  longitude: 98.677139
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

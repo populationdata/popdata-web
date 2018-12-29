@@ -4,3 +4,9 @@ fr:
   title: Libye - combats (18 mars 2011)
 en:
   title: Libye - combats (18 mars 2011)
+continents: []
+countries:
+  - libye
+image: 'http://www.populationdata.net/wp-content/uploads/libye-combats-18mars2011.gif'
+source: Le Monde
+type: image

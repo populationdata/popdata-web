@@ -4,3 +4,13 @@ fr:
   title: Bahamas - satellite
 en:
   title: Bahamas - satellite
+continents: []
+countries:
+  - bahamas
+gmaps:
+  latitude: 23.885838
+  longitude: -76.300049
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: États-Unis - langues parlées (évolution)
 en:
   title: États-Unis - langues parlées (évolution)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/etats-unis-langues-parles-evolution.png
+source: Census bureau
+type: image

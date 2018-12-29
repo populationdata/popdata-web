@@ -4,3 +4,10 @@ fr:
   title: Uruguay - topographique
 en:
   title: Uruguay - topographique
+continents: []
+countries:
+  - uruguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Uruguay-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Hanoï - satellite
 en:
   title: Hanoï - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 21.022502
+  longitude: 105.836277
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

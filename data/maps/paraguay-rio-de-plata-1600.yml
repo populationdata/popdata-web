@@ -3,3 +3,14 @@ date: '2017-10-17T18:16:35.000Z'
 fr:
   title: Paraguay - Rio de la Plata (1600)
 en: null
+continents:
+  - ameriques
+countries:
+  - uruguay
+  - argentine
+  - paraguay
+  - bresil
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Paraguay-Rio-de-la-Plata-1600.jpg
+source: Wikipédia
+type: image

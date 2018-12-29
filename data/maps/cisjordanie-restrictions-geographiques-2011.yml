@@ -4,3 +4,10 @@ fr:
   title: Cisjordanie - restrictions géographiques (2011)
 en:
   title: Cisjordanie - restrictions géographiques (2011)
+continents: []
+countries:
+  - palestine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/cisjordanie-restrictions-geographiques.png
+source: Bureau des Nations unies pour la coordination des Affaires humanitaires (OCHA)
+type: image

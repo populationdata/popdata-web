@@ -4,3 +4,12 @@ fr:
   title: Téhéran - satellite
 en:
   title: Téhéran - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.694389
+  longitude: 51.401768
+  type: satellite
+  zoom: 11
+source: Google Maps
+type: gmaps

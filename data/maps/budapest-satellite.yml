@@ -4,3 +4,12 @@ fr:
   title: Budapest - satellite
 en:
   title: Budapest - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 47.500503
+  longitude: 19.065399
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

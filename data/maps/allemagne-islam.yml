@@ -3,3 +3,9 @@ date: '2017-10-15T16:40:17.000Z'
 fr:
   title: Allemagne - islam
 en: null
+continents: []
+countries:
+  - allemagne
+image: 'https://www.populationdata.net/wp-content/uploads/2017/10/Allemagne-islam.jpg'
+source: Mapchart
+type: image

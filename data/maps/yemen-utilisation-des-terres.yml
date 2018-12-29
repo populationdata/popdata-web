@@ -4,3 +4,9 @@ fr:
   title: Yémen - utilisation des terres
 en:
   title: Yémen - utilisation des terres
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen_terres.jpg'
+source: CIA
+type: image

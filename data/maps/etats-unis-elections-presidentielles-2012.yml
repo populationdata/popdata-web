@@ -4,3 +4,10 @@ fr:
   title: États-Unis - élections présidentielles 2012
 en:
   title: États-Unis - élections présidentielles 2012
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/etats-unis-elections-2012.png
+source: Wikipédia
+type: image

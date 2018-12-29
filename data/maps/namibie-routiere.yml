@@ -4,3 +4,13 @@ fr:
   title: Namibie - routière
 en:
   title: Namibie - routière
+continents: []
+countries:
+  - namibie
+gmaps:
+  latitude: -23.402765
+  longitude: 18.3
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

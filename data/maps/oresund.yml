@@ -4,3 +4,15 @@ fr:
   title: Øresund
 en:
   title: Øresund
+continents:
+  - europe
+countries:
+  - suede
+  - danemark
+gmaps:
+  latitude: 55.65789
+  longitude: 12.697482
+  type: roadmap
+  zoom: 10
+source: Google
+type: gmaps

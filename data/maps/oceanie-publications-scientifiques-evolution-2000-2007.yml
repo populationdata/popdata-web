@@ -4,3 +4,10 @@ fr:
   title: Océanie - Publications scientifiques (évolution 2000-2007)
 en:
   title: Océanie - Publications scientifiques (évolution 2000-2007)
+continents:
+  - oceanie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/oceanie-publications-scientifiques.jpg
+source: 'M@ppemonde, Web of Science, Thomson-Reuters'
+type: image

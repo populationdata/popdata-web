@@ -4,3 +4,12 @@ fr:
   title: Kolkata - satellite (Calcutta)
 en:
   title: Kolkata - satellite (Calcutta)
+continents: []
+countries: []
+gmaps:
+  latitude: 22.587545
+  longitude: 88.348274
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

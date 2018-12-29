@@ -4,3 +4,12 @@ fr:
   title: Nairobi - routière
 en:
   title: Nairobi - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -1.283233
+  longitude: 36.89003
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

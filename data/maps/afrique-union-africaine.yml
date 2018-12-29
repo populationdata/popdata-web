@@ -4,3 +4,9 @@ fr:
   title: Afrique - Union Africaine
 en:
   title: Afrique - Union Africaine
+continents:
+  - afrique
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Union-africaine.png'
+source: Wikipédia
+type: image

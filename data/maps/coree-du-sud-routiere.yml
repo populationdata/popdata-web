@@ -4,3 +4,13 @@ fr:
   title: Corée du Sud - routière
 en:
   title: Corée du Sud - routière
+continents: []
+countries:
+  - coree-du-sud
+gmaps:
+  latitude: 35.915747
+  longitude: 127.507324
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Macao - situation
 en:
   title: Macao - situation
+continents: []
+countries:
+  - macao
+image: 'http://www.populationdata.net/wp-content/uploads/macao-situation.png'
+source: Wikipédia
+type: image

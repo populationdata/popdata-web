@@ -4,3 +4,10 @@ fr:
   title: 'Rotterdam, embouchure du Rhin - satellite'
 en:
   title: 'Rotterdam, embouchure du Rhin - satellite'
+continents: []
+countries:
+  - pays-bas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Rotterdam-satellite.jpg
+source: Nasa Earth Observatory
+type: image

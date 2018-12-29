@@ -4,3 +4,9 @@ fr:
   title: Océanie - Eaux souterraines
 en:
   title: Océanie - Eaux souterraines
+continents:
+  - oceanie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/eaux-souterraines-oceanie.jpg'
+source: UNESCO
+type: image

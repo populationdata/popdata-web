@@ -4,3 +4,12 @@ fr:
   title: Gonaïves - satellite
 en:
   title: Gonaïves - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 19.446684
+  longitude: -72.686319
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Malte - petite
 en:
   title: Malte - petite
+continents: []
+countries:
+  - malte
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/malte.gif'
+source: Wikipédia
+type: image

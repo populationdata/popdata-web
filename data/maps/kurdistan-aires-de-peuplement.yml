@@ -4,3 +4,14 @@ fr:
   title: Kurdistan - aires de peuplement
 en:
   title: Kurdistan - aires de peuplement
+continents: []
+countries:
+  - kurdistan
+  - syrie
+  - turquie
+  - irak
+  - iran
+image: >-
+  http://www.populationdata.net/wp-content/uploads/kurdistan-aires-de-peuplement.jpg
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Bâle - routière
 en:
   title: Bâle - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 47.570028
+  longitude: 7.591357
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

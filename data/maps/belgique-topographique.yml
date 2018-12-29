@@ -4,3 +4,10 @@ fr:
   title: Belgique - topographique
 en:
   title: Belgique - topographique
+continents: []
+countries:
+  - belgique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/belgique-topographique.jpg
+source: Wikipédia
+type: image

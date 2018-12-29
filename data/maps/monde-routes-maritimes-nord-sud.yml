@@ -4,3 +4,11 @@ fr:
   title: Monde - Routes maritimes nord ou sud ?
 en:
   title: Monde - Routes maritimes nord ou sud ?
+continents:
+  - asie
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Monde-routes-maritimes-nord-ou-sud.png
+source: Wikipédia
+type: image

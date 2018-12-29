@@ -4,3 +4,9 @@ fr:
   title: Japon - petite
 en:
   title: Japon - petite
+continents: []
+countries:
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon-petite.png'
+source: CIA
+type: image

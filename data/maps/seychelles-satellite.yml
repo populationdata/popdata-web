@@ -4,3 +4,13 @@ fr:
   title: Seychelles - satellite
 en:
   title: Seychelles - satellite
+continents: []
+countries:
+  - seychelles
+gmaps:
+  latitude: -7.395153
+  longitude: 51.383057
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

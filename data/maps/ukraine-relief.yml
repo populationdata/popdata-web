@@ -4,3 +4,9 @@ fr:
   title: Ukraine - relief
 en:
   title: Ukraine - relief
+continents: []
+countries:
+  - ukraine
+image: 'http://www.populationdata.net/wp-content/uploads/ukraine_relief.jpg'
+source: CIA
+type: image

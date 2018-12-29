@@ -3,3 +3,10 @@ date: '2018-07-20T22:00:45.000Z'
 fr:
   title: Saint-Pierre-et-Miquelon
 en: null
+continents: []
+countries:
+  - saint-pierre-et-miquelon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/07/Saint-Pierre-et-Miquelon.jpg
+source: IEDOM
+type: image

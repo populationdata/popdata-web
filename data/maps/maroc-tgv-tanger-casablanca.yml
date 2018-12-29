@@ -4,3 +4,9 @@ fr:
   title: Maroc - TGV Tanger-Casablanca
 en:
   title: Maroc - TGV Tanger-Casablanca
+continents: []
+countries:
+  - maroc
+image: 'http://www.populationdata.net/wp-content/uploads/maroc-trains.png'
+source: PopulationData.net
+type: image

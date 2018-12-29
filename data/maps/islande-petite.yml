@@ -4,3 +4,9 @@ fr:
   title: Islande - petite
 en:
   title: Islande - petite
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/islande-petite.gif'
+source: CIA
+type: image

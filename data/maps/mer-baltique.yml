@@ -4,3 +4,19 @@ fr:
   title: Mer Baltique
 en:
   title: Mer Baltique
+continents:
+  - europe
+countries:
+  - estonie
+  - lettonie
+  - lituanie
+  - pologne
+  - allemagne
+  - danemark
+  - norvege
+  - suede
+  - finlande
+  - russie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Mer_Baltique.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Toulouse - satellite
 en:
   title: Toulouse - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.608239
+  longitude: 1.428909
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

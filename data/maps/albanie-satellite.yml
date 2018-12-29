@@ -4,3 +4,13 @@ fr:
   title: Albanie - satellite
 en:
   title: Albanie - satellite
+continents: []
+countries:
+  - albanie
+gmaps:
+  latitude: 41.132174
+  longitude: 20.081735
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

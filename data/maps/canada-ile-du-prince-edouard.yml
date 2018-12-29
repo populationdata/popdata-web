@@ -4,3 +4,10 @@ fr:
   title: Canada - Île-du-Prince-Edouard
 en:
   title: Canada - Île-du-Prince-Edouard
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada_ile_du_prince_edouard.jpg
+source: Ressources Naturelles Canada
+type: image

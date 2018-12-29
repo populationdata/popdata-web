@@ -4,3 +4,9 @@ fr:
   title: Irlande - petite
 en:
   title: Irlande - petite
+continents: []
+countries:
+  - irlande
+image: 'http://www.populationdata.net/wp-content/uploads/irlande-petite.png'
+source: Wikipédia
+type: image

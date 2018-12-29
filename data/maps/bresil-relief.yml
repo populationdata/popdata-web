@@ -4,3 +4,9 @@ fr:
   title: Brésil - relief
 en:
   title: Brésil - relief
+continents: []
+countries:
+  - bresil
+image: 'http://www.populationdata.net/wp-content/uploads/bresil-relief.jpg'
+source: CIA
+type: image

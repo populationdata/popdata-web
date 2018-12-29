@@ -4,3 +4,9 @@ fr:
   title: Palaos - aéroport
 en:
   title: Palau - Airport
+continents: []
+countries:
+  - palaos
+image: 'http://www.populationdata.net/wp-content/uploads/palau-aeroport.jpg'
+source: CIA
+type: image

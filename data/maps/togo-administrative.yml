@@ -4,3 +4,9 @@ fr:
   title: Togo - administrative
 en:
   title: Togo - administrative
+continents: []
+countries:
+  - togo
+image: 'http://www.populationdata.net/wp-content/uploads/togo.jpg'
+source: Wikipédia
+type: image

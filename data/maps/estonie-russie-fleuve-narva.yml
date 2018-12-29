@@ -4,3 +4,11 @@ fr:
   title: Estonie-Russie - Fleuve Narva
 en:
   title: Estonie-Russie - Fleuve Narva
+continents: []
+countries:
+  - estonie
+  - lettonie
+  - russie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/09/Fleuve-Narva.jpg'
+source: Wikipédia
+type: image

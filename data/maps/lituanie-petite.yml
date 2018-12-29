@@ -4,3 +4,9 @@ fr:
   title: Lituanie - petite
 en:
   title: Lituanie - petite
+continents: []
+countries:
+  - lituanie
+image: 'http://www.populationdata.net/wp-content/uploads/lituanie-petite.jpg'
+source: Wikipédia
+type: image

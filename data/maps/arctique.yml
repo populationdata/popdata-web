@@ -4,3 +4,19 @@ fr:
   title: Arctique
 en:
   title: Arctique
+continents:
+  - europe
+  - ameriques
+  - asie
+countries:
+  - canada
+  - etats-unis
+  - russie
+  - groenland
+  - finlande
+  - norvege
+  - suede
+  - islande
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Arctique.png'
+source: Wikipédia
+type: image

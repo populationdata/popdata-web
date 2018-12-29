@@ -4,3 +4,12 @@ fr:
   title: Tamanrasset - satellite
 en:
   title: Tamanrasset - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 22.790267
+  longitude: 5.513077
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Togo - satellite
 en:
   title: Togo - satellite
+continents: []
+countries:
+  - togo
+gmaps:
+  latitude: 8.167993
+  longitude: 1.186523
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Grand Caïman - routière
 en:
   title: Grand Caïman - routière
+continents: []
+countries:
+  - caimans
+gmaps:
+  latitude: 19.320539
+  longitude: -81.281319
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Selvagens
 en:
   title: Selvagens
+continents: []
+countries:
+  - madere
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Selvagens.png'
+source: Wikipédia
+type: image

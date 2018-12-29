@@ -4,3 +4,10 @@ fr:
   title: Cambodge - provinces
 en:
   title: Cambodia - provinces
+continents: []
+countries:
+  - cambodge
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Cambodge-administrative.png
+source: Wikipédia
+type: image

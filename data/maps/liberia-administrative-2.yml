@@ -4,3 +4,9 @@ fr:
   title: Libéria - administrative
 en:
   title: Libéria - administrative
+continents: []
+countries:
+  - liberia
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Liberia-comtes.png'
+source: Wikipédia
+type: image

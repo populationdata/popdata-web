@@ -4,3 +4,9 @@ fr:
   title: Guatemala
 en:
   title: Guatemala
+continents: []
+countries:
+  - guatemala
+image: 'http://www.populationdata.net/wp-content/uploads/guatemala_politique.jpg'
+source: CIA
+type: image

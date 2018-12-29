@@ -4,3 +4,12 @@ fr:
   title: Bruges - satellite
 en:
   title: Bruges - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.204155
+  longitude: 3.228218
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

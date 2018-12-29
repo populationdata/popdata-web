@@ -4,3 +4,9 @@ fr:
   title: Tunisie
 en:
   title: Tunisie
+continents: []
+countries:
+  - tunisie
+image: 'http://www.populationdata.net/wp-content/uploads/tunisie.jpg'
+source: CIA
+type: image

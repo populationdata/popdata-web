@@ -4,3 +4,9 @@ fr:
   title: Asie - Forêts
 en:
   title: Asie - Forêts
+continents:
+  - asie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/forets_asie.gif'
+source: nc
+type: image

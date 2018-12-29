@@ -4,3 +4,9 @@ fr:
   title: Curaçao
 en:
   title: Curaçao
+continents: []
+countries:
+  - curacao
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Curacao.jpg'
+source: Wikipédia
+type: image

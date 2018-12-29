@@ -4,3 +4,13 @@ fr:
   title: Guinée équatoriale - routière
 en:
   title: Guinée équatoriale - routière
+continents: []
+countries:
+  - guinee-equatoriale
+gmaps:
+  latitude: 2.350415
+  longitude: 9.338379
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

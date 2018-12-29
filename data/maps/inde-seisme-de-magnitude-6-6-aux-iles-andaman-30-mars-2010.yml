@@ -4,3 +4,13 @@ fr:
   title: Inde - séisme de magnitude 6.6 aux îles Andaman (30 mars 2010)
 en:
   title: Inde - séisme de magnitude 6.6 aux îles Andaman (30 mars 2010)
+continents: []
+countries:
+  - inde
+gmaps:
+  latitude: 13.6091
+  longitude: 92.8841
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

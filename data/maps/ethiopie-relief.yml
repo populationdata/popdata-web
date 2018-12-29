@@ -4,3 +4,9 @@ fr:
   title: Éthiopie - relief
 en:
   title: Éthiopie - relief
+continents: []
+countries:
+  - ethiopie
+image: 'http://www.populationdata.net/wp-content/uploads/ethiopie_relief.jpg'
+source: CIA
+type: image

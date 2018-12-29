@@ -4,3 +4,10 @@ fr:
   title: France - autoroutes (2012)
 en:
   title: France - autoroutes (2012)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-autoroutes-2012.png
+source: Wikipédia
+type: image

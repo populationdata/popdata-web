@@ -4,3 +4,13 @@ fr:
   title: Nigéria - routière
 en:
   title: Nigéria - routière
+continents: []
+countries:
+  - nigeria
+gmaps:
+  latitude: 9.232249
+  longitude: 8.349609
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

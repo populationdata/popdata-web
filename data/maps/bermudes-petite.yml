@@ -4,3 +4,9 @@ fr:
   title: Bermudes - petite
 en:
   title: Bermudes - petite
+continents: []
+countries:
+  - bermudes
+image: 'http://www.populationdata.net/wp-content/uploads/bermudes_petite.gif'
+source: CIA
+type: image

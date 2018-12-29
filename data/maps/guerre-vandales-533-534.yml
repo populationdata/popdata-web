@@ -4,3 +4,11 @@ fr:
   title: Guerre des Vandales (533-534)
 en:
   title: Guerre des Vandales (533-534)
+continents:
+  - afrique
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Guerre_des_Vandales-533-534.png
+source: Wikipédia
+type: image

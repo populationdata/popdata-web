@@ -4,3 +4,9 @@ fr:
   title: Guinée-Bissau - relief
 en:
   title: Guinée-Bissau - relief
+continents: []
+countries:
+  - guinee-bissau
+image: 'http://www.populationdata.net/wp-content/uploads/guinee_bissau_relief.jpg'
+source: CIA
+type: image

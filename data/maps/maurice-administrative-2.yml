@@ -4,3 +4,10 @@ fr:
   title: Maurice - administrative
 en:
   title: Maurice - administrative
+continents: []
+countries:
+  - maurice
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Maurice-administrative.png
+source: Wikipédia
+type: image

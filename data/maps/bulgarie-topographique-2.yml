@@ -4,3 +4,10 @@ fr:
   title: Bulgarie - topographique
 en:
   title: Bulgarie - topographique
+continents: []
+countries:
+  - bulgarie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Bulgarie-topographique.jpg
+source: Wikipédia
+type: image

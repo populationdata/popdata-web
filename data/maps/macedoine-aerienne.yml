@@ -4,3 +4,9 @@ fr:
   title: Macédoine - aérienne
 en:
   title: Macédoine - aérienne
+continents: []
+countries:
+  - macedoine-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/macedoine_topo.jpg'
+source: Wikipédia
+type: image

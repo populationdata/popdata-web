@@ -4,3 +4,13 @@ fr:
   title: Égypte - routière
 en:
   title: Égypte - routière
+continents: []
+countries:
+  - egypte
+gmaps:
+  latitude: 27.9847
+  longitude: 30.618896
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

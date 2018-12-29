@@ -4,3 +4,12 @@ fr:
   title: Eclipse solaire 2017
 en:
   title: Eclipse solaire 2017
+continents:
+  - ameriques
+countries:
+  - etats-unis
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Eclipse-solaire-2017.jpg
+source: Nasa
+type: image

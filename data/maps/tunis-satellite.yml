@@ -4,3 +4,12 @@ fr:
   title: Tunis - satellite
 en:
   title: Tunis - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.79609
+  longitude: 10.187073
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

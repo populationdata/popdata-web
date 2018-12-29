@@ -4,3 +4,13 @@ fr:
   title: Belize - relief
 en:
   title: Belize - relief
+continents: []
+countries:
+  - belize
+gmaps:
+  latitude: 17.156537
+  longitude: -88.659668
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

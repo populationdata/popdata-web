@@ -4,3 +4,13 @@ fr:
   title: Wallis - routière
 en:
   title: Wallis - routière
+continents: []
+countries:
+  - wallis-et-futuna
+gmaps:
+  latitude: -13.286729
+  longitude: -176.20079
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

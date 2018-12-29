@@ -4,3 +4,13 @@ fr:
   title: Guyane - satellite
 en:
   title: Guyane - satellite
+continents: []
+countries:
+  - guyane
+gmaps:
+  latitude: 3.869735
+  longitude: -53.245239
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

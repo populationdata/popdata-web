@@ -4,3 +4,14 @@ fr:
   title: Panama - canal de Panama
 en:
   title: Panama - canal de Panama
+continents:
+  - ameriques
+countries:
+  - panama
+gmaps:
+  latitude: 9.117082
+  longitude: -79.784776
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

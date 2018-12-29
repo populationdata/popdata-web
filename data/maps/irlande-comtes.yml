@@ -4,3 +4,10 @@ fr:
   title: Irlande - comtés
 en:
   title: Irlande - comtés
+continents: []
+countries:
+  - irlande
+  - royaume-uni
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Irlande-comtes.png'
+source: Wikipédia
+type: image

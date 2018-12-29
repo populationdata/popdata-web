@@ -4,3 +4,12 @@ fr:
   title: Djibouti (ville) - satellite
 en:
   title: Djibouti (ville) - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 11.57672
+  longitude: 43.142866
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

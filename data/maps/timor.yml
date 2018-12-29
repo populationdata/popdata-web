@@ -4,3 +4,10 @@ fr:
   title: Timor
 en:
   title: Timor
+continents: []
+countries:
+  - indonesie
+  - timor-oriental
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/Timor.jpg'
+source: Wikipédia
+type: image

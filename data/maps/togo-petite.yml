@@ -4,3 +4,9 @@ fr:
   title: Togo - petite
 en:
   title: Togo - petite
+continents: []
+countries:
+  - togo
+image: 'http://www.populationdata.net/wp-content/uploads/togo-petite.png'
+source: Wikipédia
+type: image

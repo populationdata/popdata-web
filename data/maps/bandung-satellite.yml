@@ -4,3 +4,12 @@ fr:
   title: Bandung - satellite
 en:
   title: Bandung - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -6.924893
+  longitude: 107.601643
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

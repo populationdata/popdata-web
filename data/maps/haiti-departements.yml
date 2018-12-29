@@ -4,3 +4,10 @@ fr:
   title: Haïti - Départements
 en:
   title: Haïti - Départements
+continents: []
+countries:
+  - haiti
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Haiti-departements.png
+source: Wikipédia
+type: image

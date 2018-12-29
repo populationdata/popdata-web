@@ -4,3 +4,12 @@ fr:
   title: 'Lobito - Benguela : routière'
 en:
   title: 'Lobito - Benguela : routière'
+continents: []
+countries: []
+gmaps:
+  latitude: -12.457212
+  longitude: 13.47943
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

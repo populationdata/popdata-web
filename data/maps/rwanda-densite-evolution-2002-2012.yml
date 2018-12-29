@@ -4,3 +4,10 @@ fr:
   title: Rwanda - densité (évolution 2002-2012)
 en:
   title: Rwanda - densité (évolution 2002-2012)
+continents: []
+countries:
+  - rwanda
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Rwanda-densite-2002-2012.png
+source: Institut national des statistiques du Rwanda
+type: image

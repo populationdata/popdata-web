@@ -4,3 +4,9 @@ fr:
   title: Guinée - topographique
 en:
   title: Guinée - topographique
+continents: []
+countries:
+  - guinee
+image: 'http://www.populationdata.net/wp-content/uploads/guinee-relief-topo.png'
+source: Wikipédia
+type: image

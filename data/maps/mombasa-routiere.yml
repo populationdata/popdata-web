@@ -4,3 +4,12 @@ fr:
   title: Mombasa - routière
 en:
   title: Mombasa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -4.044412
+  longitude: 39.663219
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

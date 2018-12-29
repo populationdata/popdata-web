@@ -4,3 +4,13 @@ fr:
   title: 'Pakistan - Baloutchistan : séisme de magnitude 6.4 (29 octobre 2008)'
 en:
   title: 'Pakistan - Baloutchistan : séisme de magnitude 6.4 (29 octobre 2008)'
+continents: []
+countries:
+  - pakistan
+gmaps:
+  latitude: 30.32456
+  longitude: 67.264956
+  type: terrain
+  zoom: 8
+source: USGS - Earthquake Hazards Program
+type: gmaps

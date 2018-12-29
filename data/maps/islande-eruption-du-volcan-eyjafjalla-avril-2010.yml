@@ -4,3 +4,13 @@ fr:
   title: Islande - éruption du volcan Eyjafjalla (avril 2010)
 en:
   title: Islande - éruption du volcan Eyjafjalla (avril 2010)
+continents: []
+countries:
+  - islande
+gmaps:
+  latitude: 63.714455
+  longitude: -19.621582
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

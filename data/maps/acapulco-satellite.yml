@@ -4,3 +4,12 @@ fr:
   title: Acapulco - satellite
 en:
   title: Acapulco - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 16.873713
+  longitude: -99.836773
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Bahamas - relief
 en:
   title: Bahamas - relief
+continents: []
+countries:
+  - bahamas
+image: 'http://www.populationdata.net/wp-content/uploads/bahamas_relief.gif'
+source: CIA
+type: image

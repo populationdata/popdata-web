@@ -4,3 +4,12 @@ fr:
   title: Phoenix - routière
 en:
   title: Phoenix - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 33.470438
+  longitude: -112.063661
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

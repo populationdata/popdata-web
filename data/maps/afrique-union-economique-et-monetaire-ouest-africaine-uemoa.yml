@@ -4,3 +4,17 @@ fr:
   title: Afrique - Union économique et monétaire ouest-africaine (UEMOA)
 en:
   title: Afrique - Union économique et monétaire ouest-africaine (UEMOA)
+continents:
+  - afrique
+countries:
+  - togo
+  - senegal
+  - niger
+  - mali
+  - guinee-bissau
+  - cote-divoire
+  - burkina-faso
+  - benin
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-uemoa.png'
+source: Wikipédia
+type: image

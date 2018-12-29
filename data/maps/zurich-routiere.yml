@@ -4,3 +4,12 @@ fr:
   title: Zürich - routière
 en:
   title: Zürich - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 47.381614
+  longitude: 8.547363
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

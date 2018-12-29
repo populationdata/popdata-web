@@ -4,3 +4,9 @@ fr:
   title: Yémen - topographique
 en:
   title: Yémen - topographique
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen-topo.jpg'
+source: CIA
+type: image

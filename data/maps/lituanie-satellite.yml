@@ -4,3 +4,13 @@ fr:
   title: Lituanie - satellite
 en:
   title: Lituanie - satellite
+continents: []
+countries:
+  - lituanie
+gmaps:
+  latitude: 55.235288
+  longitude: 23.483276
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

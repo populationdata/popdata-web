@@ -4,3 +4,9 @@ fr:
   title: Norvège - Svalbard
 en:
   title: Norvège - Svalbard
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege_svalbard.jpg'
+source: CIA
+type: image

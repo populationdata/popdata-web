@@ -4,3 +4,9 @@ fr:
   title: Irak
 en:
   title: Irak
+continents: []
+countries:
+  - irak
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Irak.jpg'
+source: ONU
+type: image

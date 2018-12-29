@@ -4,3 +4,10 @@ fr:
   title: Canada - pétrole brut et gaz naturel
 en:
   title: Canada - pétrole brut et gaz naturel
+continents: []
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Canada-petrole-brut-et-gaz-naturel.jpg
+source: Ressources Naturelles Canada
+type: image

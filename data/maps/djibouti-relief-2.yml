@@ -4,3 +4,12 @@ fr:
   title: Djibouti - relief
 en:
   title: Djibouti - relief
+continents: []
+countries: []
+gmaps:
+  latitude: 11.784014
+  longitude: 42.690125
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

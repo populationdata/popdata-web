@@ -4,3 +4,9 @@ fr:
   title: Antilles - Forêts
 en:
   title: Antilles - Forêts
+continents:
+  - ameriques
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/forets_antilles.gif'
+source: nc
+type: image

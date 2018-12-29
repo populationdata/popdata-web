@@ -4,3 +4,13 @@ fr:
   title: Rotterdam - satellite
 en:
   title: Rotterdam - satellite
+continents: []
+countries:
+  - pays-bas
+gmaps:
+  latitude: 51.934952
+  longitude: 4.426117
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

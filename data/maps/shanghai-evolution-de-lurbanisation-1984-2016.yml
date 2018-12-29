@@ -4,3 +4,9 @@ fr:
   title: Shanghai - évolution de l'urbanisation (1984-2016)
 en:
   title: Shanghai - évolution de l'urbanisation (1984-2016)
+continents: []
+countries:
+  - chine
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/shanghai.jpg'
+source: Nasa Earth Observatory
+type: image

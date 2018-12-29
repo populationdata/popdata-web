@@ -4,3 +4,9 @@ fr:
   title: Qatar - petite
 en:
   title: Qatar - petite
+continents: []
+countries:
+  - qatar
+image: 'http://www.populationdata.net/wp-content/uploads/qatar-petite.png'
+source: Wikipédia
+type: image

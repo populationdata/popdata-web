@@ -4,3 +4,9 @@ fr:
   title: Guam - relief
 en:
   title: Guam - relief
+continents: []
+countries:
+  - guam
+image: 'http://www.populationdata.net/wp-content/uploads/guam_relief.gif'
+source: CIA
+type: image

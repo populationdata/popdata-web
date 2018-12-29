@@ -4,3 +4,12 @@ fr:
   title: Nicosie - satellite
 en:
   title: Nicosie - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.151916
+  longitude: 33.351059
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

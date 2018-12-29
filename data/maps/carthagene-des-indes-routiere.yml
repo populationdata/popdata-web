@@ -4,3 +4,12 @@ fr:
   title: Carthagène des Indes - routière
 en:
   title: Carthagène des Indes - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 10.406274
+  longitude: -75.5056
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Guam - zones militaires
 en:
   title: Guam - zones militaires
+continents: []
+countries:
+  - guam
+image: 'http://www.populationdata.net/wp-content/uploads/guam_militaires.jpg'
+source: CIA
+type: image

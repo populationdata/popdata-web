@@ -4,3 +4,9 @@ fr:
   title: Guinée-Bissau - Delta du Rio Guéba
 en:
   title: Guinée-Bissau - Delta du Rio Guéba
+continents: []
+countries:
+  - guinee-bissau
+image: 'https://www.populationdata.net/wp-content/uploads/Guinee-Bissau.jpg'
+source: Nasa
+type: image

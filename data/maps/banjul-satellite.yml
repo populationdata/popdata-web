@@ -4,3 +4,12 @@ fr:
   title: Banjul - satellite
 en:
   title: Banjul - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.385946
+  longitude: -16.672783
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

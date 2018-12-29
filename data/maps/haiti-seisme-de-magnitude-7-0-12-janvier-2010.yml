@@ -4,3 +4,13 @@ fr:
   title: Haïti - séisme de magnitude 7.0 (12 janvier 2010)
 en:
   title: Haïti - séisme de magnitude 7.0 (12 janvier 2010)
+continents: []
+countries:
+  - haiti
+gmaps:
+  latitude: 18.4514
+  longitude: -72.4452
+  type: terrain
+  zoom: 9
+source: USGS - Earthquake Hazards Program
+type: gmaps

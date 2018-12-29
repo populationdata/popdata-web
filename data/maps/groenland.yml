@@ -4,3 +4,13 @@ fr:
   title: Groenland
 en:
   title: Groenland
+continents: []
+countries:
+  - groenland
+gmaps:
+  latitude: 75.693931
+  longitude: -46.318359
+  type: roadmap
+  zoom: 4
+source: Google Maps
+type: gmaps

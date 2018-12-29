@@ -4,3 +4,9 @@ fr:
   title: Panama
 en:
   title: Panama
+continents: []
+countries:
+  - panama
+image: 'http://www.populationdata.net/wp-content/uploads/panama.jpg'
+source: CIA
+type: image

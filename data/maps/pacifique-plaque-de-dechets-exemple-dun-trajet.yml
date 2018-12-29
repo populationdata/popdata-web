@@ -4,3 +4,12 @@ fr:
   title: 'Pacifique - plaque de déchets : exemple d''un trajet'
 en:
   title: 'Pacifique - plaque de déchets : exemple d''un trajet'
+continents:
+  - oceanie
+  - asie
+  - ameriques
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/pacifique-plaque-dechets-trajet.png
+source: Wikipédia
+type: image

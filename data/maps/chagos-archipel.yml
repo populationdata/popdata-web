@@ -4,3 +4,9 @@ fr:
   title: Chagos - archipel
 en:
   title: Chagos - archipel
+continents: []
+countries:
+  - chagos
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Chagos_Archipel.png'
+source: Wikipédia
+type: image

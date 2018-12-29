@@ -4,3 +4,26 @@ fr:
   title: Communauté de développement d'Afrique australe (CDAA - SADC)
 en:
   title: Africa - Southern African Development Community (SADC)
+continents:
+  - afrique
+countries:
+  - madagascar
+  - republique-democratique-du-congo
+  - maurice
+  - afrique-du-sud
+  - namibie
+  - zimbabwe
+  - zambie
+  - tanzanie
+  - eswatini-swaziland
+  - mozambique
+  - malawi
+  - lesotho
+  - botswana
+  - angola
+  - seychelles
+  - comores
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Afrique-Communaute-developpement-Afrique-australe-cdaa-sadc.png
+source: Wikipédia
+type: image

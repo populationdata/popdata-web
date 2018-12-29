@@ -4,3 +4,9 @@ fr:
   title: 'Belgique - langues : flamand'
 en:
   title: 'Belgique - langues : flamand'
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-flamand.png'
+source: Wikipédia
+type: image

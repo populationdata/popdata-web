@@ -4,3 +4,12 @@ fr:
   title: Ceinture de feu du Pacifique
 en:
   title: Ceinture de feu du Pacifique
+continents:
+  - ameriques
+  - asie
+  - oceanie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Ceinture_de_feu_du_Pacifique.png
+source: Wikipédia
+type: image

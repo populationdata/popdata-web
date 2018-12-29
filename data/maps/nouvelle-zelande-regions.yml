@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Zélande - régions
 en:
   title: New Zealand - Regions
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Nouvelle-Zelande-regions.png
+source: Wikipédia
+type: image

@@ -4,3 +4,16 @@ fr:
   title: Conseil de coopération des États arabes du Golfe persique
 en:
   title: Conseil de coopération des États arabes du Golfe persique
+continents:
+  - asie
+countries:
+  - qatar
+  - oman
+  - koweit
+  - emirats-arabes-unis
+  - bahrein
+  - arabie-saoudite
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Conseil-de-cooperation-du-Golfe.png
+source: Wikipédia
+type: image

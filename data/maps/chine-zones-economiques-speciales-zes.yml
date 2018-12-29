@@ -4,3 +4,9 @@ fr:
   title: Chine - Zones Économiques Spéciales (ZES)
 en:
   title: Chine - Zones Économiques Spéciales (ZES)
+continents: []
+countries:
+  - chine
+image: 'http://www.populationdata.net/wp-content/uploads/chine-zes.png'
+source: Wikipédia
+type: image

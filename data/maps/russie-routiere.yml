@@ -4,3 +4,13 @@ fr:
   title: Russie - routière
 en:
   title: Russie - routière
+continents: []
+countries:
+  - russie
+gmaps:
+  latitude: 64.876446
+  longitude: 96.274514
+  type: roadmap
+  zoom: 3
+source: Google Maps
+type: gmaps

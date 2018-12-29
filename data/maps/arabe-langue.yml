@@ -4,3 +4,26 @@ fr:
   title: 'Monde - Arabe : langue'
 en:
   title: 'Monde - Arabe : langue'
+continents:
+  - asie
+  - afrique
+countries:
+  - maroc
+  - algerie
+  - tunisie
+  - libye
+  - egypte
+  - jordanie
+  - palestine
+  - syrie
+  - irak
+  - liban
+  - arabie-saoudite
+  - koweit
+  - qatar
+  - bahrein
+  - emirats-arabes-unis
+  - oman
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Monde-arabe.png'
+source: 'Université de Stockholm, Wikipédia'
+type: image

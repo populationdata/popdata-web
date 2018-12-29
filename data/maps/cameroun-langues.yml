@@ -4,3 +4,9 @@ fr:
   title: Cameroun - langues
 en:
   title: Cameroun - langues
+continents: []
+countries:
+  - cameroun
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Cameroun-langues.png'
+source: Wikipédia
+type: image

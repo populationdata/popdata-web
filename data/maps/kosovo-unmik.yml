@@ -4,3 +4,9 @@ fr:
   title: Kosovo - UNMIK
 en:
   title: Kosovo - UNMIK
+continents: []
+countries:
+  - kosovo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Kosovo-UNMIK.png'
+source: Wikipédia
+type: image

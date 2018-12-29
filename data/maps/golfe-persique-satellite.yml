@@ -4,3 +4,18 @@ fr:
   title: Golfe persique - satellite
 en:
   title: Golfe persique - satellite
+continents:
+  - asie
+countries:
+  - irak
+  - emirats-arabes-unis
+  - koweit
+  - arabie-saoudite
+  - qatar
+  - iran
+  - oman
+  - bahrein
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/golfe-persique-satellite.jpg
+source: Nasa
+type: image

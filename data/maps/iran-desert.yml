@@ -4,3 +4,9 @@ fr:
   title: Iran - désert
 en:
   title: Iran - désert
+continents: []
+countries:
+  - iran
+image: 'https://www.populationdata.net/wp-content/uploads/2016/06/Iran.jpg'
+source: ESA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Grèce - topographique
 en:
   title: Grèce - topographique
+continents: []
+countries:
+  - grece
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grece-topographique.jpg
+source: Wikipédia
+type: image

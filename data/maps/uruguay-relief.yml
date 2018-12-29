@@ -4,3 +4,9 @@ fr:
   title: Uruguay - relief
 en:
   title: Uruguay - relief
+continents: []
+countries:
+  - uruguay
+image: 'http://www.populationdata.net/wp-content/uploads/uruguay_relief.jpg'
+source: CIA
+type: image

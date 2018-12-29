@@ -4,3 +4,10 @@ fr:
   title: Venezuela - Auyan Tepuy
 en:
   title: Venezuela - Auyan Tepuy
+continents: []
+countries:
+  - venezuela
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/venezuela-Auyan-tepui.jpg
+source: Copernicus
+type: image

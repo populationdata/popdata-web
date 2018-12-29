@@ -4,3 +4,9 @@ fr:
   title: Aruba (1914)
 en:
   title: Aruba (1914)
+continents: []
+countries:
+  - aruba
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Aruba-1914.gif'
+source: Wikipédia
+type: image

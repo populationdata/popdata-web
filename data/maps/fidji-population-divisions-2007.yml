@@ -4,3 +4,10 @@ fr:
   title: Fidji - population des divisions (2007)
 en:
   title: Fidji - population des divisions (2007)
+continents: []
+countries:
+  - fidji
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/fidji-population-divisions-2007.jpg
+source: Bureau des statistiques de Fidji
+type: image

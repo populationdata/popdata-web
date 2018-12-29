@@ -4,3 +4,13 @@ fr:
   title: Monde - Point Nemo (Pôle maritime d'inaccessibilité)
 en:
   title: Monde - Point Nemo (Pôle maritime d'inaccessibilité)
+continents:
+  - oceanie
+  - antarctique
+countries:
+  - antarctique
+  - chili
+  - pitcairn
+image: 'https://www.populationdata.net/wp-content/uploads/Monde-Point-Nemo.jpg'
+source: Wikipédia
+type: image

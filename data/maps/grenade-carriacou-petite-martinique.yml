@@ -4,3 +4,10 @@ fr:
   title: Grenade - Carriacou et Petite Martinique
 en:
   title: Grenade - Carriacou et Petite Martinique
+continents: []
+countries:
+  - grenade
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grenade-Carriacou-Petite-Martinique.png
+source: Wikipédia
+type: image

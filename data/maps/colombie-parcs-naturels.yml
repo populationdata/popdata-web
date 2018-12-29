@@ -4,3 +4,9 @@ fr:
   title: Colombie - parcs naturels
 en:
   title: Colombie - parcs naturels
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-parcs-naturels.png'
+source: Institut national des statistiques
+type: image

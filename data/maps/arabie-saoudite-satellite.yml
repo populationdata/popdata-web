@@ -4,3 +4,13 @@ fr:
   title: Arabie saoudite - satellite
 en:
   title: Arabie saoudite - satellite
+continents: []
+countries:
+  - arabie-saoudite
+gmaps:
+  latitude: 23.885942
+  longitude: 45.079162
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Johannesbourg - satellite
 en:
   title: Johannesbourg - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -26.204734
+  longitude: 28.044491
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

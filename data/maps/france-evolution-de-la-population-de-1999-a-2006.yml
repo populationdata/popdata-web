@@ -4,3 +4,10 @@ fr:
   title: France - évolution de la population de 1999 à 2006
 en:
   title: France - évolution de la population de 1999 à 2006
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/France-evolution-population-1999-2006.jpg
+source: INSEE
+type: image

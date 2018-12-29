@@ -4,3 +4,9 @@ fr:
   title: Kenya - petite
 en:
   title: Kenya - petite
+continents: []
+countries:
+  - kenya
+image: 'http://www.populationdata.net/wp-content/uploads/kenya_petite.gif'
+source: CIA
+type: image

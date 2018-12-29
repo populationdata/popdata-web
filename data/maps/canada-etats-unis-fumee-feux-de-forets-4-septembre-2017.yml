@@ -4,3 +4,12 @@ fr:
   title: 'Canada - États-Unis : fumée des feux de forêts (4 septembre 2017)'
 en:
   title: 'Canada - États-Unis : fumée des feux de forêts (4 septembre 2017)'
+continents:
+  - ameriques
+countries:
+  - canada
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Canada-Etats-Unis-fumee-feux-foret.jpg
+source: Nasa Earth Observatory
+type: image

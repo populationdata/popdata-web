@@ -4,3 +4,13 @@ fr:
   title: Panama - satellite
 en:
   title: Panama - satellite
+continents: []
+countries:
+  - panama
+gmaps:
+  latitude: 8.69955
+  longitude: -80.046971
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

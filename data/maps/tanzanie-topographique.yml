@@ -4,3 +4,9 @@ fr:
   title: Tanzanie - topographique
 en:
   title: Tanzanie - topographique
+continents: []
+countries:
+  - tanzanie
+image: 'http://www.populationdata.net/wp-content/uploads/tanzanie-topographique.gif'
+source: Wikipédia
+type: image

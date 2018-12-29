@@ -4,3 +4,10 @@ fr:
   title: 'Japon - Russie : îles Kouriles'
 en:
   title: 'Japon - Russie : îles Kouriles'
+continents: []
+countries:
+  - russie
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon_russie_kourils.jpg'
+source: CIA
+type: image

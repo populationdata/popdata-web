@@ -4,3 +4,11 @@ fr:
   title: 'Afrique-Asie - Élephants : trafic d''ivoire'
 en:
   title: 'Afrique-Asie - Élephants : trafic d''ivoire'
+continents:
+  - asie
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/afrique-elephants-trafic-ivoire.jpg
+source: ONU
+type: image

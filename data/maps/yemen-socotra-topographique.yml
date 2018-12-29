@@ -4,3 +4,10 @@ fr:
   title: 'Yémen - Socotra : topographique'
 en:
   title: 'Yémen - Socotra : topographique'
+continents: []
+countries:
+  - yemen
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Yemen-Socotra-topographique.png
+source: Wikipédia
+type: image

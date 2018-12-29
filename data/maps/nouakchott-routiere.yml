@@ -4,3 +4,12 @@ fr:
   title: Nouakchott - routière
 en:
   title: Nouakchott - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 18.078795
+  longitude: -15.980129
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

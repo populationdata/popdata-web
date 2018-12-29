@@ -4,3 +4,12 @@ fr:
   title: Delhi - satellite
 en:
   title: Delhi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 28.630637
+  longitude: 77.208824
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

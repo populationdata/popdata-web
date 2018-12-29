@@ -4,3 +4,9 @@ fr:
   title: Canada - sols
 en:
   title: Canada - sols
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Canada-sols.jpg'
+source: Wikipédia
+type: image

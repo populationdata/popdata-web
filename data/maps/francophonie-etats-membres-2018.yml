@@ -4,3 +4,44 @@ fr:
   title: 'Monde - Francophonie : États membres (2018)'
 en:
   title: 'World - Francophonie: Member Countries'
+continents: []
+countries:
+  - liban
+  - republique-centrafricaine
+  - burundi
+  - rwanda
+  - gabon
+  - benin
+  - togo
+  - niger
+  - guinee
+  - bulgarie
+  - roumanie
+  - djibouti
+  - congo
+  - cote-divoire
+  - senegal
+  - haiti
+  - madagascar
+  - tchad
+  - luxembourg
+  - armenie
+  - laos
+  - cambodge
+  - mali
+  - grece
+  - viet-nam
+  - maroc
+  - tunisie
+  - egypte
+  - suisse
+  - belgique
+  - canada
+  - france
+  - republique-democratique-du-congo
+  - burkina-faso
+  - cameroun
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/10/monde-francophonie-2018.jpg
+source: Organisation internationale de la francophonie (OIF)
+type: image

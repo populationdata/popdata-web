@@ -4,3 +4,12 @@ fr:
   title: Djerba - satellite
 en:
   title: Djerba - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 33.807109
+  longitude: 10.892601
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

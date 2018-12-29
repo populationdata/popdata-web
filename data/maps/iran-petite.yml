@@ -4,3 +4,9 @@ fr:
   title: Iran - petite
 en:
   title: Iran - petite
+continents: []
+countries:
+  - iran
+image: 'http://www.populationdata.net/wp-content/uploads/iran_petite.gif'
+source: CIA
+type: image

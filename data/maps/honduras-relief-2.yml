@@ -4,3 +4,13 @@ fr:
   title: Honduras - relief
 en:
   title: Honduras - relief
+continents: []
+countries:
+  - honduras
+gmaps:
+  latitude: 14.599531
+  longitude: -86.275635
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

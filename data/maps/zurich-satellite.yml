@@ -4,3 +4,12 @@ fr:
   title: Zürich - satellite
 en:
   title: Zürich - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 47.379173
+  longitude: 8.526764
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Guinée équatoriale - satellite
 en:
   title: Guinée équatoriale - satellite
+continents: []
+countries:
+  - guinee-equatoriale
+gmaps:
+  latitude: 2.350415
+  longitude: 9.338379
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

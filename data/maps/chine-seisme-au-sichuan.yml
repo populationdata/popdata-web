@@ -4,3 +4,13 @@ fr:
   title: Chine - séisme au Sichuan
 en:
   title: Chine - séisme au Sichuan
+continents: []
+countries:
+  - chine
+gmaps:
+  latitude: 31.104
+  longitude: 103.2702
+  type: hybrid
+  zoom: 8
+source: Earthquake Hazards Program - USGS
+type: gmaps

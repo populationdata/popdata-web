@@ -4,3 +4,9 @@ fr:
   title: Libye - relief
 en:
   title: Libye - relief
+continents: []
+countries:
+  - libye
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Libye-relief.jpg'
+source: Wikipédia
+type: image

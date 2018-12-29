@@ -4,3 +4,9 @@ fr:
   title: Macédoine - petite
 en:
   title: Macédoine - petite
+continents: []
+countries:
+  - macedoine-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/macedoine_petite.gif'
+source: CIA
+type: image

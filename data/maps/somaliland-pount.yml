@@ -3,3 +3,11 @@ date: '2017-10-11T19:37:54.000Z'
 fr:
   title: Somaliland - Pount
 en: null
+continents: []
+countries:
+  - somalie
+  - somaliland
+  - pount
+image: 'https://www.populationdata.net/wp-content/uploads/2017/10/Somaliland-Pount.png'
+source: Wikipédia
+type: image

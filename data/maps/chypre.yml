@@ -4,3 +4,9 @@ fr:
   title: Chypre
 en:
   title: Chypre
+continents: []
+countries:
+  - chypre
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Chypre-.png'
+source: Wikipédia
+type: image

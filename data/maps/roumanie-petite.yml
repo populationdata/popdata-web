@@ -4,3 +4,9 @@ fr:
   title: Roumanie - petite
 en:
   title: Roumanie - petite
+continents: []
+countries:
+  - roumanie
+image: 'http://www.populationdata.net/wp-content/uploads/roumanie-petite.png'
+source: Wikipédia
+type: image

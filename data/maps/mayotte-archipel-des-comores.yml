@@ -4,3 +4,9 @@ fr:
   title: Mayotte - archipel des Comores
 en:
   title: Mayotte - archipel des Comores
+continents: []
+countries:
+  - mayotte
+image: 'http://www.populationdata.net/wp-content/uploads/mayotte-comores.png'
+source: Wikipédia
+type: image

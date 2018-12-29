@@ -4,3 +4,9 @@ fr:
   title: Syrie - population (répartition en 2004)
 en:
   title: Syrie - population (répartition en 2004)
+continents: []
+countries:
+  - syrie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Syrie-population.jpg'
+source: Wikipédia
+type: image

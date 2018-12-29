@@ -4,3 +4,16 @@ fr:
   title: Conseil turcique
 en:
   title: Turkic Council
+continents:
+  - asie
+countries:
+  - ouzbekistan
+  - turkmenistan
+  - kirghizistan
+  - kazakhstan
+  - azerbaidjan
+  - chypre
+  - turquie
+image: 'https://www.populationdata.net/wp-content/uploads/Conseil-turcique.png'
+source: Wikipédia
+type: image

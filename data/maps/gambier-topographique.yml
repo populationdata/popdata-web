@@ -4,3 +4,9 @@ fr:
   title: Gambier - topographique
 en:
   title: Gambier - topographique
+continents: []
+countries:
+  - polynesie-francaise
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Gambier.png'
+source: Wikipédia
+type: image

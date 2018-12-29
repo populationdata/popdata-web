@@ -4,3 +4,9 @@ fr:
   title: Cameroun - topographique
 en:
   title: Cameroun - topographique
+continents: []
+countries:
+  - cameroun
+image: 'https://www.populationdata.net/wp-content/uploads/Cameroun-topographique.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: États-Unis - centrales électriques
 en:
   title: États-Unis - centrales électriques
+continents: []
+countries:
+  - etats-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/etats-unis-centrales-electriques.png
+source: Washington Post
+type: image

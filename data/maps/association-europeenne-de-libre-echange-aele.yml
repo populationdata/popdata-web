@@ -4,3 +4,13 @@ fr:
   title: Association européenne de libre-échange (AELE)
 en:
   title: Association européenne de libre-échange (AELE)
+continents:
+  - europe
+countries:
+  - liechtenstein
+  - norvege
+  - islande
+  - suisse
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/AELE-EFTA.jpg'
+source: Wikipédia
+type: image

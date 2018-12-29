@@ -4,3 +4,11 @@ fr:
   title: 'Syrie - Irak : lumières de la nuit (2012-2016)'
 en:
   title: 'Syrie - Irak : lumières de la nuit (2012-2016)'
+continents: []
+countries:
+  - irak
+  - syrie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Syrie-Irak-lumieres-de-nuit-2012-2016.jpg
+source: Nasa Earth Observatory
+type: image

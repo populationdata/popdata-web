@@ -4,3 +4,10 @@ fr:
   title: Maroc - topographique
 en:
   title: Maroc - topographique
+continents: []
+countries:
+  - maroc
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Maroc-topographique.jpg
+source: Wikipédia
+type: image

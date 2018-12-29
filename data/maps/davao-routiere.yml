@@ -4,3 +4,12 @@ fr:
   title: Davao - routière
 en:
   title: Davao - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 7.084199
+  longitude: 125.613384
+  type: roadmap
+  zoom: 12
+source: ''
+type: gmaps

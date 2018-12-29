@@ -3,3 +3,10 @@ date: '2017-10-18T20:52:27.000Z'
 fr:
   title: France - niveau de vie (2015)
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/France-niveau-de-vie-2015.jpg
+source: 'Le Figaro, Insee'
+type: image

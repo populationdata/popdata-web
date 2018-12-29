@@ -4,3 +4,9 @@ fr:
   title: Kosovo - Balkans
 en:
   title: Kosovo - Balkans
+continents: []
+countries:
+  - kosovo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Kosovo-Balkans.png'
+source: Wikipédia
+type: image

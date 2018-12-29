@@ -4,3 +4,13 @@ fr:
   title: Tokelau - satellite
 en:
   title: Tokelau - satellite
+continents: []
+countries:
+  - tokelau
+gmaps:
+  latitude: -9.009877
+  longitude: -171.907196
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

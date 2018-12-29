@@ -4,3 +4,12 @@ fr:
   title: Empire byzantin (555)
 en:
   title: Empire byzantin (555)
+continents:
+  - asie
+  - afrique
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/empire-byzantin-555.png
+source: Wikipédia
+type: image

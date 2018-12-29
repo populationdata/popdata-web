@@ -4,3 +4,12 @@ fr:
   title: Bratislava - satellite
 en:
   title: Bratislava - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 48.164482
+  longitude: 17.131805
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

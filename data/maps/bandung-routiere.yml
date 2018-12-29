@@ -4,3 +4,12 @@ fr:
   title: Bandung - routière
 en:
   title: Bandung - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -6.924893
+  longitude: 107.601643
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

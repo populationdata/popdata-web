@@ -4,3 +4,12 @@ fr:
   title: Glasgow - satellite
 en:
   title: Glasgow - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 55.858857
+  longitude: -4.25456
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

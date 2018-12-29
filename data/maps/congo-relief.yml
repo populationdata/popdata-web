@@ -4,3 +4,9 @@ fr:
   title: Congo - relief
 en:
   title: Congo - relief
+continents: []
+countries:
+  - congo
+image: 'http://www.populationdata.net/wp-content/uploads/congo_brazzaville_relief.jpg'
+source: CIA
+type: image

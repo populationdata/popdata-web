@@ -4,3 +4,9 @@ fr:
   title: Nauru - petite
 en:
   title: Nauru - petite
+continents: []
+countries:
+  - nauru
+image: 'http://www.populationdata.net/wp-content/uploads/nauru_petite.gif'
+source: CIA
+type: image

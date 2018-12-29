@@ -4,3 +4,9 @@ fr:
   title: Inde
 en:
   title: Inde
+continents: []
+countries:
+  - inde
+image: 'http://www.populationdata.net/wp-content/uploads/inde2.jpg'
+source: CIA
+type: image

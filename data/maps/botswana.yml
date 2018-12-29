@@ -4,3 +4,9 @@ fr:
   title: Botswana
 en:
   title: Botswana
+continents: []
+countries:
+  - botswana
+image: 'http://www.populationdata.net/wp-content/uploads/botswana.jpg'
+source: CIA
+type: image

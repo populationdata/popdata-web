@@ -4,3 +4,10 @@ fr:
   title: Amérique du Sud - Forêts
 en:
   title: Amérique du Sud - Forêts
+continents:
+  - ameriques
+countries:
+  - bresil
+image: 'http://www.populationdata.net/wp-content/uploads/forets_amerique_du_sud.gif'
+source: nc
+type: image

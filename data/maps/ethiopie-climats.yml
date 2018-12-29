@@ -4,3 +4,9 @@ fr:
   title: Éthiopie - climats
 en:
   title: Éthiopie - climats
+continents: []
+countries:
+  - ethiopie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/ethiopie-climats.jpg'
+source: Wikipédia
+type: image

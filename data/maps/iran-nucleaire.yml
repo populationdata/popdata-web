@@ -4,3 +4,9 @@ fr:
   title: Iran - nucléaire
 en:
   title: Iran - nucléaire
+continents: []
+countries:
+  - iran
+image: 'http://www.populationdata.net/wp-content/uploads/iran-nuclaire.gif'
+source: Wikipédia
+type: image

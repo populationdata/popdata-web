@@ -4,3 +4,9 @@ fr:
   title: Nigéria
 en:
   title: Nigéria
+continents: []
+countries:
+  - nigeria
+image: 'http://www.populationdata.net/wp-content/uploads/nigeria.jpg'
+source: CIA
+type: image

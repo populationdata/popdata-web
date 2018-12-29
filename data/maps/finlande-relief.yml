@@ -4,3 +4,9 @@ fr:
   title: Finlande - relief
 en:
   title: Finlande - relief
+continents: []
+countries:
+  - finlande
+image: 'http://www.populationdata.net/wp-content/uploads/finlande_relief.jpg'
+source: CIA
+type: image

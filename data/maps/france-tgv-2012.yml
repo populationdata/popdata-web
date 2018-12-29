@@ -4,3 +4,9 @@ fr:
   title: France - TGV (2012)
 en:
   title: France - TGV (2012)
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-tgv-2012.png'
+source: Réseau Ferré de France (RFF)
+type: image

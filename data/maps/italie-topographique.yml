@@ -4,3 +4,10 @@ fr:
   title: Italie - topographique
 en:
   title: Italie - topographique
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/italie-topographique.jpg
+source: Wikipédia
+type: image

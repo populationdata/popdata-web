@@ -4,3 +4,16 @@ fr:
   title: Mer Adriatique
 en:
   title: Mer Adriatique
+continents:
+  - europe
+countries:
+  - italie
+  - slovenie
+  - croatie
+  - albanie
+  - grece
+  - montenegro
+  - bosnie-et-herzegovine
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/mer-adriatique.png'
+source: Wikipédia
+type: image

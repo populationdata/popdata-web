@@ -4,3 +4,10 @@ fr:
   title: Mayotte - évolution de la population (2007-2012)
 en:
   title: Mayotte - évolution de la population (2007-2012)
+continents: []
+countries:
+  - mayotte
+image: >-
+  http://www.populationdata.net/wp-content/uploads/mayotte-evolution-population-2007-2012.gif
+source: Insee
+type: image

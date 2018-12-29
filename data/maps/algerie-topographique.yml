@@ -4,3 +4,10 @@ fr:
   title: Algérie - topographique
 en:
   title: Algérie - topographique
+continents: []
+countries:
+  - algerie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Algerie-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Empire romain - diocèses (300)
 en:
   title: Empire romain - diocèses (300)
+continents:
+  - europe
+  - asie
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Empire-romain-diocèses-300.png
+source: Wikipédia
+type: image

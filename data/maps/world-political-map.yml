@@ -4,3 +4,9 @@ fr:
   title: World Political Map
 en:
   title: World Political Map
+continents: []
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/world-political-map.jpg
+source: CIA
+type: image

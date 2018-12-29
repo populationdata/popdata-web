@@ -4,3 +4,14 @@ fr:
   title: Scandinavie - Sames
 en:
   title: Scandinavie - Sames
+continents:
+  - europe
+countries:
+  - finlande
+  - suede
+  - russie
+  - norvege
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/scandinavie-sames.png
+source: Wikipédia
+type: image

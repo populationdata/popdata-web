@@ -4,3 +4,10 @@ fr:
   title: 'France - Rafale, marchés mondiaux (2016)'
 en:
   title: 'France - Rafale, marchés mondiaux (2016)'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Monde-rafale-marches.png
+source: Le Monde
+type: image

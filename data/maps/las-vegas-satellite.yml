@@ -4,3 +4,12 @@ fr:
   title: Las Vegas - satellite
 en:
   title: Las Vegas - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.17114
+  longitude: -115.148048
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

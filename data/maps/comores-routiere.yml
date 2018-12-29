@@ -4,3 +4,13 @@ fr:
   title: Comores - routière
 en:
   title: Comores - routière
+continents: []
+countries:
+  - comores
+gmaps:
+  latitude: -11.962754
+  longitude: 43.887634
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

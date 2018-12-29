@@ -4,3 +4,10 @@ fr:
   title: Honduras - topographique
 en:
   title: Honduras - topographique
+continents: []
+countries:
+  - honduras
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Honduras-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Philippines - topographique
 en:
   title: Philippines - topographique
+continents: []
+countries:
+  - philippines
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Philippines-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Nyala - routière
 en:
   title: Nyala - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 12.056612
+  longitude: 24.880772
+  type: ''
+  zoom: 13
+source: Google Maps
+type: gmaps

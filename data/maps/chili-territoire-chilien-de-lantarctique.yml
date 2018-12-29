@@ -4,3 +4,12 @@ fr:
   title: Chili - Territoire chilien de l'Antarctique
 en:
   title: Chili - Territoire chilien de l'Antarctique
+continents:
+  - antarctique
+countries:
+  - chili
+  - antarctique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Chili-Territoire-antarctique-chilien.png
+source: Wikipédia
+type: image

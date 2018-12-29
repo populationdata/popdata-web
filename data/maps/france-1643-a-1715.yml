@@ -4,3 +4,10 @@ fr:
   title: France - 1643 à 1715
 en:
   title: France - 1643 à 1715
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-1643-a-1715.png
+source: Wikipédia
+type: image

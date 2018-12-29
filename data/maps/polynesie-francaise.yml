@@ -4,3 +4,10 @@ fr:
   title: Polynésie française
 en:
   title: Polynésie française
+continents: []
+countries:
+  - polynesie-francaise
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Polynesie-francaise.png
+source: Wikipédia
+type: image

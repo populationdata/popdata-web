@@ -4,3 +4,21 @@ fr:
   title: Association des nations de l'Asie du Sud-Est (ANASE - ASEAN)
 en:
   title: Association of Southeast Asian Nations (ASEAN)
+continents:
+  - asie
+countries:
+  - timor-oriental
+  - laos
+  - myanmar-birmanie
+  - cambodge
+  - viet-nam
+  - philippines
+  - malaisie
+  - indonesie
+  - singapour
+  - thailande
+  - brunei
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Association-nations-Asie-Sud-Est-ANASE-ASEAN.png
+source: Wikipédia
+type: image

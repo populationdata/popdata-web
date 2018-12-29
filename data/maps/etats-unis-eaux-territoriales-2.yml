@@ -4,3 +4,10 @@ fr:
   title: États-Unis - eaux territoriales
 en:
   title: États-Unis - eaux territoriales
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Etats-Unis-eaux-territoriales.png
+source: Wikipédia
+type: image

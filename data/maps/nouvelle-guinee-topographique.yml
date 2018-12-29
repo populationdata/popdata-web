@@ -4,3 +4,11 @@ fr:
   title: Nouvelle-Guinée - topographique
 en:
   title: Nouvelle-Guinée - topographique
+continents: []
+countries:
+  - indonesie
+  - papouasie-nouvelle-guinee
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/nouvelle-guinee-topographique.png
+source: Wikipédia
+type: image

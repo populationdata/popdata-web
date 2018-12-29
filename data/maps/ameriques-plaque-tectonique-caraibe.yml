@@ -4,3 +4,10 @@ fr:
   title: Amériques - Plaque tectonique Caraïbe
 en:
   title: Amériques - Plaque tectonique Caraïbe
+continents:
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Ameriques-plaque-tectonique-Caraibe.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Rome - satellite (nuit)
 en:
   title: Rome - satellite (nuit)
+continents: []
+countries:
+  - italie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/rome.jpg'
+source: ESA
+type: image

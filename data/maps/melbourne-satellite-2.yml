@@ -4,3 +4,9 @@ fr:
   title: Melbourne - satellite
 en:
   title: Melbourne - satellite
+continents: []
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/melbourne.jpg'
+source: Nasa
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Guam
 en:
   title: Guam
+continents: []
+countries:
+  - guam
+image: 'http://www.populationdata.net/wp-content/uploads/guam.jpg'
+source: CIA
+type: image

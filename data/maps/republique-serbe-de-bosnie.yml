@@ -4,3 +4,9 @@ fr:
   title: République serbe de Bosnie
 en:
   title: République serbe de Bosnie
+continents: []
+countries:
+  - bosnie-et-herzegovine
+image: 'http://www.populationdata.net/wp-content/uploads/republique-serbe-bosnie.png'
+source: Wikipédia
+type: image

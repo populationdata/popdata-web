@@ -4,3 +4,9 @@ fr:
   title: Botswana - relief
 en:
   title: Botswana - relief
+continents: []
+countries:
+  - botswana
+image: 'http://www.populationdata.net/wp-content/uploads/botswana_relief.jpg'
+source: CIA
+type: image

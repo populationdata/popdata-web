@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Zélande - dépendances
 en:
   title: New Zealand - Dependancies
+continents: []
+countries:
+  - tokelau
+  - cook
+  - nouvelle-zelande
+  - nioue
+image: >-
+  http://www.populationdata.net/wp-content/uploads/nouvelle-zelande-dependances.png
+source: Wikipédia
+type: image

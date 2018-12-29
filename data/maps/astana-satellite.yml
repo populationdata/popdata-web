@@ -4,3 +4,12 @@ fr:
   title: Astana - satellite
 en:
   title: Astana - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.159108
+  longitude: 71.440315
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

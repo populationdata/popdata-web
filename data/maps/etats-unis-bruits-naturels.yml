@@ -4,3 +4,10 @@ fr:
   title: États-Unis - bruits naturels
 en:
   title: États-Unis - bruits naturels
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Etats-Unis-bruits-naturels.jpg
+source: Bureau du recensement des États-Unis
+type: image

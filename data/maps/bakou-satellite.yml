@@ -4,3 +4,12 @@ fr:
   title: Bakou - satellite
 en:
   title: Bakou - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 40.392842
+  longitude: 49.878445
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

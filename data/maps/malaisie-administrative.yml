@@ -4,3 +4,10 @@ fr:
   title: Malaisie - administrative
 en:
   title: Malaisie - administrative
+continents: []
+countries:
+  - malaisie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Malaisie-administrative.png
+source: Wikipédia
+type: image

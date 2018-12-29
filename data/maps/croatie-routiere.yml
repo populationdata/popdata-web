@@ -4,3 +4,13 @@ fr:
   title: Croatie - routière
 en:
   title: Croatie - routière
+continents: []
+countries:
+  - croatie
+gmaps:
+  latitude: 44.664746
+  longitude: 16.858521
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

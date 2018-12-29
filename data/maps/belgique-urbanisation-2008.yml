@@ -4,3 +4,10 @@ fr:
   title: Belgique - urbanisation (2008)
 en:
   title: Belgique - urbanisation (2008)
+continents: []
+countries:
+  - belgique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/belgique-urbanisation-2008.jpg
+source: Institut National de Statistique de Belgique (INS)
+type: image

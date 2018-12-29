@@ -4,3 +4,12 @@ fr:
   title: Sendai - routière
 en:
   title: Sendai - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.265493
+  longitude: 140.871581
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

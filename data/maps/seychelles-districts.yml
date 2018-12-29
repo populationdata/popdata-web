@@ -4,3 +4,10 @@ fr:
   title: Seychelles - districts
 en:
   title: Seychelles - districts
+continents: []
+countries:
+  - seychelles
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/seychelles-districts.jpg
+source: Bureau national des statistiques des Seychelles
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Argentine - petite
 en:
   title: Argentine - petite
+continents: []
+countries:
+  - argentine
+image: 'http://www.populationdata.net/wp-content/uploads/argentine_petite.gif'
+source: CIA
+type: image

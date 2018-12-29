@@ -4,3 +4,9 @@ fr:
   title: Suriname - relief
 en:
   title: Suriname - relief
+continents: []
+countries:
+  - suriname
+image: 'http://www.populationdata.net/wp-content/uploads/suriname_relief.gif'
+source: CIA
+type: image

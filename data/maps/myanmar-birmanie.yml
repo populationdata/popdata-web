@@ -4,3 +4,9 @@ fr:
   title: Myanmar (Birmanie)
 en:
   title: Myanmar (Birmanie)
+continents: []
+countries:
+  - myanmar-birmanie
+image: 'http://www.populationdata.net/wp-content/uploads/birmanie.jpg'
+source: CIA
+type: image

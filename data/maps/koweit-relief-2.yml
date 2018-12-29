@@ -4,3 +4,13 @@ fr:
   title: Koweït - relief
 en:
   title: Koweït - relief
+continents: []
+countries:
+  - koweit
+gmaps:
+  latitude: 29.275618
+  longitude: 47.72049
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

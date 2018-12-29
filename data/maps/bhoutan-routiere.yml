@@ -4,3 +4,13 @@ fr:
   title: Bhoutan - routière
 en:
   title: Bhoutan - routière
+continents: []
+countries:
+  - bhoutan
+gmaps:
+  latitude: 27.425414
+  longitude: 90.409241
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

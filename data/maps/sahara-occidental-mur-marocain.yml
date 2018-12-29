@@ -4,3 +4,11 @@ fr:
   title: Sahara occidental - murs marocains
 en:
   title: Sahara occidental - murs marocains
+continents: []
+countries:
+  - sahara-occidental
+  - maroc
+image: >-
+  http://www.populationdata.net/wp-content/uploads/sahara-occidental-murs-marocains.png
+source: Wikipédia
+type: image

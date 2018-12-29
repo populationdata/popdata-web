@@ -4,3 +4,9 @@ fr:
   title: Suisse - topographique
 en:
   title: Suisse - topographique
+continents: []
+countries:
+  - suisse
+image: 'http://www.populationdata.net/wp-content/uploads/suisse-relief.png'
+source: Swiss Topo
+type: image

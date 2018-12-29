@@ -4,3 +4,10 @@ fr:
   title: New York - prix des propriétés à moins d'1 million $ (2010-2018)
 en:
   title: New York - prix des propriétés à moins d'1 million $ (2010-2018)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/NY-prix-immobilier-2017.gif
+source: Fast Forward Labs
+type: image

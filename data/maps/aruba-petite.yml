@@ -4,3 +4,9 @@ fr:
   title: Aruba - petite
 en:
   title: Aruba - petite
+continents: []
+countries:
+  - aruba
+image: 'http://www.populationdata.net/wp-content/uploads/aruba-petite.png'
+source: Wikipédia
+type: image

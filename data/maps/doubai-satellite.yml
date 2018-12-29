@@ -4,3 +4,12 @@ fr:
   title: Doubaï (Dubaï) - satellite
 en:
   title: Doubaï (Dubaï) - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 25.172009
+  longitude: 55.26123
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

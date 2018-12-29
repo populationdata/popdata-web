@@ -4,3 +4,12 @@ fr:
   title: La Paz - routière
 en:
   title: La Paz - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -16.508681
+  longitude: -68.150253
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

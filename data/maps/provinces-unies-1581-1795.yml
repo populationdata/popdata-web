@@ -4,3 +4,9 @@ fr:
   title: Provinces-Unies (1581-1795)
 en:
   title: Provinces-Unies (1581-1795)
+continents: []
+countries:
+  - pays-bas
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/provinces-unies.png'
+source: Wikipédia
+type: image

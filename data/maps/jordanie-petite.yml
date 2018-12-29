@@ -4,3 +4,9 @@ fr:
   title: Jordanie - petite
 en:
   title: Jordanie - petite
+continents: []
+countries:
+  - jordanie
+image: 'http://www.populationdata.net/wp-content/uploads/jordanie_petite.gif'
+source: CIA
+type: image

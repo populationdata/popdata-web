@@ -4,3 +4,10 @@ fr:
   title: États-Unis - pollution sonore
 en:
   title: États-Unis - pollution sonore
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Etats-Unis-pollution-sonore.jpg
+source: National Park Service
+type: image

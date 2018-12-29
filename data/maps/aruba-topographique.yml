@@ -4,3 +4,10 @@ fr:
   title: Aruba - topographique
 en:
   title: Aruba - topographique
+continents: []
+countries:
+  - aruba
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Aruba-topographique.jpg
+source: Bureau central des statistiques d'Aruba
+type: image

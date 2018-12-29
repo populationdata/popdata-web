@@ -4,3 +4,13 @@ fr:
   title: Maroc - routière
 en:
   title: Maroc - routière
+continents: []
+countries:
+  - maroc
+gmaps:
+  latitude: 31.615966
+  longitude: -6.877441
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

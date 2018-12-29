@@ -4,3 +4,13 @@ fr:
   title: Tonga - relief
 en:
   title: Tonga - relief
+continents: []
+countries:
+  - tonga
+gmaps:
+  latitude: -18.638954
+  longitude: -174.893947
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

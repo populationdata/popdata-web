@@ -4,3 +4,9 @@ fr:
   title: Grenade - petite
 en:
   title: Grenade - petite
+continents: []
+countries:
+  - grenade
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Grenade.gif'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Wallis-et-Futuna - administrative
 en:
   title: Wallis-et-Futuna - administrative
+continents: []
+countries:
+  - wallis-et-futuna
+image: >-
+  http://www.populationdata.net/wp-content/uploads/wallis-futuna-topographique.png
+source: Wikipédia
+type: image

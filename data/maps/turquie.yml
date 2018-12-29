@@ -4,3 +4,9 @@ fr:
   title: Turquie
 en:
   title: Turquie
+continents: []
+countries:
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/turquie.jpg'
+source: CIA
+type: image

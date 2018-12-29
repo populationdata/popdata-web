@@ -4,3 +4,9 @@ fr:
   title: Viêt Nam - relief
 en:
   title: Viêt Nam - relief
+continents: []
+countries:
+  - viet-nam
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Viet-Nam-relief.jpg'
+source: Wikipédia
+type: image

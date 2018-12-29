@@ -4,3 +4,9 @@ fr:
   title: France - espaces urbains
 en:
   title: France - espaces urbains
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-espaces-urbains.png'
+source: INSEE
+type: image

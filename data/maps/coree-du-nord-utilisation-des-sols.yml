@@ -4,3 +4,9 @@ fr:
   title: Corée du Nord - utilisation des sols
 en:
   title: Corée du Nord - utilisation des sols
+continents: []
+countries:
+  - coree-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/coree-du-nord-sols.jpg'
+source: CIA
+type: image

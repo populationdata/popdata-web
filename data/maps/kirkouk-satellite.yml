@@ -4,3 +4,12 @@ fr:
   title: Kirkouk - satellite
 en:
   title: Kirkouk - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.463187
+  longitude: 44.376011
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

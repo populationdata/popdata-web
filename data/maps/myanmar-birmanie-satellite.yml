@@ -4,3 +4,13 @@ fr:
   title: Myanmar (Birmanie) - satellite
 en:
   title: Myanmar (Birmanie) - satellite
+continents: []
+countries:
+  - myanmar-birmanie
+gmaps:
+  latitude: 19.808054
+  longitude: 97.03125
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

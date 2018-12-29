@@ -4,3 +4,10 @@ fr:
   title: Caraïbes - Îles du Vent
 en:
   title: Caraïbes - Îles du Vent
+continents:
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Caraibes-iles-du-vent.png
+source: Wikipédia
+type: image

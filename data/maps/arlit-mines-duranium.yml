@@ -4,3 +4,13 @@ fr:
   title: Arlit - mines d'uranium
 en:
   title: Arlit - mines d'uranium
+continents: []
+countries:
+  - niger
+gmaps:
+  latitude: 18.735029
+  longitude: 7.34539
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Hongrie - routière
 en:
   title: Hongrie - routière
+continents: []
+countries:
+  - hongrie
+gmaps:
+  latitude: 47.174778
+  longitude: 19.390869
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

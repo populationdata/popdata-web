@@ -4,3 +4,9 @@ fr:
   title: Palaos
 en:
   title: Palau
+continents: []
+countries:
+  - palaos
+image: 'http://www.populationdata.net/wp-content/uploads/palau.jpg'
+source: CIA
+type: image

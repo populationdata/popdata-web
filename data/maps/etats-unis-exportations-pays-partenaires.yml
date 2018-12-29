@@ -4,3 +4,11 @@ fr:
   title: 'États-Unis - exportations : pays partenaires'
 en:
   title: 'United States - Exportations: trading partner countries'
+continents: []
+countries:
+  - etats-unis
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Etats-Unis-exportations-partenaire.jpg
+source: 'Business Insider, Census Bureau'
+type: image

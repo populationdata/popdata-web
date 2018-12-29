@@ -4,3 +4,9 @@ fr:
   title: Aruba - touristique
 en:
   title: Aruba - touristique
+continents: []
+countries:
+  - aruba
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Aruba-2.png'
+source: Peter Fitzgerald
+type: image

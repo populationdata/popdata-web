@@ -4,3 +4,9 @@ fr:
   title: Sénégal - Casamance
 en:
   title: Sénégal - Casamance
+continents: []
+countries:
+  - senegal
+image: 'http://www.populationdata.net/wp-content/uploads/senegal_casamance.jpg'
+source: CIA
+type: image

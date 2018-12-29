@@ -4,3 +4,20 @@ fr:
   title: Mer Baltique - relief sous-marin
 en:
   title: Mer Baltique - relief sous-marin
+continents:
+  - europe
+countries:
+  - russie
+  - finlande
+  - suede
+  - norvege
+  - danemark
+  - allemagne
+  - pologne
+  - lituanie
+  - lettonie
+  - estonie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Mer-Baltique-relief-sous-marin.png
+source: Wikipédia
+type: image

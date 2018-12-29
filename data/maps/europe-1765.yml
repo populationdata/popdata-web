@@ -3,3 +3,9 @@ date: '2018-10-10T16:48:04.000Z'
 fr:
   title: Europe (1765)
 en: null
+continents:
+  - europe
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2018/10/Europe-1765.jpg'
+source: Hendrick E. Wuckelt
+type: image

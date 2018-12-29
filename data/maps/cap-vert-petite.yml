@@ -4,3 +4,9 @@ fr:
   title: Cap-Vert - petite
 en:
   title: Cap-Vert - petite
+continents: []
+countries:
+  - cap-vert
+image: 'http://www.populationdata.net/wp-content/uploads/cap_vert_petite.gif'
+source: CIA
+type: image

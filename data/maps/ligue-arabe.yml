@@ -4,3 +4,32 @@ fr:
   title: Ligue arabe
 en:
   title: Ligue arabe
+continents:
+  - asie
+  - afrique
+countries:
+  - liban
+  - irak
+  - palestine
+  - syrie
+  - jordanie
+  - arabie-saoudite
+  - koweit
+  - bahrein
+  - qatar
+  - emirats-arabes-unis
+  - oman
+  - yemen
+  - comores
+  - djibouti
+  - somalie
+  - soudan
+  - egypte
+  - libye
+  - tunisie
+  - algerie
+  - maroc
+  - mauritanie
+image: 'https://www.populationdata.net/wp-content/uploads/Ligue-arabe.png'
+source: Wikipédia
+type: image

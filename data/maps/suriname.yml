@@ -4,3 +4,9 @@ fr:
   title: Suriname
 en:
   title: Suriname
+continents: []
+countries:
+  - suriname
+image: 'http://www.populationdata.net/wp-content/uploads/suriname.jpg'
+source: CIA
+type: image

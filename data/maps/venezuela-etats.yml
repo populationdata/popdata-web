@@ -4,3 +4,9 @@ fr:
   title: Venezuela - États
 en:
   title: Venezuela - États
+continents: []
+countries:
+  - venezuela
+image: 'https://www.populationdata.net/wp-content/uploads/Venezuela-Etats.png'
+source: Wikipédia
+type: image

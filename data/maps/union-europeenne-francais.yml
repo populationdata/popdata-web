@@ -4,3 +4,16 @@ fr:
   title: Union européenne - Français
 en:
   title: Union européenne - Français
+continents:
+  - europe
+countries:
+  - france
+  - belgique
+  - suisse
+  - luxembourg
+  - italie
+  - monaco
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Union-europeenne-francais.png
+source: Wikipédia
+type: image

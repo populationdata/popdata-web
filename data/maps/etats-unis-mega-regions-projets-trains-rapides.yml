@@ -4,3 +4,14 @@ fr:
   title: États-Unis - méga régions + projets trains rapides
 en:
   title: États-Unis - méga régions + projets trains rapides
+continents: []
+countries:
+  - etats-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/etats-unis-grandes-regions.jpg
+source: >-
+  Joel Kotkin (frontières et noms des 7 méga régions) ; Forbes Magazine ;
+  Regional Plan Association ; Census Bureau ; United States High Speed Rail
+  Association ; Clare Trainor/University of Wisconsin-Madison Cartography
+  Laboratory.
+type: image

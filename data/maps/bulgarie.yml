@@ -4,3 +4,9 @@ fr:
   title: Bulgarie
 en:
   title: Bulgarie
+continents: []
+countries:
+  - bulgarie
+image: 'http://www.populationdata.net/wp-content/uploads/bulgarie.jpg'
+source: CIA
+type: image

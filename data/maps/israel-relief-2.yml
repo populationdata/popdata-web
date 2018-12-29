@@ -4,3 +4,13 @@ fr:
   title: Israël - relief
 en:
   title: Israël - relief
+continents: []
+countries:
+  - israel
+gmaps:
+  latitude: 31.545771
+  longitude: 34.887085
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

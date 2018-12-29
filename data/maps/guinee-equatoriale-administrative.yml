@@ -4,3 +4,9 @@ fr:
   title: Guinée équatoriale - administrative
 en:
   title: Guinée équatoriale - administrative
+continents: []
+countries:
+  - guinee-equatoriale
+image: 'http://www.populationdata.net/wp-content/uploads/guinee-equatoriale.jpg'
+source: Direction générale des statistiques de Guinée équatoriale
+type: image

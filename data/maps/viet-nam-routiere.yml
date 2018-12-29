@@ -4,3 +4,13 @@ fr:
   title: Viêt Nam - routière
 en:
   title: Viêt Nam - routière
+continents: []
+countries:
+  - viet-nam
+gmaps:
+  latitude: 16.109153
+  longitude: 105.117188
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

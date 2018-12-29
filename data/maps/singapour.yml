@@ -4,3 +4,9 @@ fr:
   title: Singapour
 en:
   title: Singapour
+continents: []
+countries:
+  - singapour
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Singapour.png'
+source: Wikipédia
+type: image

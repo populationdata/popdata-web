@@ -4,3 +4,9 @@ fr:
   title: Australie - États
 en:
   title: Australie - États
+continents: []
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/Australie-Etats.png'
+source: Wikipédia
+type: image

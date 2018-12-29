@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import { css } from 'glamor'
 import Layout from '../components/Layout'
-import ColBlock from '../components/ColBlock'
+import ColBlockItems from '../components/ColBlockItems'
 import HeaderTable from '../components/HeaderTable'
 import DataMap from '../components/DataMap'
 import DataTable from '../components/DataTable'
@@ -98,26 +98,42 @@ const ContinentHeader = ({ continent }) => (
 )
 
 const ContinentPage = ({ data }) => (
-  <Layout col1={<ColBlock title={labels.maps} />}>
+  <Layout
+    col1={
+      <ColBlockItems
+        title={labels.maps}
+        items={data.maps.edges
+          .sort((a, b) =>
+            a.node.fields.title.localeCompare(b.node.fields.title)
+          )
+          .map(x => ({
+            link: x.node.fields.slug,
+            title: x.node.fields.title,
+          }))}
+      />
+    }
+  >
     <h1>{data.continent.fields.name}</h1>
     <section>
       <ContinentHeader continent={data.continent} />
     </section>
-    <section>
-      <DataMap
-        scope="africa"
-        data={data.countries.edges
-          .filter(x => !!x.node.iso3)
-          .map(x => ({
-            iso3: x.node.iso3,
-            title: x.node.fields.name,
-            value: x.node.population.population,
-          }))}
-        valueFormatter={value =>
-          `${numberFormat.format(value)} ${labels.inhabitants}`
-        }
-      />
-    </section>
+    {data.continent.datamapScope && (
+      <section>
+        <DataMap
+          scope={data.continent.datamapScope}
+          data={data.countries.edges
+            .filter(x => !!x.node.iso3)
+            .map(x => ({
+              iso3: x.node.iso3,
+              title: x.node.fields.name,
+              value: x.node.population.population,
+            }))}
+          valueFormatter={value =>
+            `${numberFormat.format(value)} ${labels.inhabitants}`
+          }
+        />
+      </section>
+    )}
     <section>
       {data.subcontinents.edges
         .map(subcontinent => subcontinent.node)
@@ -149,6 +165,7 @@ export const continentQuery = graphql`
         name
       }
       area
+      datamapScope
       numberOfCountries
       population
     }
@@ -181,6 +198,17 @@ export const continentQuery = graphql`
             population
           }
           iso3
+        }
+      }
+    }
+    maps: allMapsYaml(filter: { continentNodeIds: { in: [$id] } }) {
+      edges {
+        node {
+          id
+          fields {
+            slug
+            title
+          }
         }
       }
     }

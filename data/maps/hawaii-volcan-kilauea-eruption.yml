@@ -4,3 +4,10 @@ fr:
   title: Hawaii - volcan Kilauea en éruption
 en:
   title: Hawaii - volcan Kilauea en éruption
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Hawaii-kilauea-2016.jpg
+source: Nasa
+type: image

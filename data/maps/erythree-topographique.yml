@@ -4,3 +4,10 @@ fr:
   title: Érythrée - topographique
 en:
   title: Érythrée - topographique
+continents: []
+countries:
+  - erythree
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Erythree-topographique.png
+source: Wikipédia
+type: image

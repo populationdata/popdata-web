@@ -4,3 +4,13 @@ fr:
   title: Belgique - satellite
 en:
   title: Belgique - satellite
+continents: []
+countries:
+  - belgique
+gmaps:
+  latitude: 50.516919
+  longitude: 4.520874
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

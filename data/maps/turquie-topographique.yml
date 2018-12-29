@@ -4,3 +4,9 @@ fr:
   title: Turquie - topographique
 en:
   title: Turquie - topographique
+continents: []
+countries:
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/turquie-topographique.jpg'
+source: Wikipédia
+type: image

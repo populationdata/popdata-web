@@ -4,3 +4,9 @@ fr:
   title: Suède
 en:
   title: Suède
+continents: []
+countries:
+  - suede
+image: 'http://www.populationdata.net/wp-content/uploads/suede.jpg'
+source: CIA
+type: image

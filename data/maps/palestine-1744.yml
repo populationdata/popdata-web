@@ -4,3 +4,11 @@ fr:
   title: Palestine (1744)
 en:
   title: Palestine (1744)
+continents: []
+countries:
+  - palestine
+  - israel
+  - jordanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Palestine-1744.jpg'
+source: Wikipédia
+type: image

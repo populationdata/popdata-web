@@ -4,3 +4,12 @@ fr:
   title: Ibadan - routière
 en:
   title: Ibadan - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 7.380342
+  longitude: 3.901005
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,29 @@ fr:
   title: 'Afrique - COMESA : pays membres'
 en:
   title: 'Africa - COMESA: Member countries'
+continents:
+  - afrique
+countries:
+  - burundi
+  - comores
+  - republique-democratique-du-congo
+  - djibouti
+  - egypte
+  - erythree
+  - ethiopie
+  - kenya
+  - libye
+  - madagascar
+  - malawi
+  - maurice
+  - rwanda
+  - seychelles
+  - soudan
+  - eswatini-swaziland
+  - ouganda
+  - zambie
+  - zimbabwe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/afrique-comesa-pays-membres.png
+source: COMESA
+type: image

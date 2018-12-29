@@ -4,3 +4,11 @@ fr:
   title: Pacte de Varsovie
 en:
   title: Pacte de Varsovie
+continents:
+  - europe
+countries:
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Pacte-de-Varsovie.png
+source: Wikipédia
+type: image

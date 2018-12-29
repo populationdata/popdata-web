@@ -4,3 +4,12 @@ fr:
   title: Almaty - satellite
 en:
   title: Almaty - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.25483
+  longitude: 76.910133
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

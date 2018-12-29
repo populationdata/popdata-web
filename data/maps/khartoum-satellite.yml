@@ -4,3 +4,12 @@ fr:
   title: Khartoum - satellite
 en:
   title: Khartoum - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 15.62221
+  longitude: 32.533092
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Allemagne - irradiation solaire
 en:
   title: Allemagne - irradiation solaire
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/allemagne-irradiation-solaire.png
+source: 'Wikipédia, GeoModel Solar'
+type: image

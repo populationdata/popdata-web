@@ -4,3 +4,10 @@ fr:
   title: Afghanistan - densité (2016)
 en:
   title: Afghanistan - densité (2016)
+continents: []
+countries:
+  - afghanistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/afghanistan-densite-2016.png
+source: Organisation centrale des statistiques d'Afghanistan
+type: image

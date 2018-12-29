@@ -4,3 +4,13 @@ fr:
   title: Turquie - routière
 en:
   title: Turquie - routière
+continents: []
+countries:
+  - turquie
+gmaps:
+  latitude: 38.908133
+  longitude: 34.815674
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Macédoine - Skopje
 en:
   title: Macédoine - Skopje
+continents: []
+countries:
+  - macedoine-du-nord
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/macedoine-skopje.jpg'
+source: Copernicus
+type: image

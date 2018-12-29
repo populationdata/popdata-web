@@ -3,3 +3,10 @@ date: '2018-05-07T15:06:38.000Z'
 fr:
   title: Afrique - États non reconnus
 en: null
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/05/Afrique-Etats-non-reconnus.jpg
+source: Kvernbergs Kartografiske Anstalt
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Algérie - relief
 en:
   title: Algérie - relief
+continents: []
+countries:
+  - algerie
+image: 'http://www.populationdata.net/wp-content/uploads/algerie_relief.jpg'
+source: CIA
+type: image

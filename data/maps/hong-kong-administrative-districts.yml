@@ -4,3 +4,10 @@ fr:
   title: Hong Kong - administrative (districts)
 en:
   title: Hong Kong - administrative (districts)
+continents: []
+countries:
+  - hong-kong
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Chine-Hong-Kong-Districts.png
+source: 'Moddlyg, Wikipédia'
+type: image

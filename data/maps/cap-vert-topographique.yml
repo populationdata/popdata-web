@@ -4,3 +4,10 @@ fr:
   title: Cap-Vert - topographique
 en:
   title: Cap-Vert - topographique
+continents: []
+countries:
+  - cap-vert
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Cap-Vert-topographique.png
+source: Wikipédia
+type: image

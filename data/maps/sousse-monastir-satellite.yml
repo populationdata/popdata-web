@@ -4,3 +4,12 @@ fr:
   title: 'Sousse - Monastir : satellite'
 en:
   title: 'Sousse - Monastir : satellite'
+continents: []
+countries: []
+gmaps:
+  latitude: 35.82004
+  longitude: 10.640602
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

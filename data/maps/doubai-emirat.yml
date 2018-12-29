@@ -4,3 +4,9 @@ fr:
   title: Doubaï - Émirat
 en:
   title: Doubaï - Émirat
+continents: []
+countries:
+  - emirats-arabes-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Doubai-emirat.png'
+source: Wikipédia
+type: image

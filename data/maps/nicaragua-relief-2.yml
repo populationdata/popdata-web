@@ -4,3 +4,13 @@ fr:
   title: Nicaragua - relief
 en:
   title: Nicaragua - relief
+continents: []
+countries:
+  - nicaragua
+gmaps:
+  latitude: 12.688574
+  longitude: -85.187988
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

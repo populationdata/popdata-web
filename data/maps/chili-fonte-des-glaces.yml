@@ -4,3 +4,9 @@ fr:
   title: Chili - fonte des glaces
 en:
   title: Chili - fonte des glaces
+continents: []
+countries:
+  - chili
+image: 'http://www.populationdata.net/wp-content/uploads/chili-glaciers.jpg'
+source: Nasa Earth Observatory
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Salvador - administrative
 en:
   title: Salvador - administrative
+continents: []
+countries:
+  - salvador
+image: 'http://www.populationdata.net/wp-content/uploads/salvador-departements.png'
+source: Wikipédia
+type: image

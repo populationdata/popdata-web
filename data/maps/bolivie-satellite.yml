@@ -4,3 +4,13 @@ fr:
   title: Bolivie - satellite
 en:
   title: Bolivie - satellite
+continents: []
+countries:
+  - bolivie
+gmaps:
+  latitude: -16.750965
+  longitude: -66.282078
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

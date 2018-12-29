@@ -4,3 +4,13 @@ fr:
   title: Typhon Talim (14 septembre 2017)
 en:
   title: Typhon Talim (14 septembre 2017)
+continents:
+  - asie
+countries:
+  - chine
+  - taiwan
+  - japon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Typhon-Talim-14-septembre-2017.jpg
+source: Nasa Earth Observatory
+type: image

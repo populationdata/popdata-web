@@ -4,3 +4,17 @@ fr:
   title: Moyen-Orient - Accords Sykes-Picot (8 Mai 1916)
 en:
   title: Moyen-Orient - Accords Sykes-Picot (8 Mai 1916)
+continents:
+  - asie
+countries:
+  - syrie
+  - irak
+  - liban
+  - jordanie
+  - israel
+  - palestine
+  - turquie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Moyen-Orient-Accords-Sykes-Picot-8-Mai-1916.jpg
+source: Wikipédia
+type: image

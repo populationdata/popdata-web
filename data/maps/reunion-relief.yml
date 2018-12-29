@@ -4,3 +4,9 @@ fr:
   title: Réunion - relief
 en:
   title: Réunion - relief
+continents: []
+countries:
+  - reunion
+image: 'http://www.populationdata.net/wp-content/uploads/reunion.jpg'
+source: CIA
+type: image

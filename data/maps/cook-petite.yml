@@ -4,3 +4,9 @@ fr:
   title: Cook - petite
 en:
   title: Cook - petite
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-petite.png'
+source: Wikipédia
+type: image

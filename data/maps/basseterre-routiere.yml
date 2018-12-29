@@ -4,3 +4,12 @@ fr:
   title: Basseterre - routière
 en:
   title: Basseterre - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 17.297625
+  longitude: -62.718544
+  type: roadmap
+  zoom: 14
+source: Google Maps
+type: gmaps

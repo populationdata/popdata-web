@@ -4,3 +4,9 @@ fr:
   title: Érythrée - archipel des Dahlak
 en:
   title: Érythrée - archipel des Dahlak
+continents: []
+countries:
+  - erythree
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Erythree-Dahlak.jpg'
+source: Wikipédia
+type: image

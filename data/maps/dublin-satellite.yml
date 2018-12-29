@@ -4,3 +4,12 @@ fr:
   title: Dublin - satellite
 en:
   title: Dublin - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 53.345428
+  longitude: -6.25843
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

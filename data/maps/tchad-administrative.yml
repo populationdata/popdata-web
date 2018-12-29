@@ -4,3 +4,9 @@ fr:
   title: Tchad - administrative
 en:
   title: Tchad - administrative
+continents: []
+countries:
+  - tchad
+image: 'https://www.populationdata.net/wp-content/uploads/Tchad-administrative.jpg'
+source: ONU
+type: image

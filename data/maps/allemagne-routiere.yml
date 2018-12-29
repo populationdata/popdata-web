@@ -4,3 +4,13 @@ fr:
   title: Allemagne - routière
 en:
   title: Allemagne - routière
+continents: []
+countries:
+  - allemagne
+gmaps:
+  latitude: 51.11042
+  longitude: 10.393066
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

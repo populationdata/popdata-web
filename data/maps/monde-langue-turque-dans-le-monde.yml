@@ -4,3 +4,13 @@ fr:
   title: 'Monde - Turc : langue'
 en:
   title: 'World - Turkish: language'
+continents: []
+countries:
+  - ouzbekistan
+  - azerbaidjan
+  - turkmenistan
+  - kazakhstan
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/monde-turc-langue.png'
+source: Wikipédia
+type: image

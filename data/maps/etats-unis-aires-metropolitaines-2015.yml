@@ -4,3 +4,10 @@ fr:
   title: États-Unis - aires métropolitaines (2015)
 en:
   title: États-Unis – aires métropolitaines (2015)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Etats-Unis-–-aires-metropolitaines-2015.jpg
+source: Census Bureau
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Kirghizistan - petite
 en:
   title: Kirghizistan - petite
+continents: []
+countries:
+  - kirghizistan
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Kirghizistan.png'
+source: CIA
+type: image

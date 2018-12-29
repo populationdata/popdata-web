@@ -4,3 +4,9 @@ fr:
   title: Caïmans - petite
 en:
   title: Caïmans - petite
+continents: []
+countries:
+  - caimans
+image: 'http://www.populationdata.net/wp-content/uploads/caimans-petite.png'
+source: Wikipédia
+type: image

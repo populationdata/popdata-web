@@ -4,3 +4,13 @@ fr:
   title: Kurdistan - politique
 en:
   title: Kurdistan - politique
+continents: []
+countries:
+  - irak
+  - turquie
+  - iran
+  - syrie
+  - kurdistan
+image: 'http://www.populationdata.net/wp-content/uploads/kurdistan2003.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Reykjavik - routière
 en:
   title: Reykjavik - routière
+continents: []
+countries:
+  - islande
+gmaps:
+  latitude: 64.141017
+  longitude: -21.90279
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

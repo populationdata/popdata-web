@@ -4,3 +4,9 @@ fr:
   title: Irak - relief
 en:
   title: Irak - relief
+continents: []
+countries:
+  - irak
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Irak-relief.jpg'
+source: Wikipédia
+type: image

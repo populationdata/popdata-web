@@ -4,3 +4,12 @@ fr:
   title: Milan - satellite
 en:
   title: Milan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 45.47554
+  longitude: 9.18045
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

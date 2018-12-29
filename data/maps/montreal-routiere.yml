@@ -4,3 +4,12 @@ fr:
   title: Montréal - routière
 en:
   title: Montréal - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 45.558042
+  longitude: -73.730303
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

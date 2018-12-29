@@ -4,3 +4,13 @@ fr:
   title: Caucase - Langues kartvéliennes
 en:
   title: Caucase - Langues kartvéliennes
+continents: []
+countries:
+  - georgie
+  - ossetie-du-sud-alanie
+  - abkhazie
+  - turquie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Caucase-Langues-kartveliennes.gif
+source: Wikipédia
+type: image

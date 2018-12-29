@@ -4,3 +4,12 @@ fr:
   title: Pékin - satellite
 en:
   title: Pékin - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 39.918163
+  longitude: 116.39122
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

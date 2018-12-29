@@ -4,3 +4,11 @@ fr:
   title: 'Antarctique - Glaciers : mouvements (2015)'
 en:
   title: 'Antarctique - Glaciers : mouvements (2015)'
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/antarctique-glaciers-mouvements-2015.png
+source: Nasa
+type: image

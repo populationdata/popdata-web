@@ -4,3 +4,9 @@ fr:
   title: Haïti
 en:
   title: Haïti
+continents: []
+countries:
+  - haiti
+image: 'http://www.populationdata.net/wp-content/uploads/haiti.jpg'
+source: CIA
+type: image

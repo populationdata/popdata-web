@@ -4,3 +4,9 @@ fr:
   title: Zimbabwé - petite
 en:
   title: Zimbabwé - petite
+continents: []
+countries:
+  - zimbabwe
+image: 'http://www.populationdata.net/wp-content/uploads/zimbabwe-petite.png'
+source: Wikipédia
+type: image

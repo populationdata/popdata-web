@@ -4,3 +4,9 @@ fr:
   title: Ouzbékistan - relief
 en:
   title: Ouzbékistan - relief
+continents: []
+countries:
+  - ouzbekistan
+image: 'http://www.populationdata.net/wp-content/uploads/ouzbekistan_relief.jpg'
+source: CIA
+type: image

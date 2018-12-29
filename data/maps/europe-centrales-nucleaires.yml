@@ -4,3 +4,10 @@ fr:
   title: Europe - Centrales nucléaires
 en:
   title: Europe - Centrales nucléaires
+continents:
+  - europe
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/europe-centrales-nucleaires.gif
+source: 'Le Monde, AIEA'
+type: image

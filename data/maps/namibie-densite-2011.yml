@@ -4,3 +4,9 @@ fr:
   title: Namibie - densité (2011)
 en:
   title: Namibie - densité (2011)
+continents: []
+countries:
+  - namibie
+image: 'http://www.populationdata.net/wp-content/uploads/namibie-densite-2011.jpg'
+source: Agence statistique de Namibie
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Équateur - satellite
 en:
   title: Équateur - satellite
+continents: []
+countries:
+  - equateur
+gmaps:
+  latitude: -1.746556
+  longitude: -78.640137
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Mariannes du Nord - petite
 en:
   title: Mariannes du Nord - petite
+continents: []
+countries:
+  - mariannes-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/mariannes-du-nord-petite.gif'
+source: Wikipédia
+type: image

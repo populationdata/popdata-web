@@ -4,3 +4,12 @@ fr:
   title: Ljubljana - satellite
 en:
   title: Ljubljana - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 46.053697
+  longitude: 14.509506
+  type: satellite
+  zoom: 11
+source: Google Maps
+type: gmaps

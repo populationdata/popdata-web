@@ -4,3 +4,13 @@ fr:
   title: Lettonie - routière
 en:
   title: Lettonie - routière
+continents: []
+countries:
+  - lettonie
+gmaps:
+  latitude: 56.923995
+  longitude: 24.554443
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

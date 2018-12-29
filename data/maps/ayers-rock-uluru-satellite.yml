@@ -4,3 +4,13 @@ fr:
   title: Ayers Rock (Uluru) - satellite
 en:
   title: Ayers Rock (Uluru) - satellite
+continents: []
+countries:
+  - australie
+gmaps:
+  latitude: -25.344181
+  longitude: 131.035824
+  type: satellite
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Marrakech - satellite
 en:
   title: Marrakech - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 31.635552
+  longitude: -8.001995
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

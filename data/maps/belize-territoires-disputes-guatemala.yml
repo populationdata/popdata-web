@@ -4,3 +4,11 @@ fr:
   title: Belize - territoires disputés par le Guatemala
 en:
   title: Belize - territoires disputés par le Guatemala
+continents: []
+countries:
+  - guatemala
+  - belize
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Belize-territoires-disputes-par-le-guatemala.png
+source: Wikipédia
+type: image

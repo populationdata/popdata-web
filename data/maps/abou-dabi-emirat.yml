@@ -4,3 +4,9 @@ fr:
   title: Abou Dabi - Émirat
 en:
   title: Abou Dabi - Émirat
+continents: []
+countries:
+  - emirats-arabes-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Abou-Dabi-emirat.png'
+source: Wikipédia
+type: image

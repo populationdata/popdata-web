@@ -3,3 +3,11 @@ date: '2018-02-22T21:39:49.000Z'
 fr:
   title: Plaque tectonique Antarctique
 en: null
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Plaque-tectonique-Antarctique.png
+source: Wikipédia
+type: image

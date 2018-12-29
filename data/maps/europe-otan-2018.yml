@@ -3,3 +3,11 @@ date: '2018-06-04T21:17:51.000Z'
 fr:
   title: Europe - OTAN (2018)
 en: null
+continents:
+  - europe
+countries:
+  - russie
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2018/06/Europe-OTAN.png'
+source: 'Le Monde diplomatique, Cécile Marin'
+type: image

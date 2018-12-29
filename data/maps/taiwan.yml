@@ -4,3 +4,9 @@ fr:
   title: Taïwan
 en:
   title: Taïwan
+continents: []
+countries:
+  - taiwan
+image: 'http://www.populationdata.net/wp-content/uploads/taiwan.jpg'
+source: CIA
+type: image

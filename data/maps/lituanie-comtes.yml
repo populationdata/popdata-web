@@ -4,3 +4,9 @@ fr:
   title: Lituanie - comtés
 en:
   title: Lituanie - comtés
+continents: []
+countries:
+  - lituanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Lituanie-comtes.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Suva - satellite
 en:
   title: Suva - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -18.117466
+  longitude: 178.452473
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

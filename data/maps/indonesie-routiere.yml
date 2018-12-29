@@ -4,3 +4,13 @@ fr:
   title: Indonésie - routière
 en:
   title: Indonésie - routière
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: -0.527336
+  longitude: 115.224609
+  type: roadmap
+  zoom: 5
+source: Google Maps
+type: gmaps

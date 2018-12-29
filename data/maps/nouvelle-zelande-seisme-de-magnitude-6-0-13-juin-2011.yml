@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Zélande - séisme de magnitude 6.0 (13 juin 2011)
 en:
   title: New Zealand - Magnitude 6.0 Earthquake (13 June 2011)
+continents: []
+countries:
+  - nouvelle-zelande
+gmaps:
+  latitude: -43.58
+  longitude: 172.74
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

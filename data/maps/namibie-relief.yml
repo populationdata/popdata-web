@@ -4,3 +4,9 @@ fr:
   title: Namibie - relief
 en:
   title: Namibie - relief
+continents: []
+countries:
+  - namibie
+image: 'http://www.populationdata.net/wp-content/uploads/namibie_relief.gif'
+source: CIA
+type: image

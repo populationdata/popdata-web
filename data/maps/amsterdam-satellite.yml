@@ -4,3 +4,13 @@ fr:
   title: Amsterdam - satellite
 en:
   title: Amsterdam - satellite
+continents: []
+countries:
+  - pays-bas
+gmaps:
+  latitude: 52.387335
+  longitude: 4.889603
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

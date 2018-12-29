@@ -4,3 +4,10 @@ fr:
   title: France - évolution de l'emploi des aires urbaines (2008-2013)
 en:
   title: France - évolution de l'emploi des aires urbaines (2008-2013)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/France-evolution-emploi-2008-2013-par-aires-urbaines.jpg
+source: 'Insee, France Stratégie'
+type: image

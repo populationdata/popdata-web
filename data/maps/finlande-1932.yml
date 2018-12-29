@@ -4,3 +4,9 @@ fr:
   title: Finlande (1932)
 en:
   title: Finlande (1932)
+continents: []
+countries:
+  - finlande
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Finlande-1932.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Liège - satellite
 en:
   title: Liège - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 50.634329
+  longitude: 5.566978
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

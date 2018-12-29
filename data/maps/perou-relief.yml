@@ -4,3 +4,9 @@ fr:
   title: Pérou - relief
 en:
   title: Pérou - relief
+continents: []
+countries:
+  - perou
+image: 'http://www.populationdata.net/wp-content/uploads/perou_relief.gif'
+source: CIA
+type: image

@@ -4,3 +4,11 @@ fr:
   title: Îles mineures éloignées des États-Unis
 en:
   title: Îles mineures éloignées des États-Unis
+continents:
+  - oceanie
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Iles-mineures-eloignees-des-Etats-Unis.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Reykjavik - plan
 en:
   title: Reykjavik - plan
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/islande-reykjavik-plan.gif'
+source: ''
+type: image

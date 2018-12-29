@@ -4,3 +4,12 @@ fr:
   title: Belize City - satellite
 en:
   title: Belize City - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 17.511141
+  longitude: -88.230858
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

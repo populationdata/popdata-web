@@ -4,3 +4,9 @@ fr:
   title: Portugal
 en:
   title: Portugal
+continents: []
+countries:
+  - portugal
+image: 'http://www.populationdata.net/wp-content/uploads/portugal_pays.jpg'
+source: CIA
+type: image

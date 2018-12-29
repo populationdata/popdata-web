@@ -4,3 +4,9 @@ fr:
   title: Albanie
 en:
   title: Albanie
+continents: []
+countries:
+  - albanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Albanie.jpg'
+source: CIA
+type: image

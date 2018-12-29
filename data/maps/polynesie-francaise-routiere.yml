@@ -4,3 +4,13 @@ fr:
   title: Polynésie française - routière
 en:
   title: Polynésie française - routière
+continents: []
+countries:
+  - polynesie-francaise
+gmaps:
+  latitude: -16.962233
+  longitude: -148.919678
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Saint-Domingue - routière
 en:
   title: Saint-Domingue - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 18.477167
+  longitude: -69.915276
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

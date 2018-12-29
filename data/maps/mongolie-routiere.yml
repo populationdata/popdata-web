@@ -4,3 +4,13 @@ fr:
   title: Mongolie - routière
 en:
   title: Mongolie - routière
+continents: []
+countries:
+  - mongolie
+gmaps:
+  latitude: 47.249407
+  longitude: 103.710938
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

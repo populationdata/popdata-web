@@ -4,3 +4,24 @@ fr:
   title: Ouragan Irma (6 septembre 2017)
 en:
   title: Ouragan Irma (6 septembre 2017)
+continents:
+  - ameriques
+countries:
+  - etats-unis
+  - bahamas
+  - republique-dominicaine
+  - haiti
+  - cuba
+  - porto-rico
+  - guadeloupe
+  - anguilla
+  - antigua-et-barbuda
+  - iles-vierges-des-etats-unis
+  - iles-vierges-britanniques
+  - saint-martin-pays-bas
+  - saint-martin-france
+  - saint-barthelemy
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Ouragan-Irma-6-septembre-2017.jpg
+source: Nasa Earth Observatory
+type: image

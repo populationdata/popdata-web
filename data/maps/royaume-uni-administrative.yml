@@ -4,3 +4,10 @@ fr:
   title: Royaume-Uni - administrative
 en:
   title: Royaume-Uni - administrative
+continents: []
+countries:
+  - royaume-uni
+image: >-
+  http://www.populationdata.net/wp-content/uploads/royaume-uni-administrative.png
+source: Wikipédia
+type: image

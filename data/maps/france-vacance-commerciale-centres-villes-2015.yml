@@ -4,3 +4,10 @@ fr:
   title: France - vacance commerciale des centres-villes (2015)
 en:
   title: France - vacance commerciale des centres-villes (2015)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/france-villes-commerces-centre-ville-2015.png
+source: 'Le Monde, Inspection générale des finances'
+type: image

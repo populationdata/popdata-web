@@ -4,3 +4,9 @@ fr:
   title: Japon - densité (2010)
 en:
   title: Japon - densité (2010)
+continents: []
+countries:
+  - japon
+image: 'https://www.populationdata.net/wp-content/uploads/Japon-densite-2010.jpg'
+source: Bureau des statistiques du Japon
+type: image

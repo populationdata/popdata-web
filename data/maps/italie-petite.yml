@@ -4,3 +4,9 @@ fr:
   title: Italie - petite
 en:
   title: Italie - petite
+continents: []
+countries:
+  - italie
+image: 'http://www.populationdata.net/wp-content/uploads/italie-petite.png'
+source: Wikipédia
+type: image

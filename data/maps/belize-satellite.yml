@@ -4,3 +4,13 @@ fr:
   title: Belize - satellite
 en:
   title: Belize - satellite
+continents: []
+countries:
+  - belize
+gmaps:
+  latitude: 17.156537
+  longitude: -88.659668
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

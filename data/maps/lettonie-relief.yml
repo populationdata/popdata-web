@@ -4,3 +4,9 @@ fr:
   title: Lettonie - relief
 en:
   title: Lettonie - relief
+continents: []
+countries:
+  - lettonie
+image: 'http://www.populationdata.net/wp-content/uploads/lettonie_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Détroit - routière
 en:
   title: Détroit - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 42.36311
+  longitude: -83.166504
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

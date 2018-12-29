@@ -4,3 +4,13 @@ fr:
   title: Éthiopie - satellite
 en:
   title: Éthiopie - satellite
+continents: []
+countries:
+  - ethiopie
+gmaps:
+  latitude: 9.925566
+  longitude: 40.297852
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

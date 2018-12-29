@@ -4,3 +4,10 @@ fr:
   title: Estonie - topographique
 en:
   title: Estonie - topographique
+continents: []
+countries:
+  - estonie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Estonie-topographique.png
+source: Wikipédia
+type: image

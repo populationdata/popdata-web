@@ -4,3 +4,12 @@ fr:
   title: Tórshavn - satellite
 en:
   title: Tórshavn - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 62.01182
+  longitude: -6.777149
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

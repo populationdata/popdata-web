@@ -4,3 +4,14 @@ fr:
   title: RDC - 2e guerre du Congo (1998-2003)
 en:
   title: RDC - 2e guerre du Congo (1998-2003)
+continents:
+  - afrique
+countries:
+  - republique-democratique-du-congo
+  - rwanda
+  - burundi
+  - ouganda
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/RDC-2e-guerre-Congo.png
+source: Wikipédia
+type: image

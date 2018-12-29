@@ -4,3 +4,12 @@ fr:
   title: 'Monde - Chinois : langue'
 en:
   title: 'Monde - Chinois : langue'
+continents: []
+countries:
+  - chine
+  - hong-kong
+  - macao
+  - taiwan
+image: 'http://www.populationdata.net/wp-content/uploads/langue_chinois.jpg'
+source: Université de Stockholm
+type: image

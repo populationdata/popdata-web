@@ -4,3 +4,12 @@ fr:
   title: Praia - satellite
 en:
   title: Praia - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.920983
+  longitude: -23.522501
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

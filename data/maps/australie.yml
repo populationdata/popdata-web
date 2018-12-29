@@ -4,3 +4,9 @@ fr:
   title: Australie
 en:
   title: Australie
+continents: []
+countries:
+  - australie
+image: 'http://www.populationdata.net/wp-content/uploads/australie.jpg'
+source: CIA
+type: image

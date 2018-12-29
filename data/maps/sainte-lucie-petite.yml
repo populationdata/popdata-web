@@ -4,3 +4,9 @@ fr:
   title: Sainte-Lucie - petite
 en:
   title: Sainte-Lucie - petite
+continents: []
+countries:
+  - sainte-lucie
+image: 'http://www.populationdata.net/wp-content/uploads/sainte-lucie-petite.gif'
+source: Wikipédia
+type: image

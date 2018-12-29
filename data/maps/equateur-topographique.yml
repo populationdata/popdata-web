@@ -4,3 +4,10 @@ fr:
   title: Équateur - topographique
 en:
   title: Équateur - topographique
+continents: []
+countries:
+  - equateur
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Equateur-topographique.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Guadeloupe - petite
 en:
   title: Guadeloupe - petite
+continents: []
+countries:
+  - guadeloupe
+image: 'http://www.populationdata.net/wp-content/uploads/guadeloupe_petite.gif'
+source: CIA
+type: image

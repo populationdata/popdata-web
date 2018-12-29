@@ -4,3 +4,9 @@ fr:
   title: Canada - Québec
 en:
   title: Canada - Québec
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_quebec.jpg'
+source: Ressources Naturelles Canada
+type: image

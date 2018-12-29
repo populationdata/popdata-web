@@ -3,3 +3,13 @@ date: '2018-03-06T21:33:17.000Z'
 fr:
   title: Guerre du Pacifique - avancée japonaise (1942)
 en: null
+continents:
+  - asie
+  - oceanie
+countries:
+  - australie
+  - japon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/03/Guerre-du-Pacifique-avancee-japonaise-1942.jpg
+source: Wikipédia
+type: image

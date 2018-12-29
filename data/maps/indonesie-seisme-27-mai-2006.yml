@@ -4,3 +4,9 @@ fr:
   title: Indonésie - séisme (27 mai 2006)
 en:
   title: Indonésie - séisme (27 mai 2006)
+continents: []
+countries:
+  - indonesie
+image: 'http://www.populationdata.net/wp-content/uploads/indonesie-seisme-27mai06.jpg'
+source: Google Maps
+type: image

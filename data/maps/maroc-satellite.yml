@@ -4,3 +4,13 @@ fr:
   title: Maroc - satellite
 en:
   title: Maroc - satellite
+continents: []
+countries:
+  - maroc
+gmaps:
+  latitude: 31.615966
+  longitude: -6.877441
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

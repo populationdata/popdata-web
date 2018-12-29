@@ -4,3 +4,12 @@ fr:
   title: Cotonou - routière
 en:
   title: Cotonou - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 6.395313
+  longitude: 2.415447
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

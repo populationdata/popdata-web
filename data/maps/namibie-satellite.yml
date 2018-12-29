@@ -4,3 +4,13 @@ fr:
   title: Namibie - satellite
 en:
   title: Namibie - satellite
+continents: []
+countries:
+  - namibie
+gmaps:
+  latitude: -23.402765
+  longitude: 18.3
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

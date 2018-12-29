@@ -4,3 +4,14 @@ fr:
   title: 'Monde - ONU : Conseil de sécurité des Nations unies (2016)'
 en:
   title: 'Monde - ONU : Conseil de sécurité des Nations unies (2016)'
+continents: []
+countries:
+  - chine
+  - etats-unis
+  - france
+  - russie
+  - royaume-uni
+image: >-
+  http://www.populationdata.net/wp-content/uploads/ONU-Conseil-de-securite-2016.png
+source: Wikipédia
+type: image

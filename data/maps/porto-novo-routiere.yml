@@ -4,3 +4,12 @@ fr:
   title: Porto-Novo - routière
 en:
   title: Porto-Novo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 6.513535
+  longitude: 2.628066
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

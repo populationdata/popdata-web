@@ -4,3 +4,9 @@ fr:
   title: Islande - politique
 en:
   title: Islande - politique
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/islande.jpg'
+source: CIA
+type: image

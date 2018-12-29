@@ -4,3 +4,10 @@ fr:
   title: 'Italie - Giglio : zone du naufrage du Costa Concordia'
 en:
   title: 'Italie - Giglio : zone du naufrage du Costa Concordia'
+continents: []
+countries:
+  - italie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/italie-giglio-naufrage-costa-concordia-carte.png
+source: 'OpenSeaMap, Wikipédia'
+type: image

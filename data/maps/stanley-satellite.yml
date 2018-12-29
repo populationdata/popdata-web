@@ -4,3 +4,12 @@ fr:
   title: Stanley - satellite
 en:
   title: Stanley - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -51.689053
+  longitude: -57.801132
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

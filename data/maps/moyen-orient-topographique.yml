@@ -4,3 +4,11 @@ fr:
   title: Moyen-Orient - topographique
 en:
   title: Moyen-Orient - topographique
+continents:
+  - asie
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/moyen-orient-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Bolivie
 en:
   title: Bolivie
+continents: []
+countries:
+  - bolivie
+image: 'http://www.populationdata.net/wp-content/uploads/bolivie.jpg'
+source: CIA
+type: image

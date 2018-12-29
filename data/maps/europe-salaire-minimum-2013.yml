@@ -4,3 +4,10 @@ fr:
   title: Europe - Salaire minimum (2013)
 en:
   title: Europe - Salaire minimum (2013)
+continents:
+  - europe
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/europe-salaire-minimum-2013.png
+source: Eurostat
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Angola - routière
 en:
   title: Angola - routière
+continents: []
+countries:
+  - angola
+gmaps:
+  latitude: -12.130987
+  longitude: 17.597324
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

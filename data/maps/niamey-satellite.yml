@@ -4,3 +4,12 @@ fr:
   title: Niamey - satellite
 en:
   title: Niamey - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.51283
+  longitude: 2.113152
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

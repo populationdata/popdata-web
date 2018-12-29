@@ -4,3 +4,13 @@ fr:
   title: Japon - séisme de magnitude 8.9 (11 mars 2011)
 en:
   title: Japon - séisme de magnitude 8.9 (11 mars 2011)
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 38.3215
+  longitude: 142.3693
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

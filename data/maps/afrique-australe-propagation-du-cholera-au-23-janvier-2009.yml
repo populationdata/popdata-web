@@ -4,3 +4,10 @@ fr:
   title: 'Afrique australe : propagation du choléra au 23 janvier 2009'
 en:
   title: 'Afrique australe : propagation du choléra au 23 janvier 2009'
+continents:
+  - afrique
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/afrique-australe-cholera-23janvier2009.jpg
+source: ReliefWeb
+type: image

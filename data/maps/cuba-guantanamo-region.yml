@@ -4,3 +4,9 @@ fr:
   title: Guantánamo - région
 en:
   title: Guantánamo - Region
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba_guantanamo_region.jpg'
+source: CIA
+type: image

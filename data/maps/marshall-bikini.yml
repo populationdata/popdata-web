@@ -4,3 +4,9 @@ fr:
   title: Marshall - Bikini
 en:
   title: Marshall - Bikini
+continents: []
+countries:
+  - marshall
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Bikini.jpg'
+source: Wikipédia
+type: image

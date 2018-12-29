@@ -4,3 +4,11 @@ fr:
   title: OTAN - Élargissement
 en:
   title: OTAN - Élargissement
+continents:
+  - europe
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/OTAN-elargissement-1.png
+source: Wikipédia
+type: image

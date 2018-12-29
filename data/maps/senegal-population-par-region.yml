@@ -4,3 +4,10 @@ fr:
   title: Sénégal - population par région
 en:
   title: Sénégal - population par région
+continents: []
+countries:
+  - senegal
+image: >-
+  http://www.populationdata.net/wp-content/uploads/senegal-regions-population.png
+source: Agence Nationale de la Statistique et de la Démographie du Sénégal
+type: image

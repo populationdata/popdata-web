@@ -4,3 +4,10 @@ fr:
   title: Canada - Colombie-Britannique
 en:
   title: Canada - Colombie-Britannique
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada_colombie_britannique.jpg
+source: Ressources Naturelles Canada
+type: image

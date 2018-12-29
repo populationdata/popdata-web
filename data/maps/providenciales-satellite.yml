@@ -4,3 +4,12 @@ fr:
   title: Providenciales - satellite
 en:
   title: Providenciales - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 21.783577
+  longitude: -72.239012
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

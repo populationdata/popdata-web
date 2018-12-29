@@ -4,3 +4,13 @@ fr:
   title: Macédoine - routière
 en:
   title: Macédoine - routière
+continents: []
+countries:
+  - macedoine-du-nord
+gmaps:
+  latitude: 41.644183
+  longitude: 21.769409
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

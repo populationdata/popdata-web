@@ -4,3 +4,13 @@ fr:
   title: Tadjikistan - satellite
 en:
   title: Tadjikistan - satellite
+continents: []
+countries:
+  - tadjikistan
+gmaps:
+  latitude: 38.715519
+  longitude: 71.048584
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

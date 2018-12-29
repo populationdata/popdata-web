@@ -4,3 +4,10 @@ fr:
   title: Cameroun - accès à l'électricité
 en:
   title: Cameroun - accès à l'électricité
+continents: []
+countries:
+  - cameroun
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Cameroun-acces-electricite-2015.png
+source: 'Agence française de développement, Thomas Roca'
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Saint-Eustache - routière
 en:
   title: Saint-Eustache - routière
+continents: []
+countries:
+  - pays-bas-caribeens
+gmaps:
+  latitude: 17.49527
+  longitude: -62.977002
+  type: roadmap
+  zoom: 14
+source: Google Maps
+type: gmaps

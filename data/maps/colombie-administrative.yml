@@ -4,3 +4,9 @@ fr:
   title: Colombie - administrative
 en:
   title: Colombie - administrative
+continents: []
+countries:
+  - colombie
+image: 'https://www.populationdata.net/wp-content/uploads/Colombie-administrative.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Bangladesh - administrative
 en:
   title: Bangladesh - administrative
+continents: []
+countries:
+  - bangladesh
+image: 'http://www.populationdata.net/wp-content/uploads/bangladesh-administrative.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Inde - séisme de magnitude 7.6 aux îles Andaman (11 août 2009)
 en:
   title: Inde - séisme de magnitude 7.6 aux îles Andaman (11 août 2009)
+continents: []
+countries:
+  - inde
+gmaps:
+  latitude: 14.0129
+  longitude: 92.9226
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

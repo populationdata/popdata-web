@@ -4,3 +4,12 @@ fr:
   title: Arusha - satellite
 en:
   title: Arusha - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -3.379915
+  longitude: 36.681319
+  type: hybrid
+  zoom: 12
+source: ''
+type: gmaps

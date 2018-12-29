@@ -4,3 +4,11 @@ fr:
   title: Bornéo - relief
 en:
   title: Bornéo - relief
+continents: []
+countries:
+  - brunei
+  - indonesie
+  - malaisie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/Borneo-relief.png'
+source: Wikipédia
+type: image

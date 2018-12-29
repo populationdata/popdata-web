@@ -4,3 +4,8 @@ fr:
   title: Malé
 en:
   title: Malé
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/maldives_male.jpg'
+source: CIA
+type: image

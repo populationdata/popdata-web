@@ -4,3 +4,13 @@ fr:
   title: Salomon - séisme de magnitude 6.7 (26 juin 2010)
 en:
   title: Salomon - séisme de magnitude 6.7 (26 juin 2010)
+continents: []
+countries:
+  - salomon
+gmaps:
+  latitude: -10.6358
+  longitude: 161.4431
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

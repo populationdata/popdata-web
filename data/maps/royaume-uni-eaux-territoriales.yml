@@ -4,3 +4,10 @@ fr:
   title: Royaume-Uni - eaux territoriales
 en:
   title: Royaume-Uni - eaux territoriales
+continents: []
+countries:
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Royaume-Uni-eaux-territoriales.png
+source: Wikipédia
+type: image

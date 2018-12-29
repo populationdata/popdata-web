@@ -4,3 +4,13 @@ fr:
   title: Guinée - satellite
 en:
   title: Guinée - satellite
+continents: []
+countries:
+  - guinee
+gmaps:
+  latitude: 10.212219
+  longitude: -11.239014
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

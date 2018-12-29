@@ -4,3 +4,13 @@ fr:
   title: Sahara occidental - satellite
 en:
   title: Sahara occidental - satellite
+continents: []
+countries:
+  - sahara-occidental
+gmaps:
+  latitude: 24.256981
+  longitude: -13.666992
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

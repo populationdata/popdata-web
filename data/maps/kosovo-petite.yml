@@ -4,3 +4,9 @@ fr:
   title: Kosovo - petite
 en:
   title: Kosovo - petite
+continents: []
+countries:
+  - kosovo
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Kosovo.gif'
+source: Wikipédia
+type: image

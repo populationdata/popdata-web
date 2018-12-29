@@ -4,3 +4,9 @@ fr:
   title: Géorgie du Sud
 en:
   title: Géorgie du Sud
+continents: []
+countries:
+  - georgie-du-sud-et-les-iles-sandwich-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/georgie-du-sud.png'
+source: Wikipédia
+type: image

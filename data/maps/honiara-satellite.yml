@@ -4,3 +4,12 @@ fr:
   title: Honiara - satellite
 en:
   title: Honiara - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -9.425473
+  longitude: 159.986103
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

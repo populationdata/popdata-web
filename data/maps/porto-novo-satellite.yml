@@ -4,3 +4,12 @@ fr:
   title: Porto-Novo - satellite
 en:
   title: Porto-Novo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.513535
+  longitude: 2.628066
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Rennes - satellite
 en:
   title: Rennes - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 48.10766
+  longitude: -1.666832
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

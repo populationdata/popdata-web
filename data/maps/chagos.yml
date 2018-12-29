@@ -4,3 +4,9 @@ fr:
   title: Chagos
 en:
   title: Chagos
+continents: []
+countries:
+  - chagos
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/chagos.png'
+source: Wikipédia
+type: image

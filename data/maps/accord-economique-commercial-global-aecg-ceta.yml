@@ -4,3 +4,11 @@ fr:
   title: Accord économique et commercial global (AECG - CETA)
 en:
   title: Accord économique et commercial global (AECG - CETA)
+continents:
+  - europe
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Accord-economique-et-commercial-global-AECG.png
+source: Wikipédia
+type: image

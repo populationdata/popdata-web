@@ -4,3 +4,8 @@ fr:
   title: Monde - Zones de stockage du carbone
 en:
   title: Monde - Zones de stockage du carbone
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-carbone-stockage.gif'
+source: PNUE
+type: image

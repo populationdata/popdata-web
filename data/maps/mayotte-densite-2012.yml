@@ -4,3 +4,9 @@ fr:
   title: Mayotte - densité (2012)
 en:
   title: Mayotte - densité (2012)
+continents: []
+countries:
+  - mayotte
+image: 'http://www.populationdata.net/wp-content/uploads/mayotte-densite-2012.gif'
+source: Insee
+type: image

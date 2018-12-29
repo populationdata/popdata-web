@@ -4,3 +4,9 @@ fr:
   title: Zimbabwé - administrative
 en:
   title: Zimbabwé - administrative
+continents: []
+countries:
+  - zimbabwe
+image: 'http://www.populationdata.net/wp-content/uploads/zimbabwe-administrative.gif'
+source: Wikipédia
+type: image

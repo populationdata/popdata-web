@@ -4,3 +4,13 @@ fr:
   title: Tchéquie - relief
 en:
   title: Tchéquie - relief
+continents: []
+countries:
+  - tchequie
+gmaps:
+  latitude: 49.845072
+  longitude: 15.538126
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

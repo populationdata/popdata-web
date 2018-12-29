@@ -4,3 +4,9 @@ fr:
   title: Liban - petite
 en:
   title: Liban - petite
+continents: []
+countries:
+  - liban
+image: 'http://www.populationdata.net/wp-content/uploads/liban-petite.gif'
+source: CIA
+type: image

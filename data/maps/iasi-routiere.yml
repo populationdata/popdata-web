@@ -4,3 +4,12 @@ fr:
   title: Iași - routière
 en:
   title: Iași - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 47.156105
+  longitude: 27.592163
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

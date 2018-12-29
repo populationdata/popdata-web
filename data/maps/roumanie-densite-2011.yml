@@ -4,3 +4,10 @@ fr:
   title: Roumanie - densité (2011)
 en:
   title: Roumanie - densité (2011)
+continents: []
+countries:
+  - roumanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Roumanie-densite-2011.jpg
+source: Institut national des statistiques de la Roumanie (INS)
+type: image

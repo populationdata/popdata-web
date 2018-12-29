@@ -4,3 +4,12 @@ fr:
   title: Ta'izz - satellite
 en:
   title: Ta'izz - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.58117
+  longitude: 44.018183
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

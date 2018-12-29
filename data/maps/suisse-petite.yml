@@ -4,3 +4,9 @@ fr:
   title: Suisse - petite
 en:
   title: Suisse - petite
+continents: []
+countries:
+  - suisse
+image: 'http://www.populationdata.net/wp-content/uploads/suisse_petite.gif'
+source: CIA
+type: image

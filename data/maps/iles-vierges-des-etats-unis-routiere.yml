@@ -4,3 +4,13 @@ fr:
   title: Îles Vierges des États-Unis - routière
 en:
   title: Îles Vierges des États-Unis - routière
+continents: []
+countries:
+  - iles-vierges-des-etats-unis
+gmaps:
+  latitude: 18.030744
+  longitude: -64.883367
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

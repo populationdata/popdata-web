@@ -4,3 +4,9 @@ fr:
   title: Corée du Nord - économie
 en:
   title: Corée du Nord - économie
+continents: []
+countries:
+  - coree-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/coree-du-nord-economie.jpg'
+source: CIA
+type: image

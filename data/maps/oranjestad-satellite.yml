@@ -4,3 +4,12 @@ fr:
   title: Oranjestad - satellite
 en:
   title: Oranjestad - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 12.522391
+  longitude: -70.03355
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

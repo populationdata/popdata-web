@@ -4,3 +4,9 @@ fr:
   title: Gambie
 en:
   title: Gambie
+continents: []
+countries:
+  - gambie
+image: 'http://www.populationdata.net/wp-content/uploads/gambie.jpg'
+source: CIA
+type: image

@@ -3,3 +3,11 @@ date: '2017-11-23T15:33:36.000Z'
 fr:
   title: Antarctique (1956)
 en: null
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/11/Antarctique-1956-American-Geographical-Society.jpg
+source: American Geographical Society
+type: image

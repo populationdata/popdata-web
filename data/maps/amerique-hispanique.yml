@@ -4,3 +4,29 @@ fr:
   title: Amérique hispanique
 en:
   title: Amérique hispanique
+continents:
+  - ameriques
+countries:
+  - espagne
+  - argentine
+  - bolivie
+  - chili
+  - colombie
+  - costa-rica
+  - cuba
+  - republique-dominicaine
+  - equateur
+  - salvador
+  - honduras
+  - guatemala
+  - mexique
+  - nicaragua
+  - panama
+  - paraguay
+  - perou
+  - porto-rico
+  - uruguay
+  - venezuela
+image: 'https://www.populationdata.net/wp-content/uploads/Amerique-hispanique.png'
+source: Wikipédia
+type: image

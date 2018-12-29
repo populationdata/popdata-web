@@ -4,3 +4,13 @@ fr:
   title: 'Japon - Fukushima : centrales nucléaires'
 en:
   title: 'Japon - Fukushima : centrales nucléaires'
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 37.527154
+  longitude: 141.006775
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

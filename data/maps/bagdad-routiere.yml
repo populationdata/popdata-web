@@ -4,3 +4,12 @@ fr:
   title: Bagdad - routière
 en:
   title: Bagdad - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 33.312455
+  longitude: 44.383736
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

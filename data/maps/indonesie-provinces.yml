@@ -4,3 +4,9 @@ fr:
   title: Indonésie - provinces
 en:
   title: Indonésie - provinces
+continents: []
+countries:
+  - indonesie
+image: 'https://www.populationdata.net/wp-content/uploads/Indonesie-provinces.png'
+source: Wikipédia
+type: image

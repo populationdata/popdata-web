@@ -4,3 +4,9 @@ fr:
   title: 'Monde - Sida : évolution de la prévalence'
 en:
   title: 'Monde - Sida : évolution de la prévalence'
+continents: []
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/monde-sida-prevalence-evolution.gif
+source: ONUSIDA
+type: image

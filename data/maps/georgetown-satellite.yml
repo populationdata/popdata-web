@@ -4,3 +4,12 @@ fr:
   title: Georgetown - satellite
 en:
   title: Georgetown - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.779001
+  longitude: -58.150978
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

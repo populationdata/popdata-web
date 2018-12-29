@@ -4,3 +4,12 @@ fr:
   title: Lac Tchad en 1973
 en:
   title: Lac Tchad en 1973
+continents: []
+countries:
+  - nigeria
+  - niger
+  - cameroun
+  - tchad
+image: 'http://www.populationdata.net/wp-content/uploads/tchad-lac-tchad-1973.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Chine - satellite
 en:
   title: Chine - satellite
+continents: []
+countries:
+  - chine
+gmaps:
+  latitude: 35.710838
+  longitude: 108.852539
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

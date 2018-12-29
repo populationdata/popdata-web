@@ -4,3 +4,9 @@ fr:
   title: Micronésie
 en:
   title: Micronésie
+continents: []
+countries:
+  - micronesie
+image: 'http://www.populationdata.net/wp-content/uploads/micronesie.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'Afrique - Sahara : écorégion'
 en:
   title: 'Afrique - Sahara : écorégion'
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Afrique-Sahara-ecoregion.png
+source: Wikipédia
+type: image

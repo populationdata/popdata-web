@@ -4,3 +4,10 @@ fr:
   title: Finlande - topographique
 en:
   title: Finlande - topographique
+continents: []
+countries:
+  - finlande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Finlande-topographique.jpg
+source: Wikipédia
+type: image

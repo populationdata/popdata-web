@@ -4,3 +4,10 @@ fr:
   title: Maurice - topographique
 en:
   title: Maurice - topographique
+continents: []
+countries:
+  - maurice
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/maurice-topographique.jpg
+source: Wikipédia
+type: image

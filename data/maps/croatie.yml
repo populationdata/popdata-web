@@ -4,3 +4,9 @@ fr:
   title: Croatie
 en:
   title: Croatie
+continents: []
+countries:
+  - croatie
+image: 'http://www.populationdata.net/wp-content/uploads/croatie.jpg'
+source: CIA
+type: image

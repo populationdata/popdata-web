@@ -4,3 +4,11 @@ fr:
   title: Mexique - Isthme de Tehuantepec
 en:
   title: Mexique - Isthme de Tehuantepec
+continents:
+  - ameriques
+countries:
+  - mexique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Mexique-Isthme-de-Tehuantepec.png
+source: Wikipédia
+type: image

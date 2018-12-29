@@ -4,6 +4,7 @@ fr:
   name: Asie
 en:
   name: Asia
+datamapScope: asia
 gdpYear: 2014
 numberOfTimeZones: 11
 lifeExpectancy: 69

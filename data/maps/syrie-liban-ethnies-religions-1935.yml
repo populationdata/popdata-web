@@ -4,3 +4,13 @@ fr:
   title: 'Syrie-Liban : ethnies et religions (1935)'
 en:
   title: 'Syrie-Liban : ethnies et religions (1935)'
+continents: []
+countries:
+  - syrie
+  - liban
+  - turquie
+  - kurdistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Syrie-Liban-ethnies-et-religions-1935.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Finlande - régions
 en:
   title: Finlande - régions
+continents: []
+countries:
+  - finlande
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Finlande-regions.png'
+source: Wikipédia
+type: image

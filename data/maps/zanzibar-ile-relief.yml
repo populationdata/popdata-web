@@ -4,3 +4,9 @@ fr:
   title: Zanzibar (île) - relief
 en:
   title: Zanzibar (île) - relief
+continents: []
+countries:
+  - tanzanie
+image: 'http://www.populationdata.net/wp-content/uploads/tanzanie_zanzibar_relief.jpg'
+source: CIA
+type: image

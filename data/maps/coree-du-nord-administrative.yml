@@ -4,3 +4,10 @@ fr:
   title: Corée du Nord - administrative
 en:
   title: Corée du Nord - administrative
+continents: []
+countries:
+  - coree-du-nord
+image: >-
+  http://www.populationdata.net/wp-content/uploads/coree-du-nord-administrative.jpg
+source: CIA
+type: image

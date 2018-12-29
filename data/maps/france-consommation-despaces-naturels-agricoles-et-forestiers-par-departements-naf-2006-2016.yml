@@ -6,3 +6,10 @@ fr:
     France - consommation d'espaces naturels, agricoles et forestiers, par
     départements (NAF, 2006-2016)
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/07/France-Espaces-NAF-departements-2006-2016.jpg
+source: Cerema
+type: image

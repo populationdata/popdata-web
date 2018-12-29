@@ -4,3 +4,9 @@ fr:
   title: Qatar
 en:
   title: Qatar
+continents: []
+countries:
+  - qatar
+image: 'http://www.populationdata.net/wp-content/uploads/qatar.jpg'
+source: CIA
+type: image

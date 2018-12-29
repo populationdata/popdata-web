@@ -4,3 +4,9 @@ fr:
   title: Arabie saoudite
 en:
   title: Arabie saoudite
+continents: []
+countries:
+  - arabie-saoudite
+image: 'http://www.populationdata.net/wp-content/uploads/arabie-saoudite.jpg'
+source: CIA
+type: image

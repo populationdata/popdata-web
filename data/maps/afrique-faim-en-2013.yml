@@ -4,3 +4,9 @@ fr:
   title: Afrique - Faim en 2013
 en:
   title: Afrique - Faim en 2013
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-faim-2013.png'
+source: Programme alimentaire mondial (PAM)
+type: image

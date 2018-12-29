@@ -4,3 +4,9 @@ fr:
   title: Vatican - petite
 en:
   title: Vatican - petite
+continents: []
+countries:
+  - vatican
+image: 'http://www.populationdata.net/wp-content/uploads/vatican_petite.gif'
+source: Wikipédia
+type: image

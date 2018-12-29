@@ -4,3 +4,9 @@ fr:
   title: Japon - préfectures
 en:
   title: Japon - préfectures
+continents: []
+countries:
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon-prefectures.png'
+source: Wikipédia
+type: image

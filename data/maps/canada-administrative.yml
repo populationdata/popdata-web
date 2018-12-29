@@ -4,3 +4,9 @@ fr:
   title: Canada - administrative
 en:
   title: Canada - administrative
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada-administrative.png'
+source: Wikipédia
+type: image

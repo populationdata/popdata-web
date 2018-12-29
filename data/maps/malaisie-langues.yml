@@ -4,3 +4,9 @@ fr:
   title: Malaisie - langues
 en:
   title: Malaisie - langues
+continents: []
+countries:
+  - malaisie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/malaisie-langues.png'
+source: Wikipédia
+type: image

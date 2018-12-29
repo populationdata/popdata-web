@@ -4,3 +4,10 @@ fr:
   title: Bénin - topographique
 en:
   title: Bénin - topographique
+continents: []
+countries:
+  - benin
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Benin-topographique.png
+source: Wikipédia
+type: image

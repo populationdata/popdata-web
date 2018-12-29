@@ -4,3 +4,19 @@ fr:
   title: Conseil nordique
 en:
   title: Conseil nordique
+continents:
+  - europe
+countries:
+  - groenland
+  - islande
+  - norvege
+  - danemark
+  - suede
+  - finlande
+  - estonie
+  - lettonie
+  - lituanie
+  - feroe
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Conseil-nordique.png'
+source: Wikipédia
+type: image

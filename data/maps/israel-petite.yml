@@ -4,3 +4,9 @@ fr:
   title: Israël - petite
 en:
   title: Israël - petite
+continents: []
+countries:
+  - israel
+image: 'http://www.populationdata.net/wp-content/uploads/israel_petite.png'
+source: Wikipédia
+type: image

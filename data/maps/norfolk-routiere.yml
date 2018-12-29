@@ -4,3 +4,13 @@ fr:
   title: Norfolk - routière
 en:
   title: Norfolk - routière
+continents: []
+countries:
+  - norfolk
+gmaps:
+  latitude: -29.034259
+  longitude: 167.952547
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

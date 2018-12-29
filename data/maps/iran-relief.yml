@@ -4,3 +4,9 @@ fr:
   title: Iran - relief
 en:
   title: Iran - relief
+continents: []
+countries:
+  - iran
+image: 'http://www.populationdata.net/wp-content/uploads/iran_relief.jpg'
+source: CIA
+type: image

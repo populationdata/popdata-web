@@ -4,3 +4,12 @@ fr:
   title: Edmonton - routière
 en:
   title: Edmonton - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 53.517757
+  longitude: -113.48064
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

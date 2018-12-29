@@ -4,3 +4,10 @@ fr:
   title: 'Ouragans Katia, Irma et José (septembre 2017)'
 en:
   title: 'Ouragans Katia, Irma et José (septembre 2017)'
+continents:
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Ouragans-Katia-Irma-Jose-septembre-2017.jpg
+source: Nasa Earth Observatory
+type: image

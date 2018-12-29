@@ -4,3 +4,10 @@ fr:
   title: Papouasie-Nouvelle-Guinée - petite
 en:
   title: Papouasie-Nouvelle-Guinée - petite
+continents: []
+countries:
+  - papouasie-nouvelle-guinee
+image: >-
+  http://www.populationdata.net/wp-content/uploads/papouasie_nouvelle_guinee_petite.gif
+source: CIA
+type: image

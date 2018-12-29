@@ -4,3 +4,9 @@ fr:
   title: Népal
 en:
   title: Népal
+continents: []
+countries:
+  - nepal
+image: 'http://www.populationdata.net/wp-content/uploads/nepal.jpg'
+source: CIA
+type: image

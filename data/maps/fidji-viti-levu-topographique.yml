@@ -4,3 +4,10 @@ fr:
   title: 'Fidji - Viti Levu : topographique'
 en:
   title: 'Fidji - Viti Levu : topographique'
+continents: []
+countries:
+  - fidji
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Fidji-Viti-Levu-topographique.jpg
+source: Wikipédia
+type: image

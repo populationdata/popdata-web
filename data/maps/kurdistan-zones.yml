@@ -4,3 +4,13 @@ fr:
   title: Kurdistan - zones
 en:
   title: Kurdistan - zones
+continents: []
+countries:
+  - irak
+  - kurdistan
+  - iran
+  - syrie
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/kurdistan2.jpg'
+source: CIA
+type: image

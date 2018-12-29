@@ -4,3 +4,10 @@ fr:
   title: Côte d'Ivoire - relief
 en:
   title: Côte d'Ivoire - relief
+continents: []
+countries:
+  - cote-divoire
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Cote-d-Ivoire-relief.jpg
+source: Wikipédia
+type: image

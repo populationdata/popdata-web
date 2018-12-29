@@ -4,3 +4,9 @@ fr:
   title: Allemagne - relief
 en:
   title: Allemagne - relief
+continents: []
+countries:
+  - allemagne
+image: 'http://www.populationdata.net/wp-content/uploads/allemagne_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'Afrique - Golfe de Guinée, Mangroves'
 en:
   title: 'Afrique - Golfe de Guinée, Mangroves'
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Afrique-Golfe-de-Guinee-mangroves.png
+source: Wikipédia
+type: image

@@ -3,3 +3,16 @@ date: '2018-05-15T21:32:30.000Z'
 fr:
   title: Caucase (1060)
 en: null
+continents:
+  - asie
+  - europe
+countries:
+  - armenie
+  - azerbaidjan
+  - georgie
+  - russie
+  - iran
+  - turquie
+image: 'https://www.populationdata.net/wp-content/uploads/2018/05/Caucase-1060.jpg'
+source: Wikipédia
+type: image

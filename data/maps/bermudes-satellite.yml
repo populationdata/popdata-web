@@ -4,3 +4,13 @@ fr:
   title: Bermudes - satellite
 en:
   title: Bermudes - satellite
+continents: []
+countries:
+  - bermudes
+gmaps:
+  latitude: 32.323695
+  longitude: -64.771957
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Diego Garcia - topographique
 en:
   title: Diego Garcia - topographique
+continents: []
+countries:
+  - chagos
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/diego-garcia-topographique.png
+source: Wikipédia
+type: image

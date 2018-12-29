@@ -4,3 +4,9 @@ fr:
   title: Taïwan - régions administratives
 en:
   title: Taïwan - régions administratives
+continents: []
+countries:
+  - taiwan
+image: 'https://www.populationdata.net/wp-content/uploads/Taiwan-regions.png'
+source: Wikipédia
+type: image

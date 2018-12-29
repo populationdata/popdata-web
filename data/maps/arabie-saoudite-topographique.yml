@@ -4,3 +4,10 @@ fr:
   title: Arabie saoudite - topographique
 en:
   title: Arabie saoudite - topographique
+continents: []
+countries:
+  - arabie-saoudite
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Arabie-saoudite-topographique.jpg
+source: Wikipédia
+type: image

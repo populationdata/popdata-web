@@ -4,3 +4,9 @@ fr:
   title: 'Saint-Barthélemy : petite'
 en:
   title: 'Saint-Barthélemy : petite'
+continents: []
+countries:
+  - saint-barthelemy
+image: 'http://www.populationdata.net/wp-content/uploads/saint-barthelemy-petite.png'
+source: Wikipédia
+type: image

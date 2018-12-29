@@ -4,3 +4,12 @@ fr:
   title: Genève - satellite
 en:
   title: Genève - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 46.207874
+  longitude: 6.135178
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

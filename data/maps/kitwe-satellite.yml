@@ -4,3 +4,12 @@ fr:
   title: Kitwe - satellite
 en:
   title: Kitwe - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -12.808454
+  longitude: 28.219414
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

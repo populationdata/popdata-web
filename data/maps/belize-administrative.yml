@@ -4,3 +4,10 @@ fr:
   title: Belize - administrative
 en:
   title: Belize - administrative
+continents: []
+countries:
+  - belize
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Belize-administrative.png
+source: Wikipédia
+type: image

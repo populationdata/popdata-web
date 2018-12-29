@@ -4,3 +4,9 @@ fr:
   title: Niger - administrative
 en:
   title: Niger - administrative
+continents: []
+countries:
+  - niger
+image: 'https://www.populationdata.net/wp-content/uploads/Niger-administrative.jpg'
+source: ONU
+type: image

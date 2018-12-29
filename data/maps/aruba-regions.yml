@@ -4,3 +4,9 @@ fr:
   title: Aruba - régions
 en:
   title: Aruba - régions
+continents: []
+countries:
+  - aruba
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Aruba-regions.jpg'
+source: Bureau central des statistiques d'Aruba
+type: image

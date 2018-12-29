@@ -4,3 +4,9 @@ fr:
   title: Mozambique - relief
 en:
   title: Mozambique - relief
+continents: []
+countries:
+  - mozambique
+image: 'http://www.populationdata.net/wp-content/uploads/mozambique_relief.jpg'
+source: CIA
+type: image

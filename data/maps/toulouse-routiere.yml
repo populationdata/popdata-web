@@ -4,3 +4,12 @@ fr:
   title: Toulouse - routière
 en:
   title: Toulouse - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 43.608239
+  longitude: 1.428909
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

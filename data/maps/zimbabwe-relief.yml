@@ -4,3 +4,9 @@ fr:
   title: Zimbabwé - relief
 en:
   title: Zimbabwé - relief
+continents: []
+countries:
+  - zimbabwe
+image: 'http://www.populationdata.net/wp-content/uploads/zimbabwe_relief.jpg'
+source: CIA
+type: image

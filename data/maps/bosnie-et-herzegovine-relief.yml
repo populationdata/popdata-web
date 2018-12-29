@@ -4,3 +4,9 @@ fr:
   title: Bosnie-et-Herzégovine - relief
 en:
   title: Bosnie-et-Herzégovine - relief
+continents: []
+countries:
+  - bosnie-et-herzegovine
+image: 'http://www.populationdata.net/wp-content/uploads/bosnie_herzegovine_relief.jpg'
+source: CIA
+type: image

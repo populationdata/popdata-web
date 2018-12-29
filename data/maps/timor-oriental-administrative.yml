@@ -4,3 +4,9 @@ fr:
   title: Timor oriental - administrative
 en:
   title: Timor oriental - administrative
+continents: []
+countries:
+  - timor-oriental
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/Timor-oriental.jpg'
+source: Direction générale des statistiques du Timor oriental
+type: image

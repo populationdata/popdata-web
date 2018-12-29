@@ -4,3 +4,13 @@ fr:
   title: Caïmans - relief
 en:
   title: Caïmans - relief
+continents: []
+countries:
+  - caimans
+gmaps:
+  latitude: 19.492486
+  longitude: -80.562744
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

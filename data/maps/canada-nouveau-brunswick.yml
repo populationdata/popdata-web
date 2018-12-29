@@ -4,3 +4,9 @@ fr:
   title: Canada - Nouveau-Brunswick
 en:
   title: Canada - Nouveau-Brunswick
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_nouveau_brunswick.jpg'
+source: Ressources Naturelles Canada
+type: image

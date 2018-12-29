@@ -4,3 +4,9 @@ fr:
   title: Slovaquie - relief
 en:
   title: Slovaquie - relief
+continents: []
+countries:
+  - slovaquie
+image: 'http://www.populationdata.net/wp-content/uploads/slovaquie_relief.jpg'
+source: CIA
+type: image

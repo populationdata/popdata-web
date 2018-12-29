@@ -4,3 +4,9 @@ fr:
   title: Malawi
 en:
   title: Malawi
+continents: []
+countries:
+  - malawi
+image: 'http://www.populationdata.net/wp-content/uploads/malawi.jpg'
+source: CIA
+type: image

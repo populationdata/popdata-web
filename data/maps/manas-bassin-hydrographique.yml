@@ -4,3 +4,12 @@ fr:
   title: Manas - bassin hydrographique
 en:
   title: Manas - bassin hydrographique
+continents: []
+countries:
+  - chine
+  - bhoutan
+  - inde
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Manas-bassin-hydrographique.png
+source: Wikipédia
+type: image

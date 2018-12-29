@@ -4,3 +4,12 @@ fr:
   title: Perth - routière
 en:
   title: Perth - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -31.96294
+  longitude: 115.852203
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

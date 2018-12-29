@@ -4,3 +4,12 @@ fr:
   title: Malabo - satellite
 en:
   title: Malabo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 3.755833
+  longitude: 8.747864
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

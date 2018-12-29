@@ -4,3 +4,10 @@ fr:
   title: 'Monde - Espagnol : langue'
 en:
   title: 'Monde - Espagnol : langue'
+continents:
+  - ameriques
+countries:
+  - espagne
+image: 'https://www.populationdata.net/wp-content/uploads/monde-langue-espagnol.png'
+source: 'Université de Stockholm, Wikipédia'
+type: image

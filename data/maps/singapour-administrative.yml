@@ -4,3 +4,10 @@ fr:
   title: Singapour - administrative
 en:
   title: Singapour - administrative
+continents: []
+countries:
+  - singapour
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Singapour-administrative.png
+source: Wikipédia
+type: image

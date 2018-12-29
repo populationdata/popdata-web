@@ -4,3 +4,9 @@ fr:
   title: Grèce - Jeux Olympiques 2004
 en:
   title: Grèce - Jeux Olympiques 2004
+continents: []
+countries:
+  - grece
+image: 'http://www.populationdata.net/wp-content/uploads/grece_jeux_olympiques04.jpg'
+source: Jeux Olympiques
+type: image

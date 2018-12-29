@@ -4,3 +4,9 @@ fr:
   title: Afghanistan - administrative
 en:
   title: Afghanistan - administrative
+continents: []
+countries:
+  - afghanistan
+image: 'http://www.populationdata.net/wp-content/uploads/afghanistan2.gif'
+source: Wikipédia
+type: image

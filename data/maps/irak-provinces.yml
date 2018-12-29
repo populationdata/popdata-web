@@ -4,3 +4,9 @@ fr:
   title: Irak - provinces
 en:
   title: Irak - provinces
+continents: []
+countries:
+  - irak
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Irak-provinces.png'
+source: Wikipédia
+type: image

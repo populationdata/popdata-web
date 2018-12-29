@@ -4,3 +4,11 @@ fr:
   title: Nouvelle-Calédonie - Vanuatu - topographique
 en:
   title: Nouvelle-Calédonie - Vanuatu - topographique
+continents: []
+countries:
+  - vanuatu
+  - nouvelle-caledonie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/nouvelle-caledonie-vanuatu-topographique.jpg
+source: Wikipédia
+type: image

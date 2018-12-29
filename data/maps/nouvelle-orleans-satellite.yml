@@ -4,3 +4,12 @@ fr:
   title: Nouvelle-Orléans - satellite
 en:
   title: Nouvelle-Orléans - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 29.960586
+  longitude: -90.100937
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

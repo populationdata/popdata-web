@@ -4,3 +4,10 @@ fr:
   title: Liban - topographique
 en:
   title: Liban - topographique
+continents: []
+countries:
+  - liban
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/liban-topographique.png
+source: Wikipédia
+type: image

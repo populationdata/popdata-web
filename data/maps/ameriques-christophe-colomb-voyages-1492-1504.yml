@@ -4,3 +4,10 @@ fr:
   title: 'Amériques - Christophe Colomb : voyages (1492-1504)'
 en:
   title: 'Amériques - Christophe Colomb : voyages (1492-1504)'
+continents:
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Ameriques-Christophe-Colomb-1492-1504.jpg
+source: Wikipédia
+type: image

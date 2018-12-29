@@ -4,3 +4,13 @@ fr:
   title: Burkina Faso - routière
 en:
   title: Burkina Faso - routière
+continents: []
+countries:
+  - burkina-faso
+gmaps:
+  latitude: 12.340002
+  longitude: -1.768799
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

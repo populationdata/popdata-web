@@ -3,3 +3,10 @@ date: '2018-03-26T20:48:30.000Z'
 fr:
   title: 'France - gares SNCF : fréquentation 2016'
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/03/France-gares-sncf-frequentation-2016.jpg
+source: 'SNCF, France TV Info'
+type: image

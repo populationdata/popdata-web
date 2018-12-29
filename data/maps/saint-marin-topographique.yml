@@ -4,3 +4,10 @@ fr:
   title: Saint-Marin - topographique
 en:
   title: Saint-Marin - topographique
+continents: []
+countries:
+  - saint-marin
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Saint-Marin-topographique.jpg
+source: Wikipédia
+type: image

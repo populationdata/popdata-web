@@ -4,3 +4,9 @@ fr:
   title: Australie - relief
 en:
   title: Australie - relief
+continents: []
+countries:
+  - australie
+image: 'http://www.populationdata.net/wp-content/uploads/australie_relief.jpg'
+source: CIA
+type: image

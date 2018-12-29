@@ -4,3 +4,13 @@ fr:
   title: Nicaragua - routière
 en:
   title: Nicaragua - routière
+continents: []
+countries:
+  - nicaragua
+gmaps:
+  latitude: 12.688574
+  longitude: -85.187988
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

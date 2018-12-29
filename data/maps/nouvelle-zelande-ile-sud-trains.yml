@@ -4,3 +4,10 @@ fr:
   title: 'Nouvelle-Zélande - Île du Sud : trains'
 en:
   title: 'New Zealand - South Island: trains'
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Nouvelle-Zelande-ile-du-sud-trains.png
+source: Wikipédia
+type: image

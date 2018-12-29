@@ -4,3 +4,9 @@ fr:
   title: Salvador - petite
 en:
   title: Salvador - petite
+continents: []
+countries:
+  - salvador
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Salvador-petite.png'
+source: Wikipédia
+type: image

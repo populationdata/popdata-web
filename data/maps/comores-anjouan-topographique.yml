@@ -4,3 +4,10 @@ fr:
   title: 'Comores - Anjouan : topographique'
 en:
   title: 'Comores - Anjouan : topographique'
+continents: []
+countries:
+  - comores
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Anjouan_topographique.png
+source: Wikipédia
+type: image

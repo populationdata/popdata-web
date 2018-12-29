@@ -4,3 +4,9 @@ fr:
   title: Allemagne - topographique
 en:
   title: Allemagne - topographique
+continents: []
+countries:
+  - allemagne
+image: 'https://www.populationdata.net/wp-content/uploads/Allemagne-topographique.jpg'
+source: Wikipédia
+type: image

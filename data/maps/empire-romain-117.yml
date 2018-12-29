@@ -4,3 +4,12 @@ fr:
   title: Empire romain (117)
 en:
   title: Empire romain (117)
+continents:
+  - europe
+  - asie
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Empire-romain-117.png
+source: Wikipédia
+type: image

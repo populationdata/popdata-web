@@ -4,3 +4,11 @@ fr:
   title: OTAN - Partenariats
 en:
   title: OTAN - Partenariats
+continents:
+  - europe
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/OTAN-partenariats.jpg
+source: Wikipédia
+type: image

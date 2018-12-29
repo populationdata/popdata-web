@@ -4,3 +4,12 @@ fr:
   title: Apia - routière
 en:
   title: Apia - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -13.83758
+  longitude: -171.767464
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

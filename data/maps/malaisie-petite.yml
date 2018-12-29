@@ -4,3 +4,9 @@ fr:
   title: Malaisie - petite
 en:
   title: Malaisie - petite
+continents: []
+countries:
+  - malaisie
+image: 'http://www.populationdata.net/wp-content/uploads/malaisie-petite.gif'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Samoa américaines - routière
 en:
   title: Samoa américaines - routière
+continents: []
+countries:
+  - samoa-americaines
+gmaps:
+  latitude: -14.245749
+  longitude: -170.189209
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

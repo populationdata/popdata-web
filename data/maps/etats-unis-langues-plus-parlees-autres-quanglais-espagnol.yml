@@ -4,3 +4,10 @@ fr:
   title: États-Unis - langues les plus parlées (autres qu'anglais et espagnol)
 en:
   title: États-Unis - langues les plus parlées (autres qu'anglais et espagnol)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Etats-Unis-Langues-les-plus-parlees.jpg
+source: 'Slate, Census Bureau'
+type: image

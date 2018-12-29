@@ -4,3 +4,12 @@ fr:
   title: Calgary - satellite
 en:
   title: Calgary - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.044902
+  longitude: -114.06137
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

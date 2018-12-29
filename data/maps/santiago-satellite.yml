@@ -4,3 +4,12 @@ fr:
   title: Santiago - satellite
 en:
   title: Santiago - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -33.444907
+  longitude: -70.657883
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

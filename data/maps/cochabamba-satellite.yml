@@ -4,3 +4,12 @@ fr:
   title: Cochabamba - satellite
 en:
   title: Cochabamba - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -17.392743
+  longitude: -66.166191
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

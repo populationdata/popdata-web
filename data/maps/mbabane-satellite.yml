@@ -4,3 +4,12 @@ fr:
   title: Mbabane - satellite
 en:
   title: Mbabane - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -26.324653
+  longitude: 31.13946
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

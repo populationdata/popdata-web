@@ -4,3 +4,10 @@ fr:
   title: 'France - Belle-Île : topographique'
 en:
   title: 'France - Belle-Île : topographique'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/France-Belle-Ile-topographique.png
+source: Wikipédia
+type: image

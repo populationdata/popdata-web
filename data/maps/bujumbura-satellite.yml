@@ -4,3 +4,12 @@ fr:
   title: Bujumbura - satellite
 en:
   title: Bujumbura - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -3.370342
+  longitude: 29.356327
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

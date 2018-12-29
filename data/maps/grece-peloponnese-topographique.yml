@@ -4,3 +4,10 @@ fr:
   title: 'Grèce - Péloponnèse : topographique'
 en:
   title: 'Grèce - Péloponnèse : topographique'
+continents: []
+countries:
+  - grece
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grece-Peloponnese-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Ukraine - grandes villes
 en:
   title: Ukraine - grandes villes
+continents: []
+countries:
+  - ukraine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Ukraine-grandes-villes.png
+source: Wikipédia
+type: image

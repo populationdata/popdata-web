@@ -4,3 +4,16 @@ fr:
   title: Europe - Langues fenniques
 en:
   title: Europe - Langues fenniques
+continents:
+  - europe
+countries:
+  - norvege
+  - suede
+  - finlande
+  - estonie
+  - lettonie
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Europe-langues-fenniques.png
+source: Wikipédia
+type: image

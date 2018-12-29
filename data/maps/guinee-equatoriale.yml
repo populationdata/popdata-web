@@ -4,3 +4,9 @@ fr:
   title: Guinée équatoriale
 en:
   title: Guinée équatoriale
+continents: []
+countries:
+  - guinee-equatoriale
+image: 'http://www.populationdata.net/wp-content/uploads/guinee_equatoriale.jpg'
+source: CIA
+type: image

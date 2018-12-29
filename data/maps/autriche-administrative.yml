@@ -4,3 +4,10 @@ fr:
   title: Autriche - administrative
 en:
   title: Autriche - administrative
+continents: []
+countries:
+  - autriche
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/autriche-administrative-1.jpg
+source: Statistiques Autriche
+type: image

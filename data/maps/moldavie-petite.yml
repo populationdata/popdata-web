@@ -4,3 +4,9 @@ fr:
   title: Moldavie - petite
 en:
   title: Moldavie - petite
+continents: []
+countries:
+  - moldavie
+image: 'http://www.populationdata.net/wp-content/uploads/moldavie-petite.png'
+source: Wikipédia
+type: image

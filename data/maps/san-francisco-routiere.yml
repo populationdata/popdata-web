@@ -4,3 +4,12 @@ fr:
   title: San Francisco - routière
 en:
   title: San Francisco - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 37.717504
+  longitude: -122.234573
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

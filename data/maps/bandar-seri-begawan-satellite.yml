@@ -4,3 +4,12 @@ fr:
   title: Bandar Seri Begawan - satellite
 en:
   title: Bandar Seri Begawan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 4.919766
+  longitude: 114.899654
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

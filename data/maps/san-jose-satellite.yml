@@ -4,3 +4,12 @@ fr:
   title: San José - satellite
 en:
   title: San José - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 9.941122
+  longitude: -84.101715
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: États-Unis - fret ferroviaire
 en:
   title: États-Unis - fret ferroviaire
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/etats-unis-fret-ferroviaire.jpg
+source: Washington Post
+type: image

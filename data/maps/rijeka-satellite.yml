@@ -4,3 +4,12 @@ fr:
   title: Rijeka - satellite
 en:
   title: Rijeka - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 45.342494
+  longitude: 14.448395
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Gabon - routière
 en:
   title: Gabon - routière
+continents: []
+countries:
+  - gabon
+gmaps:
+  latitude: -0.549308
+  longitude: 11.651001
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

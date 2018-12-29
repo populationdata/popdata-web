@@ -4,3 +4,11 @@ fr:
   title: Nouvelle-France (1562-1763)
 en:
   title: Nouvelle-France (1562-1763)
+continents:
+  - ameriques
+countries:
+  - canada
+  - etats-unis
+image: 'http://www.populationdata.net/wp-content/uploads/nouvelle-france-1562-1763.jpg'
+source: Wikipédia
+type: image

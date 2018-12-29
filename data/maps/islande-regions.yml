@@ -4,3 +4,9 @@ fr:
   title: Islande - régions
 en:
   title: Islande - régions
+continents: []
+countries:
+  - islande
+image: 'https://www.populationdata.net/wp-content/uploads/Islande-regions.png'
+source: Wikipédia
+type: image

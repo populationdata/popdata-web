@@ -4,3 +4,10 @@ fr:
   title: États-Unis - chambre des représentants et Sénat
 en:
   title: États-Unis - chambre des représentants et Sénat
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Etats-Unis-chambre-senat.png
+source: Le Monde Diplomatique
+type: image

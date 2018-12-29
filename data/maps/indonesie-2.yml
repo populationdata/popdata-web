@@ -4,3 +4,9 @@ fr:
   title: Indonésie
 en:
   title: Indonésie
+continents: []
+countries:
+  - indonesie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Indonesie.png'
+source: Atlas géopolitique des espaces maritimes
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Las Palmas de Gran Canaria - satellite
 en:
   title: Las Palmas de Gran Canaria - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 28.11898
+  longitude: -15.43834
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

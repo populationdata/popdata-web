@@ -4,3 +4,12 @@ fr:
   title: Sfax - routière
 en:
   title: Sfax - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 34.743446
+  longitude: 10.748234
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

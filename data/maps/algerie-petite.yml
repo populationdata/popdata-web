@@ -4,3 +4,9 @@ fr:
   title: Algérie - petite
 en:
   title: Algérie - petite
+continents: []
+countries:
+  - algerie
+image: 'http://www.populationdata.net/wp-content/uploads/algerie_petite.gif'
+source: CIA
+type: image

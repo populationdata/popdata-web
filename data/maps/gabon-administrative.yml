@@ -4,3 +4,9 @@ fr:
   title: Gabon - administrative
 en:
   title: Gabon - administrative
+continents: []
+countries:
+  - gabon
+image: 'http://www.populationdata.net/wp-content/uploads/gabon-administrative.jpg'
+source: CIA
+type: image

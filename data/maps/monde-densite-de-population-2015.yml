@@ -4,3 +4,8 @@ fr:
   title: Monde - Densité de population (2015)
 en:
   title: Monde - Densité de population (2015)
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-densite-2015.jpg'
+source: FAO
+type: image

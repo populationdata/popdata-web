@@ -4,3 +4,12 @@ fr:
   title: Bassorah - routière
 en:
   title: Bassorah - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 30.517463
+  longitude: 47.802029
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

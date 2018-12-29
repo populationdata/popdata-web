@@ -4,3 +4,10 @@ fr:
   title: Australie - zones climatiques
 en:
   title: Australie - zones climatiques
+continents: []
+countries:
+  - australie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/australie-zones-climatiques.png
+source: Wikipédia
+type: image

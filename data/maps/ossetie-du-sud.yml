@@ -4,3 +4,9 @@ fr:
   title: Ossétie du Sud
 en:
   title: Ossétie du Sud
+continents: []
+countries:
+  - ossetie-du-sud-alanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Ossetie-du-Sud.png'
+source: Wikipédia
+type: image

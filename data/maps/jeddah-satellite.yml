@@ -4,3 +4,12 @@ fr:
   title: Djeddah - satellite
 en:
   title: Djeddah - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 21.488852
+  longitude: 39.181366
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

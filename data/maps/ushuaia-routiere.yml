@@ -4,3 +4,12 @@ fr:
   title: Ushuaïa - routière
 en:
   title: Ushuaïa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -54.810183
+  longitude: -68.299599
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

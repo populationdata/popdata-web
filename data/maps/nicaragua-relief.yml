@@ -4,3 +4,9 @@ fr:
   title: Nicaragua - relief
 en:
   title: Nicaragua - relief
+continents: []
+countries:
+  - nicaragua
+image: 'http://www.populationdata.net/wp-content/uploads/nicaragua_relief.jpg'
+source: CIA
+type: image

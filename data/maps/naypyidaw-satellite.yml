@@ -4,3 +4,12 @@ fr:
   title: Naypyidaw - satellite
 en:
   title: Naypyidaw - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 19.758949
+  longitude: 96.10136
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

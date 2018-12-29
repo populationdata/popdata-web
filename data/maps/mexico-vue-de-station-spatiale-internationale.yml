@@ -4,3 +4,9 @@ fr:
   title: Mexico vue de la Station spatiale internationale
 en:
   title: Mexico vue de la Station spatiale internationale
+continents: []
+countries:
+  - mexique
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/mexico.jpg'
+source: Nasa
+type: image

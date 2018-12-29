@@ -4,3 +4,11 @@ fr:
   title: 'Inde - Bangladesh : enclaves frontalières'
 en:
   title: 'Inde - Bangladesh : enclaves frontalières'
+continents: []
+countries:
+  - bangladesh
+  - inde
+image: >-
+  http://www.populationdata.net/wp-content/uploads/inde-bangladesh-frontiere-enclaves.jpg
+source: Wikipédia
+type: image

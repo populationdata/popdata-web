@@ -4,3 +4,9 @@ fr:
   title: Tokelau - petite
 en:
   title: Tokelau - petite
+continents: []
+countries:
+  - tokelau
+image: 'http://www.populationdata.net/wp-content/uploads/tokelau-petite.gif'
+source: CIA
+type: image

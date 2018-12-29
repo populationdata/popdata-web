@@ -3,3 +3,22 @@ date: '2018-07-11T22:58:01.000Z'
 fr:
   title: Autriche-Hongrie (1914)
 en: null
+continents:
+  - europe
+countries:
+  - italie
+  - roumanie
+  - ukraine
+  - pologne
+  - bosnie-et-herzegovine
+  - croatie
+  - serbie
+  - slovenie
+  - slovaquie
+  - tchequie
+  - hongrie
+  - autriche
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/07/Autriche-Hongrie_1914.jpg
+source: Wikipédia
+type: image

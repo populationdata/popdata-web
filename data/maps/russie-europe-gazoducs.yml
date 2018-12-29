@@ -4,3 +4,10 @@ fr:
   title: Russie-Europe - Gazoducs
 en:
   title: Russie-Europe - Gazoducs
+continents:
+  - europe
+countries:
+  - russie
+image: 'https://www.populationdata.net/wp-content/uploads/Russie-Europe-gazoducs.jpg'
+source: Wikipédia
+type: image

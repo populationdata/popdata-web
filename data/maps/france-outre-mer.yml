@@ -4,3 +4,9 @@ fr:
   title: France - outre-mer
 en:
   title: France - outre-mer
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-outre-mer.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: 'San Francisco : Hunters Point'
 en:
   title: 'San Francisco : Hunters Point'
+continents: []
+countries: []
+gmaps:
+  latitude: 37.725074
+  longitude: -122.36495
+  type: satellite
+  zoom: 15
+source: Google Maps
+type: gmaps

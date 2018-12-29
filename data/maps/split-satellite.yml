@@ -4,3 +4,12 @@ fr:
   title: Split - satellite
 en:
   title: Split - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.522415
+  longitude: 16.438637
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

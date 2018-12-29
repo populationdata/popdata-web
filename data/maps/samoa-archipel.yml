@@ -4,3 +4,10 @@ fr:
   title: Samoa - archipel
 en:
   title: Samoa - archipel
+continents: []
+countries:
+  - samoa
+  - samoa-americaines
+image: 'http://www.populationdata.net/wp-content/uploads/samoa.gif'
+source: CIA
+type: image

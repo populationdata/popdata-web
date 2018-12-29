@@ -4,3 +4,9 @@ fr:
   title: Portugal - relief
 en:
   title: Portugal - relief
+continents: []
+countries:
+  - portugal
+image: 'http://www.populationdata.net/wp-content/uploads/portugal_relief.jpg'
+source: CIA
+type: image

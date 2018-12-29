@@ -4,3 +4,13 @@ fr:
   title: Slovénie - relief
 en:
   title: Slovénie - relief
+continents: []
+countries:
+  - slovenie
+gmaps:
+  latitude: 46.15
+  longitude: 15
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

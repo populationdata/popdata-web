@@ -3,3 +3,10 @@ date: '2017-10-17T18:53:48.000Z'
 fr:
   title: Tour de France (1903-2018)
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Tour-de-France-1903-2018.png
+source: Le Monde
+type: image

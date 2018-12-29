@@ -4,3 +4,13 @@ fr:
   title: Gambie - routière
 en:
   title: Gambie - routière
+continents: []
+countries:
+  - gambie
+gmaps:
+  latitude: 13.386948
+  longitude: -15.386353
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

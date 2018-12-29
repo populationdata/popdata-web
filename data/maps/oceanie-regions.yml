@@ -4,3 +4,9 @@ fr:
   title: Océanie - Régions
 en:
   title: Océanie - Régions
+continents:
+  - oceanie
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Oceanie-Regions.png'
+source: Wikipédia
+type: image

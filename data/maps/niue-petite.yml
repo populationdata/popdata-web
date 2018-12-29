@@ -4,3 +4,9 @@ fr:
   title: Niue - petite
 en:
   title: Niue - petite
+continents: []
+countries:
+  - nioue
+image: 'http://www.populationdata.net/wp-content/uploads/niue-petite.png'
+source: Wikipédia
+type: image

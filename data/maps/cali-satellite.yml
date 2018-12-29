@@ -4,3 +4,12 @@ fr:
   title: Cali - satellite
 en:
   title: Cali - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 3.434259
+  longitude: -76.52235
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

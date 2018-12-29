@@ -4,3 +4,9 @@ fr:
   title: Fidji - petite
 en:
   title: Fidji - petite
+continents: []
+countries:
+  - fidji
+image: 'http://www.populationdata.net/wp-content/uploads/fidji_petite.gif'
+source: CIA
+type: image

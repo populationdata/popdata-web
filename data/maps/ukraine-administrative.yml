@@ -4,3 +4,9 @@ fr:
   title: Ukraine - administrative
 en:
   title: Ukraine - administrative
+continents: []
+countries:
+  - ukraine
+image: 'http://www.populationdata.net/wp-content/uploads/ukraine-administrative.jpg'
+source: ONU
+type: image

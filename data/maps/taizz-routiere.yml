@@ -4,3 +4,12 @@ fr:
   title: Ta'izz - routière
 en:
   title: Ta'izz - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 13.58117
+  longitude: 44.018183
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

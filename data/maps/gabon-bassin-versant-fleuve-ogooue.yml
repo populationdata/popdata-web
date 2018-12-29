@@ -4,3 +4,10 @@ fr:
   title: Gabon - bassin versant du fleuve Ogooué
 en:
   title: Gabon - bassin versant du fleuve Ogooué
+continents: []
+countries:
+  - gabon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Gabon-bassin-versant-fleuve-Ogooue.png
+source: ''
+type: image

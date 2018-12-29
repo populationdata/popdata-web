@@ -4,3 +4,9 @@ fr:
   title: Colombie (1886)
 en:
   title: Colombie (1886)
+continents: []
+countries:
+  - colombie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Colombie-1886.png'
+source: Wikipédia
+type: image

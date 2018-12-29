@@ -4,3 +4,10 @@ fr:
   title: Europe - Irradiation solaire
 en:
   title: Europe - Irradiation solaire
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Europe-irradiation-solaire.png
+source: 'Wikipédia, GeoModel Solar'
+type: image

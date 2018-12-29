@@ -4,3 +4,10 @@ fr:
   title: Italie - lumières de la nuit
 en:
   title: Italie - lumières de la nuit
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Italie-lumieres-de-la-nuit.jpg
+source: Station spatiale internationale
+type: image

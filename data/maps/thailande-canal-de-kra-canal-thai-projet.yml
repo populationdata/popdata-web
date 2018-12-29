@@ -4,3 +4,10 @@ fr:
   title: Thaïlande - canal de Kra / canal thaï (projet)
 en:
   title: Thaïlande - canal de Kra / canal thaï (projet)
+continents:
+  - asie
+countries:
+  - thailande
+image: 'http://www.populationdata.net/wp-content/uploads/thailande-canal-kra.jpg'
+source: Wikipédia
+type: image

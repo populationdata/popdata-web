@@ -3,3 +3,15 @@ date: '2018-05-23T18:45:51.000Z'
 fr:
   title: Empire inca (1438-1527)
 en: null
+continents:
+  - ameriques
+countries:
+  - bolivie
+  - chili
+  - equateur
+  - perou
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/05/Inca-expansion_fr.png
+source: Wikipédia
+type: image

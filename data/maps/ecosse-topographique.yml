@@ -4,3 +4,10 @@ fr:
   title: Écosse - topographique
 en:
   title: Écosse - topographique
+continents: []
+countries:
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Ecosse-topographique.jpg
+source: Wikipédia
+type: image

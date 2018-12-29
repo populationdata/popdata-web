@@ -4,3 +4,13 @@ fr:
   title: Chine - aéroport de Pékin
 en:
   title: Chine - aéroport de Pékin
+continents: []
+countries:
+  - chine
+gmaps:
+  latitude: 40.069533
+  longitude: 116.601849
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

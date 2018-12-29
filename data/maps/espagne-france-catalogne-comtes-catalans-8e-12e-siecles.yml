@@ -3,3 +3,11 @@ date: '2017-12-04T22:15:38.000Z'
 fr:
   title: 'Espagne-France - Catalogne : Comtés catalans (8e-12e siècles)'
 en: null
+continents: []
+countries:
+  - espagne
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/12/Espagne-France-Comtats-catalans-8e-12e-siecles.png
+source: Wikipédia
+type: image

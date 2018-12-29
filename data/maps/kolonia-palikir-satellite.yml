@@ -4,3 +4,12 @@ fr:
   title: Kolonia-Palikir - satellite
 en:
   title: Kolonia-Palikir - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.967323
+  longitude: 158.209391
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

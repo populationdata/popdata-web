@@ -4,3 +4,13 @@ fr:
   title: Palaos - routière
 en:
   title: Palau - Road map
+continents: []
+countries:
+  - palaos
+gmaps:
+  latitude: 7.37881
+  longitude: 134.463043
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

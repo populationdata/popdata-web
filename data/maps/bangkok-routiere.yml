@@ -4,3 +4,12 @@ fr:
   title: Bangkok - routière
 en:
   title: Bangkok - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 13.725378
+  longitude: 100.541725
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

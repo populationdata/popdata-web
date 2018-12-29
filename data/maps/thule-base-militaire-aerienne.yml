@@ -4,3 +4,12 @@ fr:
   title: Thulé - base militaire aérienne
 en:
   title: Thulé - base militaire aérienne
+continents: []
+countries: []
+gmaps:
+  latitude: 76.534498
+  longitude: -68.755703
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

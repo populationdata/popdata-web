@@ -4,3 +4,10 @@ fr:
   title: Tahiti et Moorea - topographique
 en:
   title: Tahiti et Moorea - topographique
+continents: []
+countries:
+  - polynesie-francaise
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Tahiti-Moorea-topographique.png
+source: Wikipédia
+type: image

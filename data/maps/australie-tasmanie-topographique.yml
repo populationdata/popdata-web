@@ -4,3 +4,10 @@ fr:
   title: 'Australie - Tasmanie : topographique'
 en:
   title: 'Australie - Tasmanie : topographique'
+continents: []
+countries:
+  - australie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/australie-tasmanie-topographique.png
+source: Wikipédia
+type: image

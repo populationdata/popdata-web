@@ -4,3 +4,10 @@ fr:
   title: 'New York - États-Unis : Montée des eaux'
 en:
   title: 'New York - États-Unis : Montée des eaux'
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/montee-eaux-new-york-etats-unis.jpg
+source: Université d'Arizona / Business Insider
+type: image

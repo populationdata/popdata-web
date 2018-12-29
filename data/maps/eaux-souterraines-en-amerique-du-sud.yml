@@ -4,3 +4,10 @@ fr:
   title: Amérique du Sud - Eaux souterraines
 en:
   title: Amérique du Sud - Eaux souterraines
+continents:
+  - ameriques
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/eaux-souterraines-amerique-du-sud.jpg
+source: UNESCO
+type: image

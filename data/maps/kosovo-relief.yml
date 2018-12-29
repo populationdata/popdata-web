@@ -4,3 +4,9 @@ fr:
   title: Kosovo - relief
 en:
   title: Kosovo - relief
+continents: []
+countries:
+  - kosovo
+image: 'http://www.populationdata.net/wp-content/uploads/kosovo-relief2.jpg'
+source: CIA
+type: image

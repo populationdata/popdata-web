@@ -4,3 +4,12 @@ fr:
   title: Manchester - routière
 en:
   title: Manchester - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 53.477241
+  longitude: -2.244052
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

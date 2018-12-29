@@ -4,3 +4,12 @@ fr:
   title: Göteborg - routière
 en:
   title: Göteborg - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 57.699378
+  longitude: 11.964111
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Stavanger - routière
 en:
   title: Stavanger - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 58.961453
+  longitude: 5.731435
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

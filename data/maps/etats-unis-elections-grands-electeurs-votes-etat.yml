@@ -4,3 +4,10 @@ fr:
   title: 'États-Unis - élections : grands électeurs (votes par État)'
 en:
   title: 'États-Unis - élections : grands électeurs (votes par État)'
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Etats-Unis-nombre-de-grands-electeurs-par-Etat.png
+source: 'Census Bureau, Wikipédia'
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Allemagne - sols
 en:
   title: Allemagne - sols
+continents: []
+countries:
+  - allemagne
+image: 'http://www.populationdata.net/wp-content/uploads/allemagne-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

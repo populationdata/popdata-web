@@ -4,3 +4,12 @@ fr:
   title: Mascate - routière
 en:
   title: Mascate - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 23.611497
+  longitude: 58.357658
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

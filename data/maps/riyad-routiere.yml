@@ -4,3 +4,12 @@ fr:
   title: Riyad - routière
 en:
   title: Riyad - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 24.638436
+  longitude: 46.707344
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

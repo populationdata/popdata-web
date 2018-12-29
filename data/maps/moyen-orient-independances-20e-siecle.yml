@@ -4,3 +4,19 @@ fr:
   title: Moyen-Orient - indépendances au 20e siècle
 en:
   title: Moyen-Orient - indépendances au 20e siècle
+continents:
+  - asie
+countries:
+  - arabie-saoudite
+  - yemen
+  - oman
+  - emirats-arabes-unis
+  - bahrein
+  - qatar
+  - koweit
+  - iran
+  - irak
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Moyen-Orient-independances.jpg
+source: Le Monde Diplomatique
+type: image

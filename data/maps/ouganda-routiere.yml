@@ -4,3 +4,13 @@ fr:
   title: Ouganda - routière
 en:
   title: Ouganda - routière
+continents: []
+countries:
+  - ouganda
+gmaps:
+  latitude: 1.48848
+  longitude: 32.151489
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

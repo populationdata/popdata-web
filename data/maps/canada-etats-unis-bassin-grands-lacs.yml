@@ -4,3 +4,12 @@ fr:
   title: 'Canada - États-Unis : Bassin des Grands Lacs'
 en:
   title: 'Canada - États-Unis : Bassin des Grands Lacs'
+continents:
+  - ameriques
+countries:
+  - canada
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Canada-Etats-Unis-Grands-Lacs.jpg
+source: Ressources Naturelles Canada
+type: image

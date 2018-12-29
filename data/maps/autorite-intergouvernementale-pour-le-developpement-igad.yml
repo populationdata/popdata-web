@@ -3,3 +3,18 @@ date: '2018-11-01T21:52:20.000Z'
 fr:
   title: Autorité intergouvernementale pour le développement (IGAD)
 en: null
+continents:
+  - afrique
+countries:
+  - kenya
+  - somalie
+  - ouganda
+  - djibouti
+  - erythree
+  - ethiopie
+  - soudan-du-sud
+  - soudan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/11/Autorité-intergouvernementale-pour-le-développement-IGAD.png
+source: Wikipédia
+type: image

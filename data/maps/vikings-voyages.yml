@@ -4,3 +4,19 @@ fr:
   title: Vikings - voyages
 en:
   title: Vikings - voyages
+continents:
+  - ameriques
+  - europe
+countries:
+  - groenland
+  - norvege
+  - islande
+  - danemark
+  - suede
+  - canada
+  - france
+  - irlande
+  - royaume-uni
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Vikings-voyages.png'
+source: Wikipédia
+type: image

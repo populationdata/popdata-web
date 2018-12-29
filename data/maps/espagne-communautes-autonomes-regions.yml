@@ -4,3 +4,10 @@ fr:
   title: Espagne - communautés autonomes (régions)
 en:
   title: Espagne - communautés autonomes (régions)
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Espagne-communautes-autonomes-regions.png
+source: Wikipédia
+type: image

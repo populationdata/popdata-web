@@ -4,3 +4,10 @@ fr:
   title: 'Comores - Grande Comore : topographique'
 en:
   title: 'Comores - Grande Comore : topographique'
+continents: []
+countries:
+  - comores
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Grande_Comore_topographique.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Chili - topographique
 en:
   title: Chili - topographique
+continents: []
+countries:
+  - chili
+image: 'http://www.populationdata.net/wp-content/uploads/chili-topographique.jpg'
+source: Wikipédia
+type: image

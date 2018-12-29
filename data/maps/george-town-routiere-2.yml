@@ -4,3 +4,12 @@ fr:
   title: George Town - routière
 en:
   title: George Town - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 5.411971
+  longitude: 100.346031
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

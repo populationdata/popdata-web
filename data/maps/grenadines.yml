@@ -4,3 +4,10 @@ fr:
   title: Grenadines
 en:
   title: Grenadines
+continents: []
+countries:
+  - grenade
+  - saint-vincent-et-les-grenadines
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Grenadines.png'
+source: Wikipédia
+type: image

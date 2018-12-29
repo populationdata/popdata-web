@@ -4,3 +4,9 @@ fr:
   title: Azerbaïdjan - petite
 en:
   title: Azerbaïdjan - petite
+continents: []
+countries:
+  - azerbaidjan
+image: 'http://www.populationdata.net/wp-content/uploads/azerbaidjan_petite.gif'
+source: CIA
+type: image

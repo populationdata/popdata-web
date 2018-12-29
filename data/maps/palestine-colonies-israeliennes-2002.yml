@@ -4,3 +4,11 @@ fr:
   title: Palestine - colonies israéliennes (2002)
 en:
   title: Palestine - colonies israéliennes (2002)
+continents: []
+countries:
+  - israel
+  - palestine
+image: >-
+  http://www.populationdata.net/wp-content/uploads/palestine_colonies_israeliennes_2003.jpg
+source: B'Tselem
+type: image

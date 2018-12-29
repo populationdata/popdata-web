@@ -4,3 +4,10 @@ fr:
   title: Italie - expansion historique
 en:
   title: Italie - expansion historique
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Italie-expansion-historique.png
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Ipoh - satellite
 en:
   title: Ipoh - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 4.598669
+  longitude: 101.086578
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

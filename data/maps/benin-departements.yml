@@ -4,3 +4,9 @@ fr:
   title: Bénin - départements
 en:
   title: Bénin - départements
+continents: []
+countries:
+  - benin
+image: 'http://www.populationdata.net/wp-content/uploads/benin-departements.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Andorre
 en:
   title: Andorre
+continents: []
+countries:
+  - andorre
+image: 'http://www.populationdata.net/wp-content/uploads/andorre.jpg'
+source: CIA
+type: image

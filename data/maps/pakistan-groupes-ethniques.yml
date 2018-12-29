@@ -4,3 +4,10 @@ fr:
   title: Pakistan - groupes ethniques
 en:
   title: Pakistan - groupes ethniques
+continents: []
+countries:
+  - pakistan
+image: >-
+  http://www.populationdata.net/wp-content/uploads/pakistan_groupes_ethniques.jpg
+source: CIA
+type: image

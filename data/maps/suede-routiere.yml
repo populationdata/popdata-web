@@ -4,3 +4,13 @@ fr:
   title: Suède - routière
 en:
   title: Suède - routière
+continents: []
+countries:
+  - suede
+gmaps:
+  latitude: 62.855146
+  longitude: 16.12793
+  type: roadmap
+  zoom: 5
+source: Google Maps
+type: gmaps

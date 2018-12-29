@@ -4,3 +4,13 @@ fr:
   title: Belize - routière
 en:
   title: Belize - routière
+continents: []
+countries:
+  - belize
+gmaps:
+  latitude: 17.156537
+  longitude: -88.659668
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Saint-Martin (Sint Maarten)
 en:
   title: Saint-Martin (Sint Maarten)
+continents: []
+countries:
+  - saint-martin-pays-bas
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/saint-martin-nl.png'
+source: Wikipédia
+type: image

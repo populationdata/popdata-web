@@ -4,3 +4,9 @@ fr:
   title: Grèce - gazoducs
 en:
   title: Grèce - gazoducs
+continents: []
+countries:
+  - grece
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Grece-gazoducs.png'
+source: Wikipédia
+type: image

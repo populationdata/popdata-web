@@ -4,3 +4,9 @@ fr:
   title: États-Unis - élections présidentielles 2008
 en:
   title: États-Unis - élections présidentielles 2008
+continents: []
+countries:
+  - etats-unis
+image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-elections-2008.jpg'
+source: New York Times
+type: image

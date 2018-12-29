@@ -4,3 +4,13 @@ fr:
   title: Japon - séisme de magnitude 6.8 à Iwate (17 février 2015)
 en:
   title: Japon - séisme de magnitude 6.8 à Iwate (17 février 2015)
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 39.848
+  longitude: 142.813
+  type: terrain
+  zoom: 5
+source: USGS - Earthquake Hazards Program
+type: gmaps

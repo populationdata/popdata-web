@@ -4,3 +4,9 @@ fr:
   title: États-Unis - densité (2010)
 en:
   title: États-Unis - densité (2010)
+continents: []
+countries:
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/Etats-Unis-densite-2010.png'
+source: Wikipédia
+type: image

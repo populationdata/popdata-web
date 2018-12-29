@@ -4,3 +4,10 @@ fr:
   title: Salomon - Guadalcanal topographique
 en:
   title: Salomon - Guadalcanal topographique
+continents: []
+countries:
+  - salomon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/salomon-guadalcanal.jpg
+source: Wikipédia
+type: image

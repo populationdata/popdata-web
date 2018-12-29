@@ -4,3 +4,10 @@ fr:
   title: Macédoine - administrative (régions)
 en:
   title: Macédoine - administrative (régions)
+continents: []
+countries:
+  - macedoine-du-nord
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Macedoine-administrative.png
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Bouaké - routière
 en:
   title: Bouaké - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 7.694151
+  longitude: -5.035172
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

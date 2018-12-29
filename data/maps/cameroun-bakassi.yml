@@ -4,3 +4,10 @@ fr:
   title: Cameroun - Bakassi
 en:
   title: Cameroun - Bakassi
+continents: []
+countries:
+  - cameroun
+  - nigeria
+image: 'http://www.populationdata.net/wp-content/uploads/cameroun-bakassi.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Suriname - routière
 en:
   title: Suriname - routière
+continents: []
+countries:
+  - suriname
+gmaps:
+  latitude: 4.269724
+  longitude: -55.717163
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

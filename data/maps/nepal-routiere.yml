@@ -4,3 +4,13 @@ fr:
   title: Népal - routière
 en:
   title: Népal - routière
+continents: []
+countries:
+  - nepal
+gmaps:
+  latitude: 27.965295
+  longitude: 84.858398
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

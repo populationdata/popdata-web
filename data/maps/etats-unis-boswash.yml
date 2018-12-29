@@ -4,3 +4,10 @@ fr:
   title: États-Unis - Boswash
 en:
   title: États-Unis - Boswash
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/etats-unis-Boswash.png
+source: Wikipédia
+type: image

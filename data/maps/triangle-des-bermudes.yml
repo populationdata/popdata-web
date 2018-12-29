@@ -4,3 +4,9 @@ fr:
   title: Triangle des Bermudes
 en:
   title: Triangle des Bermudes
+continents: []
+countries:
+  - bermudes
+image: 'http://www.populationdata.net/wp-content/uploads/triangle-des-bermudes.png'
+source: Wikipédia
+type: image

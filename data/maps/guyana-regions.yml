@@ -4,3 +4,9 @@ fr:
   title: Guyana - régions
 en:
   title: Guyana - régions
+continents: []
+countries:
+  - guyana
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Guyana_regions.png'
+source: Wikipédia
+type: image

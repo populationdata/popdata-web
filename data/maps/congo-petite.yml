@@ -4,3 +4,9 @@ fr:
   title: Congo - petite
 en:
   title: Congo - petite
+continents: []
+countries:
+  - congo
+image: 'http://www.populationdata.net/wp-content/uploads/congo-brazzaville-petite.gif'
+source: Wikipédia
+type: image

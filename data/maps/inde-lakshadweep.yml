@@ -4,3 +4,9 @@ fr:
   title: Inde - Lakshadweep
 en:
   title: Inde - Lakshadweep
+continents: []
+countries:
+  - inde
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/Lakshadweep-Inde.jpg'
+source: Wikipédia
+type: image

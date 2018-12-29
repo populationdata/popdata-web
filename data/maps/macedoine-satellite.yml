@@ -4,3 +4,13 @@ fr:
   title: Macédoine - satellite
 en:
   title: Macédoine - satellite
+continents: []
+countries:
+  - macedoine-du-nord
+gmaps:
+  latitude: 41.644183
+  longitude: 21.769409
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

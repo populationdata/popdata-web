@@ -4,3 +4,12 @@ fr:
   title: Ipoh - routière
 en:
   title: Ipoh - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 4.598669
+  longitude: 101.086578
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

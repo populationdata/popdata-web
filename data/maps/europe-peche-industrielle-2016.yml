@@ -3,3 +3,10 @@ date: '2018-02-26T21:27:22.000Z'
 fr:
   title: Europe - Pêche industrielle (2016)
 en: null
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Europe-peche-industrielle-2016.jpg
+source: Global Fishing Watch
+type: image

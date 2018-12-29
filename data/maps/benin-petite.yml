@@ -4,3 +4,9 @@ fr:
   title: Bénin - petite
 en:
   title: Bénin - petite
+continents: []
+countries:
+  - benin
+image: 'http://www.populationdata.net/wp-content/uploads/benin-petite.png'
+source: Wikipédia
+type: image

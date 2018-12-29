@@ -4,3 +4,9 @@ fr:
   title: Groenland - situation
 en:
   title: Groenland - situation
+continents: []
+countries:
+  - groenland
+image: 'http://www.populationdata.net/wp-content/uploads/groenland.jpg'
+source: CIA
+type: image

@@ -4,3 +4,11 @@ fr:
   title: 'Canada - États-Unis - Grands lacs : indice de stress'
 en:
   title: 'Canada - États-Unis - Grands lacs : indice de stress'
+continents: []
+countries:
+  - canada
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Canada-Etats-Unis-Grands-lacs-indice-stress.jpg
+source: 'Chris Brackley, Canadian Geographic'
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Canada
 en:
   title: Canada
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada.jpg'
+source: CIA
+type: image

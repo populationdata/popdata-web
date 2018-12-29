@@ -4,3 +4,12 @@ fr:
   title: Karachi - satellite
 en:
   title: Karachi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 24.921342
+  longitude: 67.123979
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Brunei - districts
 en:
   title: Brunei - districts
+continents: []
+countries:
+  - brunei
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Brunei-districts.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: 'Afrique - OMS : Ebola (2014)'
 en:
   title: 'Afrique - OMS : Ebola (2014)'
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-oms-ebola-2014.jpg'
+source: OMS
+type: image

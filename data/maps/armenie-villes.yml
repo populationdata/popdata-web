@@ -4,3 +4,9 @@ fr:
   title: Arménie - villes
 en:
   title: Arménie - villes
+continents: []
+countries:
+  - armenie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Armenie-villes.png'
+source: Wikipédia
+type: image

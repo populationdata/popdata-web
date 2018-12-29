@@ -4,3 +4,12 @@ fr:
   title: Lisbonne - routière
 en:
   title: Lisbonne - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.728912
+  longitude: -9.132385
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

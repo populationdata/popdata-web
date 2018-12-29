@@ -4,3 +4,12 @@ fr:
   title: Québec - satellite
 en:
   title: Québec - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 46.804114
+  longitude: -71.283012
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

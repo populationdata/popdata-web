@@ -4,3 +4,13 @@ fr:
   title: Europe - Satellite
 en:
   title: Europe - Satellite
+continents:
+  - europe
+countries: []
+gmaps:
+  latitude: 55.07711
+  longitude: 9.775587
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

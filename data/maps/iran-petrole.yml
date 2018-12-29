@@ -4,3 +4,9 @@ fr:
   title: Iran - pétrole
 en:
   title: Iran - pétrole
+continents: []
+countries:
+  - iran
+image: 'http://www.populationdata.net/wp-content/uploads/iran-petrole.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Nicaragua - satellite
 en:
   title: Nicaragua - satellite
+continents: []
+countries:
+  - nicaragua
+gmaps:
+  latitude: 12.688574
+  longitude: -85.187988
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

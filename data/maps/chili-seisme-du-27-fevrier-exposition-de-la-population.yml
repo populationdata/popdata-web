@@ -4,3 +4,10 @@ fr:
   title: 'Chili - séisme du 27 février : exposition de la population'
 en:
   title: 'Chili - séisme du 27 février : exposition de la population'
+continents: []
+countries:
+  - chili
+image: >-
+  http://www.populationdata.net/wp-content/uploads/chili-seisme-27-fevrier-2010-exposition.png
+source: USGS - Earthquake Hazards Program
+type: image

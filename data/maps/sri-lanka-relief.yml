@@ -4,3 +4,9 @@ fr:
   title: Sri Lanka - relief
 en:
   title: Sri Lanka - relief
+continents: []
+countries:
+  - sri-lanka
+image: 'http://www.populationdata.net/wp-content/uploads/sri_lanka_relief.jpg'
+source: CIA
+type: image

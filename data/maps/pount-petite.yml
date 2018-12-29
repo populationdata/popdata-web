@@ -4,3 +4,9 @@ fr:
   title: Pount - petite
 en:
   title: Pount - petite
+continents: []
+countries:
+  - pount
+image: 'http://www.populationdata.net/wp-content/uploads/pount-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Kharkov - satellite
 en:
   title: Kharkov - satellite
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 49.982137
+  longitude: 36.24115
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

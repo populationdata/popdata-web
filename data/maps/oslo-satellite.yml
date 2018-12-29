@@ -4,3 +4,12 @@ fr:
   title: Oslo - satellite
 en:
   title: Oslo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 59.917516
+  longitude: 10.750122
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

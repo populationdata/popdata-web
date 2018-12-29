@@ -4,3 +4,10 @@ fr:
   title: Mali - topographique
 en:
   title: Mali - topographique
+continents: []
+countries:
+  - mali
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Mali-topographique.jpg
+source: Wikipédia
+type: image

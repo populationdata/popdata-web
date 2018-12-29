@@ -4,3 +4,10 @@ fr:
   title: Guyane - topographique
 en:
   title: Guyane - topographique
+continents: []
+countries:
+  - guyane
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Guyane-topographique.jpg
+source: Wikipédia
+type: image

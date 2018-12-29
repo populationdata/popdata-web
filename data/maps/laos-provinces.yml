@@ -4,3 +4,9 @@ fr:
   title: Laos - provinces
 en:
   title: Laos - provinces
+continents: []
+countries:
+  - laos
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Laos-provinces.png'
+source: Bureau des statistiques du Laos
+type: image

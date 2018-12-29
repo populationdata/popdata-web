@@ -4,3 +4,21 @@ fr:
   title: 'France entière – élections présidentielles 2017 : résultats 1er tour'
 en:
   title: 'France – 2017 Presidential Elections: first round results'
+continents: []
+countries:
+  - france
+  - saint-pierre-et-miquelon
+  - guyane
+  - martinique
+  - saint-martin-france
+  - saint-barthelemy
+  - guadeloupe
+  - polynesie-francaise
+  - nouvelle-caledonie
+  - wallis-et-futuna
+  - mayotte
+  - reunion
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/France-elections-presidentielles-2017-resultats-1er-tour.png
+source: Wikipédia
+type: image

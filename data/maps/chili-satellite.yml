@@ -4,3 +4,13 @@ fr:
   title: Chili - satellite
 en:
   title: Chili - satellite
+continents: []
+countries:
+  - chili
+gmaps:
+  latitude: -36.633162
+  longitude: -71.191406
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

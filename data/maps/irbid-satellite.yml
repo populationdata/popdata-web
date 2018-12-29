@@ -4,3 +4,12 @@ fr:
   title: Irbid - satellite
 en:
   title: Irbid - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 32.557527
+  longitude: 35.860029
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

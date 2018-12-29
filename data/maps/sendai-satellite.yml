@@ -4,3 +4,12 @@ fr:
   title: Sendai - satellite
 en:
   title: Sendai - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 38.265493
+  longitude: 140.871581
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

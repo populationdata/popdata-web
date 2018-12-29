@@ -4,3 +4,9 @@ fr:
   title: Monténégro
 en:
   title: Monténégro
+continents: []
+countries:
+  - montenegro
+image: 'http://www.populationdata.net/wp-content/uploads/montenegro.gif'
+source: ONU
+type: image

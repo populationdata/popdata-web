@@ -4,3 +4,10 @@ fr:
   title: Corée du Nord - lumières de la nuit
 en:
   title: Corée du Nord - lumières de la nuit
+continents: []
+countries:
+  - coree-du-nord
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Coree-du-Nord-lumieres-nuit.jpg
+source: Nasa
+type: image

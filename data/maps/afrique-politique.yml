@@ -4,3 +4,9 @@ fr:
   title: Afrique - Politique
 en:
   title: Afrique - Politique
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-pays.png'
+source: Google Maps
+type: image

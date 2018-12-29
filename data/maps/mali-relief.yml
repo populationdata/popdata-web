@@ -4,3 +4,9 @@ fr:
   title: Mali - relief
 en:
   title: Mali - relief
+continents: []
+countries:
+  - mali
+image: 'http://www.populationdata.net/wp-content/uploads/mali_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'Canada - Colombie-britannique : feux de forêt (juillet 2017)'
 en:
   title: 'Canada - Colombie-britannique : feux de forêt (juillet 2017)'
+continents: []
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Canada-Colombie-britannique-feux-juillet-2017.jpg
+source: Nasa Earth Observatory
+type: image

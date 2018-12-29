@@ -4,3 +4,12 @@ fr:
   title: Ponta Delgada - satellite
 en:
   title: Ponta Delgada - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 37.785148
+  longitude: -25.606424
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

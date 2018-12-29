@@ -4,3 +4,12 @@ fr:
   title: Sétif - routière
 en:
   title: Sétif - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 36.193309
+  longitude: 5.407505
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,11 @@ fr:
   title: Japon-Russie - Aïnous
 en:
   title: Japon-Russie - Aïnous
+continents: []
+countries:
+  - japon
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Japon-Russie-Ainous.jpg
+source: Wikipédia
+type: image

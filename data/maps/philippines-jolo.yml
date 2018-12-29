@@ -4,3 +4,9 @@ fr:
   title: Philippines - Jolo
 en:
   title: Philippines - Jolo
+continents: []
+countries:
+  - philippines
+image: 'http://www.populationdata.net/wp-content/uploads/philippines_jolo.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Viêt Nam - provinces
 en:
   title: Viêt Nam - provinces
+continents: []
+countries:
+  - viet-nam
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Viet-Nam-provinces.png
+source: Wikipédia
+type: image

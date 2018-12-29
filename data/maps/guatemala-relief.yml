@@ -4,3 +4,9 @@ fr:
   title: Guatemala - relief
 en:
   title: Guatemala - relief
+continents: []
+countries:
+  - guatemala
+image: 'http://www.populationdata.net/wp-content/uploads/guatemala_relief.jpg'
+source: CIA
+type: image

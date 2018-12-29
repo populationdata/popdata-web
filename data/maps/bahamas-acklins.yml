@@ -4,3 +4,9 @@ fr:
   title: Bahamas - Acklins
 en:
   title: Bahamas - Acklins
+continents: []
+countries:
+  - bahamas
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Bahamas-Acklins.png'
+source: Wikipédia
+type: image

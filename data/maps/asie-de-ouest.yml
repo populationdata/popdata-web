@@ -4,3 +4,24 @@ fr:
   title: Asie de l'Ouest
 en:
   title: Asie de l'Ouest
+continents:
+  - asie
+countries:
+  - koweit
+  - qatar
+  - syrie
+  - bahrein
+  - turquie
+  - palestine
+  - liban
+  - israel
+  - jordanie
+  - iran
+  - irak
+  - emirats-arabes-unis
+  - oman
+  - yemen
+  - arabie-saoudite
+image: 'http://www.populationdata.net/wp-content/uploads/asie-de-louest.jpg'
+source: CIA
+type: image

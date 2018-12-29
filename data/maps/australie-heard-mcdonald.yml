@@ -4,3 +4,10 @@ fr:
   title: Australie - Heard et McDonald
 en:
   title: Australie - Heard et McDonald
+continents:
+  - antarctique
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Heard-mcdonald.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Argentine - densité (2001)
 en:
   title: Argentine - densité (2001)
+continents: []
+countries:
+  - argentine
+image: 'http://www.populationdata.net/wp-content/uploads/argentinedensite.jpg'
+source: INDEC
+type: image

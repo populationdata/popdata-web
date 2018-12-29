@@ -4,3 +4,9 @@ fr:
   title: Bahamas - petite
 en:
   title: Bahamas - petite
+continents: []
+countries:
+  - bahamas
+image: 'http://www.populationdata.net/wp-content/uploads/bahamas-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Japon - topographique
 en:
   title: Japon - topographique
+continents: []
+countries:
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon-topographique.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Suède - sols
 en:
   title: Suède - sols
+continents: []
+countries:
+  - suede
+image: 'http://www.populationdata.net/wp-content/uploads/suede-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Guinée équatoriale - petite
 en:
   title: Guinée équatoriale - petite
+continents: []
+countries:
+  - guinee-equatoriale
+image: 'http://www.populationdata.net/wp-content/uploads/guinee-equatoriale-petite.png'
+source: Wikipédia
+type: image

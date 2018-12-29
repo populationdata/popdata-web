@@ -4,3 +4,10 @@ fr:
   title: États-Unis - Texas et Louisiane vues de l'espace la nuit
 en:
   title: États-Unis - Texas et Louisiane vues de l'espace la nuit
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/06/Etats-Unis-Texas-Louisiane.-lumieres-nuit.jpg
+source: Nasa
+type: image

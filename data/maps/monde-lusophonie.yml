@@ -4,3 +4,18 @@ fr:
   title: Monde - Lusophonie
 en:
   title: Monde - Lusophonie
+continents: []
+countries:
+  - portugal
+  - angola
+  - mozambique
+  - bresil
+  - cap-vert
+  - guinee-bissau
+  - timor-oriental
+  - sao-tome-et-principe
+  - madere
+  - acores
+image: 'http://www.populationdata.net/wp-content/uploads/monde-lusophonie.jpg'
+source: Wikipédia
+type: image

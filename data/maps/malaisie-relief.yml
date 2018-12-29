@@ -4,3 +4,9 @@ fr:
   title: Malaisie - relief
 en:
   title: Malaisie - relief
+continents: []
+countries:
+  - malaisie
+image: 'http://www.populationdata.net/wp-content/uploads/malaisie_relief.jpg'
+source: CIA
+type: image

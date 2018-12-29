@@ -4,3 +4,9 @@ fr:
   title: Allemagne - trains
 en:
   title: Allemagne - trains
+continents: []
+countries:
+  - allemagne
+image: 'https://www.populationdata.net/wp-content/uploads/Allemagne-trains.jpg'
+source: Wikipédia
+type: image

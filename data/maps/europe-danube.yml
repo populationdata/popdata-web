@@ -4,3 +4,19 @@ fr:
   title: Europe - Danube
 en:
   title: Europe - Danube
+continents:
+  - europe
+countries:
+  - allemagne
+  - autriche
+  - slovaquie
+  - hongrie
+  - croatie
+  - serbie
+  - roumanie
+  - bulgarie
+  - moldavie
+  - ukraine
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Bassin-du-Danube.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Finlande
 en:
   title: Finlande
+continents: []
+countries:
+  - finlande
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Finlande.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Bosnie-et-Herzégovine - petite
 en:
   title: Bosnie-et-Herzégovine - petite
+continents: []
+countries:
+  - bosnie-et-herzegovine
+image: 'http://www.populationdata.net/wp-content/uploads/bosnie-herzegovine-petite.png'
+source: Wikipédia
+type: image

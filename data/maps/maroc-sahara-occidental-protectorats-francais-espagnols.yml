@@ -4,3 +4,11 @@ fr:
   title: Maroc-Sahara occidental - protectorats français et espagnols
 en:
   title: Maroc-Sahara occidental - protectorats français et espagnols
+continents: []
+countries:
+  - maroc
+  - sahara-occidental
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Maroc-protectorat.png
+source: Wikipédia
+type: image

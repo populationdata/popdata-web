@@ -4,3 +4,17 @@ fr:
   title: Himalaya - Formation géologique
 en:
   title: Himalaya - Formation géologique
+continents:
+  - asie
+countries:
+  - inde
+  - chine
+  - tadjikistan
+  - pakistan
+  - afghanistan
+  - nepal
+  - bhoutan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Himalaya-formation.gif
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Désert de Gobi
 en:
   title: Désert de Gobi
+continents: []
+countries:
+  - chine
+  - mongolie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Gobi.jpg'
+source: Wikipédia
+type: image

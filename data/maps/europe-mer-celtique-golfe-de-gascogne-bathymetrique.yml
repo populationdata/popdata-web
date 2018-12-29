@@ -4,3 +4,14 @@ fr:
   title: 'Europe - Mer Celtique et Golfe de Gascogne : bathymétrique'
 en:
   title: 'Europe - Mer Celtique et Golfe de Gascogne : bathymétrique'
+continents:
+  - europe
+countries:
+  - irlande
+  - royaume-uni
+  - france
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Europe-Mer-celtique-Golfe-de-Gascogne-topographique.jpg
+source: Wikipédia
+type: image

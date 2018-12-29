@@ -4,3 +4,9 @@ fr:
   title: Atiu
 en:
   title: Atiu
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-atiumap.png'
+source: Wikipédia
+type: image

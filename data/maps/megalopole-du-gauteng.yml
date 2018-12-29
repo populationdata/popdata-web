@@ -4,3 +4,13 @@ fr:
   title: Mégalopole du Gauteng
 en:
   title: Megalopolis of Gauteng
+continents: []
+countries:
+  - afrique-du-sud
+gmaps:
+  latitude: -26.008658
+  longitude: 28.067322
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

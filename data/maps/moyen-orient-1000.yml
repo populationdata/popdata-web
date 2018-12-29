@@ -4,3 +4,21 @@ fr:
   title: Moyen-Orient (1000)
 en:
   title: Moyen-Orient (1000)
+continents:
+  - asie
+countries:
+  - iran
+  - ouzbekistan
+  - tadjikistan
+  - turkmenistan
+  - afghanistan
+  - azerbaidjan
+  - irak
+  - oman
+  - emirats-arabes-unis
+  - koweit
+  - kurdistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/moyen-orient-1000.png
+source: Wikipédia
+type: image

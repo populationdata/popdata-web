@@ -4,3 +4,10 @@ fr:
   title: France - revenu fiscal par ménage
 en:
   title: France - revenu fiscal par ménage
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/france-revenu-fiscal-par-menage-median-par-commune-en.jpg
+source: Le Monde
+type: image

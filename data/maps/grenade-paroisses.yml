@@ -4,3 +4,10 @@ fr:
   title: Grenade - paroisses
 en:
   title: Grenade - paroisses
+continents: []
+countries:
+  - grenade
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grenade-paroisses.png
+source: Wikipédia
+type: image

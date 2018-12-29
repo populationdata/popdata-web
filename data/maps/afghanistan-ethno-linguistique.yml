@@ -4,3 +4,9 @@ fr:
   title: Afghanistan - éthno-linguistique
 en:
   title: Afghanistan - éthno-linguistique
+continents: []
+countries:
+  - afghanistan
+image: 'http://www.populationdata.net/wp-content/uploads/afghanistan-ethnies.png'
+source: Wikipédia
+type: image

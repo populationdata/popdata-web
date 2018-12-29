@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Zélande - séisme de magnitude 6.3 (22 février 2011)
 en:
   title: New Zealand - Magnitude 6.3 Earthquake (22 February 2011)
+continents: []
+countries:
+  - nouvelle-zelande
+gmaps:
+  latitude: -43.5133
+  longitude: 172.6385
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

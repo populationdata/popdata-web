@@ -4,3 +4,13 @@ fr:
   title: 'Kiribati - Christmas : satellite'
 en:
   title: 'Kiribati - Christmas : satellite'
+continents: []
+countries:
+  - kiribati
+gmaps:
+  latitude: 1.874208
+  longitude: -157.38945
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

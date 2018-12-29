@@ -4,3 +4,9 @@ fr:
   title: Martinique
 en:
   title: Martinique
+continents: []
+countries:
+  - martinique
+image: 'http://www.populationdata.net/wp-content/uploads/martinique.gif'
+source: Magellan
+type: image

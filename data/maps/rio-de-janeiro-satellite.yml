@@ -4,3 +4,12 @@ fr:
   title: Rio de Janeiro - satellite
 en:
   title: Rio de Janeiro - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -22.935156
+  longitude: -43.200302
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

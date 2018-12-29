@@ -4,3 +4,8 @@ fr:
   title: Etats-Unis - élections présidentielles 2004
 en:
   title: Etats-Unis - élections présidentielles 2004
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/etats_unis_elections04.gif'
+source: Census.gov
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Singapour - petite
 en:
   title: Singapour - petite
+continents: []
+countries:
+  - singapour
+image: 'http://www.populationdata.net/wp-content/uploads/singapour-petite.gif'
+source: CIA
+type: image

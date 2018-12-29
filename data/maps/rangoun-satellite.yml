@@ -4,3 +4,12 @@ fr:
   title: Rangoun - satellite
 en:
   title: Rangoun - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 16.804541
+  longitude: 96.149254
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

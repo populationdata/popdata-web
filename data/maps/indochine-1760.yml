@@ -3,3 +3,13 @@ date: '2018-02-14T17:35:29.000Z'
 fr:
   title: Indochine (1760)
 en: null
+continents:
+  - asie
+countries:
+  - thailande
+  - cambodge
+  - laos
+  - viet-nam
+image: 'https://www.populationdata.net/wp-content/uploads/2018/02/Indochine-1760.jpg'
+source: Wikipédia
+type: image

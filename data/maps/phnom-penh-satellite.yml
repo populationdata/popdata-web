@@ -4,3 +4,12 @@ fr:
   title: Phnom Penh - satellite
 en:
   title: Phnom Penh - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 11.562276
+  longitude: 104.910336
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Langue Hassanya (dialecte arabe)
 en:
   title: Langue Hassanya (dialecte arabe)
+continents: []
+countries:
+  - sahara-occidental
+  - mauritanie
+  - maroc
+  - mali
+  - algerie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Hassanya-2.png'
+source: Wikipédia
+type: image

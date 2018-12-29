@@ -4,3 +4,10 @@ fr:
   title: Chagos - administrative
 en:
   title: Chagos - administrative
+continents: []
+countries:
+  - chagos
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Chagos-administrative.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Islande - relief
 en:
   title: Islande - relief
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/islande-relief.gif'
+source: CIA
+type: image

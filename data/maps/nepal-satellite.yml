@@ -4,3 +4,13 @@ fr:
   title: Népal - satellite
 en:
   title: Népal - satellite
+continents: []
+countries:
+  - nepal
+gmaps:
+  latitude: 27.965295
+  longitude: 84.858398
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

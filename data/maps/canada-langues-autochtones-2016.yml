@@ -3,3 +3,10 @@ date: '2017-10-27T19:55:11.000Z'
 fr:
   title: Canada - langues autochtones (2016)
 en: null
+continents: []
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Canada-langues-autochtones-2016.jpg
+source: Statistique Canada
+type: image

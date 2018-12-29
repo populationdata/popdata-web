@@ -4,3 +4,16 @@ fr:
   title: 'Chine - rail : vision asiatique à long terme'
 en:
   title: 'Chine - rail : vision asiatique à long terme'
+continents:
+  - asie
+  - europe
+countries:
+  - chine
+  - russie
+  - inde
+  - mongolie
+  - viet-nam
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Chine-rail-vision-asiatique.jpg
+source: South China Morning Post
+type: image

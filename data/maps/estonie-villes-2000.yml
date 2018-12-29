@@ -4,3 +4,9 @@ fr:
   title: Estonie - villes (2000)
 en:
   title: Estonie - villes (2000)
+continents: []
+countries:
+  - estonie
+image: 'http://www.populationdata.net/wp-content/uploads/estonie-villes.gif'
+source: Statistiques Estonie
+type: image

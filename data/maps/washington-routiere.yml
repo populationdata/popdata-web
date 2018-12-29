@@ -4,3 +4,12 @@ fr:
   title: Washington - routière
 en:
   title: Washington - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.90279
+  longitude: -77.078705
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Tchad
 en:
   title: Tchad
+continents: []
+countries:
+  - tchad
+image: 'http://www.populationdata.net/wp-content/uploads/tchad.gif'
+source: CIA
+type: image

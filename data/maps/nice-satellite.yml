@@ -4,3 +4,12 @@ fr:
   title: Nice - satellite
 en:
   title: Nice - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.707097
+  longitude: 7.23999
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Biélorussie - petite
 en:
   title: Biélorussie - petite
+continents: []
+countries:
+  - belarus-bielorussie
+image: 'http://www.populationdata.net/wp-content/uploads/belarus-petite.png'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: 'République démocratique du Congo : Goma - affrontements'
 en:
   title: 'République démocratique du Congo : Goma - affrontements'
+continents: []
+countries:
+  - republique-democratique-du-congo
+image: 'http://www.populationdata.net/wp-content/uploads/rdc-goma.jpg'
+source: FAO
+type: image

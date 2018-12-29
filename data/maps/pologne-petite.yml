@@ -4,3 +4,9 @@ fr:
   title: Pologne - petite
 en:
   title: Pologne - petite
+continents: []
+countries:
+  - pologne
+image: 'http://www.populationdata.net/wp-content/uploads/pologne_petite.gif'
+source: CIA
+type: image

@@ -4,3 +4,8 @@ fr:
   title: Monde - Voies navigables
 en:
   title: Monde - Voies navigables
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-voies-navigables.jpg'
+source: NewScientist
+type: image

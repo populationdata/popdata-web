@@ -4,3 +4,9 @@ fr:
   title: Lesotho - relief
 en:
   title: Lesotho - relief
+continents: []
+countries:
+  - lesotho
+image: 'http://www.populationdata.net/wp-content/uploads/lesotho_relief.gif'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Taïwan - topographique
 en:
   title: Taïwan - topographique
+continents: []
+countries:
+  - taiwan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Taiwan-topographique.jpg
+source: Wikipédia
+type: image

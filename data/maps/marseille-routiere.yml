@@ -4,3 +4,12 @@ fr:
   title: Marseille - routière
 en:
   title: Marseille - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 43.360134
+  longitude: 5.328369
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

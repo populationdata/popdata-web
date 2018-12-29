@@ -4,3 +4,9 @@ fr:
   title: Corée du Nord - relief
 en:
   title: Corée du Nord - relief
+continents: []
+countries:
+  - coree-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/coree-du-nord-relief.jpg'
+source: CIA
+type: image

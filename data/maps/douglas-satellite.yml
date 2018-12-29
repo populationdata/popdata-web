@@ -4,3 +4,12 @@ fr:
   title: Douglas - satellite
 en:
   title: Douglas - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 54.163125
+  longitude: -4.470806
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

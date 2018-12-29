@@ -3,3 +3,10 @@ date: '2018-06-01T19:15:59.000Z'
 fr:
   title: Europe - Migrations (1987-2017)
 en: null
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/06/Europe-migrations-1987-2017.png
+source: 'Le Monde diplomatique, Cécile Marin'
+type: image

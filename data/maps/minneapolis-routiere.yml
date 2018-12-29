@@ -4,3 +4,12 @@ fr:
   title: Minneapolis - routière
 en:
   title: Minneapolis - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 44.965284
+  longitude: -93.218994
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

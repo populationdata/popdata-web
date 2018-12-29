@@ -4,3 +4,12 @@ fr:
   title: Murcie-Carthagène - satellite
 en:
   title: Murcie-Carthagène - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 37.838937
+  longitude: -1.041192
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

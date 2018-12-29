@@ -4,3 +4,12 @@ fr:
   title: Port-Soudan - routière
 en:
   title: Port-Soudan - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 19.616718
+  longitude: 37.210865
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

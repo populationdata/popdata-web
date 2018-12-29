@@ -4,3 +4,12 @@ fr:
   title: Sibiu - satellite
 en:
   title: Sibiu - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 45.791228
+  longitude: 24.145718
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

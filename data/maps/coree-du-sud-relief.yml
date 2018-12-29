@@ -4,3 +4,9 @@ fr:
   title: Corée du Sud - relief
 en:
   title: Corée du Sud - relief
+continents: []
+countries:
+  - coree-du-sud
+image: 'http://www.populationdata.net/wp-content/uploads/coree_du_sud_relief.jpg'
+source: CIA
+type: image

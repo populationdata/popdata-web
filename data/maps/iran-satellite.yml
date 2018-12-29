@@ -4,3 +4,13 @@ fr:
   title: Iran - satellite
 en:
   title: Iran - satellite
+continents: []
+countries:
+  - iran
+gmaps:
+  latitude: 32.879587
+  longitude: 52.36084
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

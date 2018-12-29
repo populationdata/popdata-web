@@ -4,3 +4,9 @@ fr:
   title: Belgique - relief
 en:
   title: Belgique - relief
+continents: []
+countries:
+  - belgique
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Belgique-relief.jpg'
+source: Wikipédia
+type: image

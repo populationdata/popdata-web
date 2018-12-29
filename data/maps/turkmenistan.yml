@@ -4,3 +4,9 @@ fr:
   title: Turkménistan
 en:
   title: Turkménistan
+continents: []
+countries:
+  - turkmenistan
+image: 'http://www.populationdata.net/wp-content/uploads/turkmenistan.jpg'
+source: CIA
+type: image

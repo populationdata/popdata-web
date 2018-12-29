@@ -4,3 +4,12 @@ fr:
   title: Pointe-Noire - satellite
 en:
   title: Pointe-Noire - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -4.780706
+  longitude: 11.866951
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

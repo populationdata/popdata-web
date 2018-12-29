@@ -4,3 +4,10 @@ fr:
   title: Nigéria - topographique
 en:
   title: Nigéria - topographique
+continents: []
+countries:
+  - nigeria
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Nigeria-topographique.png
+source: Wikipédia
+type: image

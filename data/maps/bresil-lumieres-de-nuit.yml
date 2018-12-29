@@ -4,3 +4,10 @@ fr:
   title: Brésil - lumières de la nuit
 en:
   title: Brésil - lumières de la nuit
+continents: []
+countries:
+  - bresil
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Bresil-lumieres-de-la-nuit.jpg
+source: Nasa Earth Observatory
+type: image

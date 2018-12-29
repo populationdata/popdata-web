@@ -4,3 +4,10 @@ fr:
   title: Montserrat - routes
 en:
   title: Montserrat - routes
+continents: []
+countries:
+  - montserrat
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Montserrat-routes.jpg
+source: Département des statistiques de Montserrat
+type: image

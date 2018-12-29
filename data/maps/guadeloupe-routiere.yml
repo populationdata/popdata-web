@@ -4,3 +4,13 @@ fr:
   title: Guadeloupe - routière
 en:
   title: Guadeloupe - routière
+continents: []
+countries:
+  - guadeloupe
+gmaps:
+  latitude: 16.167197
+  longitude: -61.421814
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

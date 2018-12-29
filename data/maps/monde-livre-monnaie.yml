@@ -3,3 +3,14 @@ date: '2017-10-18T20:17:16.000Z'
 fr:
   title: Monde - Livre (monnaie)
 en: null
+continents: []
+countries:
+  - soudan-du-sud
+  - soudan
+  - egypte
+  - syrie
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Monde-Livre-monnaie.png
+source: Wikipédia
+type: image

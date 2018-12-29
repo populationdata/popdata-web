@@ -4,3 +4,9 @@ fr:
   title: Lettonie - petite
 en:
   title: Lettonie - petite
+continents: []
+countries:
+  - lettonie
+image: 'http://www.populationdata.net/wp-content/uploads/lettonie_petite.gif'
+source: CIA
+type: image

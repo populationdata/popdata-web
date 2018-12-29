@@ -4,3 +4,13 @@ fr:
   title: 'Indonésie - Bali : satellite'
 en:
   title: 'Indonésie - Bali : satellite'
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: -8.38679
+  longitude: 115.127106
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

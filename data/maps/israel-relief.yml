@@ -4,3 +4,9 @@ fr:
   title: Israël - relief
 en:
   title: Israël - relief
+continents: []
+countries:
+  - israel
+image: 'http://www.populationdata.net/wp-content/uploads/israel_relief.jpg'
+source: CIA
+type: image

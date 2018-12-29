@@ -4,3 +4,9 @@ fr:
   title: Sénégal - petite
 en:
   title: Sénégal - petite
+continents: []
+countries:
+  - senegal
+image: 'http://www.populationdata.net/wp-content/uploads/senegal-petite.png'
+source: Wikipédia
+type: image

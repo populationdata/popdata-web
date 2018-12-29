@@ -4,3 +4,9 @@ fr:
   title: Whitehorse - plan
 en:
   title: Whitehorse - plan
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_whitehorse.gif'
+source: Ressources Naturelles Canada
+type: image

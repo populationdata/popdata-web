@@ -4,3 +4,10 @@ fr:
   title: Russie européenne - topographique
 en:
   title: Russie européenne - topographique
+continents: []
+countries:
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Russie-europeenne-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'Ukraine - Tchernobyl : retombées radioactives (1996)'
 en:
   title: 'Ukraine - Tchernobyl : retombées radioactives (1996)'
+continents: []
+countries:
+  - belarus-bielorussie
+  - ukraine
+image: 'http://www.populationdata.net/wp-content/uploads/ukraine_tchernobyl_1996.jpg'
+source: ONU
+type: image

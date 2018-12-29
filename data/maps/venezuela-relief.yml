@@ -4,3 +4,9 @@ fr:
   title: Venezuela - relief
 en:
   title: Venezuela - relief
+continents: []
+countries:
+  - venezuela
+image: 'http://www.populationdata.net/wp-content/uploads/venezuela_relief.jpg'
+source: CIA
+type: image

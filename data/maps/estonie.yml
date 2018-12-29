@@ -4,3 +4,9 @@ fr:
   title: Estonie
 en:
   title: Estonie
+continents: []
+countries:
+  - estonie
+image: 'http://www.populationdata.net/wp-content/uploads/estonie.jpg'
+source: CIA
+type: image

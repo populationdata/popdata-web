@@ -4,3 +4,13 @@ fr:
   title: République démocratique du Congo - routière
 en:
   title: République démocratique du Congo - routière
+continents: []
+countries:
+  - republique-democratique-du-congo
+gmaps:
+  latitude: -2.504085
+  longitude: 22.983398
+  type: roadmap
+  zoom: 5
+source: Google Maps
+type: gmaps

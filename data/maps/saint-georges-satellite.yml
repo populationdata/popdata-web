@@ -4,3 +4,12 @@ fr:
   title: Saint-Georges - satellite
 en:
   title: Saint-Georges - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 12.036968
+  longitude: -61.750439
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

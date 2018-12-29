@@ -4,3 +4,12 @@ fr:
   title: Dodoma - routière
 en:
   title: Dodoma - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -6.164449
+  longitude: 35.752258
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

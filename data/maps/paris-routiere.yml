@@ -4,3 +4,12 @@ fr:
   title: Paris - routière
 en:
   title: Paris - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 48.855228
+  longitude: 2.327728
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

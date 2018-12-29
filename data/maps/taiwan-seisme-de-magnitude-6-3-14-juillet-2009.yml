@@ -4,3 +4,13 @@ fr:
   title: Taïwan - séisme de magnitude 6.3 (14 juillet 2009)
 en:
   title: Taïwan - séisme de magnitude 6.3 (14 juillet 2009)
+continents: []
+countries:
+  - taiwan
+gmaps:
+  latitude: 24.0321
+  longitude: 122.1708
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Caraïbes
 en:
   title: Caraïbes
+continents:
+  - ameriques
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/Caraibes.jpg'
+source: Ressources Naturelles Canada
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Soudan - Darfour
 en:
   title: Soudan - Darfour
+continents: []
+countries:
+  - soudan
+image: 'http://www.populationdata.net/wp-content/uploads/soudan-darfour.jpg'
+source: UNOSAT
+type: image

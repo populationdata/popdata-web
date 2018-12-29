@@ -4,3 +4,9 @@ fr:
   title: Niue - topographique
 en:
   title: Niue - topographique
+continents: []
+countries:
+  - nioue
+image: 'http://www.populationdata.net/wp-content/uploads/niue-topographique.png'
+source: Wikipédia
+type: image

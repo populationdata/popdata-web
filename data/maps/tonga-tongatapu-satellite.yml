@@ -4,3 +4,9 @@ fr:
   title: 'Tonga - Tongatapu : satellite'
 en:
   title: 'Tonga - Tongatapu : satellite'
+continents: []
+countries:
+  - tonga
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/Tonga.jpg'
+source: ESA
+type: image

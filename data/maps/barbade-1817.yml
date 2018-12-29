@@ -4,3 +4,9 @@ fr:
   title: Barbade (1817)
 en:
   title: Barbade (1817)
+continents: []
+countries:
+  - barbade
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Barbade-1817.jpg'
+source: Wikipédia
+type: image

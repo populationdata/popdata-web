@@ -4,3 +4,11 @@ fr:
   title: Pacifique - plaque de déchets
 en:
   title: Pacifique - plaque de déchets
+continents:
+  - ameriques
+  - oceanie
+  - asie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/pacifique-plaque-dechets.jpg'
+source: Robin des Bois
+type: image

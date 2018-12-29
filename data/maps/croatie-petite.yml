@@ -4,3 +4,9 @@ fr:
   title: Croatie - petite
 en:
   title: Croatie - petite
+continents: []
+countries:
+  - croatie
+image: 'http://www.populationdata.net/wp-content/uploads/croatie-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Colombie - volcan Galeras
 en:
   title: Colombie - volcan Galeras
+continents: []
+countries:
+  - colombie
+gmaps:
+  latitude: 1.221107
+  longitude: -77.366409
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Somaliland - topographique
 en:
   title: Somaliland - topographic
+continents: []
+countries:
+  - somaliland
+image: 'http://www.populationdata.net/wp-content/uploads/somaliland-topographique.png'
+source: Wikipédia
+type: image

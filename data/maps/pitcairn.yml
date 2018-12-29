@@ -4,3 +4,9 @@ fr:
   title: Pitcairn
 en:
   title: Pitcairn
+continents: []
+countries:
+  - pitcairn
+image: 'http://www.populationdata.net/wp-content/uploads/pitcairn.png'
+source: Wikipédia
+type: image

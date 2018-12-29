@@ -4,3 +4,9 @@ fr:
   title: Suisse - agglomérations (2000)
 en:
   title: Suisse - agglomérations (2000)
+continents: []
+countries:
+  - suisse
+image: 'http://www.populationdata.net/wp-content/uploads/suisse_agglo.gif'
+source: OFS
+type: image

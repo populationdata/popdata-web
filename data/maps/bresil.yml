@@ -4,3 +4,9 @@ fr:
   title: Brésil
 en:
   title: Brésil
+continents: []
+countries:
+  - bresil
+image: 'http://www.populationdata.net/wp-content/uploads/bresil.jpg'
+source: CIA
+type: image

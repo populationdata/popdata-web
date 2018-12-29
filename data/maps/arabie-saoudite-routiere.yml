@@ -4,3 +4,13 @@ fr:
   title: Arabie saoudite - routière
 en:
   title: Arabie saoudite - routière
+continents: []
+countries:
+  - arabie-saoudite
+gmaps:
+  latitude: 25.105497
+  longitude: 45
+  type: roadmap
+  zoom: 5
+source: Google Maps
+type: gmaps

@@ -4,3 +4,14 @@ fr:
   title: 'Maghreb, par Vuillemin (1843)'
 en:
   title: 'Maghreb, par Vuillemin (1843)'
+continents:
+  - afrique
+countries:
+  - maroc
+  - algerie
+  - tunisie
+  - libye
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Maghreb-Vuillemin-1843.jpg
+source: Wikipédia
+type: image

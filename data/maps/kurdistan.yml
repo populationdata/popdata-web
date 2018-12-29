@@ -4,3 +4,13 @@ fr:
   title: Kurdistan
 en:
   title: Kurdistan
+continents: []
+countries:
+  - iran
+  - turquie
+  - syrie
+  - kurdistan
+  - irak
+image: 'http://www.populationdata.net/wp-content/uploads/kurdistan3.jpg'
+source: CIA
+type: image

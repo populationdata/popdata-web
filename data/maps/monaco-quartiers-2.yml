@@ -4,3 +4,9 @@ fr:
   title: Monaco - quartiers
 en:
   title: Monaco - quartiers
+continents: []
+countries:
+  - monaco
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Monaco-quartiers.png'
+source: Wikipédia
+type: image

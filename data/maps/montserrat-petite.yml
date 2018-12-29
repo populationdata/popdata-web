@@ -4,3 +4,9 @@ fr:
   title: Montserrat - petite
 en:
   title: Montserrat - petite
+continents: []
+countries:
+  - montserrat
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Montserrat-1.png'
+source: Wikipédia
+type: image

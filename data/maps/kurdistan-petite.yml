@@ -4,3 +4,13 @@ fr:
   title: Kurdistan - petite
 en:
   title: Kurdistan - petite
+continents: []
+countries:
+  - kurdistan
+  - syrie
+  - irak
+  - iran
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/kurdistan-petite.jpg'
+source: CIA
+type: image

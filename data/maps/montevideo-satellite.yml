@@ -4,3 +4,12 @@ fr:
   title: Montevideo - satellite
 en:
   title: Montevideo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -34.890578
+  longitude: -56.172066
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

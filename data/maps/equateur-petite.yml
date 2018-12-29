@@ -4,3 +4,9 @@ fr:
   title: Équateur - petite
 en:
   title: Équateur - petite
+continents: []
+countries:
+  - equateur
+image: 'http://www.populationdata.net/wp-content/uploads/equateur-petite.png'
+source: Wikipédia
+type: image

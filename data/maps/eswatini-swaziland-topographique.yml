@@ -3,3 +3,10 @@ date: '2018-04-20T20:24:50.000Z'
 fr:
   title: eSwatini (Swaziland) - topographique
 en: null
+continents: []
+countries:
+  - eswatini-swaziland
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Swaziland_Topographique.png
+source: Wikipédia
+type: image

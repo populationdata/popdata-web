@@ -4,3 +4,9 @@ fr:
   title: Palmerston
 en:
   title: Palmerston
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-palmerston.png'
+source: Wikipédia
+type: image

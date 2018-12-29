@@ -4,3 +4,10 @@ fr:
   title: Pays-Bas - Plan Delta
 en:
   title: Pays-Bas - Plan Delta
+continents: []
+countries:
+  - pays-bas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Pays-Bas-plan-Delta.jpg
+source: Wikipédia
+type: image

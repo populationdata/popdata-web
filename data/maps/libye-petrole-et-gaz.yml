@@ -4,3 +4,9 @@ fr:
   title: Libye - pétrole et gaz
 en:
   title: Libye - pétrole et gaz
+continents: []
+countries:
+  - libye
+image: 'http://www.populationdata.net/wp-content/uploads/libye-petrole-gaz.png'
+source: Wikipédia
+type: image

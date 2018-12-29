@@ -4,3 +4,12 @@ fr:
   title: Maseru - satellite
 en:
   title: Maseru - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -29.321427
+  longitude: 27.493629
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

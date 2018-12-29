@@ -4,3 +4,13 @@ fr:
   title: Canada - séisme à Québec (29 avril 2009)
 en:
   title: Canada - séisme à Québec (29 avril 2009)
+continents: []
+countries:
+  - canada
+gmaps:
+  latitude: 46.9005
+  longitude: -71.1035
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

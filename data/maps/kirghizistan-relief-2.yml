@@ -4,3 +4,13 @@ fr:
   title: Kirghizistan - relief
 en:
   title: Kirghizistan - relief
+continents: []
+countries:
+  - kirghizistan
+gmaps:
+  latitude: 41.14557
+  longitude: 73.981934
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

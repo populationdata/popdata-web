@@ -4,3 +4,10 @@ fr:
   title: France - chômage (1er trimestre 2016)
 en:
   title: France - chômage (1er trimestre 2016)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/France-chomage-1er-trimestre-2016.png
+source: Insee
+type: image

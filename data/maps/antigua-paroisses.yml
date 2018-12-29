@@ -4,3 +4,10 @@ fr:
   title: Antigua - paroisses
 en:
   title: Antigua - paroisses
+continents: []
+countries:
+  - antigua-et-barbuda
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Antigua-paroisses.png
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Zélande - économie (2014)
 en:
   title: New Zealand - Economy (2014)
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Nouvelle-Zelande-economie-2014.png
+source: 'Statistiques Nouvelle-Zélande, Dumpark'
+type: image

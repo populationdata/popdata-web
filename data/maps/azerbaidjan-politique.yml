@@ -4,3 +4,9 @@ fr:
   title: Azerbaïdjan - politique
 en:
   title: Azerbaïdjan - politique
+continents: []
+countries:
+  - azerbaidjan
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Azerbaidjan.jpeg'
+source: Wikipédia
+type: image

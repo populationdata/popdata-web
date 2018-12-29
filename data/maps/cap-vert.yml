@@ -4,3 +4,9 @@ fr:
   title: Cap-Vert
 en:
   title: Cap-Vert
+continents: []
+countries:
+  - cap-vert
+image: 'http://www.populationdata.net/wp-content/uploads/cap_vert.jpg'
+source: CIA
+type: image

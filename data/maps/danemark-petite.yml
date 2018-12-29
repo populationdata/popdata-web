@@ -4,3 +4,9 @@ fr:
   title: Danemark - petite
 en:
   title: Danemark - petite
+continents: []
+countries:
+  - danemark
+image: 'http://www.populationdata.net/wp-content/uploads/danemark-petite.png'
+source: Wikipédia
+type: image

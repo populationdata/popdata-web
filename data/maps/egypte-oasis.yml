@@ -4,3 +4,9 @@ fr:
   title: Égypte - oasis
 en:
   title: Égypte - oasis
+continents: []
+countries:
+  - egypte
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Egypte-oasis.jpg'
+source: Nasa Earth Observatory
+type: image

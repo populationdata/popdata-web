@@ -4,3 +4,17 @@ fr:
   title: Europe - Alpes aires protégées
 en:
   title: Europe - Alpes aires protégées
+continents:
+  - europe
+countries:
+  - france
+  - suisse
+  - italie
+  - autriche
+  - liechtenstein
+  - allemagne
+  - slovenie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/europe-alpes-aires-protegees.jpg
+source: Convention alpine
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Grèce - séisme au Péloponnèse
 en:
   title: Grèce - séisme au Péloponnèse
+continents: []
+countries: []
+gmaps:
+  latitude: 38.0295
+  longitude: 21.4639
+  type: terrain
+  zoom: 8
+source: Earthquake Hazards Program - USGS
+type: gmaps

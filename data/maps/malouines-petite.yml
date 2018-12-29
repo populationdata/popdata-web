@@ -4,3 +4,9 @@ fr:
   title: Malouines - petite
 en:
   title: Malouines - petite
+continents: []
+countries:
+  - malouines
+image: 'http://www.populationdata.net/wp-content/uploads/iles-malouines-petite.gif'
+source: Wikipédia
+type: image

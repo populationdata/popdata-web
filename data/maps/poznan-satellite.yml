@@ -4,3 +4,12 @@ fr:
   title: Poznan - satellite
 en:
   title: Poznan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 52.410378
+  longitude: 16.913795
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

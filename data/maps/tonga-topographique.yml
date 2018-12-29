@@ -4,3 +4,10 @@ fr:
   title: Tonga - topographique
 en:
   title: Tonga - topographique
+continents: []
+countries:
+  - tonga
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Tonga-topographique.jpg
+source: Wikipédia
+type: image

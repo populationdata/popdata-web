@@ -4,3 +4,8 @@ fr:
   title: Cotonou - plan
 en:
   title: Cotonou - plan
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/benin_cotonou.jpg'
+source: CIA
+type: image

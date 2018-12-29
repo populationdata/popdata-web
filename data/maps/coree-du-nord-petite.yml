@@ -4,3 +4,9 @@ fr:
   title: Corée du Nord - petite
 en:
   title: Corée du Nord - petite
+continents: []
+countries:
+  - coree-du-nord
+image: 'http://www.populationdata.net/wp-content/uploads/coree-du-nord-petite.gif'
+source: CIA
+type: image

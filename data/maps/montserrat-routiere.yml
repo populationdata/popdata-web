@@ -4,3 +4,13 @@ fr:
   title: Montserrat - routière
 en:
   title: Montserrat - routière
+continents: []
+countries:
+  - montserrat
+gmaps:
+  latitude: 16.755564
+  longitude: -62.195663
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

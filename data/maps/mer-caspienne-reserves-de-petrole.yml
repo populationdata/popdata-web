@@ -4,3 +4,13 @@ fr:
   title: Mer Caspienne - réserves de pétrole
 en:
   title: Caspian Sea - Oil reserves
+continents: []
+countries:
+  - turkmenistan
+  - kazakhstan
+  - russie
+  - iran
+  - azerbaidjan
+image: 'http://www.populationdata.net/wp-content/uploads/mer-caspienne-petrole.jpg'
+source: CIA
+type: image

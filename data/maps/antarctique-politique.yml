@@ -4,3 +4,10 @@ fr:
   title: Antarctique - politique
 en:
   title: Antarctique - politique
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: 'http://www.populationdata.net/wp-content/uploads/antarctique_politique.jpg'
+source: CIA
+type: image

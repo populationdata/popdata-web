@@ -4,3 +4,12 @@ fr:
   title: Izmir - satellite
 en:
   title: Izmir - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 38.429118
+  longitude: 27.14447
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

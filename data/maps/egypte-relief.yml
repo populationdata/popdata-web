@@ -4,3 +4,9 @@ fr:
   title: Égypte - relief
 en:
   title: Égypte - relief
+continents: []
+countries:
+  - egypte
+image: 'http://www.populationdata.net/wp-content/uploads/egypte_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Pétra - satellite
 en:
   title: Pétra - satellite
+continents: []
+countries:
+  - jordanie
+gmaps:
+  latitude: 30.322682
+  longitude: 35.452174
+  type: hybrid
+  zoom: 15
+source: Google Maps
+type: gmaps

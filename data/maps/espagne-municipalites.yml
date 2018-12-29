@@ -4,3 +4,10 @@ fr:
   title: Espagne - municipalités
 en:
   title: Espagne - municipalités
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Espagne-municipalites.png
+source: Wikipédia
+type: image

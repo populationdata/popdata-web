@@ -4,3 +4,9 @@ fr:
   title: Tadjikistan
 en:
   title: Tadjikistan
+continents: []
+countries:
+  - tadjikistan
+image: 'http://www.populationdata.net/wp-content/uploads/tadjikistan.jpg'
+source: CIA
+type: image

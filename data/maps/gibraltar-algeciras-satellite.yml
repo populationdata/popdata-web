@@ -4,3 +4,13 @@ fr:
   title: Gibraltar-Algéciras - satellite
 en:
   title: Gibraltar-Algéciras - satellite
+continents: []
+countries:
+  - gibraltar
+gmaps:
+  latitude: 36.15839
+  longitude: -5.412483
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

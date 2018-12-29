@@ -4,3 +4,9 @@ fr:
   title: Belgique - utilisation des sols
 en:
   title: Belgique - utilisation des sols
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

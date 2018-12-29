@@ -4,3 +4,9 @@ fr:
   title: Diego Garcia
 en:
   title: Diego Garcia
+continents: []
+countries:
+  - chagos
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/diego-garcia.jpg'
+source: Wikipédia
+type: image

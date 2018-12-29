@@ -4,3 +4,13 @@ fr:
   title: Suède - satellite
 en:
   title: Suède - satellite
+continents: []
+countries:
+  - suede
+gmaps:
+  latitude: 62.855146
+  longitude: 16.12793
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

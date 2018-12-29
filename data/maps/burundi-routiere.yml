@@ -4,3 +4,13 @@ fr:
   title: Burundi - routière
 en:
   title: Burundi - routière
+continents: []
+countries:
+  - burundi
+gmaps:
+  latitude: -3.313276
+  longitude: 29.830627
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

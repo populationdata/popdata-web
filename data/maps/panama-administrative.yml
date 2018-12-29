@@ -4,3 +4,10 @@ fr:
   title: Panama - administrative
 en:
   title: Panama - administrative
+continents: []
+countries:
+  - panama
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Panama-administrative.jpg
+source: Wikipédia
+type: image

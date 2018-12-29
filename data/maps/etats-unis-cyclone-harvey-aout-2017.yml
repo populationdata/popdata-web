@@ -4,3 +4,10 @@ fr:
   title: États-Unis - Cyclone Harvey (août 2017)
 en:
   title: États-Unis - Cyclone Harvey (août 2017)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/etats-unis-harvey.gif
+source: Nasa Earth Observatory
+type: image

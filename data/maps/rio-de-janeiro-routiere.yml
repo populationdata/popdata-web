@@ -4,3 +4,12 @@ fr:
   title: Rio de Janeiro - routière
 en:
   title: Rio de Janeiro - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -22.907171
+  longitude: -43.220901
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Pakistan
 en:
   title: Pakistan
+continents: []
+countries:
+  - pakistan
+image: 'http://www.populationdata.net/wp-content/uploads/pakistan.jpg'
+source: CIA
+type: image

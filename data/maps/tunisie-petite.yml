@@ -4,3 +4,9 @@ fr:
   title: Tunisie - petite
 en:
   title: Tunisie - petite
+continents: []
+countries:
+  - tunisie
+image: 'http://www.populationdata.net/wp-content/uploads/tunisie-petite.png'
+source: Wikipédia
+type: image

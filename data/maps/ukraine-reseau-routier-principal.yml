@@ -4,3 +4,9 @@ fr:
   title: Ukraine - réseau routier principal
 en:
   title: Ukraine - réseau routier principal
+continents: []
+countries:
+  - ukraine
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Ukraine-routes.png'
+source: Wikipédia
+type: image

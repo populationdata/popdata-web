@@ -4,3 +4,11 @@ fr:
   title: Lac Titicaca
 en:
   title: Lac Titicaca
+continents: []
+countries:
+  - perou
+  - bolivie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Lac-Titicaca-Bolivie-Perou.png
+source: Wikipédia
+type: image

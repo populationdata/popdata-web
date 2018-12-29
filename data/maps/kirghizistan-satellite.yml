@@ -4,3 +4,13 @@ fr:
   title: Kirghizistan - satellite
 en:
   title: Kirghizistan - satellite
+continents: []
+countries:
+  - kirghizistan
+gmaps:
+  latitude: 41.14557
+  longitude: 73.981934
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

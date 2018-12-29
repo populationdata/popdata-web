@@ -4,3 +4,12 @@ fr:
   title: Lahore - satellite
 en:
   title: Lahore - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 31.54226
+  longitude: 74.311523
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

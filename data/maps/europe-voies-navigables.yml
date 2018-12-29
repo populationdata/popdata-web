@@ -4,3 +4,9 @@ fr:
   title: Europe - Voies navigables
 en:
   title: Europe - Voies navigables
+continents:
+  - europe
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/Europe-voies-naviguables.jpg'
+source: ONU
+type: image

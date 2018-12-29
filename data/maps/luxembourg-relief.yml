@@ -4,3 +4,9 @@ fr:
   title: Luxembourg - relief
 en:
   title: Luxembourg - relief
+continents: []
+countries:
+  - luxembourg
+image: 'http://www.populationdata.net/wp-content/uploads/luxembourg.jpg'
+source: CIA
+type: image

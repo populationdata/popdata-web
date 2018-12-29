@@ -4,3 +4,13 @@ fr:
   title: Salomon - séisme de magnitude 8.0 (6 février 2013)
 en:
   title: Salomon - séisme de magnitude 8.0 (6 février 2013)
+continents: []
+countries:
+  - salomon
+gmaps:
+  latitude: -10.7377
+  longitude: 165.1378
+  type: terrain
+  zoom: 7
+source: USGS
+type: gmaps

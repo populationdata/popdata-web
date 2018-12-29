@@ -4,3 +4,13 @@ fr:
   title: Tchad - satellite
 en:
   title: Tchad - satellite
+continents: []
+countries:
+  - tchad
+gmaps:
+  latitude: 16.130262
+  longitude: 18.588867
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

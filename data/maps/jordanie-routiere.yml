@@ -4,3 +4,13 @@ fr:
   title: Jordanie - routière
 en:
   title: Jordanie - routière
+continents: []
+countries:
+  - jordanie
+gmaps:
+  latitude: 31.306715
+  longitude: 36.694336
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

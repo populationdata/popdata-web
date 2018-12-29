@@ -4,3 +4,13 @@ fr:
   title: Taïwan - séisme de magnitude 6.4 (4 mars 2010)
 en:
   title: Taïwan - séisme de magnitude 6.4 (4 mars 2010)
+continents: []
+countries:
+  - taiwan
+gmaps:
+  latitude: 22.9033
+  longitude: 120.8227
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

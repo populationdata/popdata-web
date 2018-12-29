@@ -4,3 +4,9 @@ fr:
   title: Danemark
 en:
   title: Danemark
+continents: []
+countries:
+  - danemark
+image: 'http://www.populationdata.net/wp-content/uploads/danemark.gif'
+source: CIA
+type: image

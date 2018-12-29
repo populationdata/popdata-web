@@ -4,3 +4,10 @@ fr:
   title: France - réseau autocars longue distance (septembre 2016)
 en:
   title: France - réseau autocars longue distance (septembre 2016)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/france-reseau-autocar-2016.png
+source: ComparaBus
+type: image

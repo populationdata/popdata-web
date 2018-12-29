@@ -8,3 +8,20 @@ en:
   title: >-
     Arctique et Antarctique : superficie maximum et minimum de la banquise
     (2009)
+continents:
+  - antarctique
+  - ameriques
+  - europe
+  - asie
+countries:
+  - islande
+  - norvege
+  - groenland
+  - etats-unis
+  - canada
+  - russie
+  - antarctique
+image: >-
+  http://www.populationdata.net/wp-content/uploads/arctique-antarctique-glaces.gif
+source: Nasa Earth Observatory
+type: image

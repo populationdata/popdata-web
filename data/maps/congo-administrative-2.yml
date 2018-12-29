@@ -4,3 +4,10 @@ fr:
   title: Congo - administrative
 en:
   title: Congo - administrative
+continents: []
+countries:
+  - congo
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Congo-administrative-.png
+source: Wikipédia
+type: image

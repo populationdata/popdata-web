@@ -4,3 +4,9 @@ fr:
   title: Bulgarie - relief
 en:
   title: Bulgarie - relief
+continents: []
+countries:
+  - bulgarie
+image: 'http://www.populationdata.net/wp-content/uploads/bulgarie_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Rodrigues
 en:
   title: Rodrigues
+continents: []
+countries:
+  - maurice
+image: 'http://www.populationdata.net/wp-content/uploads/maurice-rodrigues.jpg'
+source: CIA
+type: image

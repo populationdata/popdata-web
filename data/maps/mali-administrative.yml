@@ -4,3 +4,9 @@ fr:
   title: Mali - administrative
 en:
   title: Mali - administrative
+continents: []
+countries:
+  - mali
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/mali.png'
+source: ONU
+type: image

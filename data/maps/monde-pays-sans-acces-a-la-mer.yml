@@ -4,3 +4,16 @@ fr:
   title: Monde - Pays sans accès à la mer
 en:
   title: World - Landlocked countries
+continents: []
+countries:
+  - suisse
+  - autriche
+  - moldavie
+  - tadjikistan
+  - hongrie
+  - ethiopie
+  - vatican
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Monde-Pays-sans-acces-a-la-mer.png
+source: 'Wikipédia. En rouge, pays entourés de pays eux-mêmes sans littoral.'
+type: image

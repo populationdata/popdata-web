@@ -4,3 +4,9 @@ fr:
   title: Inde - langues
 en:
   title: Inde - langues
+continents: []
+countries:
+  - inde
+image: 'http://www.populationdata.net/wp-content/uploads/inde_langues.jpg'
+source: CIA
+type: image

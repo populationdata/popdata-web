@@ -4,3 +4,22 @@ fr:
   title: Autriche-Hongrie - Ethnies (1910)
 en:
   title: Autriche-Hongrie - Ethnies (1910)
+continents:
+  - europe
+countries:
+  - autriche
+  - hongrie
+  - roumanie
+  - serbie
+  - pologne
+  - slovaquie
+  - slovenie
+  - italie
+  - tchequie
+  - croatie
+  - bosnie-et-herzegovine
+  - ukraine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Autriche-Hongrie-ethnies.png
+source: Wikipédia
+type: image

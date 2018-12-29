@@ -4,3 +4,9 @@ fr:
   title: Canada - parcs nationaux
 en:
   title: Canada - parcs nationaux
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/Canada-parcs-nationaux.jpg'
+source: Ressources Naturelles Canada
+type: image

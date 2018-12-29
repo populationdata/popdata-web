@@ -4,3 +4,12 @@ fr:
   title: Izmir - routière
 en:
   title: Izmir - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.430194
+  longitude: 27.115974
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

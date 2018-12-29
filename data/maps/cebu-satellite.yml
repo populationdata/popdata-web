@@ -4,3 +4,12 @@ fr:
   title: Cebu - satellite
 en:
   title: Cebu - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 10.316101
+  longitude: 123.926811
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

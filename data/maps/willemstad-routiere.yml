@@ -4,3 +4,12 @@ fr:
   title: Willemstad - routière
 en:
   title: Willemstad - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 12.132775
+  longitude: -68.922384
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

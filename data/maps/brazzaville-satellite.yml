@@ -4,3 +4,12 @@ fr:
   title: Brazzaville - satellite
 en:
   title: Brazzaville - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -4.243704
+  longitude: 15.266533
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: États-Unis - ponts
 en:
   title: États-Unis - ponts
+continents: []
+countries:
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Etats-Unis-ponts.jpg'
+source: Federal Highway Administration
+type: image

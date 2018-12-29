@@ -4,3 +4,12 @@ fr:
   title: Mwanza - satellite
 en:
   title: Mwanza - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -2.519104
+  longitude: 32.904696
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

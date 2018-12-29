@@ -4,3 +4,13 @@ fr:
   title: Mexique - séisme de magnitude 5.6 (27 avril 2009)
 en:
   title: Mexique - séisme de magnitude 5.6 (27 avril 2009)
+continents: []
+countries:
+  - mexique
+gmaps:
+  latitude: 17.144
+  longitude: -99.363
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

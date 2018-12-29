@@ -4,3 +4,13 @@ fr:
   title: Haïti - satellite
 en:
   title: Haïti - satellite
+continents: []
+countries:
+  - haiti
+gmaps:
+  latitude: 19.051734
+  longitude: -72.765198
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

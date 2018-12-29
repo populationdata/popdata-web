@@ -4,3 +4,9 @@ fr:
   title: eSwatini (Swaziland)
 en:
   title: eSwatini (Swaziland)
+continents: []
+countries:
+  - eswatini-swaziland
+image: 'http://www.populationdata.net/wp-content/uploads/swaziland.gif'
+source: CIA
+type: image

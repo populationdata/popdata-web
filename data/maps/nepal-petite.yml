@@ -4,3 +4,9 @@ fr:
   title: Népal - petite
 en:
   title: Népal - petite
+continents: []
+countries:
+  - nepal
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Nepal.png'
+source: Wikipédia
+type: image

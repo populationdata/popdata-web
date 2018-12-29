@@ -4,3 +4,9 @@ fr:
   title: Syrie - petite
 en:
   title: Syrie - petite
+continents: []
+countries:
+  - syrie
+image: 'http://www.populationdata.net/wp-content/uploads/syrie-petite.png'
+source: Wikipédia
+type: image

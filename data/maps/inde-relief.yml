@@ -4,3 +4,9 @@ fr:
   title: Inde - relief
 en:
   title: Inde - relief
+continents: []
+countries:
+  - inde
+image: 'http://www.populationdata.net/wp-content/uploads/inde_relief.jpg'
+source: CIA
+type: image

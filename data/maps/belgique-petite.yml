@@ -4,3 +4,9 @@ fr:
   title: Belgique - petite
 en:
   title: Belgique - petite
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-petite.png'
+source: CIA
+type: image

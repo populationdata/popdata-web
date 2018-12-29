@@ -4,3 +4,14 @@ fr:
   title: Kurdistan - divisions politiques en 2003
 en:
   title: Kurdistan - divisions politiques en 2003
+continents: []
+countries:
+  - kurdistan
+  - syrie
+  - turquie
+  - iran
+  - irak
+image: >-
+  http://www.populationdata.net/wp-content/uploads/kurdistan-divisions-politiques-2003.jpg
+source: CIA
+type: image

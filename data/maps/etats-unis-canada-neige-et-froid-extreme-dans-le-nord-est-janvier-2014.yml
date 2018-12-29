@@ -4,3 +4,12 @@ fr:
   title: 'États-Unis - Canada : Neige et froid extrême dans le nord-est (janvier 2014)'
 en:
   title: 'États-Unis - Canada : Neige et froid extrême dans le nord-est (janvier 2014)'
+continents:
+  - ameriques
+countries:
+  - canada
+  - etats-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/etats-unis-canada-neige-janvier2014.jpg
+source: Nasa Earth Observatory
+type: image

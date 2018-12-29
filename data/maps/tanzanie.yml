@@ -4,3 +4,9 @@ fr:
   title: Tanzanie
 en:
   title: Tanzanie
+continents: []
+countries:
+  - tanzanie
+image: 'http://www.populationdata.net/wp-content/uploads/tanzanie.jpg'
+source: CIA
+type: image

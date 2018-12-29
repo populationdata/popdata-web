@@ -4,3 +4,14 @@ fr:
   title: 'Amériques - Christophe Colomb : premier voyage (1492-1493)'
 en:
   title: 'Amériques - Christophe Colomb : premier voyage (1492-1493)'
+continents:
+  - ameriques
+countries:
+  - bahamas
+  - cuba
+  - haiti
+  - republique-dominicaine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Ameriques-Christophe-Colomb-1492-1493.png
+source: Wikipédia
+type: image

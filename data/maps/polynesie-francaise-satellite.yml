@@ -4,3 +4,13 @@ fr:
   title: Polynésie française - satellite
 en:
   title: Polynésie française - satellite
+continents: []
+countries:
+  - polynesie-francaise
+gmaps:
+  latitude: -16.962233
+  longitude: -148.919678
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

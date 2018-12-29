@@ -4,3 +4,10 @@ fr:
   title: Royaume-Uni - vote Brexit
 en:
   title: Royaume-Uni - vote Brexit
+continents:
+  - europe
+countries:
+  - royaume-uni
+image: 'https://www.populationdata.net/wp-content/uploads/Royaume-Uni-vote-Brexit.jpg'
+source: New York Times
+type: image

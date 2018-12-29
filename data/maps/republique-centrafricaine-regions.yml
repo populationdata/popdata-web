@@ -4,3 +4,9 @@ fr:
   title: République centrafricaine - régions
 en:
   title: République centrafricaine - régions
+continents: []
+countries:
+  - republique-centrafricaine
+image: 'https://www.populationdata.net/wp-content/uploads/Centrafrique-regions.png'
+source: Wikipédia
+type: image

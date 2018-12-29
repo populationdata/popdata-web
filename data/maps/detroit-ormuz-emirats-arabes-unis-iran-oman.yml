@@ -4,3 +4,12 @@ fr:
   title: Détroit d'Ormuz - Émirats arabes unis - Iran - Oman
 en:
   title: 'Strait of Hormuz: United Arab Emirates - Iran - Oman'
+continents:
+  - asie
+countries:
+  - iran
+  - emirats-arabes-unis
+  - oman
+image: 'http://www.populationdata.net/wp-content/uploads/iran-detroit-ormuz.jpg'
+source: CIA
+type: image

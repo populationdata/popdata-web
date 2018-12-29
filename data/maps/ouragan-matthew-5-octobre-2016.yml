@@ -4,3 +4,15 @@ fr:
   title: Ouragan Matthew (5 octobre 2016)
 en:
   title: Ouragan Matthew (5 octobre 2016)
+continents:
+  - ameriques
+countries:
+  - republique-dominicaine
+  - haiti
+  - bahamas
+  - cuba
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/ouragan-matthew-5-octobre-2016.gif
+source: NOAA
+type: image

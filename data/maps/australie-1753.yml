@@ -4,3 +4,9 @@ fr:
   title: Australie (1753)
 en:
   title: Australie (1753)
+continents: []
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Australie-1753.jpg'
+source: Queensland Government
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Kuala Lumpur - routière
 en:
   title: Kuala Lumpur - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 3.131946
+  longitude: 101.644821
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Namibie - relief
 en:
   title: Namibie - relief
+continents: []
+countries:
+  - namibie
+gmaps:
+  latitude: -23.402765
+  longitude: 18.3
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

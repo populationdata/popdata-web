@@ -4,3 +4,9 @@ fr:
   title: Ouganda - petite
 en:
   title: Ouganda - petite
+continents: []
+countries:
+  - ouganda
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Ouganda.png'
+source: Wikipédia
+type: image

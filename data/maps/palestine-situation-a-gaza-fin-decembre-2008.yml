@@ -4,3 +4,10 @@ fr:
   title: Palestine - situation à Gaza fin décembre 2008
 en:
   title: Palestine - situation à Gaza fin décembre 2008
+continents: []
+countries:
+  - palestine
+image: >-
+  http://www.populationdata.net/wp-content/uploads/palestine-gaza-decembre-2008.jpg
+source: UNOSAT
+type: image

@@ -4,3 +4,14 @@ fr:
   title: Somalie - piraterie (2005-2010)
 en:
   title: Somalie - piraterie (2005-2010)
+continents:
+  - asie
+  - afrique
+countries:
+  - pount
+  - somaliland
+  - somalie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Somalie-piraterie-2005-2010-1.jpg
+source: Wikipédia
+type: image

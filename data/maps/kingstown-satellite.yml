@@ -4,3 +4,12 @@ fr:
   title: Kingstown - satellite
 en:
   title: Kingstown - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.155568
+  longitude: -61.223888
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

@@ -4,3 +4,40 @@ fr:
   title: OTAN - Pays membres
 en:
   title: OTAN - Pays membres
+continents:
+  - europe
+  - ameriques
+countries:
+  - albanie
+  - slovenie
+  - slovaquie
+  - roumanie
+  - lituanie
+  - lettonie
+  - estonie
+  - bulgarie
+  - pologne
+  - hongrie
+  - tchequie
+  - espagne
+  - allemagne
+  - turquie
+  - grece
+  - etats-unis
+  - royaume-uni
+  - portugal
+  - norvege
+  - pays-bas
+  - luxembourg
+  - italie
+  - islande
+  - france
+  - danemark
+  - canada
+  - belgique
+  - croatie
+  - montenegro
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/OTAN-etats-membres.png
+source: Wikipédia
+type: image

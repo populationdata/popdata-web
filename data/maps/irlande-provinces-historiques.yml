@@ -4,3 +4,11 @@ fr:
   title: Irlande - provinces historiques
 en:
   title: Irlande - provinces historiques
+continents: []
+countries:
+  - irlande
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Irlande-provinces-historiques.jpg
+source: Wikipédia
+type: image

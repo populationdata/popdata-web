@@ -4,3 +4,9 @@ fr:
   title: Monde - Irradiation solaire
 en:
   title: Monde - Irradiation solaire
+continents: []
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/monde-irradiation-solaire.png
+source: 'Wikipédia, GeoModel Solar'
+type: image

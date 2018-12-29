@@ -4,3 +4,10 @@ fr:
   title: Bahamas - New Providence
 en:
   title: Bahamas - New Providence
+continents: []
+countries:
+  - bahamas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Bahamas-New-Providence.jpg
+source: Wikipédia
+type: image

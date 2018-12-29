@@ -4,3 +4,12 @@ fr:
   title: Hambourg - satellite
 en:
   title: Hambourg - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 53.550813
+  longitude: 9.99155
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

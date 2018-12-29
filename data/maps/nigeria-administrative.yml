@@ -4,3 +4,10 @@ fr:
   title: Nigéria - administrative
 en:
   title: Nigéria - administrative
+continents: []
+countries:
+  - nigeria
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/nigeria-decoupage-administratif.png
+source: Wikipédia
+type: image

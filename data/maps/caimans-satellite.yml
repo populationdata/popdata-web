@@ -4,3 +4,13 @@ fr:
   title: Caïmans - satellite
 en:
   title: Caïmans - satellite
+continents: []
+countries:
+  - caimans
+gmaps:
+  latitude: 19.492486
+  longitude: -80.562744
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

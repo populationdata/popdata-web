@@ -4,3 +4,13 @@ fr:
   title: République centrafricaine - satellite
 en:
   title: République centrafricaine - satellite
+continents: []
+countries:
+  - republique-centrafricaine
+gmaps:
+  latitude: 6.719165
+  longitude: 20.456543
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

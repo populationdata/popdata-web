@@ -4,3 +4,13 @@ fr:
   title: Man - routière
 en:
   title: Man - routière
+continents: []
+countries:
+  - man
+gmaps:
+  latitude: 54.222611
+  longitude: -4.548439
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

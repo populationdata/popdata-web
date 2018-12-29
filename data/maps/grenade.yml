@@ -4,3 +4,9 @@ fr:
   title: Grenade
 en:
   title: Grenade
+continents: []
+countries:
+  - grenade
+image: 'http://www.populationdata.net/wp-content/uploads/grenade.gif'
+source: CIA
+type: image

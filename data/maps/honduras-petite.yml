@@ -4,3 +4,9 @@ fr:
   title: Honduras - petite
 en:
   title: Honduras - petite
+continents: []
+countries:
+  - honduras
+image: 'http://www.populationdata.net/wp-content/uploads/honduras-petite.png'
+source: Wikipédia
+type: image

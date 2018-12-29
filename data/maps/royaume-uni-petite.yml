@@ -4,3 +4,9 @@ fr:
   title: Royaume-Uni - petite
 en:
   title: Royaume-Uni - petite
+continents: []
+countries:
+  - royaume-uni
+image: 'http://www.populationdata.net/wp-content/uploads/royaume-uni-petite.png'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Grenade - topographique
 en:
   title: Grenade - topographique
+continents: []
+countries:
+  - grenade
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grenade-topographique.jpg
+source: Wikipédia
+type: image

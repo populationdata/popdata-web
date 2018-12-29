@@ -3,3 +3,11 @@ date: '2018-02-07T23:05:22.000Z'
 fr:
   title: Guerre franco-allemande de 1870
 en: null
+continents: []
+countries:
+  - allemagne
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/France-Allemagne-Guerre-1870.jpg
+source: Wikipédia
+type: image

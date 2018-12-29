@@ -4,3 +4,10 @@ fr:
   title: Argentine - topographique
 en:
   title: Argentine - topographique
+continents: []
+countries:
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/argentine-topographique-.jpg
+source: Wikipédia
+type: image

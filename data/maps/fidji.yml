@@ -4,3 +4,9 @@ fr:
   title: Fidji
 en:
   title: Fidji
+continents: []
+countries:
+  - fidji
+image: 'http://www.populationdata.net/wp-content/uploads/fidji.jpg'
+source: CIA
+type: image

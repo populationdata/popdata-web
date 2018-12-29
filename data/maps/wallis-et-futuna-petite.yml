@@ -4,3 +4,9 @@ fr:
   title: Wallis-et-Futuna - petite
 en:
   title: Wallis-et-Futuna - petite
+continents: []
+countries:
+  - wallis-et-futuna
+image: 'http://www.populationdata.net/wp-content/uploads/wallis-et-futuna-petite.gif'
+source: Wikipédia
+type: image

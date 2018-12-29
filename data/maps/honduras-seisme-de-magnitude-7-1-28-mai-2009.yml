@@ -4,3 +4,13 @@ fr:
   title: Honduras - séisme de magnitude 7.1 (28 mai 2009)
 en:
   title: Honduras - séisme de magnitude 7.1 (28 mai 2009)
+continents: []
+countries:
+  - honduras
+gmaps:
+  latitude: 16.7831
+  longitude: -86.1657
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Rome antique
 en:
   title: Rome antique
+continents: []
+countries:
+  - italie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Rome-antique.jpg'
+source: Wikipédia
+type: image

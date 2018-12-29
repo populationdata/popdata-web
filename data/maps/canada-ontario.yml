@@ -4,3 +4,9 @@ fr:
   title: Canada - Ontario
 en:
   title: Canada - Ontario
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_ontario.jpg'
+source: Ressources Naturelles Canada
+type: image

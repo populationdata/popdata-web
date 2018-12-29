@@ -4,3 +4,12 @@ fr:
   title: New York - routière
 en:
   title: New York - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 40.713956
+  longitude: -73.989487
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

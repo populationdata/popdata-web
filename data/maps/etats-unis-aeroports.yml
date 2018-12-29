@@ -4,3 +4,10 @@ fr:
   title: États-Unis - aéroports
 en:
   title: États-Unis - aéroports
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/etats-unis-aeroports.jpg
+source: Washington Post
+type: image

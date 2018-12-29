@@ -4,3 +4,13 @@ fr:
   title: Albanie - routière
 en:
   title: Albanie - routière
+continents: []
+countries:
+  - albanie
+gmaps:
+  latitude: 41.132174
+  longitude: 20.081735
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

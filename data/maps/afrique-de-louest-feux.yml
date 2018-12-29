@@ -4,3 +4,9 @@ fr:
   title: 'Afrique de l''Ouest : feux'
 en:
   title: 'Afrique de l''Ouest : feux'
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-ouest-feux.jpg'
+source: Nasa Earth Observatory
+type: image

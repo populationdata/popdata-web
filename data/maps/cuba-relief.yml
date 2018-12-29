@@ -4,3 +4,9 @@ fr:
   title: Cuba - relief
 en:
   title: Cuba - relief
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Londres (1300)
 en:
   title: Londres (1300)
+continents: []
+countries:
+  - royaume-uni
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Londres-1300.png'
+source: Wikipédia
+type: image

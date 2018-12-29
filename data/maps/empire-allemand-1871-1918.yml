@@ -4,3 +4,10 @@ fr:
   title: Empire allemand (1871-1918)
 en:
   title: Empire allemand (1871-1918)
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Empire-allemand-1871-1918.png
+source: Wikipédia
+type: image

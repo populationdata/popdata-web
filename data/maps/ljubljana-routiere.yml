@@ -4,3 +4,12 @@ fr:
   title: Ljubljana - routière
 en:
   title: Ljubljana - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 46.053697
+  longitude: 14.509506
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

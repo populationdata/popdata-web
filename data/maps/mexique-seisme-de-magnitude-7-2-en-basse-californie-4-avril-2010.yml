@@ -4,3 +4,13 @@ fr:
   title: Mexique - séisme de magnitude 7.2 en Basse-Californie (4 avril 2010)
 en:
   title: Mexique - séisme de magnitude 7.2 en Basse-Californie (4 avril 2010)
+continents: []
+countries:
+  - mexique
+gmaps:
+  latitude: 32.128
+  longitude: -115.303
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

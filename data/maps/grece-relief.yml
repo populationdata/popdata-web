@@ -4,3 +4,9 @@ fr:
   title: Grèce - relief
 en:
   title: Grèce - relief
+continents: []
+countries:
+  - grece
+image: 'http://www.populationdata.net/wp-content/uploads/grece_relief.jpg'
+source: CIA
+type: image

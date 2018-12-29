@@ -4,3 +4,12 @@ fr:
   title: Shanghai - satellite
 en:
   title: Shanghai - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 31.240398
+  longitude: 121.517029
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

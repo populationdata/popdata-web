@@ -4,3 +4,9 @@ fr:
   title: Madagascar
 en:
   title: Madagascar
+continents: []
+countries:
+  - madagascar
+image: 'http://www.populationdata.net/wp-content/uploads/madagascar-petite.png'
+source: Wikipédia
+type: image

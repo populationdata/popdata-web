@@ -4,3 +4,9 @@ fr:
   title: Canada - Saskatchewan
 en:
   title: Canada - Saskatchewan
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_saskatchewan.jpg'
+source: Ressources Naturelles Canada
+type: image

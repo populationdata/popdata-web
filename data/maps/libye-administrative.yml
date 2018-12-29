@@ -4,3 +4,10 @@ fr:
   title: Libye - administrative
 en:
   title: Libye - administrative
+continents: []
+countries:
+  - libye
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Libye-administrative.png
+source: Wikipédia
+type: image

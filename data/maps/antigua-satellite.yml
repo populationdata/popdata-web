@@ -4,3 +4,13 @@ fr:
   title: Antigua - satellite
 en:
   title: Antigua - satellite
+continents: []
+countries:
+  - antigua-et-barbuda
+gmaps:
+  latitude: 17.084576
+  longitude: -61.801336
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

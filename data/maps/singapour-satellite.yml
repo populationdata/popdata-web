@@ -4,3 +4,13 @@ fr:
   title: Singapour - satellite
 en:
   title: Singapour - satellite
+continents: []
+countries:
+  - singapour
+gmaps:
+  latitude: 1.416405
+  longitude: 103.763809
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

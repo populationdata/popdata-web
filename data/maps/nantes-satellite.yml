@@ -4,3 +4,12 @@ fr:
   title: Nantes - satellite
 en:
   title: Nantes - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 47.217936
+  longitude: -1.554909
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

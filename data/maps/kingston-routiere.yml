@@ -4,3 +4,12 @@ fr:
   title: Kingston - routière
 en:
   title: Kingston - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 18.02216
+  longitude: -76.867218
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

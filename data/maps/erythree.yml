@@ -4,3 +4,9 @@ fr:
   title: Érythrée
 en:
   title: Érythrée
+continents: []
+countries:
+  - erythree
+image: 'http://www.populationdata.net/wp-content/uploads/erythree.jpg'
+source: CIA
+type: image

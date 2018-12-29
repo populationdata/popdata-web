@@ -4,3 +4,9 @@ fr:
   title: Japon - relief
 en:
   title: Japon - relief
+continents: []
+countries:
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon2.jpg'
+source: CIA
+type: image

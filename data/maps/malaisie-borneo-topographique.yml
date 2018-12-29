@@ -4,3 +4,10 @@ fr:
   title: 'Malaisie - Bornéo : topographique'
 en:
   title: 'Malaisie - Bornéo : topographique'
+continents: []
+countries:
+  - malaisie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Malaisie-Borneo-topographique.png
+source: Wikipédia
+type: image

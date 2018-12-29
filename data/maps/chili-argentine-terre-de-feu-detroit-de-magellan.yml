@@ -4,3 +4,11 @@ fr:
   title: 'Chili - Argentine - Terre de Feu, Détroit de Magellan'
 en:
   title: 'Chili - Argentine - Terre de Feu, Détroit de Magellan'
+continents: []
+countries:
+  - argentine
+  - chili
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Chili-Argentine-Terre-de-Feu-Detroit-de-Magellan.png
+source: Wikipédia
+type: image

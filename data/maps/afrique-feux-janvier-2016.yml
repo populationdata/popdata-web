@@ -4,3 +4,9 @@ fr:
   title: Afrique - Feux (janvier 2016)
 en:
   title: Afrique - Feux (janvier 2016)
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-feux-janvier-2016.jpg'
+source: Nasa Earth Observatory
+type: image

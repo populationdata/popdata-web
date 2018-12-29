@@ -4,3 +4,10 @@ fr:
   title: Chine - mer de Chine méridionale (revendication)
 en:
   title: Chine - mer de Chine méridionale (revendication)
+continents: []
+countries:
+  - chine
+image: >-
+  http://www.populationdata.net/wp-content/uploads/chine-mer-de-chine-meridionale.gif
+source: CIA
+type: image

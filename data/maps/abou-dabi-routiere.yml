@@ -4,3 +4,12 @@ fr:
   title: Abou Dabi - routière
 en:
   title: Abou Dabi - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 24.432772
+  longitude: 54.453049
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

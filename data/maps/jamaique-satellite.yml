@@ -4,3 +4,13 @@ fr:
   title: Jamaïque - satellite
 en:
   title: Jamaïque - satellite
+continents: []
+countries:
+  - jamaique
+gmaps:
+  latitude: 18.136717
+  longitude: -77.280579
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

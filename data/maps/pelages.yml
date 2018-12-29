@@ -4,3 +4,9 @@ fr:
   title: Pelages
 en:
   title: Pelages
+continents: []
+countries:
+  - italie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/pelages.png'
+source: Wikipédia
+type: image

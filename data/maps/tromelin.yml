@@ -4,3 +4,9 @@ fr:
   title: Tromelin
 en:
   title: Tromelin
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: 'http://www.populationdata.net/wp-content/uploads/reunion_ile_tromelin.jpg'
+source: CIA
+type: image

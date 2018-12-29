@@ -4,3 +4,9 @@ fr:
   title: Zimbabwé
 en:
   title: Zimbabwé
+continents: []
+countries:
+  - zimbabwe
+image: 'http://www.populationdata.net/wp-content/uploads/zimbabwe.jpg'
+source: CIA
+type: image

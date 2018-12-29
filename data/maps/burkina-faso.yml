@@ -4,3 +4,9 @@ fr:
   title: Burkina Faso
 en:
   title: Burkina Faso
+continents: []
+countries:
+  - burkina-faso
+image: 'http://www.populationdata.net/wp-content/uploads/burkina_faso.jpg'
+source: CIA
+type: image

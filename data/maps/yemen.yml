@@ -4,3 +4,9 @@ fr:
   title: Yémen
 en:
   title: Yémen
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen.jpg'
+source: CIA
+type: image

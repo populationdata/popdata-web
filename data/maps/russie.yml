@@ -4,3 +4,9 @@ fr:
   title: Russie
 en:
   title: Russie
+continents: []
+countries:
+  - russie
+image: 'http://www.populationdata.net/wp-content/uploads/russie.jpg'
+source: CIA
+type: image

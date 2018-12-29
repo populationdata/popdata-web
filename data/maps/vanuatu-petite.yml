@@ -4,3 +4,9 @@ fr:
   title: Vanuatu - petite
 en:
   title: Vanuatu - petite
+continents: []
+countries:
+  - vanuatu
+image: 'http://www.populationdata.net/wp-content/uploads/vanuatu_petite.gif'
+source: CIA
+type: image

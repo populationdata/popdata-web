@@ -4,3 +4,9 @@ fr:
   title: Hong Kong - petite
 en:
   title: Hong Kong - petite
+continents: []
+countries:
+  - hong-kong
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Hong-Kong.png'
+source: Wikipédia
+type: image

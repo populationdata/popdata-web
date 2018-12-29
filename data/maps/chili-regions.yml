@@ -4,3 +4,9 @@ fr:
   title: Chili - régions
 en:
   title: Chili - régions
+continents: []
+countries:
+  - chili
+image: 'https://www.populationdata.net/wp-content/uploads/Chili-regions.png'
+source: Wikipédia
+type: image

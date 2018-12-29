@@ -4,3 +4,12 @@ fr:
   title: Managua - routière
 en:
   title: Managua - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 12.14104
+  longitude: -86.244736
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

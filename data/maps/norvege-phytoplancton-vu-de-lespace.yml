@@ -4,3 +4,10 @@ fr:
   title: Norvège - phytoplancton vu de l'espace
 en:
   title: Norvège - phytoplancton vu de l'espace
+continents: []
+countries:
+  - norvege
+image: >-
+  http://www.populationdata.net/wp-content/uploads/norvege-ocean-phytoplancton.jpg
+source: Nasa Earth Observatory
+type: image

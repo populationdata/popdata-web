@@ -3,3 +3,9 @@ date: '2018-02-15T17:08:54.000Z'
 fr:
   title: Afrique du Sud
 en: null
+continents: []
+countries:
+  - afrique-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/2018/02/Afrique-du-Sud.jpg'
+source: ONU
+type: image

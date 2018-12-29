@@ -4,3 +4,13 @@ fr:
   title: Libye - satellite
 en:
   title: Libye - satellite
+continents: []
+countries:
+  - libye
+gmaps:
+  latitude: 26.377392
+  longitude: 17.226058
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

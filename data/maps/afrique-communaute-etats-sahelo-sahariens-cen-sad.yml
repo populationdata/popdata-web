@@ -4,3 +4,40 @@ fr:
   title: Afrique - Communauté des États sahélo-sahariens (CEN-SAD)
 en:
   title: Africa - Community of Sahel-Saharan States (CEN-SAD)
+continents:
+  - afrique
+countries:
+  - republique-centrafricaine
+  - comores
+  - cote-divoire
+  - djibouti
+  - egypte
+  - erythree
+  - gambie
+  - ghana
+  - guinee
+  - guinee-bissau
+  - kenya
+  - libye
+  - maroc
+  - liberia
+  - mali
+  - mauritanie
+  - niger
+  - nigeria
+  - sao-tome-et-principe
+  - burkina-faso
+  - benin
+  - senegal
+  - sierra-leone
+  - somalie
+  - soudan
+  - tchad
+  - togo
+  - tunisie
+  - cap-vert
+  - guinee-equatoriale
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/11/Afrique-Communaute-des-Etats-sahelo-sahariens-CEN-SAD.png
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Kosovo - Yougolsavie
 en:
   title: Kosovo - Yougolsavie
+continents: []
+countries:
+  - kosovo
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Kosovo-Yougolsavie.png
+source: Wikipédia
+type: image

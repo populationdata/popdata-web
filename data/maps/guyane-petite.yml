@@ -4,3 +4,9 @@ fr:
   title: Guyane - petite
 en:
   title: Guyane - petite
+continents: []
+countries:
+  - guyane
+image: 'http://www.populationdata.net/wp-content/uploads/guyane-petite.gif'
+source: Wikipédia
+type: image

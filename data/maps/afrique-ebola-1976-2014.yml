@@ -4,3 +4,10 @@ fr:
   title: Afrique - Ebola (1976-2014)
 en:
   title: Afrique - Ebola (1976-2014)
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/afrique-ebola-1976-2014.jpg
+source: Wikipédia
+type: image

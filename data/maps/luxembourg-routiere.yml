@@ -4,3 +4,13 @@ fr:
   title: Luxembourg - routière
 en:
   title: Luxembourg - routière
+continents: []
+countries:
+  - luxembourg
+gmaps:
+  latitude: 49.811404
+  longitude: 6.170197
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

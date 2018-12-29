@@ -4,3 +4,9 @@ fr:
   title: Gabon - mangroves
 en:
   title: Gabon - mangroves
+continents: []
+countries:
+  - gabon
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/gabon-mangroves.jpg'
+source: Nasa Earth Observatory
+type: image

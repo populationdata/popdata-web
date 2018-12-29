@@ -4,3 +4,11 @@ fr:
   title: Israël-Syrie - Golan
 en:
   title: Israël-Syrie - Golan
+continents: []
+countries:
+  - syrie
+  - israel
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/israel-syrie-golan.jpg
+source: Wikipédia
+type: image

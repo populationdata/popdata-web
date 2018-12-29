@@ -4,3 +4,13 @@ fr:
   title: Canaries - satellite
 en:
   title: Canaries - satellite
+continents: []
+countries:
+  - canaries
+gmaps:
+  latitude: 28.550504
+  longitude: -15.979331
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

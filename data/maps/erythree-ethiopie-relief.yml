@@ -4,3 +4,10 @@ fr:
   title: Érythrée-Éthiopie - relief de la frontière
 en:
   title: Érythrée-Éthiopie - relief de la frontière
+continents: []
+countries:
+  - erythree
+  - ethiopie
+image: 'http://www.populationdata.net/wp-content/uploads/erythree_ethiopie_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Éthiopie - Érythrée (1896)
 en:
   title: Éthiopie - Érythrée (1896)
+continents: []
+countries:
+  - ethiopie
+  - erythree
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Ethiopie-1896.jpg'
+source: Wikipédia
+type: image

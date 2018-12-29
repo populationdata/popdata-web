@@ -4,3 +4,10 @@ fr:
   title: Bahreïn - topographique
 en:
   title: Bahreïn - topographique
+continents: []
+countries:
+  - bahrein
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Bahrein-topographique.png
+source: Wikipédia
+type: image

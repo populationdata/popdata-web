@@ -4,3 +4,9 @@ fr:
   title: Luxembourg - densité (2002)
 en:
   title: Luxembourg - densité (2002)
+continents: []
+countries:
+  - luxembourg
+image: 'http://www.populationdata.net/wp-content/uploads/luxembourg_densite2002.jpg'
+source: Statec
+type: image

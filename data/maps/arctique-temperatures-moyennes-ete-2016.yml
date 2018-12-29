@@ -4,3 +4,11 @@ fr:
   title: Arctique - températures moyennes (été 2016)
 en:
   title: Arctique - températures moyennes (été 2016)
+continents:
+  - ameriques
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Arctique-temperatures-ete-2016.jpg
+source: Nasa Earth Observatory
+type: image

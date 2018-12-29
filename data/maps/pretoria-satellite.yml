@@ -4,3 +4,12 @@ fr:
   title: Prétoria - satellite
 en:
   title: Prétoria - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -25.742075
+  longitude: 28.188171
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Afrique du Sud - topographique
 en:
   title: South Africa - topographic
+continents: []
+countries:
+  - afrique-du-sud
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Afrique-du-Sud-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Amérique du Sud - Lumières de la nuit
 en:
   title: Amérique du Sud - Lumières de la nuit
+continents:
+  - ameriques
+countries:
+  - chili
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Amerique-du-Sud-lumieres-nuit.jpg
+source: Nasa Earth Observatory
+type: image

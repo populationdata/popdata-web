@@ -3,3 +3,52 @@ date: '2018-03-02T21:50:55.000Z'
 fr:
   title: Zone de Paix et de Coopération de l'Atlantique Sud (ZOPACAS)
 en: null
+continents:
+  - afrique
+  - ameriques
+countries:
+  - afghanistan
+  - afrique-du-sud
+  - angola
+  - argentine
+  - bangladesh
+  - benin
+  - bresil
+  - bhoutan
+  - brunei
+  - cap-vert
+  - cambodge
+  - cameroun
+  - congo
+  - republique-democratique-du-congo
+  - guinee-equatoriale
+  - gabon
+  - gambie
+  - ghana
+  - guinee
+  - guinee-bissau
+  - inde
+  - indonesie
+  - cote-divoire
+  - laos
+  - liberia
+  - malaisie
+  - maldives
+  - myanmar-birmanie
+  - namibie
+  - nepal
+  - nigeria
+  - pakistan
+  - philippines
+  - sao-tome-et-principe
+  - senegal
+  - sierra-leone
+  - singapour
+  - thailande
+  - timor-oriental
+  - togo
+  - uruguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/03/Zone-Paix-Cooperation-Atlantique-Sud.png
+source: Wikipédia
+type: image

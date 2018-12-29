@@ -3,3 +3,12 @@ date: '2018-04-11T20:46:11.000Z'
 fr:
   title: 'Viêt Nam - Laos - Cambodge : géologique'
 en: null
+continents: []
+countries:
+  - cambodge
+  - laos
+  - viet-nam
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/04/Viet-Nam-Laos-Cambodge-geologique.jpg
+source: ''
+type: image

@@ -4,3 +4,14 @@ fr:
   title: Mercosur - États membres
 en:
   title: Mercosur - États membres
+continents:
+  - ameriques
+countries:
+  - venezuela
+  - uruguay
+  - paraguay
+  - bresil
+  - argentine
+image: 'http://www.populationdata.net/wp-content/uploads/mercosur-membres.png'
+source: Wikipédia
+type: image

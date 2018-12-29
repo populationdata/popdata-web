@@ -4,3 +4,10 @@ fr:
   title: Luxembourg - densité de travailleurs navetteurs
 en:
   title: Luxembourg - densité de travailleurs navetteurs
+continents: []
+countries:
+  - luxembourg
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/luxembourg-densite-travailleurs.png
+source: Wikipédia
+type: image

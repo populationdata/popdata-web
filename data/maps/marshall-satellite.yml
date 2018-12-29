@@ -4,3 +4,13 @@ fr:
   title: Marshall - satellite
 en:
   title: Marshall - satellite
+continents: []
+countries:
+  - marshall
+gmaps:
+  latitude: 7.555782
+  longitude: 169.789917
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

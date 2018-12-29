@@ -4,3 +4,9 @@ fr:
   title: District de Brcko
 en:
   title: District de Brcko
+continents: []
+countries:
+  - bosnie-et-herzegovine
+image: 'http://www.populationdata.net/wp-content/uploads/district-brcko.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Océanie - administrative
 en:
   title: Océanie - administrative
+continents:
+  - oceanie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Oceanie-administrative.png
+source: Wikipédia
+type: image

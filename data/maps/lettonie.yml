@@ -4,3 +4,9 @@ fr:
   title: Lettonie
 en:
   title: Lettonie
+continents: []
+countries:
+  - lettonie
+image: 'http://www.populationdata.net/wp-content/uploads/lettonie.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Kinshasa - routière
 en:
   title: Kinshasa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -4.348979
+  longitude: 15.309963
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

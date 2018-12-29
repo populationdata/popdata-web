@@ -4,3 +4,13 @@ fr:
   title: Géorgie - relief
 en:
   title: Géorgie - relief
+continents: []
+countries:
+  - georgie
+gmaps:
+  latitude: 42.277309
+  longitude: 43.192749
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

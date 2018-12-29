@@ -4,3 +4,12 @@ fr:
   title: Lyon - routière
 en:
   title: Lyon - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 45.756984
+  longitude: 4.856644
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

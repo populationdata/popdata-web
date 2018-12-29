@@ -4,3 +4,9 @@ fr:
   title: Iran
 en:
   title: Iran
+continents: []
+countries:
+  - iran
+image: 'http://www.populationdata.net/wp-content/uploads/iran.jpg'
+source: CIA
+type: image

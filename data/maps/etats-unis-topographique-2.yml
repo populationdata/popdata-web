@@ -4,3 +4,9 @@ fr:
   title: États-Unis - topographique
 en:
   title: États-Unis - topographique
+continents: []
+countries:
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/Etats-Unis-topographique.jpg'
+source: Wikipédia
+type: image

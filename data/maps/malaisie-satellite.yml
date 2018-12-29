@@ -4,3 +4,13 @@ fr:
   title: Malaisie - satellite
 en:
   title: Malaisie - satellite
+continents: []
+countries:
+  - malaisie
+gmaps:
+  latitude: 4.390229
+  longitude: 107.973633
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: République démocratique du Congo - forêts
 en:
   title: République démocratique du Congo - forêts
+continents: []
+countries:
+  - republique-democratique-du-congo
+image: 'http://www.populationdata.net/wp-content/uploads/rdc-forets.png'
+source: République démocratique du Congo
+type: image

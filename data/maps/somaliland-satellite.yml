@@ -4,3 +4,13 @@ fr:
   title: Somaliland - satellite
 en:
   title: Somaliland - satellite
+continents: []
+countries:
+  - somaliland
+gmaps:
+  latitude: 9.60075
+  longitude: 45.818481
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

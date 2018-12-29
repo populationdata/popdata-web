@@ -4,3 +4,15 @@ fr:
   title: Alpes dinariques
 en:
   title: Alpes dinariques
+continents: []
+countries:
+  - montenegro
+  - serbie
+  - kosovo
+  - croatie
+  - bosnie-et-herzegovine
+  - slovenie
+  - albanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Alpes-dinariques.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,8 @@ fr:
   title: Monde - Routes
 en:
   title: Monde - Routes
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-routes.jpg'
+source: NewScientist
+type: image

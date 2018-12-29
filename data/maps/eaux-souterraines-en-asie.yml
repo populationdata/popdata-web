@@ -4,3 +4,9 @@ fr:
   title: Asie - Eaux souterraines
 en:
   title: Asie - Eaux souterraines
+continents:
+  - asie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/eaux-souterraines-asie.jpg'
+source: UNESCO
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Tanzanie - satellite
 en:
   title: Tanzanie - satellite
+continents: []
+countries:
+  - tanzanie
+gmaps:
+  latitude: -6.293459
+  longitude: 34.639893
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

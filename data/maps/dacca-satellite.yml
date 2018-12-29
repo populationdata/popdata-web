@@ -4,3 +4,12 @@ fr:
   title: Dacca - satellite
 en:
   title: Dacca - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 23.716289
+  longitude: 90.40761
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

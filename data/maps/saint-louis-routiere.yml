@@ -4,3 +4,12 @@ fr:
   title: Saint-Louis - routière
 en:
   title: Saint-Louis - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.622235
+  longitude: -90.232086
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

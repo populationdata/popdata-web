@@ -4,3 +4,10 @@ fr:
   title: Luxembourg - administrative
 en:
   title: Luxembourg - administrative
+continents: []
+countries:
+  - luxembourg
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Luxembourg-administrative.png
+source: Wikipédia
+type: image

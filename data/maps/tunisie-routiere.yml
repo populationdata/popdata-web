@@ -4,3 +4,13 @@ fr:
   title: Tunisie - routière
 en:
   title: Tunisie - routière
+continents: []
+countries:
+  - tunisie
+gmaps:
+  latitude: 34.479392
+  longitude: 10.195313
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

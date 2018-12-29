@@ -4,3 +4,25 @@ fr:
   title: Communauté économique des États de l'Afrique de l'Ouest (CÉDÉAO)
 en:
   title: Communauté économique des États de l'Afrique de l'Ouest (CÉDÉAO)
+continents:
+  - afrique
+countries:
+  - benin
+  - burkina-faso
+  - cap-vert
+  - cote-divoire
+  - gambie
+  - ghana
+  - guinee
+  - guinee-bissau
+  - liberia
+  - mali
+  - niger
+  - nigeria
+  - senegal
+  - sierra-leone
+  - togo
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Communaute-economique-des-Etats-de-lAfrique-de-lOuest-CEDEAO.png
+source: Wikipédia
+type: image

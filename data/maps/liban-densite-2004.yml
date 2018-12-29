@@ -4,3 +4,10 @@ fr:
   title: Liban - densité (2004)
 en:
   title: Liban - densité (2004)
+continents: []
+countries:
+  - liban
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/liban-densite-2004.jpg
+source: Administration centrale de la statistique du Liban
+type: image

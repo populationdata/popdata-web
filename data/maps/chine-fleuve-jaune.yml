@@ -4,3 +4,10 @@ fr:
   title: Chine - fleuve Jaune
 en:
   title: Chine - fleuve Jaune
+continents: []
+countries:
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/chine-fleuve-jaune.jpg
+source: Wikipédia
+type: image

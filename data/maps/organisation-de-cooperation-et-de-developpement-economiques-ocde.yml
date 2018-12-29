@@ -4,3 +4,43 @@ fr:
   title: Organisation de coopération et de développement économiques (OCDE)
 en:
   title: World - Organisation for Economic Co-operation and Development (OECD)
+continents: []
+countries:
+  - suisse
+  - belgique
+  - espagne
+  - canada
+  - australie
+  - norvege
+  - suede
+  - portugal
+  - luxembourg
+  - mexique
+  - etats-unis
+  - danemark
+  - pays-bas
+  - slovenie
+  - turquie
+  - estonie
+  - chili
+  - italie
+  - israel
+  - islande
+  - irlande
+  - hongrie
+  - grece
+  - france
+  - coree-du-sud
+  - royaume-uni
+  - slovaquie
+  - finlande
+  - autriche
+  - japon
+  - nouvelle-zelande
+  - pologne
+  - tchequie
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/OCDE-pays-membres.png
+source: Wikipédia
+type: image

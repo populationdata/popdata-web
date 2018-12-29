@@ -4,3 +4,9 @@ fr:
   title: Burkina Faso - relief
 en:
   title: Burkina Faso - relief
+continents: []
+countries:
+  - burkina-faso
+image: 'http://www.populationdata.net/wp-content/uploads/burkina_faso_relief.jpg'
+source: CIA
+type: image

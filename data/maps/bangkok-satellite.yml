@@ -4,3 +4,12 @@ fr:
   title: Bangkok - satellite
 en:
   title: Bangkok - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.725378
+  longitude: 100.541725
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

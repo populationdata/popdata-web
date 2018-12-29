@@ -4,3 +4,10 @@ fr:
   title: Uruguay - administrative
 en:
   title: Uruguay - administrative
+continents: []
+countries:
+  - uruguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Uruguay-administrative.png
+source: Wikipédia
+type: image

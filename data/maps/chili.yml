@@ -4,3 +4,9 @@ fr:
   title: Chili
 en:
   title: Chili
+continents: []
+countries:
+  - chili
+image: 'http://www.populationdata.net/wp-content/uploads/chili.gif'
+source: CIA
+type: image

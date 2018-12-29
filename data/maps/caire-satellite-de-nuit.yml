@@ -4,3 +4,9 @@ fr:
   title: Le Caire - satellite (de nuit)
 en:
   title: Le Caire - satellite (de nuit)
+continents: []
+countries:
+  - egypte
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/le-caire.jpg'
+source: ESA
+type: image

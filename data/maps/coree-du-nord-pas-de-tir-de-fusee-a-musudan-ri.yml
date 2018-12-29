@@ -4,3 +4,10 @@ fr:
   title: Corée du Nord - pas de tir de fusée à Musudan-ri
 en:
   title: Corée du Nord - pas de tir de fusée à Musudan-ri
+continents: []
+countries:
+  - coree-du-nord
+image: >-
+  http://www.populationdata.net/wp-content/uploads/coree-du-nord-musudan-ri-lancement-fusee.jpg
+source: Digital Globe - Global Security
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Mayotte - petite
 en:
   title: Mayotte - petite
+continents: []
+countries:
+  - mayotte
+image: 'http://www.populationdata.net/wp-content/uploads/mayotte_petite.gif'
+source: Wikipédia
+type: image

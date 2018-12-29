@@ -4,3 +4,10 @@ fr:
   title: Israël - administrative
 en:
   title: Israël - administrative
+continents: []
+countries:
+  - israel
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/israel-administrative.png
+source: Wikipédia
+type: image

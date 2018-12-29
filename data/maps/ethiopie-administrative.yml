@@ -4,3 +4,9 @@ fr:
   title: Éthiopie - administrative
 en:
   title: Éthiopie - administrative
+continents: []
+countries:
+  - ethiopie
+image: 'http://www.populationdata.net/wp-content/uploads/ethiopie-administrative.jpg'
+source: Wikipédia
+type: image

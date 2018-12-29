@@ -4,3 +4,9 @@ fr:
   title: Islande
 en:
   title: Islande
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/islande-1.png'
+source: Wikipédia
+type: image

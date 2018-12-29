@@ -4,3 +4,10 @@ fr:
   title: 'Bassin de l''Orénoque, Colombie - Venezuela'
 en:
   title: 'Bassin de l''Orénoque, Colombie - Venezuela'
+continents: []
+countries:
+  - colombie
+  - venezuela
+image: 'https://www.populationdata.net/wp-content/uploads/Bassin-Orenoque.png'
+source: Wikipédia
+type: image

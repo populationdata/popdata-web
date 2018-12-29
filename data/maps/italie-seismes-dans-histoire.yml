@@ -4,3 +4,9 @@ fr:
   title: Italie - séismes dans l'histoire
 en:
   title: Italie - séismes dans l'histoire
+continents: []
+countries:
+  - italie
+image: 'https://www.populationdata.net/wp-content/uploads/Italie-seismes-histoire.png'
+source: 'Macrosismico Italiano DB, Istituto nazionale di geofisica, USGS, Le Monde'
+type: image

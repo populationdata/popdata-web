@@ -4,3 +4,10 @@ fr:
   title: Libéria - topographique
 en:
   title: Libéria - topographique
+continents: []
+countries:
+  - liberia
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Liberia-topographique.jpg
+source: Wikipédia
+type: image

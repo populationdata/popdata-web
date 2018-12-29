@@ -4,3 +4,10 @@ fr:
   title: Arabe - dialectes
 en:
   title: Arabe - dialectes
+continents:
+  - asie
+  - afrique
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Arabe-dialectes.png'
+source: Wikipédia
+type: image

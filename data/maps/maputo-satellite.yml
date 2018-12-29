@@ -4,3 +4,12 @@ fr:
   title: Maputo - satellite
 en:
   title: Maputo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -25.943227
+  longitude: 32.541161
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

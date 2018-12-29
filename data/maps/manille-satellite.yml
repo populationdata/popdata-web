@@ -4,3 +4,12 @@ fr:
   title: Manille - satellite
 en:
   title: Manille - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.595378
+  longitude: 121.03466
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

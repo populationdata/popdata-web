@@ -4,3 +4,9 @@ fr:
   title: Comores
 en:
   title: Comores
+continents: []
+countries:
+  - comores
+image: 'http://www.populationdata.net/wp-content/uploads/comores.gif'
+source: CIA
+type: image

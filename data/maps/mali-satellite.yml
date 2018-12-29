@@ -4,3 +4,13 @@ fr:
   title: Mali - satellite
 en:
   title: Mali - satellite
+continents: []
+countries:
+  - mali
+gmaps:
+  latitude: 17.5
+  longitude: -4.790039
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

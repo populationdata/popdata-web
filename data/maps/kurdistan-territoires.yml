@@ -4,3 +4,13 @@ fr:
   title: Kurdistan - territoires
 en:
   title: Kurdistan - territoires
+continents: []
+countries:
+  - iran
+  - syrie
+  - kurdistan
+  - irak
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/kurdistan-territoires.jpg'
+source: CIA
+type: image

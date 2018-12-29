@@ -4,3 +4,9 @@ fr:
   title: Japon - Okinawa
 en:
   title: Japon - Okinawa
+continents: []
+countries:
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon_okinawa_relief.jpg'
+source: CIA
+type: image

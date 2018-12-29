@@ -4,3 +4,9 @@ fr:
   title: Nigéria - charia
 en:
   title: Nigéria - charia
+continents: []
+countries:
+  - nigeria
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/nigeria-charia.png'
+source: Wikipédia
+type: image

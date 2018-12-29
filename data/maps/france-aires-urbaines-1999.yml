@@ -4,3 +4,9 @@ fr:
   title: France - aires urbaines (1999)
 en:
   title: France - aires urbaines (1999)
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france_aires_urbaines.jpg'
+source: Insee
+type: image

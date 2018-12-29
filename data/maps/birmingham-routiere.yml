@@ -4,3 +4,12 @@ fr:
   title: Birmingham - routière
 en:
   title: Birmingham - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 52.474234
+  longitude: -1.893264
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Norvège - comtés
 en:
   title: Norvège - comtés
+continents: []
+countries:
+  - norvege
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/norvege-comtes.png'
+source: Wikipédia
+type: image

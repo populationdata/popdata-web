@@ -4,3 +4,11 @@ fr:
   title: 'Rio de la Plata, entre l''Uruguay et l''Argentine'
 en:
   title: 'Rio de la Plata, entre l''Uruguay et l''Argentine'
+continents: []
+countries:
+  - argentine
+  - uruguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Rio-de-la-Plata-uruguay-Argentine.png
+source: Wikipédia
+type: image

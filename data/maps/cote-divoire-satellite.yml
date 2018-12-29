@@ -4,3 +4,13 @@ fr:
   title: Côte d'Ivoire - satellite
 en:
   title: Côte d'Ivoire - satellite
+continents: []
+countries:
+  - cote-divoire
+gmaps:
+  latitude: 7.231699
+  longitude: -5.273437
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Cuba - routière
 en:
   title: Cuba - routière
+continents: []
+countries:
+  - cuba
+gmaps:
+  latitude: 21.993989
+  longitude: -79.969482
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

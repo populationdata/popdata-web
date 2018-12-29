@@ -4,3 +4,9 @@ fr:
   title: Shanghai - satellite (1984)
 en:
   title: Shanghai - satellite (1984)
+continents: []
+countries:
+  - chine
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Shanghai-1984.jpg'
+source: Nasa Earth Observatory
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Canada - eau douce et terres humides
 en:
   title: Canada - eau douce et terres humides
+continents: []
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Canada-eau-douce-et-terres-humides.jpg
+source: Ressources Naturelles Canada
+type: image

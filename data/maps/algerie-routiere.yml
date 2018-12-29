@@ -4,3 +4,13 @@ fr:
   title: Algérie - routière
 en:
   title: Algérie - routière
+continents: []
+countries:
+  - algerie
+gmaps:
+  latitude: 30.562261
+  longitude: -1.582031
+  type: roadmap
+  zoom: 5
+source: Google Maps
+type: gmaps

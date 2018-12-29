@@ -4,3 +4,10 @@ fr:
   title: Japon - frontières maritimes
 en:
   title: Japon - frontières maritimes
+continents: []
+countries:
+  - japon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/japon-frontieres-maritimes.jpg
+source: Carto
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Canada - Montréal
 en:
   title: Canada - Montréal
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/canada-montreal.jpg'
+source: Copernicus
+type: image

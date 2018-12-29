@@ -4,3 +4,9 @@ fr:
   title: Canada - neige (épaisseur moyenne)
 en:
   title: Canada - neige (épaisseur moyenne)
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/Canada-neige.jpg'
+source: Ressources Naturelles Canada
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Norvège - parcs nationaux et aires protégées
 en:
   title: Norvège - parcs nationaux et aires protégées
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege-parcs-nationaux.png'
+source: Statistiques Norvège
+type: image

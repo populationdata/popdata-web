@@ -4,3 +4,10 @@ fr:
   title: Liban - Finul (ONU)
 en:
   title: Liban - Finul (ONU)
+continents: []
+countries:
+  - israel
+  - liban
+image: 'http://www.populationdata.net/wp-content/uploads/liban-finul.png'
+source: ONU
+type: image

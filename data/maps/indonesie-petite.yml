@@ -4,3 +4,9 @@ fr:
   title: Indonésie - petite
 en:
   title: Indonésie - petite
+continents: []
+countries:
+  - indonesie
+image: 'http://www.populationdata.net/wp-content/uploads/indonesie-petite.gif'
+source: CIA
+type: image

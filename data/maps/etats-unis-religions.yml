@@ -4,3 +4,9 @@ fr:
   title: États-Unis - religions
 en:
   title: États-Unis - religions
+continents: []
+countries:
+  - etats-unis
+image: 'http://www.populationdata.net/wp-content/uploads/etats_unis_religions.gif'
+source: Census.gov
+type: image

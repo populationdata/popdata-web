@@ -4,3 +4,13 @@ fr:
   title: Saint-Marin - routière
 en:
   title: Saint-Marin - routière
+continents: []
+countries:
+  - saint-marin
+gmaps:
+  latitude: 43.946608
+  longitude: 12.455063
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

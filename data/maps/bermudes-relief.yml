@@ -4,3 +4,13 @@ fr:
   title: Bermudes - relief
 en:
   title: Bermudes - relief
+continents: []
+countries:
+  - bermudes
+gmaps:
+  latitude: 32.323695
+  longitude: -64.771957
+  type: terrain
+  zoom: 11
+source: Google Maps
+type: gmaps

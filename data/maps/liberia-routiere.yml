@@ -4,3 +4,13 @@ fr:
   title: Libéria - routière
 en:
   title: Libéria - routière
+continents: []
+countries:
+  - liberia
+gmaps:
+  latitude: 6.58276
+  longitude: -9.684448
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

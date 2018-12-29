@@ -4,3 +4,13 @@ fr:
   title: Chagos
 en:
   title: Chagos
+continents: []
+countries:
+  - chagos
+gmaps:
+  latitude: -6.181818
+  longitude: 71.977031
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

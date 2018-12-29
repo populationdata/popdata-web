@@ -4,3 +4,12 @@ fr:
   title: Bamako - routière
 en:
   title: Bamako - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 12.635983
+  longitude: -7.997704
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

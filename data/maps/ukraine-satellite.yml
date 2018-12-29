@@ -4,3 +4,13 @@ fr:
   title: Ukraine - satellite
 en:
   title: Ukraine - satellite
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 49.468124
+  longitude: 30.651855
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

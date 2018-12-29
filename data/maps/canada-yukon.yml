@@ -4,3 +4,9 @@ fr:
   title: Canada - Yukon
 en:
   title: Canada - Yukon
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_yukon.jpg'
+source: Ressources Naturelles Canada
+type: image

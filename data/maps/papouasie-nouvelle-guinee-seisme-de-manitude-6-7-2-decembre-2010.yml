@@ -4,3 +4,13 @@ fr:
   title: 'Papouasie-Nouvelle-Guinée : séisme de manitude 6.7 (2 décembre 2010)'
 en:
   title: 'Papouasie-Nouvelle-Guinée : séisme de manitude 6.7 (2 décembre 2010)'
+continents: []
+countries:
+  - papouasie-nouvelle-guinee
+gmaps:
+  latitude: -6.0589
+  longitude: 149.8513
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

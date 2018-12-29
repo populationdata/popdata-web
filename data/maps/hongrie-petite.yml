@@ -4,3 +4,9 @@ fr:
   title: Hongrie - petite
 en:
   title: Hongrie - petite
+continents: []
+countries:
+  - hongrie
+image: 'http://www.populationdata.net/wp-content/uploads/hongrie-petite.gif'
+source: Wikipédia
+type: image

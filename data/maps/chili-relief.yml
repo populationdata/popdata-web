@@ -4,3 +4,9 @@ fr:
   title: Chili - relief
 en:
   title: Chili - relief
+continents: []
+countries:
+  - chili
+image: 'http://www.populationdata.net/wp-content/uploads/chili-relief.gif'
+source: CIA
+type: image

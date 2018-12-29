@@ -4,3 +4,9 @@ fr:
   title: Lituanie - relief
 en:
   title: Lituanie - relief
+continents: []
+countries:
+  - lituanie
+image: 'http://www.populationdata.net/wp-content/uploads/lituanie_relief.jpg'
+source: CIA
+type: image

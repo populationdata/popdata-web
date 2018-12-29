@@ -4,3 +4,11 @@ fr:
   title: Bas Congo (1913)
 en:
   title: Bas Congo (1913)
+continents: []
+countries:
+  - angola
+  - congo
+  - republique-democratique-du-congo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Bas-Congo.jpg'
+source: Wikipédia
+type: image

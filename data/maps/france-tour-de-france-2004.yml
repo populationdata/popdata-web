@@ -4,3 +4,9 @@ fr:
   title: Tour de France 2004
 en:
   title: Tour de France 2004
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france_tour2004.gif'
+source: Tour de France
+type: image

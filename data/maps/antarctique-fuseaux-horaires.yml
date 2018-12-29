@@ -4,3 +4,11 @@ fr:
   title: Antarctique - Fuseaux horaires
 en:
   title: Antarctique - Fuseaux horaires
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Antarctique-Fuseaux-horaires.jpg
+source: Wikipédia
+type: image

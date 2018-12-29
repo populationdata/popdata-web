@@ -4,3 +4,9 @@ fr:
   title: Uruguay
 en:
   title: Uruguay
+continents: []
+countries:
+  - uruguay
+image: 'http://www.populationdata.net/wp-content/uploads/uruguay.jpg'
+source: CIA
+type: image

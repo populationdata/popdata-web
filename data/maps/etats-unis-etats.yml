@@ -4,3 +4,9 @@ fr:
   title: États-Unis - États
 en:
   title: United States - States
+continents: []
+countries:
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/Etats-Unis-Etats.png'
+source: Wikipédia
+type: image

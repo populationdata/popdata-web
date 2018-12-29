@@ -4,3 +4,10 @@ fr:
   title: Pakistan - topographique
 en:
   title: Pakistan - topographique
+continents: []
+countries:
+  - pakistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Pakistan-topographique.jpg
+source: Wikipédia
+type: image

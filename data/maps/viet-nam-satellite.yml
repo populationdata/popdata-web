@@ -4,3 +4,13 @@ fr:
   title: Viêt Nam - satellite
 en:
   title: Viêt Nam - satellite
+continents: []
+countries:
+  - viet-nam
+gmaps:
+  latitude: 16.109153
+  longitude: 105.117188
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

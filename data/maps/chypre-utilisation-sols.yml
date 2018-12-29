@@ -4,3 +4,9 @@ fr:
   title: Chypre - utilisation des sols
 en:
   title: Chypre - utilisation des sols
+continents: []
+countries:
+  - chypre
+image: 'http://www.populationdata.net/wp-content/uploads/chypre-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

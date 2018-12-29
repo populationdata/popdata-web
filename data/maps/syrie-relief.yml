@@ -4,3 +4,9 @@ fr:
   title: Syrie - relief
 en:
   title: Syrie - relief
+continents: []
+countries:
+  - syrie
+image: 'http://www.populationdata.net/wp-content/uploads/syrie_relief.jpg'
+source: CIA
+type: image

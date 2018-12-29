@@ -4,3 +4,14 @@ fr:
   title: 'Caucase - Fleuves Araxe et Koura : bassin hydrographique'
 en:
   title: 'Caucase - Fleuves Araxe et Koura : bassin hydrographique'
+continents: []
+countries:
+  - azerbaidjan
+  - armenie
+  - georgie
+  - iran
+  - turquie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Araxe-Koura-bassin-hydrographique.jpg
+source: Wikipédia
+type: image

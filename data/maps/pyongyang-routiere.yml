@@ -4,3 +4,12 @@ fr:
   title: Pyongyang - routière
 en:
   title: Pyongyang - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 39.021718
+  longitude: 125.742474
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Tiraspol - satellite
 en:
   title: Tiraspol - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 46.849039
+  longitude: 29.620514
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

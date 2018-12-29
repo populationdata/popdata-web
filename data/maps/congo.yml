@@ -4,3 +4,9 @@ fr:
   title: Congo
 en:
   title: Congo
+continents: []
+countries:
+  - congo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Congo.jpg'
+source: ONU
+type: image

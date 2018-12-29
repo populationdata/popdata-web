@@ -4,3 +4,12 @@ fr:
   title: Pointe-à-Pitre - satellite
 en:
   title: Pointe-à-Pitre - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 16.250935
+  longitude: -61.535454
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

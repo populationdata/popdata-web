@@ -4,3 +4,9 @@ fr:
   title: Monténégro - petite
 en:
   title: Monténégro - petite
+continents: []
+countries:
+  - montenegro
+image: 'http://www.populationdata.net/wp-content/uploads/montenegro-petite.png'
+source: Wikipédia
+type: image

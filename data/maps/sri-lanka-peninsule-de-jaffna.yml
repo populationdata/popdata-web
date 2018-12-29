@@ -4,3 +4,10 @@ fr:
   title: Sri Lanka - péninsule de Jaffna
 en:
   title: Sri Lanka - péninsule de Jaffna
+continents: []
+countries:
+  - sri-lanka
+image: >-
+  http://www.populationdata.net/wp-content/uploads/sri_lanka_jaffna_peninsule.jpg
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Kiev - routière
 en:
   title: Kiev - routière
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 50.430611
+  longitude: 30.535812
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

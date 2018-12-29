@@ -4,3 +4,9 @@ fr:
   title: États-Unis - lumières de la nuit
 en:
   title: États-Unis - lumières de la nuit
+continents: []
+countries:
+  - etats-unis
+image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-lumieres-nuit.jpg'
+source: Census Bureau
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Malawi - administrative
 en:
   title: Malawi - administrative
+continents: []
+countries:
+  - malawi
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Malawi-administrative.png
+source: Wikipédia
+type: image

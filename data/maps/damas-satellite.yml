@@ -4,3 +4,12 @@ fr:
   title: Damas - satellite
 en:
   title: Damas - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 33.519072
+  longitude: 36.287327
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

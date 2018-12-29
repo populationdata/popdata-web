@@ -4,3 +4,9 @@ fr:
   title: Maldives - Gaafu Alif
 en:
   title: Maldives - Gaafu Alif
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Gaafu_Alif_Atoll.png'
+source: Wikipédia
+type: image

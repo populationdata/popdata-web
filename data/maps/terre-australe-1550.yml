@@ -4,3 +4,14 @@ fr:
   title: Terre australe (1550)
 en:
   title: Terre australe (1550)
+continents:
+  - afrique
+  - asie
+  - oceanie
+countries:
+  - australie
+  - terres-australes-antarctiques-francaises
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Terre-australe-1550.jpg
+source: Sunmap
+type: image

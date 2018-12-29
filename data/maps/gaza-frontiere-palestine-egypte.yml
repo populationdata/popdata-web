@@ -4,3 +4,15 @@ fr:
   title: Gaza - frontière Palestine-Égypte
 en:
   title: Gaza - frontière Palestine-Égypte
+continents: []
+countries:
+  - israel
+  - egypte
+  - palestine
+gmaps:
+  latitude: 31.273709
+  longitude: 34.260693
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

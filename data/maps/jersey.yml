@@ -4,3 +4,9 @@ fr:
   title: Jersey
 en:
   title: Jersey
+continents: []
+countries:
+  - iles-anglo-normandes-jersey-et-guernesey
+image: 'https://www.populationdata.net/wp-content/uploads/Jersey.png'
+source: Wikipédia
+type: image

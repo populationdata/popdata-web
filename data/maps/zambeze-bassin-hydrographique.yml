@@ -4,3 +4,18 @@ fr:
   title: Zambèze - bassin hydrographique
 en:
   title: Zambèze - bassin hydrographique
+continents:
+  - afrique
+countries:
+  - angola
+  - namibie
+  - botswana
+  - mozambique
+  - zambie
+  - malawi
+  - tanzanie
+  - zimbabwe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Zambeze-bassin-hydrographique.png
+source: Wikipédia
+type: image

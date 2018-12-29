@@ -4,3 +4,18 @@ fr:
   title: Association sud-asiatique pour la coopération régionale (ASACR)
 en:
   title: Association sud-asiatique pour la coopération régionale (ASACR)
+continents:
+  - asie
+countries:
+  - sri-lanka
+  - pakistan
+  - nepal
+  - maldives
+  - inde
+  - bhoutan
+  - bangladesh
+  - afghanistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Association_sud-asiatique_pour_la_cooperation_regionale.png
+source: Wikipédia
+type: image

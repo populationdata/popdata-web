@@ -4,3 +4,9 @@ fr:
   title: Inde - petite
 en:
   title: Inde - petite
+continents: []
+countries:
+  - inde
+image: 'http://www.populationdata.net/wp-content/uploads/inde-petite.png'
+source: Wikipédia
+type: image

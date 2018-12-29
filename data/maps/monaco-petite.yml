@@ -4,3 +4,9 @@ fr:
   title: Monaco - petite
 en:
   title: Monaco - petite
+continents: []
+countries:
+  - monaco
+image: 'http://www.populationdata.net/wp-content/uploads/monaco_petite.gif'
+source: CIA
+type: image

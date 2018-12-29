@@ -4,3 +4,9 @@ fr:
   title: Taïwan - province de Fujian
 en:
   title: Taïwan - province de Fujian
+continents: []
+countries:
+  - taiwan
+image: 'https://www.populationdata.net/wp-content/uploads/Taiwan-povince-de-Fujian.png'
+source: Wikipédia
+type: image

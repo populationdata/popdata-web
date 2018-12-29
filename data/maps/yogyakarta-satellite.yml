@@ -4,3 +4,12 @@ fr:
   title: Yogyakarta - satellite
 en:
   title: Yogyakarta - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -7.799592
+  longitude: 110.368555
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

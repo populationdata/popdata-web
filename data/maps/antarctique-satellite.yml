@@ -4,3 +4,10 @@ fr:
   title: Antarctique - satellite
 en:
   title: Antarctique - satellite
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: 'https://www.populationdata.net/wp-content/uploads/antarctique.jpg'
+source: ''
+type: image

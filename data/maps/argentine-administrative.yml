@@ -4,3 +4,10 @@ fr:
   title: Argentine - administrative
 en:
   title: Argentine - administrative
+continents: []
+countries:
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/argentine-administrative.jpg
+source: Institut géographique national d'Argentine
+type: image

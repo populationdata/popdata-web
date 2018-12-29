@@ -4,3 +4,9 @@ fr:
   title: Samoa - relief
 en:
   title: Samoa - relief
+continents: []
+countries:
+  - samoa
+image: 'http://www.populationdata.net/wp-content/uploads/samoa_relief.jpg'
+source: CIA
+type: image

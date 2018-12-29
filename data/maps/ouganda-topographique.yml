@@ -4,3 +4,10 @@ fr:
   title: Ouganda - topographique
 en:
   title: Ouganda - topographique
+continents: []
+countries:
+  - ouganda
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Ouganda-topographique.jpg
+source: Wikipédia
+type: image

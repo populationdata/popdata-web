@@ -4,3 +4,11 @@ fr:
   title: Antilles françaises
 en:
   title: Antilles françaises
+continents:
+  - ameriques
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Antilles-francaises.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Costa Rica - petite
 en:
   title: Costa Rica - petite
+continents: []
+countries:
+  - costa-rica
+image: 'http://www.populationdata.net/wp-content/uploads/costa_rica_petite.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Dominique - petite
 en:
   title: Dominique - petite
+continents: []
+countries:
+  - dominique
+image: 'http://www.populationdata.net/wp-content/uploads/dominique_petite.gif'
+source: CIA
+type: image

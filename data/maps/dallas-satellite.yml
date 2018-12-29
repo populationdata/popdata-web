@@ -4,3 +4,13 @@ fr:
   title: Dallas - satellite
 en:
   title: Dallas - satellite
+continents: []
+countries:
+  - etats-unis
+gmaps:
+  latitude: 32.803436
+  longitude: -97.006531
+  type: hybrid
+  zoom: 0
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Limerick - routière
 en:
   title: Limerick - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 52.665515
+  longitude: -8.631385
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Nicaragua - petite
 en:
   title: Nicaragua - petite
+continents: []
+countries:
+  - nicaragua
+image: 'http://www.populationdata.net/wp-content/uploads/nicaragua-petite.png'
+source: Wikipédia
+type: image

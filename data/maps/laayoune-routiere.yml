@@ -4,3 +4,12 @@ fr:
   title: Laâyoune - routière
 en:
   title: Laâyoune - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 27.144243
+  longitude: -13.199043
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

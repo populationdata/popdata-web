@@ -4,3 +4,12 @@ fr:
   title: Mbabane - routière
 en:
   title: Mbabane - road map
+continents: []
+countries: []
+gmaps:
+  latitude: -26.324653
+  longitude: 31.13946
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

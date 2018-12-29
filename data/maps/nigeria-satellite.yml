@@ -4,3 +4,13 @@ fr:
   title: Nigéria - satellite
 en:
   title: Nigéria - satellite
+continents: []
+countries:
+  - nigeria
+gmaps:
+  latitude: 9.232249
+  longitude: 8.349609
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

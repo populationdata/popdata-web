@@ -4,3 +4,9 @@ fr:
   title: Arménie (1000)
 en:
   title: Arménie (1000)
+continents: []
+countries:
+  - armenie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Armenie-1000.jpg'
+source: Wikipédia
+type: image

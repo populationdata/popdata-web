@@ -4,3 +4,13 @@ fr:
   title: 'Indonésie - séisme de magnitude 6,6 (1er octobre 2009)'
 en:
   title: 'Indonésie - séisme de magnitude 6,6 (1er octobre 2009)'
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: -2.497
+  longitude: 101.5402
+  type: terrain
+  zoom: 8
+source: USGS
+type: gmaps

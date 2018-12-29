@@ -4,3 +4,13 @@ fr:
   title: Afghanistan - satellite
 en:
   title: Afghanistan - satellite
+continents: []
+countries:
+  - afghanistan
+gmaps:
+  latitude: 34.034453
+  longitude: 66.577148
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

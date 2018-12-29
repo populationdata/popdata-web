@@ -4,3 +4,9 @@ fr:
   title: Namibie - régions
 en:
   title: Namibie - régions
+continents: []
+countries:
+  - namibie
+image: 'https://www.populationdata.net/wp-content/uploads/Namibie-regions.png'
+source: Wikipédia
+type: image

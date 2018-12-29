@@ -4,3 +4,12 @@ fr:
   title: Cork - satellite
 en:
   title: Cork - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.89499
+  longitude: -8.474914
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

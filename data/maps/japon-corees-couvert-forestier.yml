@@ -3,3 +3,15 @@ date: '2018-03-06T21:13:06.000Z'
 fr:
   title: 'Japon - Corées : couvert forestier'
 en: null
+continents:
+  - asie
+countries:
+  - japon
+  - coree-du-nord
+  - coree-du-sud
+  - russie
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/03/Japon-Corees-couvert-forestier.jpg
+source: Jakub Marian
+type: image

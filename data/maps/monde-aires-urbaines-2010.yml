@@ -4,3 +4,10 @@ fr:
   title: Monde - Aires urbaines (2010)
 en:
   title: Monde - Aires urbaines (2010)
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-urbanisation-2010.jpg'
+source: >-
+  CIESIN (Center for International Earth Science Information Network -
+  Université Columbia)
+type: image

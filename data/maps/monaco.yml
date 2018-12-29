@@ -4,3 +4,9 @@ fr:
   title: Monaco
 en:
   title: Monaco
+continents: []
+countries:
+  - monaco
+image: 'http://www.populationdata.net/wp-content/uploads/monaco.jpg'
+source: CIA
+type: image

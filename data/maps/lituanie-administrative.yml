@@ -4,3 +4,10 @@ fr:
   title: Lituanie - administrative
 en:
   title: Lituanie - administrative
+continents: []
+countries:
+  - lituanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Lituanie-administrative.png
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Norfolk - satellite
 en:
   title: Norfolk - satellite
+continents: []
+countries:
+  - norfolk
+gmaps:
+  latitude: -29.034259
+  longitude: 167.952547
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

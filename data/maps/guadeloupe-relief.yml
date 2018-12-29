@@ -4,3 +4,9 @@ fr:
   title: Guadeloupe - relief
 en:
   title: Guadeloupe - relief
+continents: []
+countries:
+  - guadeloupe
+image: 'http://www.populationdata.net/wp-content/uploads/guadeloupe-relief.jpg'
+source: Wikipédia
+type: image

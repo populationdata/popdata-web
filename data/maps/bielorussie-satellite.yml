@@ -4,3 +4,13 @@ fr:
   title: Biélorussie - satellite
 en:
   title: Biélorussie - satellite
+continents: []
+countries:
+  - belarus-bielorussie
+gmaps:
+  latitude: 53.917281
+  longitude: 28.520508
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

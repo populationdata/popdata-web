@@ -4,3 +4,10 @@ fr:
   title: Royaume de Macédoine
 en:
   title: Royaume de Macédoine
+continents: []
+countries:
+  - grece
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Royaume-Macedoine.jpg
+source: Wikipédia
+type: image

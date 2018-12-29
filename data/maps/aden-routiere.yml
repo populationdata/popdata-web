@@ -4,3 +4,12 @@ fr:
   title: Aden - routière
 en:
   title: Aden - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 12.805775
+  longitude: 44.974594
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

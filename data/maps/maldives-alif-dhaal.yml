@@ -4,3 +4,9 @@ fr:
   title: Maldives - Alif Dhaal
 en:
   title: Maldives - Alif Dhaal
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Alif_Dhaal_Atoll.jpg'
+source: Wikipédia
+type: image

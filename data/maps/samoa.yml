@@ -4,3 +4,9 @@ fr:
   title: Samoa
 en:
   title: Samoa
+continents: []
+countries:
+  - samoa
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Samoa.png'
+source: Wikipédia
+type: image

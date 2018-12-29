@@ -4,3 +4,13 @@ fr:
   title: Bonaire - satellite
 en:
   title: Bonaire - satellite
+continents: []
+countries:
+  - pays-bas-caribeens
+gmaps:
+  latitude: 12.167989
+  longitude: -68.306354
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

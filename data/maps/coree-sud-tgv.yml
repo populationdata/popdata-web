@@ -4,3 +4,9 @@ fr:
   title: Corée du Sud - TGV
 en:
   title: Corée du Sud - TGV
+continents: []
+countries:
+  - coree-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Coree-du-Sud-TGV.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Taïwan - province de Taïwan
 en:
   title: Taïwan - province de Taïwan
+continents: []
+countries:
+  - taiwan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Taiwan-province-de-Taiwan.png
+source: Wikipédia
+type: image

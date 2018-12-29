@@ -4,3 +4,13 @@ fr:
   title: Fidji - routière
 en:
   title: Fidji - routière
+continents: []
+countries:
+  - fidji
+gmaps:
+  latitude: -17.858519
+  longitude: 179.203491
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

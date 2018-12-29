@@ -4,3 +4,10 @@ fr:
   title: Polynésie française - communes
 en:
   title: Polynésie française - communes
+continents: []
+countries:
+  - polynesie-francaise
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Polynesie-francaise-communes.png
+source: Wikipédia
+type: image

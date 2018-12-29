@@ -4,3 +4,9 @@ fr:
   title: Norvège - relief
 en:
   title: Norvège - relief
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege_relief.jpg'
+source: CIA
+type: image

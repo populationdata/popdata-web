@@ -4,3 +4,10 @@ fr:
   title: Nigéria - végétation
 en:
   title: Nigéria - végétation
+continents: []
+countries:
+  - nigeria
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Nigeria-vegetation.jpg
+source: Wikipédia
+type: image

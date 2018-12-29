@@ -4,3 +4,12 @@ fr:
   title: Bergen - routière
 en:
   title: Bergen - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 60.387782
+  longitude: 5.322709
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

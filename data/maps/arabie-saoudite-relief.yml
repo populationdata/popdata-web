@@ -4,3 +4,9 @@ fr:
   title: Arabie saoudite - relief
 en:
   title: Arabie saoudite - relief
+continents: []
+countries:
+  - arabie-saoudite
+image: 'http://www.populationdata.net/wp-content/uploads/arabie-saoudite-relief.jpg'
+source: CIA
+type: image

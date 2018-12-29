@@ -4,3 +4,9 @@ fr:
   title: Burundi - relief
 en:
   title: Burundi - relief
+continents: []
+countries:
+  - burundi
+image: 'http://www.populationdata.net/wp-content/uploads/burundi_relief.jpg'
+source: CIA
+type: image

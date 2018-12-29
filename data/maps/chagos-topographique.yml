@@ -4,3 +4,10 @@ fr:
   title: Chagos - topographique
 en:
   title: Chagos - topographique
+continents: []
+countries:
+  - chagos
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Chagos-topographique.png
+source: Wikipédia
+type: image

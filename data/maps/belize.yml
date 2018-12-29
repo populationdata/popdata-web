@@ -4,3 +4,9 @@ fr:
   title: Belize
 en:
   title: Belize
+continents: []
+countries:
+  - belize
+image: 'http://www.populationdata.net/wp-content/uploads/belize.jpg'
+source: CIA
+type: image

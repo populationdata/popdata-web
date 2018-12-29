@@ -4,3 +4,13 @@ fr:
   title: Roumanie - routière
 en:
   title: Roumanie - routière
+continents: []
+countries:
+  - roumanie
+gmaps:
+  latitude: 45.97406
+  longitude: 25.334473
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

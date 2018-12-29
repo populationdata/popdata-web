@@ -4,3 +4,13 @@ fr:
   title: Tanzanie - relief
 en:
   title: Tanzanie - relief
+continents: []
+countries:
+  - tanzanie
+gmaps:
+  latitude: -6.293459
+  longitude: 34.639893
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

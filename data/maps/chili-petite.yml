@@ -4,3 +4,9 @@ fr:
   title: Chili - petite
 en:
   title: Chili - petite
+continents: []
+countries:
+  - chili
+image: 'https://www.populationdata.net/wp-content/uploads/Chili.png'
+source: Wikipédia
+type: image

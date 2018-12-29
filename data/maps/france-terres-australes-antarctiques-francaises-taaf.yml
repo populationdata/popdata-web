@@ -4,3 +4,10 @@ fr:
   title: France - Terres australes et antarctiques françaises (TAAF)
 en:
   title: France - Terres australes et antarctiques françaises (TAAF)
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-Terres-australes-et-antarctiques-françaises.png
+source: Wikipédia
+type: image

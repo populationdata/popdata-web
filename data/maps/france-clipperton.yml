@@ -4,3 +4,9 @@ fr:
   title: France - Clipperton
 en:
   title: France - Clipperton
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france_clipperton.gif'
+source: CIA
+type: image

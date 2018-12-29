@@ -4,3 +4,13 @@ fr:
   title: Scandinavie - densité (1996)
 en:
   title: Scandinavie - densité (1996)
+continents:
+  - europe
+countries:
+  - finlande
+  - suede
+  - norvege
+  - danemark
+image: 'http://www.populationdata.net/wp-content/uploads/scandinavie-densite.gif'
+source: Wikipédia
+type: image

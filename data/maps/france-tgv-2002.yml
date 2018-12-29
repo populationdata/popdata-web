@@ -4,3 +4,9 @@ fr:
   title: France - TGV 2002
 en:
   title: France - TGV 2002
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-tgv-2002.gif'
+source: SNCF
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Italie - relief
 en:
   title: Italie - relief
+continents: []
+countries:
+  - italie
+image: 'http://www.populationdata.net/wp-content/uploads/italie_relief.jpg'
+source: CIA
+type: image

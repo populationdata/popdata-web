@@ -4,3 +4,10 @@ fr:
   title: 'Birmanie - Irrawaddy : bassin hydrographique'
 en:
   title: 'Birmanie - Irrawaddy : bassin hydrographique'
+continents: []
+countries:
+  - myanmar-birmanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/birmanie-Irrawaddy.jpg
+source: Wikipédia
+type: image

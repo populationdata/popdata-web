@@ -4,3 +4,13 @@ fr:
   title: Oman - routière
 en:
   title: Oman - routière
+continents: []
+countries:
+  - oman
+gmaps:
+  latitude: 21.871695
+  longitude: 56.162109
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

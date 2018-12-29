@@ -4,3 +4,10 @@ fr:
   title: Belize - topographique
 en:
   title: Belize - topographique
+continents: []
+countries:
+  - belize
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Belize-topographique.jpg
+source: Wikipédia
+type: image

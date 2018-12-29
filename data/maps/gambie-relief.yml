@@ -4,3 +4,13 @@ fr:
   title: Gambie - relief
 en:
   title: Gambie - relief
+continents: []
+countries:
+  - gambie
+gmaps:
+  latitude: 13.386948
+  longitude: -15.386353
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

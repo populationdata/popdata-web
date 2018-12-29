@@ -4,3 +4,13 @@ fr:
   title: Irlande - routière
 en:
   title: Irlande - routière
+continents: []
+countries:
+  - irlande
+gmaps:
+  latitude: 53.618579
+  longitude: -7.888184
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

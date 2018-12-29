@@ -4,3 +4,10 @@ fr:
   title: Espagne - grandes villes (2005)
 en:
   title: Espagne - grandes villes (2005)
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Espagne-grandes-villes-2005.png
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Saint-Martin - petite
 en:
   title: Saint-Martin - petite
+continents: []
+countries:
+  - antilles-neerlandaises
+image: >-
+  http://www.populationdata.net/wp-content/uploads/saint-martin-pays-bas-petite.gif
+source: CIA
+type: image

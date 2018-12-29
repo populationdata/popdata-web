@@ -4,3 +4,12 @@ fr:
   title: Sheffield - satellite
 en:
   title: Sheffield - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 53.412615
+  longitude: -1.385758
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

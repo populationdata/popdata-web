@@ -4,3 +4,9 @@ fr:
   title: Maldives - Meemu
 en:
   title: Maldives - Meemu
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Meemu_Atoll.png'
+source: Wikipédia
+type: image

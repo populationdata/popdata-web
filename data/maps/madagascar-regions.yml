@@ -4,3 +4,10 @@ fr:
   title: Madagascar - régions
 en:
   title: Madagascar - régions
+continents: []
+countries:
+  - madagascar
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Madagascar-regions.png
+source: Wikipédia
+type: image

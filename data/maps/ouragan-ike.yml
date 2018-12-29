@@ -4,3 +4,8 @@ fr:
   title: Ouragan Ike
 en:
   title: Ouragan Ike
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/ouragan-ike-septembre2008.gif'
+source: NOAA
+type: image

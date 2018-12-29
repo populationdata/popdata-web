@@ -4,3 +4,9 @@ fr:
   title: Sahara occidental - petite
 en:
   title: Sahara occidental - petite
+continents: []
+countries:
+  - sahara-occidental
+image: 'http://www.populationdata.net/wp-content/uploads/sahara-occidental-petite.png'
+source: Wikipédia
+type: image

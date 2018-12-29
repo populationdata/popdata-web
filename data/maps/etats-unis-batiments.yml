@@ -3,3 +3,10 @@ date: '2018-10-15T21:39:58.000Z'
 fr:
   title: États-Unis - Bâtiments
 en: null
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/10/Etats-Unis-batiments.jpg
+source: The New York Times
+type: image

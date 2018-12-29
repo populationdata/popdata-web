@@ -4,3 +4,12 @@ fr:
   title: Sydney - routière
 en:
   title: Sydney - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -33.867565
+  longitude: 151.21067
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

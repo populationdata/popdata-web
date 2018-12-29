@@ -4,3 +4,9 @@ fr:
   title: Tchad - topographique
 en:
   title: Tchad - topographique
+continents: []
+countries:
+  - tchad
+image: 'https://www.populationdata.net/wp-content/uploads/Tchad-topographique.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: New York - lumières de la nuit
 en:
   title: New York - lumières de la nuit
+continents: []
+countries:
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/New-York-Nasa.jpg'
+source: Nasa
+type: image

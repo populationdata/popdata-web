@@ -4,3 +4,9 @@ fr:
   title: Mali
 en:
   title: Mali
+continents: []
+countries:
+  - mali
+image: 'http://www.populationdata.net/wp-content/uploads/mali.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Tromelin - topographique
 en:
   title: Tromelin - topographique
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Tromelin-topographique.png
+source: Wikipédia
+type: image

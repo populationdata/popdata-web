@@ -4,3 +4,9 @@ fr:
   title: Tour de France 2007
 en:
   title: Tour de France 2007
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/tourdefrance2007.jpg'
+source: Tour de France
+type: image

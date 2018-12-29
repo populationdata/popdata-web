@@ -4,3 +4,9 @@ fr:
   title: Abkhazie - aérienne
 en:
   title: Abkhazie - aérienne
+continents: []
+countries:
+  - abkhazie
+image: 'http://www.populationdata.net/wp-content/uploads/georgie-abkhazie-suchumi.jpg'
+source: CIA
+type: image

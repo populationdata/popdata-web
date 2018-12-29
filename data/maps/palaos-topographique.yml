@@ -4,3 +4,9 @@ fr:
   title: Palaos - topographique
 en:
   title: Palau - Topographic
+continents: []
+countries:
+  - palaos
+image: 'http://www.populationdata.net/wp-content/uploads/palau2.jpg'
+source: CIA
+type: image

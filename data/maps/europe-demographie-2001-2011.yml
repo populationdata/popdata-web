@@ -4,3 +4,10 @@ fr:
   title: Europe - Démographie (2001-2011)
 en:
   title: Europe - Demography (2001-2011)
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Europe-Demographie-2001-2011.jpg
+source: BBSR Bonn
+type: image

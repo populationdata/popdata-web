@@ -4,3 +4,9 @@ fr:
   title: Corée du Sud
 en:
   title: Corée du Sud
+continents: []
+countries:
+  - coree-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Coree-du-Sud.gif'
+source: Wikipédia
+type: image

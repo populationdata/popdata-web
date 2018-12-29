@@ -4,3 +4,12 @@ fr:
   title: Madrid - satellite
 en:
   title: Madrid - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 40.431792
+  longitude: -3.67527
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

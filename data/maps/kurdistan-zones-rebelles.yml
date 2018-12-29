@@ -4,3 +4,13 @@ fr:
   title: Kurdistan - zones rebelles
 en:
   title: Kurdistan - zones rebelles
+continents: []
+countries:
+  - kurdistan
+  - syrie
+  - iran
+  - irak
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/kurdistan-zones-rebelles.jpg'
+source: CIA
+type: image

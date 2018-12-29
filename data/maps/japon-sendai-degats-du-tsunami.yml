@@ -4,3 +4,10 @@ fr:
   title: 'Japon - Sendai : dégâts du tsunami'
 en:
   title: 'Japon - Sendai : dégâts du tsunami'
+continents: []
+countries:
+  - japon
+image: >-
+  http://www.populationdata.net/wp-content/uploads/japon-sendai-tsunami-dommages.jpg
+source: Nasa Earth Observatory
+type: image

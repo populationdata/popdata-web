@@ -4,3 +4,12 @@ fr:
   title: Suez - satellite
 en:
   title: Suez - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 29.960884
+  longitude: 32.514725
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

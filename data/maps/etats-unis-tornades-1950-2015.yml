@@ -4,3 +4,9 @@ fr:
   title: États-Unis - tornades (1950-2015)
 en:
   title: États-Unis - tornades (1950-2015)
+continents: []
+countries:
+  - etats-unis
+image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-tornades-50-15.jpg'
+source: Nasa Earth Observatory
+type: image

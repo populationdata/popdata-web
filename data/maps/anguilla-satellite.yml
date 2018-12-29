@@ -4,3 +4,13 @@ fr:
   title: Anguilla - satellite
 en:
   title: Anguilla - satellite
+continents: []
+countries:
+  - anguilla
+gmaps:
+  latitude: 18.225275
+  longitude: -63.096542
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

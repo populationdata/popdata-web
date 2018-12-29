@@ -4,3 +4,9 @@ fr:
   title: Somalie - climat
 en:
   title: Somalie - climat
+continents: []
+countries:
+  - somalie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Somalie-climat.png'
+source: Wikipédia
+type: image

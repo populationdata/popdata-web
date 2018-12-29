@@ -4,3 +4,8 @@ fr:
   title: 'Monde - ONU : Pays membres'
 en:
   title: 'Monde - ONU : Pays membres'
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-onu.png'
+source: Wikipédia
+type: image

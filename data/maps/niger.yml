@@ -4,3 +4,9 @@ fr:
   title: Niger
 en:
   title: Niger
+continents: []
+countries:
+  - niger
+image: 'http://www.populationdata.net/wp-content/uploads/niger.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'Bulgarie - montagnes de Rila, Pirin, Rhodopes'
 en:
   title: 'Bulgarie - montagnes de Rila, Pirin, Rhodopes'
+continents: []
+countries:
+  - bulgarie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Bulgarie-Rila-Pirin-Rhodopes.jpg
+source: Wikipédia
+type: image

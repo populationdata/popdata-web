@@ -4,3 +4,12 @@ fr:
   title: La Mecque - satellite
 en:
   title: La Mecque - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 21.415678
+  longitude: 39.825954
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

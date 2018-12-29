@@ -4,3 +4,9 @@ fr:
   title: Suède - relief
 en:
   title: Suède - relief
+continents: []
+countries:
+  - suede
+image: 'http://www.populationdata.net/wp-content/uploads/suede_relief.jpg'
+source: CIA
+type: image

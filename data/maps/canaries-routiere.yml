@@ -4,3 +4,13 @@ fr:
   title: Canaries - routière
 en:
   title: Canaries - routière
+continents: []
+countries:
+  - canaries
+gmaps:
+  latitude: 28.550504
+  longitude: -15.979331
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

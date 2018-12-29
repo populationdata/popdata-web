@@ -4,3 +4,12 @@ fr:
   title: 'Russie : séisme de magnitude 7 dans l''Extrême-Orient'
 en:
   title: 'Russie : séisme de magnitude 7 dans l''Extrême-Orient'
+continents: []
+countries: []
+gmaps:
+  latitude: 54.1824
+  longitude: 154.3095
+  type: terrain
+  zoom: 5
+source: USGS - Earthquake Hazards Program
+type: gmaps

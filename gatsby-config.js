@@ -69,5 +69,7 @@ module.exports = {
   mapping: {
     'SubcontinentsYaml.continent': `ContinentsYaml.title`,
     'CountriesYaml.subcontinent': `SubcontinentsYaml.title`,
+    'MapsYaml.continents': `ContinentsYaml.title`,
+    'MapsYaml.countries': `CountriesYaml.title`,
   },
 }

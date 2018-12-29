@@ -4,3 +4,9 @@ fr:
   title: Mozambique - petite
 en:
   title: Mozambique - petite
+continents: []
+countries:
+  - mozambique
+image: 'http://www.populationdata.net/wp-content/uploads/mozambique-petite.png'
+source: Wikipédia
+type: image

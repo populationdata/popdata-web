@@ -4,3 +4,9 @@ fr:
   title: Comores - Mohéli
 en:
   title: Comores - Mohéli
+continents: []
+countries:
+  - comores
+image: 'http://www.populationdata.net/wp-content/uploads/comores-moheli.png'
+source: Wikipédia
+type: image

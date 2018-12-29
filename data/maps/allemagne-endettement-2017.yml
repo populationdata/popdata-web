@@ -3,3 +3,10 @@ date: '2017-11-14T19:31:31.000Z'
 fr:
   title: Allemagne - endettement (2017)
 en: null
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/11/Allemagne-endettement.jpg
+source: 'Creditreform, Boniversum, Microm, Süddeutsche Zeitung'
+type: image

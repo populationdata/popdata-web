@@ -4,3 +4,13 @@ fr:
   title: Cameroun - relief
 en:
   title: Cameroun - relief
+continents: []
+countries:
+  - cameroun
+gmaps:
+  latitude: 6.457234
+  longitude: 12.403564
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

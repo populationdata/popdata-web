@@ -4,3 +4,8 @@ fr:
   title: Koror - topographique
 en:
   title: Koror - topographique
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/palau_oreor.jpg'
+source: CIA
+type: image

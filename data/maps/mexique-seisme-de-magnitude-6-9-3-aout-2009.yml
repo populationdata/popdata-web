@@ -4,3 +4,13 @@ fr:
   title: Mexique - séisme de magnitude 6.9 (3 août 2009)
 en:
   title: Mexique - séisme de magnitude 6.9 (3 août 2009)
+continents: []
+countries:
+  - mexique
+gmaps:
+  latitude: 29.0655
+  longitude: -112.8708
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

@@ -4,3 +4,8 @@ fr:
   title: ImagesSat - le monde en satellite
 en:
   title: ImagesSat - le monde en satellite
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-satellite-2010.jpg'
+source: Nasa Earth Observatory
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Bursa - routière
 en:
   title: Bursa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 40.235802
+  longitude: 29.056858
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

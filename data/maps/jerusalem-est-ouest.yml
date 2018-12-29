@@ -4,3 +4,10 @@ fr:
   title: Jérusalem - Est-Ouest
 en:
   title: Jérusalem - Est-Ouest
+continents: []
+countries:
+  - israel
+  - palestine
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Jerusalem.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Dominique - satellite
 en:
   title: Dominique - satellite
+continents: []
+countries:
+  - dominique
+gmaps:
+  latitude: 15.451033
+  longitude: -61.370316
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

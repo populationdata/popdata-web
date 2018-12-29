@@ -4,3 +4,9 @@ fr:
   title: Afrique du Sud - administrative
 en:
   title: South Africa - Administrative
+continents: []
+countries:
+  - afrique-du-sud
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-du-sud-provinces.jpg'
+source: CIA
+type: image

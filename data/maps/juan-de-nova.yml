@@ -4,3 +4,9 @@ fr:
   title: Juan de Nova
 en:
   title: Juan de Nova
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Juan_de_Nova.jpg'
+source: Wikipédia
+type: image

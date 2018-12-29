@@ -4,3 +4,10 @@ fr:
   title: Iran - ethnies et religions
 en:
   title: Iran - ethnies et religions
+continents: []
+countries:
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Iran-ethnies-religions.png
+source: Wikipédia
+type: image

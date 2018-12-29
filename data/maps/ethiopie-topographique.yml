@@ -4,3 +4,10 @@ fr:
   title: Éthiopie - topographique
 en:
   title: Éthiopie - topographique
+continents: []
+countries:
+  - ethiopie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Ethiopie-topographique.jpg
+source: Wikipédia
+type: image

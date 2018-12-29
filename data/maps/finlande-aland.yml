@@ -4,3 +4,9 @@ fr:
   title: Finlande - Åland
 en:
   title: Finlande - Åland
+continents: []
+countries:
+  - finlande
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Finlande-Aland.png'
+source: Wikipédia
+type: image

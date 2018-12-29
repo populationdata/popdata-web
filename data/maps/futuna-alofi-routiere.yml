@@ -4,3 +4,13 @@ fr:
   title: Futuna et Alofi - routière
 en:
   title: Futuna et Alofi - routière
+continents: []
+countries:
+  - wallis-et-futuna
+gmaps:
+  latitude: -14.3
+  longitude: -178.1
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

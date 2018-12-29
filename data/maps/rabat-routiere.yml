@@ -4,3 +4,12 @@ fr:
   title: Rabat - routière
 en:
   title: Rabat - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 34.017665
+  longitude: -6.834183
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

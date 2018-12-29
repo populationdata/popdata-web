@@ -4,3 +4,12 @@ fr:
   title: Lille - satellite
 en:
   title: Lille - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 50.650114
+  longitude: 3.091965
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: 'Papouasie-Nouvelle-Guinée : sésisme de magnitude 6.1 (12 mai 2009)'
 en:
   title: 'Papouasie-Nouvelle-Guinée : sésisme de magnitude 6.1 (12 mai 2009)'
+continents: []
+countries:
+  - papouasie-nouvelle-guinee
+gmaps:
+  latitude: -5.6367
+  longitude: 149.565
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

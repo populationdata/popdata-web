@@ -4,3 +4,10 @@ fr:
   title: Suriname - topographique
 en:
   title: Suriname - topographique
+continents: []
+countries:
+  - suriname
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Suriname-topographique.png
+source: Wikipédia
+type: image

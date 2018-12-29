@@ -4,3 +4,12 @@ fr:
   title: Darwin - satellite
 en:
   title: Darwin - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -12.439929
+  longitude: 130.867596
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

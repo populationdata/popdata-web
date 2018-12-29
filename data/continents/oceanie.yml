@@ -4,6 +4,7 @@ fr:
   name: Océanie
 en:
   name: Oceania
+datamapScope: oceania
 gdpYear: 2014
 numberOfTimeZones: 12
 lifeExpectancy: 75

@@ -4,3 +4,9 @@ fr:
   title: France (1920)
 en:
   title: France (1920)
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/France-1920.png'
+source: Wikipédia
+type: image

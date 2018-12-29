@@ -4,3 +4,16 @@ fr:
   title: G7 - pays membres
 en:
   title: G7 - Member countries
+continents: []
+countries:
+  - allemagne
+  - canada
+  - etats-unis
+  - france
+  - japon
+  - italie
+  - royaume-uni
+  - russie
+image: 'http://www.populationdata.net/wp-content/uploads/G7-1.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Argentine - densité (2010)
 en:
   title: Argentine - densité (2010)
+continents: []
+countries:
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/argentine-densite-2010.png
+source: INDEC
+type: image

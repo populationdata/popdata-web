@@ -4,3 +4,12 @@ fr:
   title: Bristol - satellite
 en:
   title: Bristol - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.46791
+  longitude: -2.582711
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

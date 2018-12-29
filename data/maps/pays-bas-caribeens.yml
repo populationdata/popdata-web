@@ -4,3 +4,10 @@ fr:
   title: Pays-Bas caribéens
 en:
   title: Pays-Bas caribéens
+continents: []
+countries:
+  - pays-bas-caribeens
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Pays-Bas-caraibeens.png
+source: Wikipédia
+type: image

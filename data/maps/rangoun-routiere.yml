@@ -4,3 +4,12 @@ fr:
   title: Rangoun - routière
 en:
   title: Rangoun - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 16.804541
+  longitude: 96.149254
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

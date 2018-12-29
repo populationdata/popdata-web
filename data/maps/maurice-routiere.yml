@@ -4,3 +4,13 @@ fr:
   title: Maurice - routière
 en:
   title: Maurice - routière
+continents: []
+countries:
+  - maurice
+gmaps:
+  latitude: -20.269283
+  longitude: 57.609558
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

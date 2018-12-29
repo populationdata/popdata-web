@@ -4,3 +4,13 @@ fr:
   title: Yémen - satellite
 en:
   title: Yémen - satellite
+continents: []
+countries:
+  - yemen
+gmaps:
+  latitude: 15.714568
+  longitude: 48
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

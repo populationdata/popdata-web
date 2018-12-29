@@ -4,3 +4,10 @@ fr:
   title: Afrique – Risques de glissement de terrain
 en:
   title: Afrique – Risques de glissement de terrain
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Afrique-Glissement-de-terrain-2000-2013.jpg
+source: Nasa Earth Observatory
+type: image

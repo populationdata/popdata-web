@@ -4,3 +4,9 @@ fr:
   title: Pays-Bas - provinces
 en:
   title: Pays-Bas - provinces
+continents: []
+countries:
+  - pays-bas
+image: 'https://www.populationdata.net/wp-content/uploads/Pays-Bas-provinces.png'
+source: Wikipédia
+type: image

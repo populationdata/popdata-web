@@ -4,3 +4,12 @@ fr:
   title: Achgabat - routière
 en:
   title: Achgabat - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 37.991834
+  longitude: 58.285904
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

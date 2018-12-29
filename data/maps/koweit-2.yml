@@ -4,3 +4,9 @@ fr:
   title: Koweït
 en:
   title: Koweït
+continents: []
+countries:
+  - koweit
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Koweit.jpg'
+source: Wikipédia
+type: image

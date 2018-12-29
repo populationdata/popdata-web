@@ -4,3 +4,9 @@ fr:
   title: 'Irak - fleuves Tigre, Euphrate et Chatt-el-Arab'
 en:
   title: 'Irak - fleuves Tigre, Euphrate et Chatt-el-Arab'
+continents: []
+countries:
+  - irak
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/irak-fleuves.png'
+source: Hist-Geo.com
+type: image

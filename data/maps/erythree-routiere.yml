@@ -4,3 +4,13 @@ fr:
   title: Érythrée - routière
 en:
   title: Érythrée - routière
+continents: []
+countries:
+  - erythree
+gmaps:
+  latitude: 15.337167
+  longitude: 40.220947
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Malaisie - zones de recherches du vol MH370
 en:
   title: Malaisie - zones de recherches du vol MH370
+continents: []
+countries:
+  - malaisie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/malaisie-zone-recherches-vol-mh370.png
+source: Wall Street Journal
+type: image

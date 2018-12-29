@@ -4,3 +4,9 @@ fr:
   title: Ouganda - régions
 en:
   title: Ouganda - régions
+continents: []
+countries:
+  - ouganda
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Ouganda-regions.png'
+source: Wikipédia
+type: image

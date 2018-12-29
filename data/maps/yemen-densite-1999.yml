@@ -4,3 +4,9 @@ fr:
   title: Yémen - densité (1999)
 en:
   title: Yémen - densité (1999)
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen_densite.jpg'
+source: CIA
+type: image

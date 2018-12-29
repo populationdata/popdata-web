@@ -4,3 +4,11 @@ fr:
   title: Géorgie - régions autonomes
 en:
   title: Géorgie - régions autonomes
+continents: []
+countries:
+  - georgie
+  - abkhazie
+  - ossetie-du-sud-alanie
+image: 'http://www.populationdata.net/wp-content/uploads/georgie-regions-autonomes.gif'
+source: Le Monde
+type: image

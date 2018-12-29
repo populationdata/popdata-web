@@ -4,3 +4,12 @@ fr:
   title: Adélaïde - satellite
 en:
   title: Adélaïde - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -34.931823
+  longitude: 138.603172
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

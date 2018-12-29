@@ -4,3 +4,10 @@ fr:
   title: Groenland - réflectivité (évolution 2000-2011)
 en:
   title: Groenland - réflectivité (évolution 2000-2011)
+continents: []
+countries:
+  - groenland
+image: >-
+  https://www.populationdata.net/wp-content/uploads/groenland-reflectivite-2000-2011-1.png
+source: nc
+type: image

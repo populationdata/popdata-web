@@ -4,3 +4,10 @@ fr:
   title: Italie - densité (2011)
 en:
   title: Italie - densité (2011)
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Italie-densite-2011.png
+source: Istat
+type: image

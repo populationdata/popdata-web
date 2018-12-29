@@ -4,3 +4,12 @@ fr:
   title: Stockholm - satellite
 en:
   title: Stockholm - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 59.328111
+  longitude: 18.055515
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Mozambique
 en:
   title: Mozambique
+continents: []
+countries:
+  - mozambique
+image: 'http://www.populationdata.net/wp-content/uploads/mozambique.jpg'
+source: CIA
+type: image

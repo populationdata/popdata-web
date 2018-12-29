@@ -4,3 +4,12 @@ fr:
   title: Lyon - satellite
 en:
   title: Lyon - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 45.756984
+  longitude: 4.856644
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

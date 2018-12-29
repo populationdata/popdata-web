@@ -4,3 +4,9 @@ fr:
   title: France - TGV (2017)
 en:
   title: France - TGV (2017)
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/France-TGV-2017.png'
+source: Wikipédia
+type: image

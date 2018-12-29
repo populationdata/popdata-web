@@ -4,3 +4,8 @@ fr:
   title: Monde - Déserts
 en:
   title: Monde - Déserts
+continents: []
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/monde-deserts.png'
+source: Wikipédia
+type: image

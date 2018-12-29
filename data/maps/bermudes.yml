@@ -4,3 +4,9 @@ fr:
   title: Bermudes
 en:
   title: Bermudes
+continents: []
+countries:
+  - bermudes
+image: 'http://www.populationdata.net/wp-content/uploads/bermudes.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Israël - districts
 en:
   title: Israël - districts
+continents: []
+countries:
+  - israel
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Israel_districts.png'
+source: Wikipédia
+type: image

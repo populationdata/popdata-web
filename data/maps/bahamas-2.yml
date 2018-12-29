@@ -4,3 +4,9 @@ fr:
   title: Bahamas
 en:
   title: Bahamas
+continents: []
+countries:
+  - bahamas
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Bahamas.png'
+source: Wikipédia
+type: image

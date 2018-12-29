@@ -4,3 +4,13 @@ fr:
   title: Samoa - satellite
 en:
   title: Samoa - satellite
+continents: []
+countries:
+  - samoa
+gmaps:
+  latitude: -13.750057
+  longitude: -172.194214
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

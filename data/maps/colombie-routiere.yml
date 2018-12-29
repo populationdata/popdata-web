@@ -4,3 +4,13 @@ fr:
   title: Colombie - routière
 en:
   title: Colombie - routière
+continents: []
+countries:
+  - colombie
+gmaps:
+  latitude: 4.183392
+  longitude: -73.287572
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

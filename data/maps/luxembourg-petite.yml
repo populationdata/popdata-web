@@ -4,3 +4,9 @@ fr:
   title: Luxembourg - petite
 en:
   title: Luxembourg - petite
+continents: []
+countries:
+  - luxembourg
+image: 'http://www.populationdata.net/wp-content/uploads/luxembourg-petite.png'
+source: Wikipédia
+type: image

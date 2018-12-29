@@ -4,3 +4,9 @@ fr:
   title: Îles Anglo-Normandes – Jersey et Guernesey
 en:
   title: Îles Anglo-Normandes – Jersey et Guernesey
+continents: []
+countries:
+  - iles-anglo-normandes-jersey-et-guernesey
+image: 'https://www.populationdata.net/wp-content/uploads/Iles-Anglo-Normandes.png'
+source: Wikipédia
+type: image

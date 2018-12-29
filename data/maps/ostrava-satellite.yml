@@ -4,3 +4,12 @@ fr:
   title: Ostrava - satellite
 en:
   title: Ostrava - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 49.810518
+  longitude: 18.299103
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

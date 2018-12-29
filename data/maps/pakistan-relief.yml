@@ -4,3 +4,9 @@ fr:
   title: Pakistan - relief
 en:
   title: Pakistan - relief
+continents: []
+countries:
+  - pakistan
+image: 'http://www.populationdata.net/wp-content/uploads/pakistan_relief.jpg'
+source: CIA
+type: image

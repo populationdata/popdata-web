@@ -4,3 +4,9 @@ fr:
   title: Lettonie - sols
 en:
   title: Lettonie - sols
+continents: []
+countries:
+  - lettonie
+image: 'http://www.populationdata.net/wp-content/uploads/lettonie-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

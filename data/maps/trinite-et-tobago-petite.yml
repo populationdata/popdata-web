@@ -4,3 +4,9 @@ fr:
   title: Trinité-et-Tobago - petite
 en:
   title: Trinité-et-Tobago - petite
+continents: []
+countries:
+  - trinite-et-tobago
+image: 'http://www.populationdata.net/wp-content/uploads/trinite-et-tobago-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Maghreb - hydrocarbures
 en:
   title: Maghreb - hydrocarbures
+continents:
+  - afrique
+countries:
+  - maroc
+  - algerie
+  - tunisie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/maghreb-hydrocarbures.jpg
+source: Wikipédia
+type: image

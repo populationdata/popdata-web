@@ -4,3 +4,10 @@ fr:
   title: Bahamas - districts
 en:
   title: Bahamas - districts
+continents: []
+countries:
+  - bahamas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Bahamas-districts.png
+source: Wikipédia
+type: image

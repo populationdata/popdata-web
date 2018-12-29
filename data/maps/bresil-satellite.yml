@@ -4,3 +4,13 @@ fr:
   title: Brésil - satellite
 en:
   title: Brésil - satellite
+continents: []
+countries:
+  - bresil
+gmaps:
+  latitude: -14.944785
+  longitude: -52.998047
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

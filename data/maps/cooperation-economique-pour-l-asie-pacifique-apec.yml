@@ -4,3 +4,11 @@ fr:
   title: Coopération économique pour l'Asie-Pacifique (APEC)
 en:
   title: Coopération économique pour l'Asie-Pacifique (APEC)
+continents:
+  - ameriques
+  - asie
+  - oceanie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/apec.png'
+source: Wikipédia
+type: image

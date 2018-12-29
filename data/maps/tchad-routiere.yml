@@ -4,3 +4,13 @@ fr:
   title: Tchad - routière
 en:
   title: Tchad - routière
+continents: []
+countries:
+  - tchad
+gmaps:
+  latitude: 16.130262
+  longitude: 18.588867
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

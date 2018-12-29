@@ -4,3 +4,10 @@ fr:
   title: Somalie - administrative
 en:
   title: Somalie - administrative
+continents: []
+countries:
+  - somalie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Somalie-administrative.png
+source: Wikipédia
+type: image

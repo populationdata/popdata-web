@@ -4,3 +4,12 @@ fr:
   title: Beijing 2008 - carte des sites olympiques
 en:
   title: Beijing 2008 - carte des sites olympiques
+continents: []
+countries: []
+gmaps:
+  latitude: 40.000597
+  longitude: 116.39843
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: France - pauvreté (2015)
 en:
   title: France - pauvreté (2015)
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-pauvrete-2015.png'
+source: Insee
+type: image

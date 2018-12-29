@@ -4,3 +4,9 @@ fr:
   title: États-Unis - train Acela
 en:
   title: États-Unis - train Acela
+continents: []
+countries:
+  - etats-unis
+image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-train-acela.png'
+source: Wikipédia
+type: image

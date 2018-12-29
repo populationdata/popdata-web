@@ -4,3 +4,12 @@ fr:
   title: Nyala - satellite
 en:
   title: Nyala - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 12.056612
+  longitude: 24.880772
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

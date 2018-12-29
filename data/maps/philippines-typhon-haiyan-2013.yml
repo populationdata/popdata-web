@@ -4,3 +4,9 @@ fr:
   title: Philippines - Typhon Haiyan (2013)
 en:
   title: Philippines - Typhon Haiyan (2013)
+continents: []
+countries:
+  - philippines
+image: 'http://www.populationdata.net/wp-content/uploads/typhon-haiyan-philippines.jpg'
+source: Nasa Earth Observatory
+type: image

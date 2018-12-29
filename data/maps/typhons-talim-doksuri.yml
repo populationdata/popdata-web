@@ -4,3 +4,14 @@ fr:
   title: Typhons Talim et Doksuri (13 septembre 2017)
 en:
   title: Typhons Talim et Doksuri (13 septembre 2017)
+continents:
+  - asie
+countries:
+  - taiwan
+  - philippines
+  - viet-nam
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Cyclones-Talim-Doksuri-septembre-2017.jpg
+source: Nasa Earth Observatory
+type: image

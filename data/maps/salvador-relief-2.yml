@@ -4,3 +4,13 @@ fr:
   title: Salvador - relief
 en:
   title: Salvador - relief
+continents: []
+countries:
+  - salvador
+gmaps:
+  latitude: 13.790071
+  longitude: -88.764038
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

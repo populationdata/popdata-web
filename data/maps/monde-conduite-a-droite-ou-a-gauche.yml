@@ -4,3 +4,9 @@ fr:
   title: Monde - Conduite à droite ou à gauche
 en:
   title: Monde - Conduite à droite ou à gauche
+continents: []
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/monde-pays-conduite-droite-gauche.png
+source: 'Wikipédia (rouge à droite, bleu à gauche)'
+type: image

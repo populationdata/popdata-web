@@ -4,3 +4,13 @@ fr:
   title: Japon - séisme de magnitude 7.0 à Okinawa (27 février 2010)
 en:
   title: Japon - séisme de magnitude 7.0 à Okinawa (27 février 2010)
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 25.9507
+  longitude: 128.4012
+  type: terrain
+  zoom: 5
+source: USGS - Earthquake Hazards Program
+type: gmaps

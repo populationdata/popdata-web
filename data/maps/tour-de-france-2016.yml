@@ -4,3 +4,9 @@ fr:
   title: Tour de France 2016
 en:
   title: Tour de France 2016
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/Tour-de-France-2016.jpg'
+source: Letour.fr
+type: image

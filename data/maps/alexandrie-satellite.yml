@@ -4,3 +4,12 @@ fr:
   title: Alexandrie - satellite
 en:
   title: Alexandrie - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 31.184756
+  longitude: 29.892254
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

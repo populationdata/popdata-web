@@ -4,3 +4,9 @@ fr:
   title: Rwanda - petite
 en:
   title: Rwanda - petite
+continents: []
+countries:
+  - rwanda
+image: 'http://www.populationdata.net/wp-content/uploads/rwanda-petite.png'
+source: Wikipédia
+type: image

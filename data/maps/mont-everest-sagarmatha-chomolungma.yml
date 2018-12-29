@@ -4,3 +4,11 @@ fr:
   title: Mont Everest - Sagarmatha - Chomolungma
 en:
   title: Mont Everest - Sagarmatha - Chomolungma
+continents: []
+countries:
+  - inde
+  - chine
+  - nepal
+image: 'http://www.populationdata.net/wp-content/uploads/nepal-everest.gif'
+source: Wikipédia
+type: image

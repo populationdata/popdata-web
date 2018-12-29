@@ -4,3 +4,13 @@ fr:
   title: Rotterdam - routière
 en:
   title: Rotterdam - routière
+continents: []
+countries:
+  - pays-bas
+gmaps:
+  latitude: 51.934952
+  longitude: 4.426117
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

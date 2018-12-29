@@ -4,3 +4,9 @@ fr:
   title: Congo - trains
 en:
   title: Congo - trains
+continents: []
+countries:
+  - congo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Congo-trains.png'
+source: Wikipédia
+type: image

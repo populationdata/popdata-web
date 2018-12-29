@@ -4,3 +4,9 @@ fr:
   title: Uruguay - petite
 en:
   title: Uruguay - petite
+continents: []
+countries:
+  - uruguay
+image: 'http://www.populationdata.net/wp-content/uploads/uruguay_petite.gif'
+source: CIA
+type: image

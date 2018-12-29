@@ -4,3 +4,10 @@ fr:
   title: Antarctique - petite
 en:
   title: Antarctique - petite
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: 'https://www.populationdata.net/wp-content/uploads/Antarctique.png'
+source: Wikipédia
+type: image

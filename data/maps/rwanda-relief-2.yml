@@ -4,3 +4,9 @@ fr:
   title: Rwanda - relief
 en:
   title: Rwanda - relief
+continents: []
+countries:
+  - rwanda
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Rwanda_relief.jpg'
+source: Wikipédia
+type: image

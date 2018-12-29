@@ -4,3 +4,13 @@ fr:
   title: Estonie - routière
 en:
   title: Estonie - routière
+continents: []
+countries:
+  - estonie
+gmaps:
+  latitude: 58.671226
+  longitude: 25.059814
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

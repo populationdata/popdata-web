@@ -4,3 +4,9 @@ fr:
   title: Canada - eau douce (1971-2013)
 en:
   title: Canada - eau douce (1971-2013)
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Canada-eau-douce.png'
+source: Statistique Canada
+type: image

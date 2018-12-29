@@ -4,3 +4,10 @@ fr:
   title: Téhéran - topographique
 en:
   title: Téhéran - topographique
+continents: []
+countries:
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/teheran-topographique.jpg
+source: Wikipédia
+type: image

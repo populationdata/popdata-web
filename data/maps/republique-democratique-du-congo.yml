@@ -4,3 +4,10 @@ fr:
   title: République démocratique du Congo
 en:
   title: République démocratique du Congo
+continents: []
+countries:
+  - republique-democratique-du-congo
+image: >-
+  http://www.populationdata.net/wp-content/uploads/republique-democratique-du-congo.jpg
+source: CIA
+type: image

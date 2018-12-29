@@ -4,3 +4,9 @@ fr:
   title: Panama - densité (2010)
 en:
   title: Panama - densité (2010)
+continents: []
+countries:
+  - panama
+image: 'https://www.populationdata.net/wp-content/uploads/Panama-densite-2010.png'
+source: Institut national de statistique du Panama
+type: image

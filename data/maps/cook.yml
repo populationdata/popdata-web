@@ -4,3 +4,9 @@ fr:
   title: Cook
 en:
   title: Cook
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook.png'
+source: Wikipédia
+type: image

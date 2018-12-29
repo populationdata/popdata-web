@@ -4,3 +4,9 @@ fr:
   title: Océanie centrale
 en:
   title: Océanie centrale
+continents:
+  - oceanie
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2017/09/Oceanie-centrale.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Varsovie - satellite
 en:
   title: Varsovie - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 52.242097
+  longitude: 21.002083
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

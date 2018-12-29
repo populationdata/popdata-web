@@ -4,3 +4,13 @@ fr:
   title: Dallas - routière
 en:
   title: Dallas - routière
+continents: []
+countries:
+  - etats-unis
+gmaps:
+  latitude: 32.803436
+  longitude: -97.006531
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

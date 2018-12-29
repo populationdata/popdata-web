@@ -4,3 +4,9 @@ fr:
   title: Palaos - petite
 en:
   title: Palau - Small
+continents: []
+countries:
+  - palaos
+image: 'http://www.populationdata.net/wp-content/uploads/palau-petite.gif'
+source: CIA
+type: image

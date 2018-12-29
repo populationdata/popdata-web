@@ -4,3 +4,15 @@ fr:
   title: Amérique du Sud - Kali'na
 en:
   title: Amérique du Sud - Kali'na
+continents:
+  - ameriques
+countries:
+  - guyana
+  - suriname
+  - guyane
+  - venezuela
+  - bresil
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Amerique-du-Sud-Kalina.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Kenya
 en:
   title: Kenya
+continents: []
+countries:
+  - kenya
+image: 'http://www.populationdata.net/wp-content/uploads/kenya.jpg'
+source: CIA
+type: image

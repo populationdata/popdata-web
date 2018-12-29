@@ -4,3 +4,9 @@ fr:
   title: Allemagne - densité
 en:
   title: Allemagne - densité
+continents: []
+countries:
+  - allemagne
+image: 'http://www.populationdata.net/wp-content/uploads/allemagne_densite.gif'
+source: Francis Monthé
+type: image

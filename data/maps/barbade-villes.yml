@@ -4,3 +4,9 @@ fr:
   title: Barbade - villes
 en:
   title: Barbade - villes
+continents: []
+countries:
+  - barbade
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Barbade.jpg'
+source: Wikipédia
+type: image

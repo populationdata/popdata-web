@@ -6,26 +6,31 @@ import { geo, scale } from 'd3'
 const CUSTOM_SCOPES_PROJECTION = {
   africa: {
     center: [23, -3],
+    projection: 'equirectangular',
     rotate: [4.4, 0],
     scale: 250,
   },
   america: {
     center: [-85, 0],
+    projection: 'equirectangular',
     rotate: [0, 0],
     scale: 150,
   },
   asia: {
     center: [85, 25],
+    projection: 'equirectangular',
     rotate: [0, 0],
     scale: 280,
   },
   europa: {
     center: [50, 50],
+    projection: 'mercator',
     rotate: [0, 0],
     scale: 250,
   },
   oceania: {
     center: [150, -25],
+    projection: 'equirectangular',
     rotate: [0, 0],
     scale: 280,
   },
@@ -77,8 +82,7 @@ class DataMap extends React.Component {
       const customScopeParameters =
         CUSTOM_SCOPES_PROJECTION[dataMapsProps.scope]
       dataMapsProps.setProjection = element => {
-        let projection = geo
-          .equirectangular()
+        let projection = geo[customScopeParameters.projection]()
           .center(customScopeParameters.center)
           .rotate(customScopeParameters.rotate)
           .scale(customScopeParameters.scale)

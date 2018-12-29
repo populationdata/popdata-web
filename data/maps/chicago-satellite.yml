@@ -4,3 +4,12 @@ fr:
   title: Chicago - satellite
 en:
   title: Chicago - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 41.870583
+  longitude: -87.687378
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,11 @@ fr:
   title: Afghanistan - zones d'influence des Talibans
 en:
   title: Afghanistan - zones d'influence des Talibans
+continents: []
+countries:
+  - afghanistan
+  - pakistan
+image: >-
+  http://www.populationdata.net/wp-content/uploads/afghanistan-talibans-zones-influence.gif
+source: Le Monde
+type: image

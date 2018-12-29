@@ -4,3 +4,12 @@ fr:
   title: Mogadiscio - satellite
 en:
   title: Mogadiscio - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 2.050915
+  longitude: 45.33783
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

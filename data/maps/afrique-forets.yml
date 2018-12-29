@@ -4,3 +4,9 @@ fr:
   title: Afrique - Forêts
 en:
   title: Afrique - Forêts
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/forets_afrique.gif'
+source: nc
+type: image

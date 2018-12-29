@@ -4,3 +4,9 @@ fr:
   title: Mongolie - régions (aïmag)
 en:
   title: Mongolie - régions (aïmag)
+continents: []
+countries:
+  - mongolie
+image: 'https://www.populationdata.net/wp-content/uploads/Mongolie-aimag.png'
+source: Wikipédia
+type: image

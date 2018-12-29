@@ -4,3 +4,12 @@ fr:
   title: Saint-Denis - routière
 en:
   title: Saint-Denis - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -20.895246
+  longitude: 55.468155
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

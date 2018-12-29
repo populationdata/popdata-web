@@ -4,3 +4,12 @@ fr:
   title: Timișoara - routière
 en:
   title: Timișoara - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 45.757408
+  longitude: 21.22982
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

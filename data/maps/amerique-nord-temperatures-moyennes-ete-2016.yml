@@ -4,3 +4,10 @@ fr:
   title: Amérique du Nord - températures moyennes (été 2016)
 en:
   title: Amérique du Nord - températures moyennes (été 2016)
+continents:
+  - ameriques
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Amerique-du-Nord-temperatures-moyennes-ete-2016.jpg
+source: Nasa Earth Observatory
+type: image

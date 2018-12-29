@@ -4,3 +4,10 @@ fr:
   title: Chypre - districts administratifs (officiels et reconnus)
 en:
   title: Chypre - districts administratifs (officiels et reconnus)
+continents: []
+countries:
+  - chypre
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Chypre-districts-administratifs.jpg
+source: Wikipédia
+type: image

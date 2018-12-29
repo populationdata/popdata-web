@@ -4,3 +4,13 @@ fr:
   title: Guyana - routière
 en:
   title: Guyana - routière
+continents: []
+countries:
+  - guyana
+gmaps:
+  latitude: 4.926779
+  longitude: -58.64502
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

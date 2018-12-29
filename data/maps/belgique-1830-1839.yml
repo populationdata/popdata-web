@@ -4,3 +4,10 @@ fr:
   title: Belgique (1830-1839)
 en:
   title: Belgique (1830-1839)
+continents: []
+countries:
+  - belgique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Belgique-1830-1839.jpg
+source: Wikipédia
+type: image

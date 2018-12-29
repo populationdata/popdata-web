@@ -4,3 +4,11 @@ fr:
   title: 'Antarctique - Glaces : vélocité'
 en:
   title: 'Antarctique - Glaces : vélocité'
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/antarctique-glaces-velocite.jpg
+source: Nasa
+type: image

@@ -4,3 +4,13 @@ fr:
   title: République dominicaine - routière
 en:
   title: République dominicaine - routière
+continents: []
+countries:
+  - republique-dominicaine
+gmaps:
+  latitude: 18.903688
+  longitude: -70.389404
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

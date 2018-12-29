@@ -4,3 +4,12 @@ fr:
   title: Hyderâbâd - satellite
 en:
   title: Hyderâbâd - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 25.389861
+  longitude: 68.368594
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

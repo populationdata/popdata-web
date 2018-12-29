@@ -4,3 +4,12 @@ fr:
   title: Mer Méditerranée - topographique
 en:
   title: Mer Méditerranée - topographique
+continents:
+  - afrique
+  - asie
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/mediterranee-topographique.png
+source: Wikipédia
+type: image

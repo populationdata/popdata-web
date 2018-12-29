@@ -4,3 +4,9 @@ fr:
   title: Norvège – Svalbard - topographique
 en:
   title: Norvège – Svalbard - topographique
+continents: []
+countries:
+  - norvege
+image: 'https://www.populationdata.net/wp-content/uploads/2016/09/svalbard-norvege.jpg'
+source: Institut polaire norvégien
+type: image

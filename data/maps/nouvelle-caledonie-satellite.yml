@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Calédonie - satellite
 en:
   title: Nouvelle-Calédonie - satellite
+continents: []
+countries:
+  - nouvelle-caledonie
+gmaps:
+  latitude: -21.366129
+  longitude: 166.080322
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

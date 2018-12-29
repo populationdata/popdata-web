@@ -4,3 +4,12 @@ fr:
   title: Hambourg - routière
 en:
   title: Hambourg - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 53.550813
+  longitude: 9.99155
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

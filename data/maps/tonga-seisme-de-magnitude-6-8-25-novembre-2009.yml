@@ -4,3 +4,12 @@ fr:
   title: 'Tonga : séisme de magnitude 6.8 (25 novembre 2009)'
 en:
   title: 'Tonga : séisme de magnitude 6.8 (25 novembre 2009)'
+continents: []
+countries: []
+gmaps:
+  latitude: -20.6408
+  longitude: -174.0681
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

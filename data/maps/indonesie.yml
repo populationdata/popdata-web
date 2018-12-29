@@ -4,3 +4,9 @@ fr:
   title: Indonésie
 en:
   title: Indonésie
+continents: []
+countries:
+  - indonesie
+image: 'http://www.populationdata.net/wp-content/uploads/indonesie.jpg'
+source: CIA
+type: image

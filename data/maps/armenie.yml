@@ -4,3 +4,9 @@ fr:
   title: Arménie
 en:
   title: Arménie
+continents: []
+countries:
+  - armenie
+image: 'http://www.populationdata.net/wp-content/uploads/armenie.jpg'
+source: CIA
+type: image

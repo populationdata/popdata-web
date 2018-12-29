@@ -4,3 +4,9 @@ fr:
   title: Cuba - Guantánamo - base militaire américaine
 en:
   title: 'Cuba - Guantánamo: American military base'
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba_guantanamo.jpg'
+source: CIA
+type: image

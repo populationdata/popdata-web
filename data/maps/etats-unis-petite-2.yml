@@ -4,3 +4,8 @@ fr:
   title: Etats-Unis - petite
 en:
   title: Etats-Unis - petite
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-petite.gif'
+source: CIA
+type: image

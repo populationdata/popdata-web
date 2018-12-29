@@ -4,3 +4,9 @@ fr:
   title: Jordanie
 en:
   title: Jordanie
+continents: []
+countries:
+  - jordanie
+image: 'http://www.populationdata.net/wp-content/uploads/jordanie.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Kiribati - petite
 en:
   title: Kiribati - petite
+continents: []
+countries:
+  - kiribati
+image: 'http://www.populationdata.net/wp-content/uploads/kiribati_petite.gif'
+source: Wikipédia
+type: image

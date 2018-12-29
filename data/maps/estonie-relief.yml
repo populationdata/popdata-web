@@ -4,3 +4,9 @@ fr:
   title: Estonie - relief
 en:
   title: Estonie - relief
+continents: []
+countries:
+  - estonie
+image: 'http://www.populationdata.net/wp-content/uploads/estonie_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Somalie - relief
 en:
   title: Somalie - relief
+continents: []
+countries:
+  - somalie
+image: 'http://www.populationdata.net/wp-content/uploads/somalie_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Mayotte - démographie (2007-2017)
 en:
   title: Paraguay - Rio de la Plata (1600)
+continents: []
+countries:
+  - mayotte
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/12/Mayotte-demographie-2007-2017.png
+source: Insee
+type: image

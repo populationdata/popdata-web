@@ -4,3 +4,12 @@ fr:
   title: Manzini - satellite
 en:
   title: Manzini - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -26.496232
+  longitude: 31.337814
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

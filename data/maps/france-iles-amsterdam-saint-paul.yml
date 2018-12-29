@@ -4,3 +4,11 @@ fr:
   title: France - Îles Amsterdam et Saint-Paul
 en:
   title: France - Îles Amsterdam et Saint-Paul
+continents: []
+countries:
+  - france
+  - terres-australes-antarctiques-francaises
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-Amsterdam-Saint-Paul.jpg
+source: Wikipédia
+type: image

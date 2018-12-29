@@ -4,3 +4,12 @@ fr:
   title: Suez - routière
 en:
   title: Suez - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 29.960884
+  longitude: 32.514725
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: 'Japon - Kitakami : dégâts du tsunami'
 en:
   title: 'Japon - Kitakami : dégâts du tsunami'
+continents: []
+countries:
+  - japon
+image: >-
+  http://www.populationdata.net/wp-content/uploads/japon-kitakami-tsunami-dommages.jpg
+source: Nasa Earth Observatory
+type: image

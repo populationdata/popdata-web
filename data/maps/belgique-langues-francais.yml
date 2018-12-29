@@ -4,3 +4,9 @@ fr:
   title: 'Belgique - langues : français'
 en:
   title: 'Belgique - langues : français'
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-francais.png'
+source: Wikipédia
+type: image

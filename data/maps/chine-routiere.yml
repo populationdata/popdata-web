@@ -4,3 +4,13 @@ fr:
   title: Chine - routière
 en:
   title: Chine - routière
+continents: []
+countries:
+  - chine
+gmaps:
+  latitude: 35.710838
+  longitude: 108.852539
+  type: roadmap
+  zoom: 4
+source: Google Maps
+type: gmaps

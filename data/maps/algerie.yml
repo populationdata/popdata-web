@@ -4,3 +4,9 @@ fr:
   title: Algérie
 en:
   title: Algérie
+continents: []
+countries:
+  - algerie
+image: 'http://www.populationdata.net/wp-content/uploads/algerie_grande.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Kumasi - satellite
 en:
   title: Kumasi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.692228
+  longitude: -1.620827
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

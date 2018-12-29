@@ -4,3 +4,10 @@ fr:
   title: États-Unis - grandes villes
 en:
   title: États-Unis - grandes villes
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Etats-Unis-grandes-villes.png
+source: Wikipédia
+type: image

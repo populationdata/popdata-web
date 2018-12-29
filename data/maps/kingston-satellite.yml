@@ -4,3 +4,12 @@ fr:
   title: Kingston - satellite
 en:
   title: Kingston - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 17.999305
+  longitude: -76.862411
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

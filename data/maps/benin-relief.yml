@@ -4,3 +4,9 @@ fr:
   title: Bénin - relief
 en:
   title: Bénin - relief
+continents: []
+countries:
+  - benin
+image: 'http://www.populationdata.net/wp-content/uploads/benin_relief.gif'
+source: CIA
+type: image

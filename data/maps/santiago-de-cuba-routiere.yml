@@ -4,3 +4,12 @@ fr:
   title: Santiago de Cuba - routière
 en:
   title: Santiago de Cuba - Road map
+continents: []
+countries: []
+gmaps:
+  latitude: 20.019968
+  longitude: -75.839825
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

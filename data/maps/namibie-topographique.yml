@@ -4,3 +4,9 @@ fr:
   title: Namibie - topographique
 en:
   title: Namibie - topographique
+continents: []
+countries:
+  - namibie
+image: 'http://www.populationdata.net/wp-content/uploads/namibie-topo.jpg'
+source: Wikipédia
+type: image

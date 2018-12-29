@@ -3,3 +3,10 @@ date: '2018-06-04T20:41:45.000Z'
 fr:
   title: Europe - Démographie (2007-2016)
 en: null
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/06/Europe-Demographie-2007-2016.png
+source: 'Le Monde diplomatique, Cécile Marin'
+type: image

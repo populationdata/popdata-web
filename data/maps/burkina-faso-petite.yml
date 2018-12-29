@@ -4,3 +4,9 @@ fr:
   title: Burkina Faso - petite
 en:
   title: Burkina Faso - petite
+continents: []
+countries:
+  - burkina-faso
+image: 'http://www.populationdata.net/wp-content/uploads/burkina-faso-petite.png'
+source: Wikipédia
+type: image

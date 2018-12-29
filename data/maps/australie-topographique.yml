@@ -4,3 +4,9 @@ fr:
   title: Australie - topographique
 en:
   title: Australie - topographique
+continents: []
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/Australie-topographique.png'
+source: Wikipédia
+type: image

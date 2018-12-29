@@ -4,3 +4,9 @@ fr:
   title: Ghana - relief
 en:
   title: Ghana - relief
+continents: []
+countries:
+  - ghana
+image: 'http://www.populationdata.net/wp-content/uploads/ghana_relief.jpg'
+source: CIA
+type: image

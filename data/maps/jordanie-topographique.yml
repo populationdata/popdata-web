@@ -4,3 +4,10 @@ fr:
   title: Jordanie - topographique
 en:
   title: Jordanie - topographique
+continents: []
+countries:
+  - jordanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Jordanie-topographique.jpg
+source: Wikipédia
+type: image

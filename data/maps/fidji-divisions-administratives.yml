@@ -4,3 +4,10 @@ fr:
   title: Fidji - divisions administratives
 en:
   title: Fidji - divisions administratives
+continents: []
+countries:
+  - fidji
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Fidji-administrative.png
+source: Wikipédia
+type: image

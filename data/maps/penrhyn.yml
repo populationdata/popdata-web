@@ -4,3 +4,9 @@ fr:
   title: Penrhyn
 en:
   title: Penrhyn
+continents: []
+countries:
+  - cook
+image: 'http://www.populationdata.net/wp-content/uploads/cook-penrhyn.png'
+source: Wikipédia
+type: image

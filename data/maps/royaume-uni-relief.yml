@@ -4,3 +4,13 @@ fr:
   title: Royaume-Uni - relief
 en:
   title: Royaume-Uni - relief
+continents: []
+countries:
+  - royaume-uni
+gmaps:
+  latitude: 54.76267
+  longitude: -1.911621
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

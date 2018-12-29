@@ -4,3 +4,9 @@ fr:
   title: Canada - Nunavut
 en:
   title: Canada - Nunavut
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_nunavut.jpg'
+source: Ressources Naturelles Canada
+type: image

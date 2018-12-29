@@ -4,3 +4,9 @@ fr:
   title: Tchéquie - petite
 en:
   title: Tchéquie - petite
+continents: []
+countries:
+  - tchequie
+image: 'http://www.populationdata.net/wp-content/uploads/republique-tcheque-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Groenland - petite
 en:
   title: Groenland - petite
+continents: []
+countries:
+  - groenland
+image: 'http://www.populationdata.net/wp-content/uploads/groenland-petite.png'
+source: Wikipédia
+type: image

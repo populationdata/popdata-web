@@ -4,3 +4,9 @@ fr:
   title: Colombie - densité
 en:
   title: Colombie - densité
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-densite.png'
+source: Institut national des statistiques
+type: image

@@ -4,3 +4,9 @@ fr:
   title: République centrafricaine - administrative
 en:
   title: République centrafricaine - administrative
+continents: []
+countries:
+  - republique-centrafricaine
+image: 'https://www.populationdata.net/wp-content/uploads/Centrafrique.png'
+source: ONU
+type: image

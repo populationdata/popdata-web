@@ -4,3 +4,13 @@ fr:
   title: Côte d'Ivoire - routière
 en:
   title: Côte d'Ivoire - routière
+continents: []
+countries:
+  - cote-divoire
+gmaps:
+  latitude: 7.231699
+  longitude: -5.273437
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

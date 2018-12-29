@@ -4,3 +4,9 @@ fr:
   title: 'Belgique - langues : allemand'
 en:
   title: 'Belgique - langues : allemand'
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-allemand.png'
+source: Wikipédia
+type: image

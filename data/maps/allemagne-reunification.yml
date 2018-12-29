@@ -4,3 +4,10 @@ fr:
   title: Allemagne - réunification
 en:
   title: Allemagne - réunification
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Allemagne-reunification.png
+source: Wikipédia
+type: image

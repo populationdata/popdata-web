@@ -4,3 +4,9 @@ fr:
   title: Asie - Densité
 en:
   title: Asie - Densité
+continents:
+  - asie
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/asie_densite.gif'
+source: nc
+type: image

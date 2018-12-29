@@ -4,3 +4,12 @@ fr:
   title: Rome - satellite
 en:
   title: Rome - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 41.893844
+  longitude: 12.484932
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

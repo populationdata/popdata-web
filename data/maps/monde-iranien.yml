@@ -4,3 +4,10 @@ fr:
   title: Monde iranien
 en:
   title: Monde iranien
+continents:
+  - asie
+countries:
+  - iran
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Monde-iranien.gif'
+source: Wikipédia
+type: image

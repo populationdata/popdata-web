@@ -4,3 +4,13 @@ fr:
   title: Bangladesh - routière
 en:
   title: Bangladesh - routière
+continents: []
+countries:
+  - bangladesh
+gmaps:
+  latitude: 23.5237
+  longitude: 89.956055
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,18 @@ fr:
   title: Hanse (Ligue hanséatique) et États teutoniques (1300-1400)
 en:
   title: Hanse (Ligue hanséatique) et États teutoniques (1300-1400)
+continents:
+  - europe
+countries:
+  - lettonie
+  - lituanie
+  - pologne
+  - allemagne
+  - estonie
+  - pays-bas
+  - danemark
+  - suede
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Hanse-Ligue-hanseatique-Etats-teutoniques-1300-1400.png
+source: Wikipédia
+type: image

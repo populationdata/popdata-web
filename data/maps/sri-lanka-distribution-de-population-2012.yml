@@ -4,3 +4,9 @@ fr:
   title: Sri Lanka - distribution de la population (2012)
 en:
   title: Sri Lanka - distribution de population (2012)
+continents: []
+countries:
+  - sri-lanka
+image: 'http://www.populationdata.net/wp-content/uploads/sri-lanka-population-2012.jpg'
+source: Département du recensement et des statistiques du Sri Lanka
+type: image

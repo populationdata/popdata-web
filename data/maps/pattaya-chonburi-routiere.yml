@@ -4,3 +4,12 @@ fr:
   title: Pattaya - Chonburi - routière
 en:
   title: Pattaya - Chonburi - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 13.14765
+  longitude: 100.908806
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

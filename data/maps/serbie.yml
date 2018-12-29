@@ -4,3 +4,9 @@ fr:
   title: Serbie
 en:
   title: Serbie
+continents: []
+countries:
+  - serbie
+image: 'http://www.populationdata.net/wp-content/uploads/serbie.gif'
+source: ONU
+type: image

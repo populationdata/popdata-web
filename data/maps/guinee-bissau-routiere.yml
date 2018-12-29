@@ -4,3 +4,13 @@ fr:
   title: Guinée-Bissau - routière
 en:
   title: Guinée-Bissau - routière
+continents: []
+countries:
+  - guinee-bissau
+gmaps:
+  latitude: 11.832406
+  longitude: -15.240784
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

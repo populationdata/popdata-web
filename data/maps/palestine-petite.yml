@@ -4,3 +4,9 @@ fr:
   title: Palestine - petite
 en:
   title: Palestine - petite
+continents: []
+countries:
+  - palestine
+image: 'http://www.populationdata.net/wp-content/uploads/palestine-petite.gif'
+source: Wikipédia
+type: image

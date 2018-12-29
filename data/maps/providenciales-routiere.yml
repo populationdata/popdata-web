@@ -4,3 +4,12 @@ fr:
   title: Providenciales - routière
 en:
   title: Providenciales - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 21.783577
+  longitude: -72.239012
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

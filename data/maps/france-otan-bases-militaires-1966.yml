@@ -4,3 +4,10 @@ fr:
   title: 'France - OTAN : bases militaires (1966)'
 en:
   title: 'France - OTAN : bases militaires (1966)'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-OTAN-bases.png
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Bénin - satellite
 en:
   title: Bénin - satellite
+continents: []
+countries:
+  - benin
+gmaps:
+  latitude: 8.93934
+  longitude: 2.175293
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

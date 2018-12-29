@@ -4,3 +4,13 @@ fr:
   title: Jamaïque - routière
 en:
   title: Jamaïque - routière
+continents: []
+countries:
+  - jamaique
+gmaps:
+  latitude: 18.136717
+  longitude: -77.280579
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

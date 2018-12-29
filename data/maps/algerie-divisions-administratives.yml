@@ -4,3 +4,10 @@ fr:
   title: Algérie - divisions administratives
 en:
   title: Algérie - divisions administratives
+continents: []
+countries:
+  - algerie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/algerie_divisions_administratives.jpg
+source: CIA
+type: image

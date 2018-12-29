@@ -4,3 +4,10 @@ fr:
   title: Mexique - topographique
 en:
   title: Mexique - topographique
+continents: []
+countries:
+  - mexique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Mexique-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Windhoek - routière
 en:
   title: Windhoek - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -22.563135
+  longitude: 17.079535
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

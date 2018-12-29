@@ -4,3 +4,8 @@ fr:
   title: Carte de l'indice de développement humain 2002 (IDH)
 en:
   title: Carte de l'indice de développement humain 2002 (IDH)
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/idh2002.gif'
+source: PNUD
+type: image

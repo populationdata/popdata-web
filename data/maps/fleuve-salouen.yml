@@ -4,3 +4,10 @@ fr:
   title: Fleuve Salouen
 en:
   title: Fleuve Salouen
+continents: []
+countries:
+  - chine
+  - myanmar-birmanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/fleuve-salouen.png'
+source: Wikipédia
+type: image

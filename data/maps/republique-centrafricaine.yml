@@ -4,3 +4,9 @@ fr:
   title: République centrafricaine
 en:
   title: République centrafricaine
+continents: []
+countries:
+  - republique-centrafricaine
+image: 'http://www.populationdata.net/wp-content/uploads/centrafrique.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Éthiopie - petite
 en:
   title: Éthiopie - petite
+continents: []
+countries:
+  - ethiopie
+image: 'http://www.populationdata.net/wp-content/uploads/ethiopie-petite.gif'
+source: CIA
+type: image

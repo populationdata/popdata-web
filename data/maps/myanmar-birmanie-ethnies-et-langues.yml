@@ -4,3 +4,9 @@ fr:
   title: Myanmar (Birmanie) - ethnies et langues
 en:
   title: Myanmar (Birmanie) - ethnies et langues
+continents: []
+countries:
+  - myanmar-birmanie
+image: 'http://www.populationdata.net/wp-content/uploads/birmanie-ethnies.jpg'
+source: Wikipédia
+type: image

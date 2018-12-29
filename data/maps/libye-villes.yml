@@ -4,3 +4,9 @@ fr:
   title: Libye - villes
 en:
   title: Libye - villes
+continents: []
+countries:
+  - libye
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Libye-villes.png'
+source: Wikipédia
+type: image

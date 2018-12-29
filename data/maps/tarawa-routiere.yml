@@ -4,3 +4,13 @@ fr:
   title: Tarawa - routière
 en:
   title: Tarawa - routière
+continents: []
+countries:
+  - kiribati
+gmaps:
+  latitude: 1.474065
+  longitude: 173.047028
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

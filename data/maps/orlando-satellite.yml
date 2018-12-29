@@ -4,3 +4,12 @@ fr:
   title: Orlando - satellite
 en:
   title: Orlando - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 28.518176
+  longitude: -81.385345
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

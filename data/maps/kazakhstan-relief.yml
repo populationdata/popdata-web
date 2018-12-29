@@ -4,3 +4,9 @@ fr:
   title: Kazakhstan - relief
 en:
   title: Kazakhstan - relief
+continents: []
+countries:
+  - kazakhstan
+image: 'http://www.populationdata.net/wp-content/uploads/kazakhstan_relief.jpg'
+source: CIA
+type: image

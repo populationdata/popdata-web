@@ -4,3 +4,9 @@ fr:
   title: Ghana - petite
 en:
   title: Ghana - petite
+continents: []
+countries:
+  - ghana
+image: 'http://www.populationdata.net/wp-content/uploads/ghana-petite.png'
+source: Wikipédia
+type: image

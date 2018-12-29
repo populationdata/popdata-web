@@ -4,3 +4,9 @@ fr:
   title: Dominique
 en:
   title: Dominique
+continents: []
+countries:
+  - dominique
+image: 'http://www.populationdata.net/wp-content/uploads/dominique.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Tonga
 en:
   title: Tonga
+continents: []
+countries:
+  - tonga
+image: 'http://www.populationdata.net/wp-content/uploads/tonga.jpg'
+source: CIA
+type: image

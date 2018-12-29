@@ -4,3 +4,9 @@ fr:
   title: Canaries - topographique
 en:
   title: Canaries - topographique
+continents: []
+countries:
+  - canaries
+image: 'http://www.populationdata.net/wp-content/uploads/canaries-topographique.png'
+source: Wikipédia
+type: image

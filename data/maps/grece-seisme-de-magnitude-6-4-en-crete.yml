@@ -4,3 +4,12 @@ fr:
   title: Grèce - séisme de magnitude 6.4 en Crète
 en:
   title: Grèce - séisme de magnitude 6.4 en Crète
+continents: []
+countries: []
+gmaps:
+  latitude: 34.2404
+  longitude: 25.4778
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

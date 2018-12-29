@@ -4,3 +4,9 @@ fr:
   title: Soudan du Sud - administrative (États)
 en:
   title: Soudan du Sud - administrative (États)
+continents: []
+countries:
+  - soudan-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/Soudan-du-Sud-Etats.png'
+source: Wikipédia
+type: image

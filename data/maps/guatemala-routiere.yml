@@ -4,3 +4,13 @@ fr:
   title: Guatemala - routière
 en:
   title: Guatemala - routière
+continents: []
+countries:
+  - guatemala
+gmaps:
+  latitude: 15.739388
+  longitude: -90.137329
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

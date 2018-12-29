@@ -4,3 +4,10 @@ fr:
   title: Madagascar - topographique
 en:
   title: Madagascar - topographique
+continents: []
+countries:
+  - madagascar
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/madagascar-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Cap-Vert - satellite
 en:
   title: Cap-Vert - satellite
+continents: []
+countries:
+  - cap-vert
+gmaps:
+  latitude: 16.014136
+  longitude: -23.950195
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: La Valette - satellite
 en:
   title: La Valette - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.897394
+  longitude: 14.495087
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

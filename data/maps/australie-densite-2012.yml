@@ -4,3 +4,9 @@ fr:
   title: Australie - densité (2012)
 en:
   title: Australie - densité (2012)
+continents: []
+countries:
+  - australie
+image: 'http://www.populationdata.net/wp-content/uploads/australie-densite-2012.gif'
+source: Bureau australien des statistiques
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Glorieuses
 en:
   title: Glorieuses
+continents: []
+countries:
+  - terres-australes-antarctiques-francaises
+image: 'http://www.populationdata.net/wp-content/uploads/reunion_iles_glorieuses.jpg'
+source: CIA
+type: image

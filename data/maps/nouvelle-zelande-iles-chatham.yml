@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Zélande - Îles Chatham
 en:
   title: New Zealand - Chatham Islands
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Nouvelle-Zelande-iles-Chatham.png
+source: Wikipédia
+type: image

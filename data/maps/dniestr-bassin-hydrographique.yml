@@ -4,3 +4,11 @@ fr:
   title: Dniestr - bassin hydrographique
 en:
   title: Dniestr - bassin hydrographique
+continents: []
+countries:
+  - moldavie
+  - transnistrie
+  - ukraine
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Dniestr-bassin.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: 'Kazakhstan - Baïkonour : site spatial'
 en:
   title: 'Kazakhstan - Baikonur: Cosmodrome'
+continents: []
+countries:
+  - kazakhstan
+gmaps:
+  latitude: 45.900563
+  longitude: 63.3
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

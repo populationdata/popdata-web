@@ -4,3 +4,10 @@ fr:
   title: 'France – élections présidentielles 2017 : résultats 2e tour (départements)'
 en:
   title: 'France – élections présidentielles 2017 : résultats 2e tour (départements)'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/France-–-elections-presidentielles-2017-resultats-2e-tour-departements.png
+source: Wikipédia
+type: image

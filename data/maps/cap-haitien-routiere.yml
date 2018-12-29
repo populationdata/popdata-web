@@ -4,3 +4,12 @@ fr:
   title: Cap-Haïtien - routière
 en:
   title: Cap-Haïtien - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 19.750387
+  longitude: -72.20129
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

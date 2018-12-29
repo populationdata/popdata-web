@@ -4,3 +4,10 @@ fr:
   title: Rio de Janeiro - sites de compétition des Jeux olympiques d'été de 2016
 en:
   title: Rio de Janeiro - sites de compétition des Jeux olympiques d'été de 2016
+continents: []
+countries:
+  - bresil
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Rio-de-Janeiro-Jeux-olympiques-2016.png
+source: 'Felipe Menegaz, Wikipédia'
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Royaume de Bretagne (845-867)
 en:
   title: Royaume de Bretagne (845-867)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Royaume-Bretagne-845-867.png
+source: Wikipédia
+type: image

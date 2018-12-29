@@ -4,3 +4,15 @@ fr:
   title: Rhin
 en:
   title: Rhin
+continents: []
+countries:
+  - pays-bas
+  - france
+  - allemagne
+  - suisse
+  - autriche
+  - liechtenstein
+  - belgique
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Rhin.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Empire Khmer (1290-1760)
 en:
   title: Khmer Empire (1290-1760)
+continents:
+  - asie
+countries:
+  - thailande
+  - cambodge
+  - viet-nam
+  - laos
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Empire-Khmer.jpg'
+source: Wikipédia
+type: image

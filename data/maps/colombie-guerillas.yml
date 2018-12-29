@@ -4,3 +4,9 @@ fr:
   title: Colombie - guérillas
 en:
   title: Colombie - guérillas
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-guerilla.jpg'
+source: Le Monde Diplomatique
+type: image

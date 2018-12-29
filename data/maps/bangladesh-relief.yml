@@ -4,3 +4,9 @@ fr:
   title: Bangladesh - relief
 en:
   title: Bangladesh - relief
+continents: []
+countries:
+  - bangladesh
+image: 'http://www.populationdata.net/wp-content/uploads/bangladesh_relief.jpg'
+source: CIA
+type: image

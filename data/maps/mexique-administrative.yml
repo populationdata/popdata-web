@@ -4,3 +4,10 @@ fr:
   title: Mexique - administrative
 en:
   title: Mexique - administrative
+continents: []
+countries:
+  - mexique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/mexiques-etats-federes.png
+source: Wikipédia
+type: image

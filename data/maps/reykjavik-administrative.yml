@@ -4,3 +4,9 @@ fr:
   title: Reykjavik - administrative
 en:
   title: Reykjavik - administrative
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/Reykjavik-administrative.png'
+source: Wikipédia
+type: image

@@ -5,3 +5,10 @@ fr:
     Chine - réduction de la production photovoltaïque due aux aérosols
     (2003-2014)
 en: null
+continents: []
+countries:
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/05/Chine-reduction-production-photovoltaique-aerosols.jpg
+source: NASA Earth Observatory
+type: image

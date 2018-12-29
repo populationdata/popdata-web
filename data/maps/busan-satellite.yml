@@ -4,3 +4,12 @@ fr:
   title: Busan - satellite
 en:
   title: Busan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.178633
+  longitude: 128.916487
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

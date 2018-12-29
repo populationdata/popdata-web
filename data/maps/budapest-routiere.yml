@@ -4,3 +4,12 @@ fr:
   title: Budapest - routière
 en:
   title: Budapest - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 47.500503
+  longitude: 19.065399
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

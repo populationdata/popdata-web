@@ -4,3 +4,10 @@ fr:
   title: Royaume-Uni - régions urbaines
 en:
   title: Royaume-Uni - régions urbaines
+continents: []
+countries:
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Royaume-Uni-regions-urbaines.png
+source: Office national de statistiques (ONS)
+type: image

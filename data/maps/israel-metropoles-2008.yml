@@ -4,3 +4,10 @@ fr:
   title: Israël - métropoles (2008)
 en:
   title: Israel - Metropolis (2008)
+continents: []
+countries:
+  - israel
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/israel-metropoles.jpg
+source: Bureau central des statistiques d'Israël
+type: image

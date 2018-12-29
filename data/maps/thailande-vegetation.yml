@@ -4,3 +4,9 @@ fr:
   title: Thaïlande - végétation
 en:
   title: Thaïlande - végétation
+continents: []
+countries:
+  - thailande
+image: 'http://www.populationdata.net/wp-content/uploads/thailande-vegetation.jpg'
+source: CIA
+type: image

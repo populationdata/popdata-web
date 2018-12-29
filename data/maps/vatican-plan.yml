@@ -4,3 +4,9 @@ fr:
   title: Vatican - plan
 en:
   title: Vatican - plan
+continents: []
+countries:
+  - vatican
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Vatican-plan.jpg'
+source: Wikipédia
+type: image

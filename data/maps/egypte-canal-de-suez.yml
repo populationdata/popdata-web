@@ -4,3 +4,14 @@ fr:
   title: Égypte - canal de Suez
 en:
   title: Égypte - canal de Suez
+continents:
+  - afrique
+countries:
+  - egypte
+gmaps:
+  latitude: 30.55284
+  longitude: 32.320952
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Arménie - routière
 en:
   title: Arménie - routière
+continents: []
+countries:
+  - armenie
+gmaps:
+  latitude: 40.12009
+  longitude: 45.192261
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

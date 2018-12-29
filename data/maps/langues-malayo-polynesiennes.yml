@@ -4,3 +4,21 @@ fr:
   title: Langues malayo-polynésiennes
 en:
   title: Malayo-Polynesian languages
+continents:
+  - oceanie
+  - asie
+countries:
+  - philippines
+  - chine
+  - viet-nam
+  - cambodge
+  - thailande
+  - myanmar-birmanie
+  - malaisie
+  - indonesie
+  - palaos
+  - timor-oriental
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/langues-malayso-polynesiennes.jpg
+source: Wikipédia
+type: image

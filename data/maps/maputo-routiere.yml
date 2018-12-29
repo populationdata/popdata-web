@@ -4,3 +4,12 @@ fr:
   title: Maputo - routière
 en:
   title: Maputo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -25.943227
+  longitude: 32.541161
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

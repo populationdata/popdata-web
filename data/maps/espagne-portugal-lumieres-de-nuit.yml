@@ -4,3 +4,11 @@ fr:
   title: 'Espagne - Portugal : lumières de la nuit'
 en:
   title: 'Espagne - Portugal : lumières de la nuit'
+continents: []
+countries:
+  - portugal
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Espagne-Portugal-lumieres-nuit.jpg
+source: Nasa Earth Observatory
+type: image

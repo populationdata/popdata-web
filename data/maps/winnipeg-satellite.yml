@@ -4,3 +4,12 @@ fr:
   title: Winnipeg - satellite
 en:
   title: Winnipeg - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 49.877051
+  longitude: -97.153583
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Thaïlande - petite
 en:
   title: Thaïlande - petite
+continents: []
+countries:
+  - thailande
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Thailande.gif'
+source: Wikipédia
+type: image

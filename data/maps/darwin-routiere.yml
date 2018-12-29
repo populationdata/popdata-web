@@ -4,3 +4,12 @@ fr:
   title: Darwin - routière
 en:
   title: Darwin - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -12.439929
+  longitude: 130.867596
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

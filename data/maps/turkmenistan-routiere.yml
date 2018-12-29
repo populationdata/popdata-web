@@ -4,3 +4,13 @@ fr:
   title: Turkménistan - routière
 en:
   title: Turkménistan - routière
+continents: []
+countries:
+  - turkmenistan
+gmaps:
+  latitude: 39.334297
+  longitude: 58.930664
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

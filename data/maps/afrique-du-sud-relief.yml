@@ -4,3 +4,9 @@ fr:
   title: Afrique du Sud - relief
 en:
   title: South Africa - Relief
+continents: []
+countries:
+  - afrique-du-sud
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-du-sud-relief.jpg'
+source: CIA
+type: image

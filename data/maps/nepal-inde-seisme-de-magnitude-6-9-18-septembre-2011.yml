@@ -4,3 +4,14 @@ fr:
   title: 'Népal - Inde : séisme de magnitude 6.9 (18 septembre 2011)'
 en:
   title: 'Népal - Inde : séisme de magnitude 6.9 (18 septembre 2011)'
+continents: []
+countries:
+  - nepal
+  - inde
+gmaps:
+  latitude: 27.723
+  longitude: 88.064
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Sierra Leone
 en:
   title: Sierra Leone
+continents: []
+countries:
+  - sierra-leone
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Sierra-Leone.jpg'
+source: ONU
+type: image

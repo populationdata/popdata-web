@@ -4,3 +4,9 @@ fr:
   title: Danemark - régions
 en:
   title: Danemark - régions
+continents: []
+countries:
+  - danemark
+image: 'https://www.populationdata.net/wp-content/uploads/Danemark-regions.png'
+source: ''
+type: image

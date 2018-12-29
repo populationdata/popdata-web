@@ -4,3 +4,13 @@ fr:
   title: Amérique du Sud - Satellite
 en:
   title: Amérique du Sud - Satellite
+continents:
+  - ameriques
+countries: []
+gmaps:
+  latitude: -18.646245
+  longitude: -54.667969
+  type: hybrid
+  zoom: 3
+source: Google Maps
+type: gmaps

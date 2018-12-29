@@ -4,3 +4,13 @@ fr:
   title: Odessa - satellite
 en:
   title: Odessa - satellite
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 46.479955
+  longitude: 30.711422
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

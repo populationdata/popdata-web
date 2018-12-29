@@ -4,3 +4,13 @@ fr:
   title: Mauritanie - routière
 en:
   title: Mauritanie - routière
+continents: []
+countries:
+  - mauritanie
+gmaps:
+  latitude: 20.632784
+  longitude: -10.415039
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

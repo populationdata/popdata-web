@@ -3,3 +3,10 @@ date: '2018-06-04T20:47:40.000Z'
 fr:
   title: Europe - Espérance de vie (2016)
 en: null
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/06/Europe-Esperance-vie-2016.png
+source: 'Le Monde diplomatique, Cécile Marin'
+type: image

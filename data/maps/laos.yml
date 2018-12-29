@@ -4,3 +4,9 @@ fr:
   title: Laos
 en:
   title: Laos
+continents: []
+countries:
+  - laos
+image: 'http://www.populationdata.net/wp-content/uploads/laos.jpg'
+source: CIA
+type: image

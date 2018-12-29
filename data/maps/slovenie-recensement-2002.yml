@@ -4,3 +4,9 @@ fr:
   title: Slovénie - recensement 2002
 en:
   title: Slovénie - recensement 2002
+continents: []
+countries:
+  - slovenie
+image: 'http://www.populationdata.net/wp-content/uploads/slovenie_recensement2002.jpg'
+source: Office statistique de Slovénie
+type: image

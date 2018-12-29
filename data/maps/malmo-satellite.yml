@@ -4,3 +4,12 @@ fr:
   title: Malmö - satellite
 en:
   title: Malmö - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 55.599299
+  longitude: 13.021545
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

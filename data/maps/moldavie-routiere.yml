@@ -4,3 +4,13 @@ fr:
   title: Moldavie - routière
 en:
   title: Moldavie - routière
+continents: []
+countries:
+  - moldavie
+gmaps:
+  latitude: 47.122476
+  longitude: 28.740234
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

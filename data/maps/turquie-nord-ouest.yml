@@ -4,3 +4,9 @@ fr:
   title: Turquie - nord-ouest
 en:
   title: Turquie - nord-ouest
+continents: []
+countries:
+  - turquie
+image: 'http://www.populationdata.net/wp-content/uploads/turquie_nord_ouest.jpg'
+source: CIA
+type: image

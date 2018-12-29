@@ -4,3 +4,14 @@ fr:
   title: 'Égypte - Arabie saoudite : détroit de Tiran (satellite)'
 en:
   title: 'Égypte - Arabie saoudite : détroit de Tiran (satellite)'
+continents: []
+countries:
+  - arabie-saoudite
+  - egypte
+gmaps:
+  latitude: 28.006176
+  longitude: 34.456485
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

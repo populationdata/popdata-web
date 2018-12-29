@@ -4,3 +4,12 @@ fr:
   title: Marigot - routière
 en:
   title: Marigot - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 18.069271
+  longitude: -63.085433
+  type: roadmap
+  zoom: 15
+source: Google Maps
+type: gmaps

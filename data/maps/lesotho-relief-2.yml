@@ -4,3 +4,12 @@ fr:
   title: Lesotho - relief
 en:
   title: Lesotho - relief
+continents: []
+countries: []
+gmaps:
+  latitude: -29.50894
+  longitude: 28.199158
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

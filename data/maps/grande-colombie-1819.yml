@@ -4,3 +4,13 @@ fr:
   title: Grande Colombie (1819)
 en:
   title: Grande Colombie (1819)
+continents: []
+countries:
+  - equateur
+  - colombie
+  - venezuela
+  - panama
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Grande-Colombie-1819.png
+source: Wikipédia
+type: image

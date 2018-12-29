@@ -4,3 +4,11 @@ fr:
   title: Palestine - partition de 1947
 en:
   title: Palestine - partition de 1947
+continents: []
+countries:
+  - palestine
+  - israel
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Palestine-partition-1947.jpg
+source: Wikipédia
+type: image

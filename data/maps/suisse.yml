@@ -4,3 +4,9 @@ fr:
   title: Suisse
 en:
   title: Suisse
+continents: []
+countries:
+  - suisse
+image: 'http://www.populationdata.net/wp-content/uploads/suisse.jpg'
+source: CIA
+type: image

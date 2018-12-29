@@ -4,3 +4,9 @@ fr:
   title: Norvège - géopolitique
 en:
   title: Norvège - géopolitique
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege-geopolitique.jpg'
+source: Wikipédia
+type: image

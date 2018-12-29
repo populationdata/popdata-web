@@ -4,3 +4,10 @@ fr:
   title: Libye - topographique
 en:
   title: Libye - topographique
+continents: []
+countries:
+  - libye
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Libye-topogaphique.jpg
+source: Wikipédia
+type: image

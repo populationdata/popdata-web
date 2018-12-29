@@ -4,3 +4,9 @@ fr:
   title: Djibouti
 en:
   title: Djibouti
+continents: []
+countries:
+  - djibouti
+image: 'http://www.populationdata.net/wp-content/uploads/djibouti.gif'
+source: CIA
+type: image

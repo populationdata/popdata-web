@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Zélande - Île du Sud
 en:
   title: New Zealand - South Island
+continents: []
+countries:
+  - nouvelle-zelande
+image: >-
+  http://www.populationdata.net/wp-content/uploads/nouvelle-zelande-ile-du-sud.gif
+source: Wikipédia
+type: image

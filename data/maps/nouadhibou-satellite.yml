@@ -4,3 +4,12 @@ fr:
   title: Nouadhibou - satellite
 en:
   title: Nouadhibou - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 20.92649
+  longitude: -17.032757
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

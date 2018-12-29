@@ -4,3 +4,9 @@ fr:
   title: Afrique - Densité
 en:
   title: Afrique - Densité
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/europe_afrique_densite.gif'
+source: nc
+type: image

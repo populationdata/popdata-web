@@ -4,3 +4,9 @@ fr:
   title: Colombie (1824)
 en:
   title: Colombie (1824)
+continents: []
+countries:
+  - colombie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/colombie-1824.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Irak - topographique
 en:
   title: Irak - topographique
+continents: []
+countries:
+  - irak
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Irak-topographique.png
+source: Wikipédia
+type: image

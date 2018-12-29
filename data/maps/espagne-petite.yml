@@ -4,3 +4,9 @@ fr:
   title: Espagne - petite
 en:
   title: Espagne - petite
+continents: []
+countries:
+  - espagne
+image: 'http://www.populationdata.net/wp-content/uploads/espagne-petite.png'
+source: Wikipédia
+type: image

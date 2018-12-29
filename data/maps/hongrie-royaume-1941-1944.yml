@@ -4,3 +4,10 @@ fr:
   title: Hongrie - royaume (1941-1944)
 en:
   title: Hongrie - royaume (1941-1944)
+continents: []
+countries:
+  - hongrie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Hongrie-royaume-1941-1944.png
+source: Wikipédia
+type: image

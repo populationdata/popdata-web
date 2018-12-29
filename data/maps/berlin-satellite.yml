@@ -4,3 +4,12 @@ fr:
   title: Berlin - satellite
 en:
   title: Berlin - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 52.502012
+  longitude: 13.364868
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

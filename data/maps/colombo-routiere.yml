@@ -4,3 +4,12 @@ fr:
   title: Colombo - routière
 en:
   title: Colombo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 6.932732
+  longitude: 79.881077
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

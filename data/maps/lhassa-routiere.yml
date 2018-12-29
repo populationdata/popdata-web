@@ -4,3 +4,12 @@ fr:
   title: Lhassa - routiere
 en:
   title: Lhassa - routiere
+continents: []
+countries: []
+gmaps:
+  latitude: 29.662698
+  longitude: 91.132278
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

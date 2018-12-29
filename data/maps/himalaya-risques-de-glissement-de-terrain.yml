@@ -4,3 +4,15 @@ fr:
   title: Himalaya - Risques de glissement de terrain
 en:
   title: Himalaya - Risques de glissement de terrain
+continents:
+  - asie
+countries:
+  - pakistan
+  - inde
+  - chine
+  - nepal
+  - bhoutan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Himalaya-risques-glissement-de-terrain.jpg
+source: Nasa Earth Observatory
+type: image

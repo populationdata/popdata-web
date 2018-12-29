@@ -3,3 +3,10 @@ date: '2018-02-14T00:32:04.000Z'
 fr:
   title: Cambodge - population des provinces (2013)
 en: null
+continents: []
+countries:
+  - cambodge
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Cambodge-population-provinces-2013.jpg
+source: Institut national des statistiques du Cambodge
+type: image

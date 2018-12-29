@@ -4,3 +4,12 @@ fr:
   title: Sfax - satellite
 en:
   title: Sfax - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 34.743446
+  longitude: 10.748234
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

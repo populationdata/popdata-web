@@ -4,3 +4,13 @@ fr:
   title: Salvador - routière
 en:
   title: Salvador - routière
+continents: []
+countries:
+  - salvador
+gmaps:
+  latitude: 13.790071
+  longitude: -88.764038
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Niger - satellite
 en:
   title: Niger - satellite
+continents: []
+countries:
+  - niger
+gmaps:
+  latitude: 17.161786
+  longitude: 8.283691
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

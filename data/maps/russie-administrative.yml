@@ -4,3 +4,10 @@ fr:
   title: Russie - administrative
 en:
   title: Russie - administrative
+continents: []
+countries:
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Russie-administrative-Sujets-federaux.jpg
+source: Wikipédia
+type: image

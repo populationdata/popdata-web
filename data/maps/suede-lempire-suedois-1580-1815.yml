@@ -4,3 +4,9 @@ fr:
   title: Suède - l'empire suédois (1580-1815)
 en:
   title: Suède - l'empire suédois (1580-1815)
+continents: []
+countries:
+  - suede
+image: 'https://www.populationdata.net/wp-content/uploads/Suede-empire-a-apogee.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,11 @@ fr:
   title: Arabe - distribution
 en:
   title: Arabe - distribution
+continents:
+  - afrique
+  - asie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Arabe-distribution.png
+source: Wikipédia
+type: image

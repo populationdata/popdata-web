@@ -4,6 +4,7 @@ fr:
   name: Afrique
 en:
   name: Africa
+datamapScope: africa
 gdpYear: 2014
 numberOfTimeZones: 6
 lifeExpectancy: 53

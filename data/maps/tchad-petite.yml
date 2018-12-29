@@ -4,3 +4,9 @@ fr:
   title: Tchad - petite
 en:
   title: Tchad - petite
+continents: []
+countries:
+  - tchad
+image: 'http://www.populationdata.net/wp-content/uploads/tchad-petite.gif'
+source: Wikipédia
+type: image

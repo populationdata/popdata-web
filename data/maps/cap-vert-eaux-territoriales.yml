@@ -4,3 +4,10 @@ fr:
   title: Cap-Vert - eaux territoriales
 en:
   title: Cap-Vert - eaux territoriales
+continents: []
+countries:
+  - cap-vert
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Cap-Vert-eaux-territoriales.png
+source: Wikipédia
+type: image

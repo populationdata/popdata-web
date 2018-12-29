@@ -4,3 +4,9 @@ fr:
   title: Moldavie - topographique
 en:
   title: Moldavie - topographique
+continents: []
+countries:
+  - moldavie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Moldavie-relief.png'
+source: Wikipédia
+type: image

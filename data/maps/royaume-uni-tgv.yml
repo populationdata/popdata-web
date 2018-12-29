@@ -4,3 +4,10 @@ fr:
   title: Royaume-Uni - TGV High Speed 1
 en:
   title: Royaume-Uni - TGV High Speed 1
+continents: []
+countries:
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Royaume-Uni-High_Speed_1.png
+source: Wikipédia
+type: image

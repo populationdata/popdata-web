@@ -4,3 +4,9 @@ fr:
   title: Libye - ethnies
 en:
   title: Libye - ethnies
+continents: []
+countries:
+  - libye
+image: 'http://www.populationdata.net/wp-content/uploads/libye-ethnies.png'
+source: Wikipédia
+type: image

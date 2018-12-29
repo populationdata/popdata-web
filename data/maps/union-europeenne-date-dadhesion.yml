@@ -4,3 +4,10 @@ fr:
   title: Union européenne - Date d'adhésion
 en:
   title: Union européenne - Date d'adhésion
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/union-europeenne-adhesion.jpg
+source: Wikipédia
+type: image

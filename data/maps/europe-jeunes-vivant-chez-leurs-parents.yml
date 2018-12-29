@@ -4,3 +4,10 @@ fr:
   title: Europe - Jeunes vivant chez leurs parents
 en:
   title: Europe - Jeunes vivant chez leurs parents
+continents:
+  - europe
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/europe-jeunes-vivant-chez-parents.jpg
+source: Eurostats
+type: image

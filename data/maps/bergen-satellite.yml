@@ -4,3 +4,12 @@ fr:
   title: Bergen - satellite
 en:
   title: Bergen - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 60.387782
+  longitude: 5.322709
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

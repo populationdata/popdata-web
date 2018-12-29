@@ -4,3 +4,12 @@ fr:
   title: Nagoya - satellite
 en:
   title: Nagoya - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 35.153918
+  longitude: 136.901665
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

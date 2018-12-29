@@ -4,3 +4,9 @@ fr:
   title: Seychelles - petite
 en:
   title: Seychelles - petite
+continents: []
+countries:
+  - seychelles
+image: 'http://www.populationdata.net/wp-content/uploads/seychelles-petite.png'
+source: Wikipédia
+type: image

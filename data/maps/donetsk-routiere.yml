@@ -4,3 +4,13 @@ fr:
   title: Donetsk - routière
 en:
   title: Donetsk - routière
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 47.987279
+  longitude: 37.797432
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

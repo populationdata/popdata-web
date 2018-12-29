@@ -4,3 +4,9 @@ fr:
   title: Groenland - localisation des villes
 en:
   title: Groenland - localisation des villes
+continents: []
+countries:
+  - groenland
+image: 'https://www.populationdata.net/wp-content/uploads/Groenland-villes.png'
+source: Wikipédia
+type: image

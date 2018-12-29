@@ -4,3 +4,9 @@ fr:
   title: Tristan da Cunha
 en:
   title: Tristan da Cunha
+continents: []
+countries:
+  - sainte-helene-ascension-et-tristan-da-cunha
+image: 'http://www.populationdata.net/wp-content/uploads/tristan-da-cunha.png'
+source: Wikipédia
+type: image

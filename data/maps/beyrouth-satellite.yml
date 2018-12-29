@@ -4,3 +4,12 @@ fr:
   title: Beyrouth - satellite
 en:
   title: Beyrouth - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 33.871556
+  longitude: 35.534592
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

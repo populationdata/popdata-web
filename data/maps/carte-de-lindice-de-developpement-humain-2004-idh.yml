@@ -4,3 +4,8 @@ fr:
   title: Carte de l'indice de développement humain 2004 (IDH)
 en:
   title: Carte de l'indice de développement humain 2004 (IDH)
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/idh-2004.png'
+source: PNUD
+type: image

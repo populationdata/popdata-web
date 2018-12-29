@@ -4,3 +4,11 @@ fr:
   title: Royaume de Man et des Îles (1100)
 en:
   title: Royaume de Man et des Îles (1100)
+continents: []
+countries:
+  - man
+  - royaume-uni
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Royaume-de-Man-et-des-Iles-1100.png
+source: Wikipédia
+type: image

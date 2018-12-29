@@ -4,3 +4,9 @@ fr:
   title: Arménie - relief
 en:
   title: Arménie - relief
+continents: []
+countries:
+  - armenie
+image: 'http://www.populationdata.net/wp-content/uploads/armenie_relief.jpg'
+source: CIA
+type: image

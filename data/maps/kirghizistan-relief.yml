@@ -4,3 +4,9 @@ fr:
   title: Kirghizistan - relief
 en:
   title: Kirghizistan - relief
+continents: []
+countries:
+  - kirghizistan
+image: 'http://www.populationdata.net/wp-content/uploads/kirghizstan_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Cabinda - routière
 en:
   title: Cabinda - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -5.574385
+  longitude: 12.202549
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

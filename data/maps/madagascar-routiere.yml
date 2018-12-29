@@ -4,3 +4,13 @@ fr:
   title: Madagascar - routière
 en:
   title: Madagascar - routière
+continents: []
+countries:
+  - madagascar
+gmaps:
+  latitude: -19.518375
+  longitude: 46.713867
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

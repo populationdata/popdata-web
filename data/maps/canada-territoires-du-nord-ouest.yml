@@ -4,3 +4,10 @@ fr:
   title: Canada - Territoires du Nord-Ouest
 en:
   title: Canada - Territoires du Nord-Ouest
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada_territoires_du_nord_ouest.jpg
+source: Ressources Naturelles Canada
+type: image

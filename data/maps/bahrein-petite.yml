@@ -4,3 +4,9 @@ fr:
   title: Bahreïn - petite
 en:
   title: Bahreïn - petite
+continents: []
+countries:
+  - bahrein
+image: 'http://www.populationdata.net/wp-content/uploads/bahrein_petite.gif'
+source: CIA
+type: image

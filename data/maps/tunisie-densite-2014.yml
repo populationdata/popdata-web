@@ -4,3 +4,9 @@ fr:
   title: Tunisie - densité (2014)
 en:
   title: Tunisie - densité (2014)
+continents: []
+countries:
+  - tunisie
+image: 'http://www.populationdata.net/wp-content/uploads/tunisie-densite-2014.png'
+source: Institut national de la statistique de Tunisie
+type: image

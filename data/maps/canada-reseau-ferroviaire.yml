@@ -4,3 +4,10 @@ fr:
   title: Canada - réseau ferroviaire
 en:
   title: Canada - réseau ferroviaire
+continents: []
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Canada-reseau-ferroviaire.jpg
+source: Ressources Naturelles Canada
+type: image

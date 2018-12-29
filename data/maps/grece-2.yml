@@ -4,3 +4,9 @@ fr:
   title: Grèce
 en:
   title: Grèce
+continents: []
+countries:
+  - grece
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Grece.jpg'
+source: ONU
+type: image

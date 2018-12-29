@@ -4,3 +4,10 @@ fr:
   title: Hongrie - topographique
 en:
   title: Hongrie - topographique
+continents: []
+countries:
+  - hongrie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Hongrie-topographique.png
+source: Wikipédia
+type: image

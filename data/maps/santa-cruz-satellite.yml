@@ -4,3 +4,12 @@ fr:
   title: Santa Cruz de la Sierra - satellite
 en:
   title: Santa Cruz de la Sierra - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -17.790208
+  longitude: -63.178082
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

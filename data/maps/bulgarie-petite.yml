@@ -4,3 +4,9 @@ fr:
   title: Bulgarie - petite
 en:
   title: Bulgarie - petite
+continents: []
+countries:
+  - bulgarie
+image: 'http://www.populationdata.net/wp-content/uploads/bulgarie-petite.jpg'
+source: Wikipédia
+type: image

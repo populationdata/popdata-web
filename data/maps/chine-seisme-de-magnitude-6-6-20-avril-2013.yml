@@ -4,3 +4,13 @@ fr:
   title: Chine - séisme de magnitude 6.6 (20 avril 2013)
 en:
   title: Chine - séisme de magnitude 6.6 (20 avril 2013)
+continents: []
+countries:
+  - chine
+gmaps:
+  latitude: 30.284
+  longitude: 102.956
+  type: terrain
+  zoom: 6
+source: USGS
+type: gmaps

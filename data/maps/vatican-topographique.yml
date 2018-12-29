@@ -4,3 +4,9 @@ fr:
   title: Vatican - topographique
 en:
   title: Vatican - topographique
+continents: []
+countries:
+  - vatican
+image: 'http://www.populationdata.net/wp-content/uploads/vatican-topographique.gif'
+source: Wikipédia
+type: image

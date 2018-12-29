@@ -4,3 +4,11 @@ fr:
   title: Monde - Guerre froide (1959)
 en:
   title: Monde - Guerre froide (1959)
+continents: []
+countries:
+  - russie
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Monde-Guerre-froide-1959.png
+source: Wikipédia
+type: image

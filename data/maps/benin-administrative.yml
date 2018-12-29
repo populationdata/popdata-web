@@ -4,3 +4,10 @@ fr:
   title: Bénin - administrative
 en:
   title: Bénin - administrative
+continents: []
+countries:
+  - benin
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Benin-administrative.png
+source: Wikipédia
+type: image

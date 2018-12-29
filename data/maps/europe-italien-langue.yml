@@ -4,3 +4,14 @@ fr:
   title: 'Europe - Italien : langue'
 en:
   title: 'Europe - Italien : langue'
+continents: []
+countries:
+  - italie
+  - france
+  - slovenie
+  - croatie
+  - suisse
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Europe-italien-langue.png
+source: Wikipédia
+type: image

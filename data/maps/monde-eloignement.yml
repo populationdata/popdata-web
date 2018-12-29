@@ -4,3 +4,8 @@ fr:
   title: Monde - Éloignement
 en:
   title: Monde - Éloignement
+continents: []
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/monde-eloignement-1.jpg'
+source: NewScientist
+type: image

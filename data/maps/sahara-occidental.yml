@@ -4,3 +4,9 @@ fr:
   title: Sahara occidental
 en:
   title: Sahara occidental
+continents: []
+countries:
+  - sahara-occidental
+image: 'http://www.populationdata.net/wp-content/uploads/sahara_occidental.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Géorgie - séisme de magnitude 6.2 (8 septembre 2009)
 en:
   title: Géorgie - séisme de magnitude 6.2 (8 septembre 2009)
+continents: []
+countries:
+  - georgie
+gmaps:
+  latitude: 42.7118
+  longitude: 43.4833
+  type: terrain
+  zoom: 8
+source: USGS - Earthquake Hazards Program
+type: gmaps

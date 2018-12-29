@@ -4,3 +4,12 @@ fr:
   title: Charleroi - satellite
 en:
   title: Charleroi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 50.407533
+  longitude: 4.438133
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

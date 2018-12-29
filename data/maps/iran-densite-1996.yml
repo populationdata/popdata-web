@@ -4,3 +4,9 @@ fr:
   title: Iran - densité (1996)
 en:
   title: Iran - density (1996)
+continents: []
+countries:
+  - iran
+image: 'http://www.populationdata.net/wp-content/uploads/iran-densite.jpg'
+source: Wikipédia
+type: image

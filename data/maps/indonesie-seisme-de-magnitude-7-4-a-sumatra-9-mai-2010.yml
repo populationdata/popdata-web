@@ -4,3 +4,13 @@ fr:
   title: Indonésie - séisme de magnitude 7.4 à Sumatra (9 mai 2010)
 en:
   title: Indonésie - séisme de magnitude 7.4 à Sumatra (9 mai 2010)
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: 3.7284
+  longitude: 96.0805
+  type: terrain
+  zoom: 5
+source: USGS - Earthquake Hazards Program
+type: gmaps

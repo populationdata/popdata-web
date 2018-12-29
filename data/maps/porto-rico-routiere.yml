@@ -4,3 +4,13 @@ fr:
   title: Porto Rico - routière
 en:
   title: Porto Rico - routière
+continents: []
+countries:
+  - porto-rico
+gmaps:
+  latitude: 18.213698
+  longitude: -66.380768
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

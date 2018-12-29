@@ -4,3 +4,9 @@ fr:
   title: Pakistan - trains
 en:
   title: Pakistan - trains
+continents: []
+countries:
+  - pakistan
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Pakistan-train.png'
+source: Wikipédia
+type: image

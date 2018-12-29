@@ -4,3 +4,9 @@ fr:
   title: Malte - localisation
 en:
   title: Malte - localisation
+continents: []
+countries:
+  - malte
+image: 'http://www.populationdata.net/wp-content/uploads/malte-localisation.png'
+source: Wikipédia
+type: image

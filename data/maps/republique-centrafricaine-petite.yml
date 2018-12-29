@@ -4,3 +4,10 @@ fr:
   title: République centrafricaine - petite
 en:
   title: République centrafricaine - petite
+continents: []
+countries:
+  - republique-centrafricaine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Republique-centrafricaine.gif
+source: Wikipédia
+type: image

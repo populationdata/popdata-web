@@ -4,3 +4,13 @@ fr:
   title: Madagascar - satellite
 en:
   title: Madagascar - satellite
+continents: []
+countries:
+  - madagascar
+gmaps:
+  latitude: -19.518375
+  longitude: 46.713867
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Porto Rico - petite
 en:
   title: Porto Rico - petite
+continents: []
+countries:
+  - porto-rico
+image: 'http://www.populationdata.net/wp-content/uploads/porto-rico-petite.png'
+source: Wikipédia
+type: image

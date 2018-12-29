@@ -4,3 +4,9 @@ fr:
   title: 'France - accidents : densité d''accidents graves (1998-2000)'
 en:
   title: 'France - accidents : densité d''accidents graves (1998-2000)'
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france_accidents_2003_2.png'
+source: Ministère des transports français
+type: image

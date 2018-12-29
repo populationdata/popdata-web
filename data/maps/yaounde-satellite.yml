@@ -4,3 +4,12 @@ fr:
   title: Yaoundé - satellite
 en:
   title: Yaoundé - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 3.854663
+  longitude: 11.509552
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

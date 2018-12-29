@@ -4,3 +4,13 @@ fr:
   title: Togo - routière
 en:
   title: Togo - routière
+continents: []
+countries:
+  - togo
+gmaps:
+  latitude: 8.167993
+  longitude: 1.186523
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

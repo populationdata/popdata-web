@@ -4,3 +4,9 @@ fr:
   title: Panama - relief
 en:
   title: Panama - relief
+continents: []
+countries:
+  - panama
+image: 'http://www.populationdata.net/wp-content/uploads/panama_relief.jpg'
+source: CIA
+type: image

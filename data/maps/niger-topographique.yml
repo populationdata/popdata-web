@@ -4,3 +4,10 @@ fr:
   title: Niger - topographique
 en:
   title: Niger - topographique
+continents: []
+countries:
+  - niger
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Niger-topographique.jpg
+source: Wikipédia
+type: image

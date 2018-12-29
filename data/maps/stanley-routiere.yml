@@ -4,3 +4,12 @@ fr:
   title: Stanley - routière
 en:
   title: Stanley - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -51.689053
+  longitude: -57.801132
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

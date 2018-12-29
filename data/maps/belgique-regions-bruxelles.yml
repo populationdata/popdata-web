@@ -4,3 +4,9 @@ fr:
   title: 'Belgique - régions : Bruxelles'
 en:
   title: 'Belgique - régions : Bruxelles'
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-bruxelles-region.png'
+source: Wikipédia
+type: image

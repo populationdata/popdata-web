@@ -4,3 +4,9 @@ fr:
   title: Comores - îles de l'archipel
 en:
   title: Comores - îles de l'archipel
+continents: []
+countries:
+  - comores
+image: 'http://www.populationdata.net/wp-content/uploads/comores_iles.jpg'
+source: CIA
+type: image

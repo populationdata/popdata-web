@@ -4,3 +4,13 @@ fr:
   title: Hong Kong - satellite
 en:
   title: Hong Kong - satellite
+continents: []
+countries:
+  - hong-kong
+gmaps:
+  latitude: 22.313555
+  longitude: 114.169579
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

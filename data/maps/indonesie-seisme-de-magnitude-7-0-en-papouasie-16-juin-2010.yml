@@ -4,3 +4,14 @@ fr:
   title: Indonésie - séisme de magnitude 7.0 en Papouasie (16 juin 2010)
 en:
   title: Indonésie - séisme de magnitude 7.0 en Papouasie (16 juin 2010)
+continents: []
+countries:
+  - indonesie
+  - papouasie-nouvelle-guinee
+gmaps:
+  latitude: -2.1412
+  longitude: 136.4603
+  type: terrain
+  zoom: 5
+source: USGS - Earthquake Hazards Program
+type: gmaps

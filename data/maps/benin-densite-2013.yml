@@ -4,3 +4,10 @@ fr:
   title: Bénin - densité (2013)
 en:
   title: Bénin - densité (2013)
+continents: []
+countries:
+  - benin
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Benin-densite-2013.jpg
+source: Institut National de la Statistique et de l'Analyse Économique du Bénin
+type: image

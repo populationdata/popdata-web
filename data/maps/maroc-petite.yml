@@ -4,3 +4,9 @@ fr:
   title: Maroc - petite
 en:
   title: Maroc - petite
+continents: []
+countries:
+  - maroc
+image: 'http://www.populationdata.net/wp-content/uploads/maroc-petite.gif'
+source: Wikipédia
+type: image

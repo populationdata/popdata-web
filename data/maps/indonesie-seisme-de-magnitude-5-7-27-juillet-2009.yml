@@ -4,3 +4,13 @@ fr:
   title: Indonésie - séisme de magnitude 5.7 (27 juillet 2009)
 en:
   title: Indonésie - séisme de magnitude 5.7 (27 juillet 2009)
+continents: []
+countries:
+  - indonesie
+gmaps:
+  latitude: -4.7422
+  longitude: 102.9757
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

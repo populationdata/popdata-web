@@ -4,3 +4,13 @@ fr:
   title: Ouagadougou - satellite
 en:
   title: Ouagadougou - satellite
+continents: []
+countries:
+  - burkina-faso
+gmaps:
+  latitude: 12.359118
+  longitude: -1.531734
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

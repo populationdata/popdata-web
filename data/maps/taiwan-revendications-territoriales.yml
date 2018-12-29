@@ -4,3 +4,10 @@ fr:
   title: Taïwan - revendications territoriales
 en:
   title: Taïwan - revendications territoriales
+continents: []
+countries:
+  - taiwan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/taiwan-revendications-territoriales.png
+source: Wikipédia
+type: image

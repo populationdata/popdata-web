@@ -4,3 +4,12 @@ fr:
   title: Nottingham - East Midlands - satellite
 en:
   title: Nottingham - East Midlands - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 52.807959
+  longitude: -1.28025
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Fidji - relief
 en:
   title: Fidji - relief
+continents: []
+countries:
+  - fidji
+gmaps:
+  latitude: -17.858519
+  longitude: 179.203491
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

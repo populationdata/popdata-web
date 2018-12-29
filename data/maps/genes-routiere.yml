@@ -4,3 +4,12 @@ fr:
   title: Gènes - routière
 en:
   title: Gènes - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 44.421276
+  longitude: 8.899269
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

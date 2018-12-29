@@ -4,3 +4,12 @@ fr:
   title: Douchanbé - satellite
 en:
   title: Douchanbé - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 38.552059
+  longitude: 68.777504
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

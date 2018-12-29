@@ -4,3 +4,9 @@ fr:
   title: Réunion - petite
 en:
   title: Réunion - petite
+continents: []
+countries:
+  - reunion
+image: 'http://www.populationdata.net/wp-content/uploads/reunion_petite.gif'
+source: CIA
+type: image

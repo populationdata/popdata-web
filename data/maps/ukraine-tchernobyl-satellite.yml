@@ -4,3 +4,13 @@ fr:
   title: 'Ukraine - Tchernobyl : satellite'
 en:
   title: 'Ukraine - Tchernobyl : satellite'
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 51.389874
+  longitude: 30.100715
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

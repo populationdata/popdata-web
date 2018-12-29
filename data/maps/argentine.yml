@@ -4,3 +4,9 @@ fr:
   title: Argentine
 en:
   title: Argentine
+continents: []
+countries:
+  - argentine
+image: 'http://www.populationdata.net/wp-content/uploads/argentine.jpg'
+source: CIA
+type: image

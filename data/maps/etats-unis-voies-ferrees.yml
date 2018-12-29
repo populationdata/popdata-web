@@ -4,3 +4,9 @@ fr:
   title: États-Unis - voies ferrées
 en:
   title: États-Unis - voies ferrées
+continents: []
+countries:
+  - etats-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/etats-unis-rail.jpg'
+source: Washington Post
+type: image

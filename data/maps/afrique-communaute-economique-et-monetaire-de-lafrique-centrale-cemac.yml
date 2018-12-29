@@ -4,3 +4,15 @@ fr:
   title: Afrique - Communauté économique et monétaire de l'Afrique centrale (CEMAC)
 en:
   title: Africa - Economic and Monetary Community of Central Africa (EMCCA)
+continents:
+  - afrique
+countries:
+  - cameroun
+  - republique-centrafricaine
+  - congo
+  - gabon
+  - guinee-equatoriale
+  - tchad
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-cemac.png'
+source: Wikipédia
+type: image

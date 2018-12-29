@@ -4,3 +4,13 @@ fr:
   title: 'Cambodge - Angkor Vat : routière'
 en:
   title: 'Cambodia - Angkor Wat: road map'
+continents: []
+countries:
+  - cambodge
+gmaps:
+  latitude: 13.41066
+  longitude: 103.833847
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

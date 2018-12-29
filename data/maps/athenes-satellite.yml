@@ -4,3 +4,12 @@ fr:
   title: Athènes - satellite
 en:
   title: Athènes - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 37.977492
+  longitude: 23.690815
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

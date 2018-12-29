@@ -4,3 +4,10 @@ fr:
   title: Portugal - Açores
 en:
   title: Portugal - Açores
+continents: []
+countries:
+  - portugal
+  - acores
+image: 'http://www.populationdata.net/wp-content/uploads/portugal-acores.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,20 @@ fr:
   title: Afrique - Communauté économique des États de l'Afrique centrale (CEEAC)
 en:
   title: Africa - Economic Community of Central African States (ECCAS)
+continents:
+  - afrique
+countries:
+  - sao-tome-et-principe
+  - guinee-equatoriale
+  - rwanda
+  - burundi
+  - angola
+  - republique-democratique-du-congo
+  - congo
+  - gabon
+  - cameroun
+  - republique-centrafricaine
+  - tchad
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-ceeac.png'
+source: Wikipédia
+type: image

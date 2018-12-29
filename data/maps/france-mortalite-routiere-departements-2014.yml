@@ -3,3 +3,10 @@ date: '2018-10-24T22:27:48.000Z'
 fr:
   title: 'France - mortalité routière (départements, 2014)'
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/10/France-mortalite-routiere-departements-2014.jpg
+source: Observatoire national interministériel de la sécurité routière
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Chypre du Nord
 en:
   title: Chypre du Nord
+continents: []
+countries:
+  - chypre
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Chypre-Chypre-du-Nord.png
+source: Wikipédia
+type: image

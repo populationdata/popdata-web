@@ -4,3 +4,11 @@ fr:
   title: Union européenne - Italien
 en:
   title: Union européenne - Italien
+continents:
+  - europe
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Union-europeenne-italien.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Sri Lanka - petite
 en:
   title: Sri Lanka - petite
+continents: []
+countries:
+  - sri-lanka
+image: 'http://www.populationdata.net/wp-content/uploads/sri-lanka-petite.png'
+source: Wikipédia
+type: image

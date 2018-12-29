@@ -4,3 +4,12 @@ fr:
   title: Lilongwe - satellite
 en:
   title: Lilongwe - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -13.97355
+  longitude: 33.771114
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

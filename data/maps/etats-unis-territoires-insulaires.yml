@@ -4,3 +4,10 @@ fr:
   title: États-Unis - territoires insulaires
 en:
   title: États-Unis - territoires insulaires
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Etats-Unis-territoires-insulaires.png
+source: Wikipédia
+type: image

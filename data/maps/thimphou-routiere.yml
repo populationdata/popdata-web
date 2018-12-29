@@ -4,3 +4,12 @@ fr:
   title: Thimphou - routière
 en:
   title: Thimphou - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 27.480291
+  longitude: 89.633074
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

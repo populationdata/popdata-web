@@ -4,3 +4,9 @@ fr:
   title: Cyclones - saison 2008
 en:
   title: Cyclones - saison 2008
+continents:
+  - ameriques
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/cyclones-2008.gif'
+source: ReliefWeb
+type: image

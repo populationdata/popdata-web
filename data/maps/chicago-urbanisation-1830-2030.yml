@@ -4,3 +4,10 @@ fr:
   title: Chicago - urbanisation (1830-2030)
 en:
   title: Chicago - urbanisation (1830-2030)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/etats-unis-chicago-urbanisation.gif
+source: Wikipédia
+type: image

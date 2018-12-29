@@ -4,3 +4,30 @@ fr:
   title: Afrique-Asie - Excision (2013)
 en:
   title: Africa-Asia - Excision (2013)
+continents:
+  - afrique
+  - asie
+countries:
+  - irak
+  - yemen
+  - liberia
+  - burkina-faso
+  - mauritanie
+  - ethiopie
+  - guinee
+  - djibouti
+  - egypte
+  - erythree
+  - mali
+  - sierra-leone
+  - soudan
+  - gambie
+  - somalie
+  - tanzanie
+  - cameroun
+  - ouganda
+  - kenya
+image: >-
+  http://www.populationdata.net/wp-content/uploads/afrique-asie-excision-2013.jpg
+source: Unicef
+type: image

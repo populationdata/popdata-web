@@ -4,3 +4,11 @@ fr:
   title: Îles Sandwich du Sud
 en:
   title: Îles Sandwich du Sud
+continents:
+  - antarctique
+countries:
+  - georgie-du-sud-et-les-iles-sandwich-du-sud
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Iles-Sandwich-du-Sud.png
+source: Wikipédia
+type: image

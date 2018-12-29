@@ -4,3 +4,13 @@ fr:
   title: Australie - satellite
 en:
   title: Australie - satellite
+continents: []
+countries:
+  - australie
+gmaps:
+  latitude: -27.215556
+  longitude: 132.539063
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

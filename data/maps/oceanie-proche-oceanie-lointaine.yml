@@ -4,3 +4,9 @@ fr:
   title: Océanie proche - Océanie lointaine
 en:
   title: Océanie proche - Océanie lointaine
+continents:
+  - oceanie
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Oceanies.jpg'
+source: Wikipédia
+type: image

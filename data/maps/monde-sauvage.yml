@@ -4,3 +4,8 @@ fr:
   title: Monde - Sauvage
 en:
   title: Monde - Sauvage
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde_sauvage.jpg'
+source: The Last of the Wild
+type: image

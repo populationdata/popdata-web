@@ -4,3 +4,12 @@ fr:
   title: Chennai - satellite (Madras)
 en:
   title: Chennai - satellite (Madras)
+continents: []
+countries: []
+gmaps:
+  latitude: 13.075114
+  longitude: 80.225576
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

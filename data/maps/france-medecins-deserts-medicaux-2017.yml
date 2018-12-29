@@ -3,3 +3,10 @@ date: '2017-10-12T18:38:04.000Z'
 fr:
   title: France - médecins et déserts médicaux (2017)
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/france-medecins-2017.jpg
+source: Atlas 2017 de la démographie médicale - Ordre des médecins
+type: image

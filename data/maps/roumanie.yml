@@ -4,3 +4,9 @@ fr:
   title: Roumanie
 en:
   title: Roumanie
+continents: []
+countries:
+  - roumanie
+image: 'http://www.populationdata.net/wp-content/uploads/roumanie.jpg'
+source: CIA
+type: image

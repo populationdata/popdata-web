@@ -4,3 +4,12 @@ fr:
   title: Melbourne - satellite
 en:
   title: Melbourne - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -37.813988
+  longitude: 144.955158
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

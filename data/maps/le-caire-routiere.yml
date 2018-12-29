@@ -4,3 +4,12 @@ fr:
   title: Le Caire - routière
 en:
   title: Le Caire - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 30.057506
+  longitude: 31.227608
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

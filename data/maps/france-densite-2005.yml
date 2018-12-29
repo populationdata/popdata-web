@@ -4,3 +4,9 @@ fr:
   title: France - densité (2005)
 en:
   title: France - densité (2005)
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-densite.png'
+source: Insee
+type: image

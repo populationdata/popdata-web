@@ -3,3 +3,9 @@ date: '2017-12-04T21:50:00.000Z'
 fr:
   title: Inde portugaise
 en: null
+continents: []
+countries:
+  - inde
+image: 'https://www.populationdata.net/wp-content/uploads/2017/12/Inde-portugaise.png'
+source: Wikipédia
+type: image

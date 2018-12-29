@@ -4,3 +4,9 @@ fr:
   title: Yémen - relief
 en:
   title: Yémen - relief
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen_relief.jpg'
+source: CIA
+type: image

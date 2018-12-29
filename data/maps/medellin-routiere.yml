@@ -4,3 +4,12 @@ fr:
   title: Medellín - routière
 en:
   title: Medellín - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 6.267352
+  longitude: -75.564137
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

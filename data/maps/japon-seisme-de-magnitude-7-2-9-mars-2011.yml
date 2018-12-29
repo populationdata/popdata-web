@@ -4,3 +4,13 @@ fr:
   title: Japon - séisme de magnitude 7.2 (9 mars 2011)
 en:
   title: Japon - séisme de magnitude 7.2 (9 mars 2011)
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 38.5095
+  longitude: 142.7921
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

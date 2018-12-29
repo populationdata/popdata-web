@@ -4,3 +4,12 @@ fr:
   title: Saint-Pétersbourg - routière
 en:
   title: Saint-Pétersbourg - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 59.948478
+  longitude: 30.254288
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

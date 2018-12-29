@@ -4,3 +4,9 @@ fr:
   title: Bolivie - petite
 en:
   title: Bolivie - petite
+continents: []
+countries:
+  - bolivie
+image: 'http://www.populationdata.net/wp-content/uploads/bolivie-petite.gif'
+source: Wikipédia
+type: image

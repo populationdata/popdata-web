@@ -4,3 +4,13 @@ fr:
   title: Pérou - routière
 en:
   title: Pérou - routière
+continents: []
+countries:
+  - perou
+gmaps:
+  latitude: -9.145486
+  longitude: -73.85009
+  type: roadmap
+  zoom: 5
+source: Google Maps
+type: gmaps

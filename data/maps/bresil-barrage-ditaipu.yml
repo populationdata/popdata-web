@@ -4,3 +4,13 @@ fr:
   title: Brésil - barrage d'Itaipu
 en:
   title: Brésil - barrage d'Itaipu
+continents: []
+countries:
+  - bresil
+gmaps:
+  latitude: -25.413199
+  longitude: -54.587631
+  type: satellite
+  zoom: 13
+source: Google Maps
+type: gmaps

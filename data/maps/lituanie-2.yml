@@ -4,3 +4,9 @@ fr:
   title: Lituanie
 en:
   title: Lituanie
+continents: []
+countries:
+  - lituanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Lituanie.png'
+source: ONU
+type: image

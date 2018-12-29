@@ -4,3 +4,12 @@ fr:
   title: Empire mongol
 en:
   title: Empire mongol
+continents:
+  - asie
+countries:
+  - mongolie
+  - chine
+  - russie
+image: 'http://www.populationdata.net/wp-content/uploads/mongolie_mongol_empire.jpg'
+source: Wikipédia
+type: image

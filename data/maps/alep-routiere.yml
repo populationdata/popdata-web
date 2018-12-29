@@ -4,3 +4,12 @@ fr:
   title: Alep - routière
 en:
   title: Alep - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 36.19788
+  longitude: 37.14632
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

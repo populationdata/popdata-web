@@ -4,3 +4,13 @@ fr:
   title: Guatemala - satellite
 en:
   title: Guatemala - satellite
+continents: []
+countries:
+  - guatemala
+gmaps:
+  latitude: 15.739388
+  longitude: -90.137329
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

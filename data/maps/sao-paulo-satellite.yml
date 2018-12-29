@@ -4,3 +4,12 @@ fr:
   title: São Paulo - satellite
 en:
   title: São Paulo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -23.550612
+  longitude: -46.634903
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

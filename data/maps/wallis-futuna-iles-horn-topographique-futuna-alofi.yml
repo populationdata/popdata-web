@@ -4,3 +4,10 @@ fr:
   title: 'Wallis-et-Futuna - Îles Horn : topographique (Futuna, Alofi)'
 en:
   title: 'Wallis-et-Futuna - Îles Horn : topographique (Futuna, Alofi)'
+continents: []
+countries:
+  - wallis-et-futuna
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Wallis-et-Futuna-iles-Horn-topographique-Futuna-Alofi.png
+source: Wikipédia
+type: image

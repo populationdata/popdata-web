@@ -4,3 +4,17 @@ fr:
   title: Caucase - ethnies
 en:
   title: Caucase - ethnies
+continents: []
+countries:
+  - azerbaidjan
+  - georgie
+  - russie
+  - armenie
+  - turquie
+  - iran
+  - artsakh-haut-karabakh
+  - ossetie-du-sud-alanie
+  - abkhazie
+image: 'http://www.populationdata.net/wp-content/uploads/caucase-ethno.jpg'
+source: CIA
+type: image

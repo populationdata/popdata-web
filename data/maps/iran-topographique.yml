@@ -4,3 +4,10 @@ fr:
   title: Iran - topographique
 en:
   title: Iran - topographique
+continents: []
+countries:
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Iran-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Tchéquie - administrative
 en:
   title: Tchéquie - administrative
+continents: []
+countries:
+  - tchequie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Tchequie-divisions-administrative.png
+source: Office statistique tchèque
+type: image

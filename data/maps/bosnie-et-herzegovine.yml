@@ -4,3 +4,9 @@ fr:
   title: Bosnie-et-Herzégovine
 en:
   title: Bosnie-et-Herzégovine
+continents: []
+countries:
+  - bosnie-et-herzegovine
+image: 'http://www.populationdata.net/wp-content/uploads/bosnie_herzegovine.jpg'
+source: CIA
+type: image

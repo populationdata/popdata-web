@@ -4,3 +4,10 @@ fr:
   title: Tokelau - administrative
 en:
   title: Tokelau - administrative
+continents: []
+countries:
+  - tokelau
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Tokelau-administrative.png
+source: Wikipédia
+type: image

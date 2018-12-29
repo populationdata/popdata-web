@@ -4,3 +4,10 @@ fr:
   title: Océanie - Migrations
 en:
   title: Océanie - Migrations
+continents:
+  - oceanie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Oceanie-migrations.jpg
+source: Wikipédia
+type: image

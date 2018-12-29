@@ -4,3 +4,12 @@ fr:
   title: Douchanbé - routière
 en:
   title: Douchanbé - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 38.552059
+  longitude: 68.777504
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

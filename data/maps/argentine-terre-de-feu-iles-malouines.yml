@@ -4,3 +4,11 @@ fr:
   title: Argentine - Terre de Feu et Îles Malouines
 en:
   title: Argentine - Terre de Feu et Îles Malouines
+continents: []
+countries:
+  - argentine
+  - malouines
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/argentine-terre-de-feu.png
+source: Wikipédia
+type: image

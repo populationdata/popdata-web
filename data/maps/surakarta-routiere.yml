@@ -4,3 +4,12 @@ fr:
   title: Surakarta - routière
 en:
   title: Surakarta - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -7.571184
+  longitude: 110.819698
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

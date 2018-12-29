@@ -4,3 +4,9 @@ fr:
   title: Pérou - administrative
 en:
   title: Pérou - administrative
+continents: []
+countries:
+  - perou
+image: 'http://www.populationdata.net/wp-content/uploads/perou-1.jpg'
+source: CIA
+type: image

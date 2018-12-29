@@ -4,3 +4,12 @@ fr:
   title: Minneapolis - satellite
 en:
   title: Minneapolis - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 44.965284
+  longitude: -93.218994
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

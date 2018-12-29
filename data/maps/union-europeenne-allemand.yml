@@ -4,3 +4,14 @@ fr:
   title: Union européenne - Allemand
 en:
   title: Union européenne - Allemand
+continents:
+  - europe
+countries:
+  - allemagne
+  - autriche
+  - suisse
+  - belgique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Union-europeenne-allemand.png
+source: Wikipédia
+type: image

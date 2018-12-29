@@ -4,3 +4,10 @@ fr:
   title: Côte d'Ivoire - administrative
 en:
   title: Côte d'Ivoire - administrative
+continents: []
+countries:
+  - cote-divoire
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/cote-d-ivoire-administrative.jpg
+source: Institut National de la Statistique de Côte d'Ivoire
+type: image

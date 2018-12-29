@@ -4,3 +4,9 @@ fr:
   title: Djibouti - petite
 en:
   title: Djibouti - petite
+continents: []
+countries:
+  - djibouti
+image: 'http://www.populationdata.net/wp-content/uploads/djibouti-petite.png'
+source: Wikipédia
+type: image

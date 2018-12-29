@@ -4,3 +4,9 @@ fr:
   title: Colombie - petite
 en:
   title: Colombie - petite
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-petite.png'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: France - mines d'uranium et sites de stockage
 en:
   title: France - mines d'uranium et sites de stockage
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/france-uranium-mines-stockage.gif
+source: IRSN
+type: image

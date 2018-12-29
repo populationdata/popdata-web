@@ -4,3 +4,12 @@ fr:
   title: Pattaya - Chonburi - satellite
 en:
   title: Pattaya - Chonburi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.14765
+  longitude: 100.908806
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

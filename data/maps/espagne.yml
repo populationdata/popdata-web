@@ -4,3 +4,9 @@ fr:
   title: Espagne
 en:
   title: Espagne
+continents: []
+countries:
+  - espagne
+image: 'http://www.populationdata.net/wp-content/uploads/espagne.jpg'
+source: CIA
+type: image

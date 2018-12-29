@@ -4,3 +4,10 @@ fr:
   title: France - eaux territoriales
 en:
   title: France - eaux territoriales
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/France-eaux-territoriales.png
+source: Wikipédia
+type: image

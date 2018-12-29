@@ -4,3 +4,13 @@ fr:
   title: Bolivie - routière
 en:
   title: Bolivie - routière
+continents: []
+countries:
+  - bolivie
+gmaps:
+  latitude: -16.750965
+  longitude: -66.282078
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Las Vegas - routière
 en:
   title: Las Vegas - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 36.17114
+  longitude: -115.148048
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

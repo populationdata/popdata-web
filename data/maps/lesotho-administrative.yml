@@ -4,3 +4,9 @@ fr:
   title: Lesotho - administrative
 en:
   title: Lesotho - administrative
+continents: []
+countries:
+  - lesotho
+image: 'http://www.populationdata.net/wp-content/uploads/lesotho-administrative.png'
+source: Wikipédia
+type: image

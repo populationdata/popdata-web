@@ -4,3 +4,13 @@ fr:
   title: Tunisie - satellite
 en:
   title: Tunisie - satellite
+continents: []
+countries:
+  - tunisie
+gmaps:
+  latitude: 34.479392
+  longitude: 10.195313
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

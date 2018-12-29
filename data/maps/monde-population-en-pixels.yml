@@ -4,3 +4,8 @@ fr:
   title: Monde - Population en pixels
 en:
   title: Monde - Population en pixels
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-population-pixels.jpg'
+source: TeaDranks
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Málaga - satellite
 en:
   title: Málaga - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.71389
+  longitude: -4.434321
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

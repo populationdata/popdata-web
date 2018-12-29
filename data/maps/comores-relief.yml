@@ -4,3 +4,9 @@ fr:
   title: Comores - relief
 en:
   title: Comores - relief
+continents: []
+countries:
+  - comores
+image: 'http://www.populationdata.net/wp-content/uploads/comores_relief.jpg'
+source: CIA
+type: image

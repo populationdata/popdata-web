@@ -4,3 +4,10 @@ fr:
   title: 'Japon - Fukushima : radiations (15 mars 2011)'
 en:
   title: 'Japon - Fukushima : radiations (15 mars 2011)'
+continents: []
+countries:
+  - japon
+image: >-
+  http://www.populationdata.net/wp-content/uploads/japon-fukushima-radiations-15mars2011.png
+source: Sonaeru
+type: image

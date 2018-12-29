@@ -4,3 +4,10 @@ fr:
   title: Turquie - administrative (régions et provinces)
 en:
   title: Turquie - administrative (régions et provinces)
+continents: []
+countries:
+  - turquie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Turquie-administrative-regionsprovinces.png
+source: Wikipédia
+type: image

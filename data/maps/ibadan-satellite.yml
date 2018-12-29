@@ -4,3 +4,12 @@ fr:
   title: Ibadan - satellite
 en:
   title: Ibadan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 7.380342
+  longitude: 3.901005
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

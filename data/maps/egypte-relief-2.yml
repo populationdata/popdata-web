@@ -4,3 +4,13 @@ fr:
   title: Égypte - relief
 en:
   title: Égypte - relief
+continents: []
+countries:
+  - egypte
+gmaps:
+  latitude: 27.9847
+  longitude: 30.618896
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

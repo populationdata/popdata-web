@@ -4,3 +4,9 @@ fr:
   title: Allemagne
 en:
   title: Allemagne
+continents: []
+countries:
+  - allemagne
+image: 'http://www.populationdata.net/wp-content/uploads/allemagne_politique.jpg'
+source: CIA
+type: image

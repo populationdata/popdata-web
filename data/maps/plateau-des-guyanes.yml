@@ -4,3 +4,16 @@ fr:
   title: Plateau des Guyanes
 en:
   title: Plateau des Guyanes
+continents:
+  - ameriques
+countries:
+  - colombie
+  - bresil
+  - suriname
+  - guyane
+  - guyana
+  - venezuela
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/plateau-des-guyanes.png
+source: Wikipédia
+type: image

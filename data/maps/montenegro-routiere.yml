@@ -4,3 +4,13 @@ fr:
   title: Monténégro - routière
 en:
   title: Monténégro - routière
+continents: []
+countries:
+  - montenegro
+gmaps:
+  latitude: 42.720786
+  longitude: 19.105225
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

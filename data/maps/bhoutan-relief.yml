@@ -4,3 +4,9 @@ fr:
   title: Bhoutan - relief
 en:
   title: Bhoutan - relief
+continents: []
+countries:
+  - bhoutan
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Bhoutan-relief.jpg'
+source: CIA
+type: image

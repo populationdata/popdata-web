@@ -4,3 +4,9 @@ fr:
   title: Grèce - Mont Athos
 en:
   title: Grèce - Mont Athos
+continents: []
+countries:
+  - grece
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Grece-Mont-Athos.png'
+source: Wikipédia
+type: image

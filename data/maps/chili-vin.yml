@@ -4,3 +4,9 @@ fr:
   title: Chili - vin
 en:
   title: Chili - vin
+continents: []
+countries:
+  - chili
+image: 'https://www.populationdata.net/wp-content/uploads/2017/08/Chili-vin.jpg'
+source: Serious Eats
+type: image

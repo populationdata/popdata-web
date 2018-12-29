@@ -4,3 +4,10 @@ fr:
   title: 'Espagne - Navarre : topographique'
 en:
   title: 'Espagne - Navarre : topographique'
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Espagne-Navarre-topographique.jpg
+source: Wikipédia
+type: image

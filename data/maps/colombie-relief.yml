@@ -4,3 +4,9 @@ fr:
   title: Colombie - relief
 en:
   title: Colombie - relief
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-relief.jpg'
+source: CIA
+type: image

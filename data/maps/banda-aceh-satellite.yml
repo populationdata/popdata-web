@@ -4,3 +4,12 @@ fr:
   title: Banda Aceh - satellite
 en:
   title: Banda Aceh - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 5.557471
+  longitude: 95.323648
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

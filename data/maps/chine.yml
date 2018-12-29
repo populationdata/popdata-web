@@ -4,3 +4,8 @@ fr:
   title: Chine
 en:
   title: Chine
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/chine.jpg'
+source: CIA
+type: image

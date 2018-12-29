@@ -3,3 +3,13 @@ date: '2018-02-12T21:36:59.000Z'
 fr:
   title: France - eaux territoriales dans le Pacifique
 en: null
+continents: []
+countries:
+  - nouvelle-caledonie
+  - wallis-et-futuna
+  - polynesie-francaise
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/France-eaux-territoriales-Pacifique.gif
+source: Clipperton.fr
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Monde - Températures maximales
 en:
   title: Monde - Températures maximales
+continents: []
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Monde-Temperatures-maximales.png
+source: 'Metrocosm, MERRAclim, Scientific Data'
+type: image

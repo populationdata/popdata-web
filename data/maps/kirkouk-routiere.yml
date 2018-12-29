@@ -4,3 +4,12 @@ fr:
   title: Kirkouk - routière
 en:
   title: Kirkouk - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 35.463187
+  longitude: 44.376011
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Asie - Tigre
 en:
   title: Asie - Tigre
+continents:
+  - asie
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Asie-Tigre-WWF.jpg'
+source: WWF
+type: image

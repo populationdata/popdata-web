@@ -4,3 +4,12 @@ fr:
   title: Gènes - satellite
 en:
   title: Gènes - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 44.421276
+  longitude: 8.899269
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

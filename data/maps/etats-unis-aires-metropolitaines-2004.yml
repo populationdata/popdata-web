@@ -4,3 +4,10 @@ fr:
   title: États-Unis - aires métropolitaines (2004)
 en:
   title: États-Unis - aires métropolitaines (2004)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  http://www.populationdata.net/wp-content/uploads/etats_unis_aires_metro-2004.gif
+source: Census Bureau
+type: image

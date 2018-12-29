@@ -4,3 +4,9 @@ fr:
   title: Allemagne - Länder
 en:
   title: Allemagne - Länder
+continents: []
+countries:
+  - allemagne
+image: 'https://www.populationdata.net/wp-content/uploads/Allemagne-Lander.jpg'
+source: Wikipédia
+type: image

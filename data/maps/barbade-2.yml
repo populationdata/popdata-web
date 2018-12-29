@@ -4,3 +4,9 @@ fr:
   title: Barbade
 en:
   title: Barbade
+continents: []
+countries:
+  - barbade
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Barbade.png'
+source: Wikipédia
+type: image

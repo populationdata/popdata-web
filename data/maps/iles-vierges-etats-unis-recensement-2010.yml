@@ -4,3 +4,10 @@ fr:
   title: Îles Vierges des États-Unis - recensement 2010
 en:
   title: Îles Vierges des États-Unis - recensement 2010
+continents: []
+countries:
+  - iles-vierges-des-etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Iles-Vierges-des-Etats-Unis-recensement-2010.jpg
+source: Bureau de recensement des États-Unis
+type: image

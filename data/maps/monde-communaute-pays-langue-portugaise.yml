@@ -4,3 +4,18 @@ fr:
   title: Monde - Communauté des pays de langue portugaise
 en:
   title: Monde - Communauté des pays de langue portugaise
+continents: []
+countries:
+  - portugal
+  - bresil
+  - angola
+  - mozambique
+  - cap-vert
+  - guinee-bissau
+  - sao-tome-et-principe
+  - timor-oriental
+  - guinee-equatoriale
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Monde-Communaut-pays-langue-portugaise.png
+source: Wikipédia
+type: image

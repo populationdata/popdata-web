@@ -4,3 +4,13 @@ fr:
   title: Pays-Bas - satellite
 en:
   title: Pays-Bas - satellite
+continents: []
+countries:
+  - pays-bas
+gmaps:
+  latitude: 52.180669
+  longitude: 5.284424
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

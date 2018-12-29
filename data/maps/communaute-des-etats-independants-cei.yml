@@ -4,3 +4,22 @@ fr:
   title: Communauté des États indépendants (CEI)
 en:
   title: Commonwealth of Independent States (CIS)
+continents:
+  - asie
+  - europe
+countries:
+  - mongolie
+  - turkmenistan
+  - tadjikistan
+  - ouzbekistan
+  - moldavie
+  - kirghizistan
+  - kazakhstan
+  - belarus-bielorussie
+  - armenie
+  - azerbaidjan
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Communaute-des-Etats-independants-Etats-membres-2016.png
+source: Wikipédia
+type: image

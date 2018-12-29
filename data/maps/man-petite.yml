@@ -4,3 +4,9 @@ fr:
   title: Man - petite
 en:
   title: Man - petite
+continents: []
+countries:
+  - man
+image: 'http://www.populationdata.net/wp-content/uploads/man-petite.gif'
+source: Wikipédia
+type: image

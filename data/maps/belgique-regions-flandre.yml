@@ -4,3 +4,9 @@ fr:
   title: 'Belgique - régions : Flandre'
 en:
   title: 'Belgique - régions : Flandre'
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-flandres-region.png'
+source: Wikipédia
+type: image

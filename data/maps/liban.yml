@@ -4,3 +4,9 @@ fr:
   title: Liban
 en:
   title: Liban
+continents: []
+countries:
+  - liban
+image: 'http://www.populationdata.net/wp-content/uploads/liban.jpg'
+source: CIA
+type: image

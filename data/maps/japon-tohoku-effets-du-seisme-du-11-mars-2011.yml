@@ -4,3 +4,10 @@ fr:
   title: 'Japon - Tohoku : effets du séisme du 11 mars 2011'
 en:
   title: 'Japon - Tohoku : effets du séisme du 11 mars 2011'
+continents: []
+countries:
+  - japon
+image: >-
+  http://www.populationdata.net/wp-content/uploads/japon-tohoku-seisme-11mars2011.png
+source: Rémy Scoccimarro - Université Toulouse Le Mirail
+type: image

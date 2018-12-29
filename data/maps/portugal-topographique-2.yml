@@ -4,3 +4,10 @@ fr:
   title: Portugal - Topographique
 en:
   title: Portugal - Topographique
+continents: []
+countries:
+  - portugal
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Portugal-Topographique.png
+source: Wikipédia
+type: image

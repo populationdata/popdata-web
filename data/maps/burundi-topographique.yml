@@ -4,3 +4,10 @@ fr:
   title: Burundi - topographique
 en:
   title: Burundi - topographique
+continents: []
+countries:
+  - burundi
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Burundi-topographique.png
+source: Wikipédia
+type: image

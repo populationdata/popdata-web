@@ -4,3 +4,12 @@ fr:
   title: Newcastle - routière
 en:
   title: Newcastle - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 54.792604
+  longitude: -1.431584
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

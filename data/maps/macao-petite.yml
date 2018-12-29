@@ -4,3 +4,9 @@ fr:
   title: Macao - petite
 en:
   title: Macao - petite
+continents: []
+countries:
+  - macao
+image: 'http://www.populationdata.net/wp-content/uploads/macao-petite.png'
+source: Wikipédia
+type: image

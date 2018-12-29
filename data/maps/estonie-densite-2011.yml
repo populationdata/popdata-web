@@ -4,3 +4,9 @@ fr:
   title: Estonie - densité (2011)
 en:
   title: Estonie - densité (2011)
+continents: []
+countries:
+  - estonie
+image: 'http://www.populationdata.net/wp-content/uploads/estonie-densite-2011.jpg'
+source: Statistiques Estonie
+type: image

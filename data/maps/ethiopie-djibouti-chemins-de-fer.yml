@@ -3,3 +3,12 @@ date: '2018-02-21T17:33:18.000Z'
 fr:
   title: Éthiopie-Djibouti - chemins de fer
 en: null
+continents:
+  - afrique
+countries:
+  - ethiopie
+  - djibouti
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Ethiopie-Djibouti-chemins-de-fer.png
+source: Wikipédia
+type: image

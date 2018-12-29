@@ -4,3 +4,10 @@ fr:
   title: Congo - topographique
 en:
   title: Congo - topographique
+continents: []
+countries:
+  - congo
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Congo-topographique.png
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Maldives - petite
 en:
   title: Maldives - petite
+continents: []
+countries:
+  - maldives
+image: 'http://www.populationdata.net/wp-content/uploads/maldives-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Melbourne - évolution de la densité de population (1986-2011)
 en:
   title: Melbourne - évolution de la densité de population (1986-2011)
+continents: []
+countries:
+  - australie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/melbourne-evolution-densite-1986-2011-2.gif
+source: Wikipédia
+type: image

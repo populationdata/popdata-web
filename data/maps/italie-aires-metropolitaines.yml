@@ -4,3 +4,10 @@ fr:
   title: Italie - Aires métropolitaines
 en:
   title: Italie - Aires métropolitaines
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Italie-Aires-metropolitaines.png
+source: Wikipédia
+type: image

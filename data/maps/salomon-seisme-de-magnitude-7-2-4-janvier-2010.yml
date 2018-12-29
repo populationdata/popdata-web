@@ -4,3 +4,13 @@ fr:
   title: Salomon - séisme de magnitude 7.2 (4 janvier 2010)
 en:
   title: Salomon - séisme de magnitude 7.2 (4 janvier 2010)
+continents: []
+countries:
+  - salomon
+gmaps:
+  latitude: -8.912
+  longitude: 157.3073
+  type: terrain
+  zoom: 8
+source: USGS - Earthquake Hazards Program
+type: gmaps

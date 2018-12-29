@@ -4,3 +4,9 @@ fr:
   title: Somalie - petite
 en:
   title: Somalie - petite
+continents: []
+countries:
+  - somalie
+image: 'http://www.populationdata.net/wp-content/uploads/somalie-petite-2014.png'
+source: Wikipédia
+type: image

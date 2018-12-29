@@ -4,3 +4,12 @@ fr:
   title: Oyala - routière
 en:
   title: Oyala - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 1.607038
+  longitude: 10.855492
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

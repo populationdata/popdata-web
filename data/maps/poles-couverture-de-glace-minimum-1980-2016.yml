@@ -4,3 +4,21 @@ fr:
   title: Pôles - couverture de glace minimum (1980-2016)
 en:
   title: Pôles - couverture de glace minimum (1980-2016)
+continents:
+  - antarctique
+  - ameriques
+  - europe
+  - asie
+countries:
+  - antarctique
+  - groenland
+  - terres-australes-antarctiques-francaises
+  - russie
+  - canada
+  - etats-unis
+  - norvege
+  - islande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/poles-couverture-glace-minimum-1980-2016.png
+source: National Snow and Ice Data Center
+type: image

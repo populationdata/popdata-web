@@ -4,3 +4,9 @@ fr:
   title: 'Irak - Bagdad : aérienne'
 en:
   title: 'Irak - Bagdad : aérienne'
+continents: []
+countries:
+  - irak
+image: 'http://www.populationdata.net/wp-content/uploads/iraq_bagdad_region.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Dzaoudzi - satellite
 en:
   title: Dzaoudzi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -12.790458
+  longitude: 45.273113
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

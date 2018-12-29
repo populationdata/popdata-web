@@ -4,3 +4,10 @@ fr:
   title: Venise - République (1000)
 en:
   title: Venise - République (1000)
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Venise-republique-1000.png
+source: Wikipédia
+type: image

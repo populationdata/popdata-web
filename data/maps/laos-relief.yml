@@ -4,3 +4,9 @@ fr:
   title: Laos - relief
 en:
   title: Laos - relief
+continents: []
+countries:
+  - laos
+image: 'http://www.populationdata.net/wp-content/uploads/laos_relief.jpg'
+source: CIA
+type: image

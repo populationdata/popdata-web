@@ -4,3 +4,10 @@ fr:
   title: 'Syrie - Israël : Golan'
 en:
   title: 'Syrie - Israël : Golan'
+continents: []
+countries:
+  - syrie
+  - israel
+image: 'http://www.populationdata.net/wp-content/uploads/syrie-israel-golan.jpg'
+source: CIA
+type: image

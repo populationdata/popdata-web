@@ -4,3 +4,13 @@ fr:
   title: 'Îles Anglo-Normandes – Jersey et Guernesey : carte satellite'
 en:
   title: 'Îles Anglo-Normandes – Jersey et Guernesey : carte satellite'
+continents: []
+countries:
+  - iles-anglo-normandes-jersey-et-guernesey
+gmaps:
+  latitude: 49.449351
+  longitude: -2.353527
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

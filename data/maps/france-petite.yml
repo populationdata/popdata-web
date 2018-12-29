@@ -4,3 +4,9 @@ fr:
   title: France - petite
 en:
   title: France - petite
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-petite.png'
+source: Wikipédia
+type: image

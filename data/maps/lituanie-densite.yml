@@ -4,3 +4,9 @@ fr:
   title: Lituanie - densité
 en:
   title: Lituanie - densité
+continents: []
+countries:
+  - lituanie
+image: 'http://www.populationdata.net/wp-content/uploads/lituanie_densite.jpg'
+source: Statistiques Lituanie
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Ruhr - satellite
 en:
   title: Ruhr - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.387209
+  longitude: 7.044983
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

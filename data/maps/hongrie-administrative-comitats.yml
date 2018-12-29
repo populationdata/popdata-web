@@ -4,3 +4,9 @@ fr:
   title: Hongrie - administrative (comitats)
 en:
   title: Hongrie - administrative (comitats)
+continents: []
+countries:
+  - hongrie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/10/Hongrie-comitats.png'
+source: Wikipédia
+type: image

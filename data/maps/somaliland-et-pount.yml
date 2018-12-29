@@ -4,3 +4,9 @@ fr:
   title: Somaliland et Pount
 en:
   title: Somaliland et Pount
+continents: []
+countries:
+  - somaliland
+image: 'http://www.populationdata.net/wp-content/uploads/somaliland-puntland.jpg'
+source: CIA
+type: image

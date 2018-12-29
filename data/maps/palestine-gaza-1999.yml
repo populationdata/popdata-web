@@ -4,3 +4,9 @@ fr:
   title: Palestine - Gaza (1999)
 en:
   title: Palestine - Gaza (1999)
+continents: []
+countries:
+  - palestine
+image: 'http://www.populationdata.net/wp-content/uploads/palestine_gaza_1999.jpg'
+source: ONU
+type: image

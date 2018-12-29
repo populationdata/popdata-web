@@ -4,3 +4,9 @@ fr:
   title: Canada - Québec relief
 en:
   title: Canada - Québec relief
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/Canada-Quebec-relief.jpg'
+source: Ressources Naturelles Canada
+type: image

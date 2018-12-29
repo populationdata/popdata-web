@@ -4,3 +4,9 @@ fr:
   title: Canada - densité (2006)
 en:
   title: Canada - densité (2006)
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada-densite-2006.jpg'
+source: Gouvernement du Canada
+type: image

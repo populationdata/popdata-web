@@ -4,3 +4,9 @@ fr:
   title: Bonaire (1914)
 en:
   title: Bonaire (1914)
+continents: []
+countries:
+  - pays-bas-caribeens
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Bonaire-1914.gif'
+source: Wikipédia
+type: image

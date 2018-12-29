@@ -4,3 +4,10 @@ fr:
   title: Cameroun - Mont Cameroun en relief
 en:
   title: Cameroun - Mont Cameroun en relief
+continents: []
+countries:
+  - cameroun
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Cameroun-Mont-Cameroun.jpg
+source: Wikipédia
+type: image

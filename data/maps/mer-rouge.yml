@@ -4,3 +4,18 @@ fr:
   title: Mer Rouge
 en:
   title: Mer Rouge
+continents:
+  - asie
+  - afrique
+countries:
+  - egypte
+  - soudan
+  - erythree
+  - djibouti
+  - yemen
+  - arabie-saoudite
+  - jordanie
+  - israel
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Mer-Rouge.jpg'
+source: Wikipédia
+type: image

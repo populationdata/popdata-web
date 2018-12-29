@@ -4,3 +4,12 @@ fr:
   title: Lusaka - routière
 en:
   title: Lusaka - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -15.412643
+  longitude: 28.300781
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

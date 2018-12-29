@@ -4,3 +4,10 @@ fr:
   title: Biélorussie - topographique
 en:
   title: Biélorussie - topographique
+continents: []
+countries:
+  - belarus-bielorussie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/belarus-topographique.png
+source: Wikipédia
+type: image

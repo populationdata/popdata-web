@@ -4,3 +4,9 @@ fr:
   title: Autriche - États (Länder)
 en:
   title: Autriche - États (Länder)
+continents: []
+countries:
+  - autriche
+image: 'http://www.populationdata.net/wp-content/uploads/autriche-lander.jpg'
+source: Wikipédia
+type: image

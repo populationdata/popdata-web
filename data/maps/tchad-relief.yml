@@ -4,3 +4,9 @@ fr:
   title: Tchad - relief
 en:
   title: Tchad - relief
+continents: []
+countries:
+  - tchad
+image: 'http://www.populationdata.net/wp-content/uploads/tchad_relief.jpg'
+source: CIA
+type: image

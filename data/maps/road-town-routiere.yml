@@ -4,3 +4,12 @@ fr:
   title: Road Town - routière
 en:
   title: Road Town - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 18.424
+  longitude: -64.614973
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

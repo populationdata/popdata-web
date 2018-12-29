@@ -4,3 +4,9 @@ fr:
   title: Chili - Île de Pâques
 en:
   title: Chili - Île de Pâques
+continents: []
+countries:
+  - chili
+image: 'https://www.populationdata.net/wp-content/uploads/Chili-Ile-de-Paques.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Argentine - routière
 en:
   title: Argentine - routière
+continents: []
+countries:
+  - argentine
+gmaps:
+  latitude: -39.842286
+  longitude: -66.09375
+  type: roadmap
+  zoom: 4
+source: Google Maps
+type: gmaps

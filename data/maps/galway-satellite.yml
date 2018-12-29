@@ -4,3 +4,12 @@ fr:
   title: Galway - satellite
 en:
   title: Galway - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 53.277887
+  longitude: -9.046907
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Brașov - satellite
 en:
   title: Brașov - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 45.653417
+  longitude: 25.600581
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Dakar - satellite
 en:
   title: Dakar - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.70715
+  longitude: -17.423286
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

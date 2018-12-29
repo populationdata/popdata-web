@@ -4,3 +4,13 @@ fr:
   title: Empire d'Alexandre le Grand à son apogée (-334 -323)
 en:
   title: Empire d'Alexandre le Grand à son apogée (-334 -323)
+continents:
+  - asie
+  - europe
+  - afrique
+countries:
+  - grece
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Empire-Alexandre-apogee-334-323.jpg
+source: Wikipédia
+type: image

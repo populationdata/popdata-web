@@ -4,3 +4,10 @@ fr:
   title: Salomon - évolution de la population (1999-2009)
 en:
   title: Salomon - évolution de la population (1999-2009)
+continents: []
+countries:
+  - salomon
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Salomon-evolution-population-1999-2009.png
+source: Office statistique des Îles Salomon
+type: image

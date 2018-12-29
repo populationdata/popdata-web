@@ -4,3 +4,14 @@ fr:
   title: RDC - 2e guerre du Congo (2001)
 en:
   title: RDC - 2e guerre du Congo (2001)
+continents:
+  - afrique
+countries:
+  - republique-democratique-du-congo
+  - burundi
+  - rwanda
+  - ouganda
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/RDC-2e-guerre-du-Congo-2001.png
+source: Wikipédia
+type: image

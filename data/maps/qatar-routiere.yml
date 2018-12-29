@@ -4,3 +4,13 @@ fr:
   title: Qatar - routière
 en:
   title: Qatar - routière
+continents: []
+countries:
+  - qatar
+gmaps:
+  latitude: 25.281954
+  longitude: 51.16333
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

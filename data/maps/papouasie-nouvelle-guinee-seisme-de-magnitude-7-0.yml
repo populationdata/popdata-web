@@ -4,3 +4,13 @@ fr:
   title: 'Papouasie-Nouvelle-Guinée : séisme de magnitude 7.0'
 en:
   title: 'Papouasie-Nouvelle-Guinée : séisme de magnitude 7.0'
+continents: []
+countries:
+  - papouasie-nouvelle-guinee
+gmaps:
+  latitude: -5.7682
+  longitude: 150.7758
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

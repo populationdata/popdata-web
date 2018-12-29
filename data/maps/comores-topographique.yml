@@ -4,3 +4,10 @@ fr:
   title: Comores - topographique
 en:
   title: Comores - topographique
+continents: []
+countries:
+  - comores
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Comores-topographique.png
+source: Wikipédia
+type: image

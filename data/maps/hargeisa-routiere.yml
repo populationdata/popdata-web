@@ -4,3 +4,12 @@ fr:
   title: Hargeisa - routière
 en:
   title: Hargeisa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 9.555894
+  longitude: 44.059811
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

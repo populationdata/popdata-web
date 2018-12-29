@@ -4,3 +4,13 @@ fr:
   title: Venezuela - routière
 en:
   title: Venezuela - routière
+continents: []
+countries:
+  - venezuela
+gmaps:
+  latitude: 7.689217
+  longitude: -66.654053
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Australie - distribution de la population
 en:
   title: Australia - Population distribution
+continents: []
+countries:
+  - australie
+image: 'http://www.populationdata.net/wp-content/uploads/australie3.gif'
+source: CIA
+type: image

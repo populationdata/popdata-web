@@ -4,3 +4,12 @@ fr:
   title: Bilbao - satellite
 en:
   title: Bilbao - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.281813
+  longitude: -2.960277
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

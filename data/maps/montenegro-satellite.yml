@@ -4,3 +4,13 @@ fr:
   title: Monténégro - satellite
 en:
   title: Monténégro - satellite
+continents: []
+countries:
+  - montenegro
+gmaps:
+  latitude: 42.720786
+  longitude: 19.105225
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

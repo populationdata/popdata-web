@@ -4,3 +4,13 @@ fr:
   title: Man - satellite
 en:
   title: Man - satellite
+continents: []
+countries:
+  - man
+gmaps:
+  latitude: 54.222611
+  longitude: -4.548439
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

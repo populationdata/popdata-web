@@ -4,3 +4,10 @@ fr:
   title: Polynésie française - comparaison avec l'Europe
 en:
   title: Polynésie française - comparaison avec l'Europe
+continents: []
+countries:
+  - polynesie-francaise
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/polynesie-francaise-europe.jpg
+source: Air Tahiti
+type: image

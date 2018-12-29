@@ -4,3 +4,10 @@ fr:
   title: 'Indonésie - Java : topographique'
 en:
   title: 'Indonésie - Java : topographique'
+continents: []
+countries:
+  - indonesie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Indonesie-Java-topographique.jpg
+source: Wikipédia
+type: image

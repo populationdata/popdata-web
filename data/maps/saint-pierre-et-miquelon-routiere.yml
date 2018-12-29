@@ -4,3 +4,13 @@ fr:
   title: Saint-Pierre-et-Miquelon - routière
 en:
   title: Saint Pierre and Miquelon - road map
+continents: []
+countries:
+  - saint-pierre-et-miquelon
+gmaps:
+  latitude: 46.921662
+  longitude: -56.234894
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

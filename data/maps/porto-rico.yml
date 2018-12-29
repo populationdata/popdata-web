@@ -4,3 +4,9 @@ fr:
   title: Porto Rico
 en:
   title: Porto Rico
+continents: []
+countries:
+  - porto-rico
+image: 'http://www.populationdata.net/wp-content/uploads/porto_rico.jpg'
+source: CIA
+type: image

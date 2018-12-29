@@ -3,3 +3,13 @@ date: '2017-10-23T19:47:25.000Z'
 fr:
   title: Groupe de Visegrád
 en: null
+continents:
+  - europe
+countries:
+  - tchequie
+  - pologne
+  - slovaquie
+  - hongrie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/10/Groupe-Visegrad.png'
+source: Wikipédia
+type: image

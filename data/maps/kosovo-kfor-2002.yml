@@ -4,3 +4,9 @@ fr:
   title: Kosovo - KFOR (2002)
 en:
   title: Kosovo - KFOR (2002)
+continents: []
+countries:
+  - kosovo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Kosovo-KFOR-2002.jpg'
+source: Wikipédia
+type: image

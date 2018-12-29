@@ -4,3 +4,12 @@ fr:
   title: Thessalonique - routière
 en:
   title: Thessalonique - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 40.652513
+  longitude: 22.94014
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

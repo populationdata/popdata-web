@@ -4,3 +4,9 @@ fr:
   title: Angola - provinces
 en:
   title: Angola - provinces
+continents: []
+countries:
+  - angola
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Angola_provinces.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Slovénie
 en:
   title: Slovénie
+continents: []
+countries:
+  - slovenie
+image: 'http://www.populationdata.net/wp-content/uploads/slovenie.jpg'
+source: CIA
+type: image

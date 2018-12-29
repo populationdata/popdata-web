@@ -4,3 +4,13 @@ fr:
   title: Sahara occidental - routière
 en:
   title: Sahara occidental - routière
+continents: []
+countries:
+  - sahara-occidental
+gmaps:
+  latitude: 24.256981
+  longitude: -13.666992
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

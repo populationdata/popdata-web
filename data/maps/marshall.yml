@@ -4,3 +4,9 @@ fr:
   title: Marshall
 en:
   title: Marshall
+continents: []
+countries:
+  - marshall
+image: 'http://www.populationdata.net/wp-content/uploads/marshall.jpg'
+source: CIA
+type: image

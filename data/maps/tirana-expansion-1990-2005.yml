@@ -4,3 +4,9 @@ fr:
   title: Tirana - expansion (1990-2005)
 en:
   title: Tirana - expansion (1990-2005)
+continents: []
+countries:
+  - albanie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Tirana-expansion.png'
+source: Wikipédia
+type: image

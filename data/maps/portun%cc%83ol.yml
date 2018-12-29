@@ -4,3 +4,11 @@ fr:
   title: Portuñol
 en:
   title: Portuñol
+continents:
+  - ameriques
+countries:
+  - bresil
+  - uruguay
+image: 'https://www.populationdata.net/wp-content/uploads/2017/09/Portuñol.png'
+source: Wikipédia
+type: image

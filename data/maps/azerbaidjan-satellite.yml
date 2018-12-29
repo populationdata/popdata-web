@@ -4,3 +4,13 @@ fr:
   title: Azerbaïdjan - satellite
 en:
   title: Azerbaïdjan - satellite
+continents: []
+countries:
+  - azerbaidjan
+gmaps:
+  latitude: 40.172062
+  longitude: 47.598381
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

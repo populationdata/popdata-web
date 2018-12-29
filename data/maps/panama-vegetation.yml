@@ -4,3 +4,9 @@ fr:
   title: Panama - végétation
 en:
   title: Panama - végétation
+continents: []
+countries:
+  - panama
+image: 'http://www.populationdata.net/wp-content/uploads/panama_vegetation.jpg'
+source: CIA
+type: image

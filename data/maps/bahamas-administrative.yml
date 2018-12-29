@@ -4,3 +4,10 @@ fr:
   title: Bahamas - administrative
 en:
   title: Bahamas - administrative
+continents: []
+countries:
+  - bahamas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Bahamas-administrative.png
+source: Wikipédia
+type: image

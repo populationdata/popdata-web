@@ -4,3 +4,9 @@ fr:
   title: Équateur - Galapagos
 en:
   title: Équateur - Galapagos
+continents: []
+countries:
+  - equateur
+image: 'http://www.populationdata.net/wp-content/uploads/equateur_galapagos.gif'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Moroni - routière
 en:
   title: Moroni - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -11.700904
+  longitude: 43.256049
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

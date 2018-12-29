@@ -4,3 +4,9 @@ fr:
   title: Charjah - Émirat
 en:
   title: Charjah - Émirat
+continents: []
+countries:
+  - emirats-arabes-unis
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Charjah-emirat.png'
+source: Wikipédia
+type: image

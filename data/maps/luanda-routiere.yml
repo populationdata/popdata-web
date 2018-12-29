@@ -4,3 +4,12 @@ fr:
   title: Luanda - routière
 en:
   title: Luanda - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -8.874884
+  longitude: 13.282616
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

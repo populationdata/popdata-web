@@ -4,3 +4,9 @@ fr:
   title: Seychelles - Desroches
 en:
   title: Seychelles - Desroches
+continents: []
+countries:
+  - seychelles
+image: 'http://www.populationdata.net/wp-content/uploads/seychelles_ile_desroches.jpg'
+source: CIA
+type: image

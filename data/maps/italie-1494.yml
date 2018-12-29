@@ -4,3 +4,9 @@ fr:
   title: Italie (1494)
 en:
   title: Italie (1494)
+continents: []
+countries:
+  - italie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Italie-1494.png'
+source: Wikipédia
+type: image

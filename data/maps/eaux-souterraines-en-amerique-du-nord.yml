@@ -4,3 +4,10 @@ fr:
   title: Amérique du Nord - Eaux souterraines
 en:
   title: Amérique du Nord - Eaux souterraines
+continents:
+  - ameriques
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/eaux-souterraines-amerique-du-nord.jpg
+source: UNESCO
+type: image

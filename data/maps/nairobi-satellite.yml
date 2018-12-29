@@ -4,3 +4,12 @@ fr:
   title: Nairobi - satellite
 en:
   title: Nairobi - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -1.283233
+  longitude: 36.89003
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

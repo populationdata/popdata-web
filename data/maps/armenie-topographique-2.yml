@@ -4,3 +4,10 @@ fr:
   title: Arménie - topographique
 en:
   title: Arménie - topographique
+continents: []
+countries:
+  - armenie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Armenie-topographique.jpg
+source: Wikipédia
+type: image

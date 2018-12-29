@@ -4,3 +4,9 @@ fr:
   title: Oman - topographique
 en:
   title: Oman - topographic
+continents: []
+countries:
+  - oman
+image: 'http://www.populationdata.net/wp-content/uploads/oman-relief.jpg'
+source: Wikipédia
+type: image

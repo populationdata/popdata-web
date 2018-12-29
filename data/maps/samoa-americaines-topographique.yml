@@ -4,3 +4,9 @@ fr:
   title: Samoa américaines - topographique
 en:
   title: Samoa américaines - topographique
+continents: []
+countries:
+  - samoa-americaines
+image: 'http://www.populationdata.net/wp-content/uploads/samoa-americaines-tutuila.jpg'
+source: Wikipédia
+type: image

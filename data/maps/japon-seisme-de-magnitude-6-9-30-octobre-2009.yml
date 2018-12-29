@@ -4,3 +4,13 @@ fr:
   title: Japon - séisme de magnitude 6.9 (30 octobre 2009)
 en:
   title: Japon - séisme de magnitude 6.9 (30 octobre 2009)
+continents: []
+countries:
+  - japon
+gmaps:
+  latitude: 29.1544
+  longitude: 129.9025
+  type: terrain
+  zoom: 6
+source: USGS
+type: gmaps

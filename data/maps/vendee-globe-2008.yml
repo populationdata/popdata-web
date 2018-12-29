@@ -4,3 +4,9 @@ fr:
   title: Vendée Globe 2008
 en:
   title: Vendée Globe 2008
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/vendee-globe-2008.png'
+source: Vendée Globe
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Kazakhstan
 en:
   title: Kazakhstan
+continents: []
+countries:
+  - kazakhstan
+image: 'http://www.populationdata.net/wp-content/uploads/kazakhstan.jpg'
+source: CIA
+type: image

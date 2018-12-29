@@ -4,3 +4,9 @@ fr:
   title: Tanzanie - île de Mafia
 en:
   title: Tanzanie - île de Mafia
+continents: []
+countries:
+  - tanzanie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/tanzanie-mafia.png'
+source: Wikipédia
+type: image

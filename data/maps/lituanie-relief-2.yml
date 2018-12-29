@@ -4,3 +4,13 @@ fr:
   title: Lituanie - relief
 en:
   title: Lituanie - relief
+continents: []
+countries:
+  - lituanie
+gmaps:
+  latitude: 55.235288
+  longitude: 23.483276
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

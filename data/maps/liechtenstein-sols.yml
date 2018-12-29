@@ -4,3 +4,9 @@ fr:
   title: Liechtenstein - sols
 en:
   title: Liechtenstein - sols
+continents: []
+countries:
+  - liechtenstein
+image: 'http://www.populationdata.net/wp-content/uploads/liechtenstein-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

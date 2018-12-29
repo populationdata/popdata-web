@@ -4,3 +4,12 @@ fr:
   title: Jamestown - satellite
 en:
   title: Jamestown - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -15.935252
+  longitude: -5.718326
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

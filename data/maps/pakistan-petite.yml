@@ -4,3 +4,9 @@ fr:
   title: Pakistan - petite
 en:
   title: Pakistan - petite
+continents: []
+countries:
+  - pakistan
+image: 'http://www.populationdata.net/wp-content/uploads/pakistan-petite.png'
+source: Wikipédia
+type: image

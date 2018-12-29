@@ -4,3 +4,10 @@ fr:
   title: Taïwan - détroit
 en:
   title: Taïwan - détroit
+continents: []
+countries:
+  - taiwan
+  - chine
+image: 'http://www.populationdata.net/wp-content/uploads/taiwan_detroit.jpg'
+source: CIA
+type: image

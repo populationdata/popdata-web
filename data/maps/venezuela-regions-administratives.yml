@@ -4,3 +4,10 @@ fr:
   title: Venezuela - régions administratives
 en:
   title: Venezuela - régions administratives
+continents: []
+countries:
+  - venezuela
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Venezuela-administrative-regions.png
+source: Wikipédia
+type: image

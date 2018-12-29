@@ -4,3 +4,12 @@ fr:
   title: Oulan-Bator - routière
 en:
   title: Oulan-Bator - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 47.9122
+  longitude: 106.868992
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

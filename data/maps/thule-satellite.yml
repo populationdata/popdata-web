@@ -4,3 +4,13 @@ fr:
   title: Thulé - satellite
 en:
   title: Thulé - satellite
+continents: []
+countries:
+  - groenland
+gmaps:
+  latitude: 76.534498
+  longitude: -68.775616
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

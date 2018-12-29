@@ -4,3 +4,12 @@ fr:
   title: Iqaluit - routière
 en:
   title: Iqaluit - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 63.747062
+  longitude: -68.524757
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

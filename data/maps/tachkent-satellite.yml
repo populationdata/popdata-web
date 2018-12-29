@@ -4,3 +4,12 @@ fr:
   title: Tachkent - satellite
 en:
   title: Tachkent - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 41.319849
+  longitude: 69.263649
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

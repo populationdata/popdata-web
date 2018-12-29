@@ -4,3 +4,13 @@ fr:
   title: Italie - routière
 en:
   title: Italie - routière
+continents: []
+countries:
+  - italie
+gmaps:
+  latitude: 42.827639
+  longitude: 13.557129
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

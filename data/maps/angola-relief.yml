@@ -4,3 +4,9 @@ fr:
   title: Angola - relief
 en:
   title: Angola - relief
+continents: []
+countries:
+  - angola
+image: 'http://www.populationdata.net/wp-content/uploads/angola_relief.jpg'
+source: CIA
+type: image

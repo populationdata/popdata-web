@@ -4,3 +4,10 @@ fr:
   title: 'Canada  - Québec : évolution de la population (2011-2016)'
 en:
   title: 'Canada  - Québec : évolution de la population (2011-2016)'
+continents: []
+countries:
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/canada-quebec-evolution-population-2011-2016.jpg
+source: Statistique Canada
+type: image

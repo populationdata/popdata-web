@@ -4,3 +4,10 @@ fr:
   title: Martinique - administrative
 en:
   title: Martinique - administrative
+continents: []
+countries:
+  - martinique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Martinique-communes.jpg
+source: Wikipédia
+type: image

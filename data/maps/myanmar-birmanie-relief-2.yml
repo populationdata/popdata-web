@@ -4,3 +4,13 @@ fr:
   title: Myanmar (Birmanie) - relief
 en:
   title: Myanmar (Birmanie) - relief
+continents: []
+countries:
+  - myanmar-birmanie
+gmaps:
+  latitude: 19.808054
+  longitude: 97.03125
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

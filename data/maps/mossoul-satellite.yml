@@ -4,3 +4,12 @@ fr:
   title: Mossoul - satellite
 en:
   title: Mossoul - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 36.346103
+  longitude: 43.138332
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

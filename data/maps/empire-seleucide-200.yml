@@ -4,3 +4,12 @@ fr:
   title: Empire séleucide (-200)
 en:
   title: Empire séleucide (-200)
+continents:
+  - asie
+countries:
+  - irak
+  - iran
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Empire-Seleucide-200.jpg
+source: Wikipédia
+type: image

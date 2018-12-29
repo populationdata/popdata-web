@@ -4,3 +4,9 @@ fr:
   title: Croatie - relief
 en:
   title: Croatie - relief
+continents: []
+countries:
+  - croatie
+image: 'http://www.populationdata.net/wp-content/uploads/croatie_relief.jpg'
+source: CIA
+type: image

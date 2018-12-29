@@ -4,3 +4,10 @@ fr:
   title: Vistule - bassin hydrographique
 en:
   title: Vistule - bassin hydrographique
+continents: []
+countries:
+  - pologne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Vistule-bassin-hydrographique.png
+source: Wikipédia
+type: image

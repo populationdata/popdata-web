@@ -4,3 +4,9 @@ fr:
   title: Brésil - villes (2000)
 en:
   title: Brésil - villes (2000)
+continents: []
+countries:
+  - bresil
+image: 'https://www.populationdata.net/wp-content/uploads/Bresil-villes-2000.png'
+source: 'ARCHELLA & THÉRY, 2008, Wikimedia Commons'
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Ukraine - régions historiques
 en:
   title: Ukraine - régions historiques
+continents: []
+countries:
+  - ukraine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Ukraine-regions-historiques.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Zambie - administrative (provinces)
 en:
   title: Zambie - administrative (provinces)
+continents: []
+countries:
+  - zambie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Zambie-administrative-provinces.png
+source: Wikipédia
+type: image

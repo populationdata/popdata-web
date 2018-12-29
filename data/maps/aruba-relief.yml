@@ -4,3 +4,13 @@ fr:
   title: Aruba - relief
 en:
   title: Aruba - relief
+continents: []
+countries:
+  - aruba
+gmaps:
+  latitude: 12.517028
+  longitude: -69.977074
+  type: terrain
+  zoom: 12
+source: Google Maps
+type: gmaps

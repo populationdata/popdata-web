@@ -4,3 +4,12 @@ fr:
   title: Libreville - satellite
 en:
   title: Libreville - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 0.402886
+  longitude: 9.469528
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

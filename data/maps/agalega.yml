@@ -4,3 +4,9 @@ fr:
   title: Agaléga
 en:
   title: Agaléga
+continents: []
+countries:
+  - maurice
+image: 'https://www.populationdata.net/wp-content/uploads/2017/02/Maurice-Agalega.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Serbie - administrative
 en:
   title: Serbie - administrative
+continents: []
+countries:
+  - serbie
+image: 'http://www.populationdata.net/wp-content/uploads/serbie-administrative.jpg'
+source: Wikipédia
+type: image

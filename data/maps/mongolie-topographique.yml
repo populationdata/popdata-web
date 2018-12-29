@@ -4,3 +4,10 @@ fr:
   title: Mongolie - topographique
 en:
   title: Mongolie - topographique
+continents: []
+countries:
+  - mongolie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Mongolie-topographique.jpg
+source: Wikipédia
+type: image

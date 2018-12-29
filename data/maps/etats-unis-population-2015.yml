@@ -4,3 +4,10 @@ fr:
   title: États-Unis - population (2015)
 en:
   title: États-Unis - population (2015)
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Etats-Unis-population-2015.png
+source: Census Bureau
+type: image

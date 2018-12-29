@@ -4,3 +4,9 @@ fr:
   title: Pérou - petite
 en:
   title: Pérou - petite
+continents: []
+countries:
+  - perou
+image: 'http://www.populationdata.net/wp-content/uploads/perou_petite.gif'
+source: CIA
+type: image

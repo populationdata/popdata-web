@@ -4,3 +4,9 @@ fr:
   title: Kosovo - topographique
 en:
   title: Kosovo - topographique
+continents: []
+countries:
+  - kosovo
+image: 'http://www.populationdata.net/wp-content/uploads/kosovo.jpg'
+source: Wikipédia
+type: image

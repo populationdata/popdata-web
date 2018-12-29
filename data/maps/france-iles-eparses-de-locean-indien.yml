@@ -4,3 +4,12 @@ fr:
   title: France - îles Éparses de l'océan Indien
 en:
   title: France - îles Éparses de l'océan Indien
+continents: []
+countries:
+  - france
+  - mayotte
+  - reunion
+  - terres-australes-antarctiques-francaises
+image: 'http://www.populationdata.net/wp-content/uploads/france-iles-eparses.png'
+source: Wikipédia
+type: image

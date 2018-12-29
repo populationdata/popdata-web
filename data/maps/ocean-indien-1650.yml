@@ -4,3 +4,12 @@ fr:
   title: Océan Indien (1650)
 en:
   title: Océan Indien (1650)
+continents:
+  - afrique
+  - asie
+  - oceanie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Ocean-Indien-1650.jpg
+source: Sunmap
+type: image

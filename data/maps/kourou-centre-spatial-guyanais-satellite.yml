@@ -4,3 +4,14 @@ fr:
   title: Kourou - Centre spatial guyanais (satellite)
 en:
   title: Kourou - Centre spatial guyanais (satellite)
+continents: []
+countries:
+  - guyane
+  - france
+gmaps:
+  latitude: 5.195407
+  longitude: -52.74622
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

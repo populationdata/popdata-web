@@ -4,3 +4,9 @@ fr:
   title: Mauritanie - petite
 en:
   title: Mauritanie - petite
+continents: []
+countries:
+  - mauritanie
+image: 'http://www.populationdata.net/wp-content/uploads/mauritanie-petite.gif'
+source: Wikipédia
+type: image

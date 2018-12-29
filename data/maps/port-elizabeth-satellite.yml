@@ -4,3 +4,12 @@ fr:
   title: Port Elizabeth - satellite
 en:
   title: Port Elizabeth - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -33.952331
+  longitude: 25.585957
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

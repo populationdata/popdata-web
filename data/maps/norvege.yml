@@ -4,3 +4,9 @@ fr:
   title: Norvège
 en:
   title: Norvège
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege.jpg'
+source: CIA
+type: image

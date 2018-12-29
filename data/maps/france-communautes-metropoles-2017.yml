@@ -3,3 +3,10 @@ date: '2017-10-21T22:19:11.000Z'
 fr:
   title: France - communautés et métropoles (2017)
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/France-communautes-metropoles-2017.jpg
+source: Assemblée des Communautés de France
+type: image

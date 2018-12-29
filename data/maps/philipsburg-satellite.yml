@@ -4,3 +4,12 @@ fr:
   title: Philipsburg - satellite
 en:
   title: Philipsburg - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 18.030316
+  longitude: -63.047963
+  type: hybrid
+  zoom: 15
+source: Google Maps
+type: gmaps

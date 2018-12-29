@@ -4,3 +4,10 @@ fr:
   title: Guatemala - topographique
 en:
   title: Guatemala - topographique
+continents: []
+countries:
+  - guatemala
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Guatemala-topographique.jpg
+source: Wikipédia
+type: image

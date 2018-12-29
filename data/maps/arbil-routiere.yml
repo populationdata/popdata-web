@@ -4,3 +4,12 @@ fr:
   title: Arbil - routière
 en:
   title: Arbil - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 36.188044
+  longitude: 44.012947
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

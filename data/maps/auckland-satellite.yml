@@ -4,3 +4,12 @@ fr:
   title: Auckland - satellite
 en:
   title: Auckland - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -36.870008
+  longitude: 174.788361
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

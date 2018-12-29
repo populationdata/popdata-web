@@ -4,3 +4,9 @@ fr:
   title: Pologne - administrative
 en:
   title: Pologne - administrative
+continents: []
+countries:
+  - pologne
+image: 'https://www.populationdata.net/wp-content/uploads/Pologne-administrative.jpg'
+source: Wikipédia
+type: image

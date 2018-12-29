@@ -4,3 +4,9 @@ fr:
   title: Canada - Manitoba
 en:
   title: Canada - Manitoba
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_manitoba.jpg'
+source: Ressources Naturelles Canada
+type: image

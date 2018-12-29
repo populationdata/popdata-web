@@ -4,3 +4,12 @@ fr:
   title: Montevideo - routière
 en:
   title: Montevideo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -34.867905
+  longitude: -56.150093
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

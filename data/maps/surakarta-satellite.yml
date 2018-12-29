@@ -4,3 +4,12 @@ fr:
   title: Surakarta - satellite
 en:
   title: Surakarta - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -7.571184
+  longitude: 110.819698
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

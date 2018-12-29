@@ -4,3 +4,9 @@ fr:
   title: Taïwan - relief
 en:
   title: Taïwan - relief
+continents: []
+countries:
+  - taiwan
+image: 'http://www.populationdata.net/wp-content/uploads/taiwan_relief.gif'
+source: CIA
+type: image

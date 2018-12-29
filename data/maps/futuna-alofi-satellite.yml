@@ -4,3 +4,13 @@ fr:
   title: Futuna et Alofi - satellite
 en:
   title: Futuna et Alofi - satellite
+continents: []
+countries:
+  - wallis-et-futuna
+gmaps:
+  latitude: -14.3
+  longitude: -178.1
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

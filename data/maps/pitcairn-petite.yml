@@ -4,3 +4,9 @@ fr:
   title: Pitcairn - petite
 en:
   title: Pitcairn - petite
+continents: []
+countries:
+  - pitcairn
+image: 'http://www.populationdata.net/wp-content/uploads/pitcairn-petite.png'
+source: Wikipédia
+type: image

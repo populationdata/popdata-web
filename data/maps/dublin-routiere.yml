@@ -4,3 +4,12 @@ fr:
   title: Dublin - routière
 en:
   title: Dublin - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 53.345428
+  longitude: -6.25843
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

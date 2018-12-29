@@ -4,3 +4,12 @@ fr:
   title: Cochabamba - routière
 en:
   title: Cochabamba - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -17.392743
+  longitude: -66.166191
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Bolivie - relief
 en:
   title: Bolivie - relief
+continents: []
+countries:
+  - bolivie
+image: 'http://www.populationdata.net/wp-content/uploads/bolivie_relief.jpg'
+source: CIA
+type: image

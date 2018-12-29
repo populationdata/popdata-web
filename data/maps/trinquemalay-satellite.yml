@@ -4,3 +4,12 @@ fr:
   title: Trinquemalay - satellite
 en:
   title: Trinquemalay - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 8.556238
+  longitude: 81.211624
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

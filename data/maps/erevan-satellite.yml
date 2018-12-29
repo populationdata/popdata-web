@@ -4,3 +4,12 @@ fr:
   title: Erevan - satellite
 en:
   title: Erevan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 40.185824
+  longitude: 44.502525
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

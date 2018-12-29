@@ -4,3 +4,12 @@ fr:
   title: Luanda - satellite
 en:
   title: Luanda - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -8.874884
+  longitude: 13.282616
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

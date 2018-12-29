@@ -4,3 +4,13 @@ fr:
   title: Wallis - satellite
 en:
   title: Wallis - satellite
+continents: []
+countries:
+  - wallis-et-futuna
+gmaps:
+  latitude: -13.286729
+  longitude: -176.20079
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Asie - topographique
 en:
   title: Asie - topographique
+continents:
+  - asie
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Asie-topographique.jpg
+source: Wikipédia
+type: image

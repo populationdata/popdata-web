@@ -4,3 +4,13 @@ fr:
   title: Tarawa - satellite
 en:
   title: Tarawa - satellite
+continents: []
+countries:
+  - kiribati
+gmaps:
+  latitude: 1.474065
+  longitude: 173.047028
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Botswana - districts
 en:
   title: Botswana - districts
+continents: []
+countries:
+  - botswana
+image: 'http://www.populationdata.net/wp-content/uploads/botswana-districts.gif'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Faisalabad - satellite
 en:
   title: Faisalabad - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 31.414471
+  longitude: 73.094454
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

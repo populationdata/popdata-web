@@ -4,3 +4,12 @@ fr:
   title: Newcastle - satellite
 en:
   title: Newcastle - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 54.792604
+  longitude: -1.431584
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

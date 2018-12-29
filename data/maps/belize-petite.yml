@@ -4,3 +4,9 @@ fr:
   title: Belize - petite
 en:
   title: Belize - petite
+continents: []
+countries:
+  - belize
+image: 'http://www.populationdata.net/wp-content/uploads/belize-petite.png'
+source: Wikipédia
+type: image

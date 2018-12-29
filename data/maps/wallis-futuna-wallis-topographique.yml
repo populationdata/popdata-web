@@ -4,3 +4,10 @@ fr:
   title: 'Wallis-et-Futuna - Wallis : topographique'
 en:
   title: 'Wallis-et-Futuna - Wallis : topographique'
+continents: []
+countries:
+  - wallis-et-futuna
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/08/Wallis-et-Futuna-Wallis-topographique.png
+source: Wikipédia
+type: image

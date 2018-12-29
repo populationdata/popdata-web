@@ -4,3 +4,9 @@ fr:
   title: Europe - Eaux souterraines
 en:
   title: Europe - Eaux souterraines
+continents:
+  - europe
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/eaux-souterraines-europe.jpg'
+source: UNESCO
+type: image

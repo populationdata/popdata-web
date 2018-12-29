@@ -4,3 +4,10 @@ fr:
   title: Réunion - topographique
 en:
   title: Réunion - topographique
+continents: []
+countries:
+  - reunion
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Reunion-topographique.jpg
+source: Wikipédia
+type: image

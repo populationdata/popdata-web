@@ -4,3 +4,10 @@ fr:
   title: Afrique - Forêts (hauteur des arbres en 2014)
 en:
   title: Afrique - Forêts (hauteur des arbres en 2014)
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Afrique-forets-hauteur-arbres-2014.jpg
+source: Nasa Earth Observatory
+type: image

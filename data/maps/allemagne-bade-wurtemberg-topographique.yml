@@ -4,3 +4,10 @@ fr:
   title: 'Allemagne - Bade-Wurtemberg : topographique'
 en:
   title: 'Allemagne - Bade-Wurtemberg : topographique'
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Allemagne-Bade-Wurtemberg-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,11 @@ fr:
   title: Essequibo - bassin hydrographique
 en:
   title: Essequibo - bassin hydrographique
+continents: []
+countries:
+  - guyana
+  - venezuela
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Essequibo-bassin-hydrographique.png
+source: Wikipédia
+type: image

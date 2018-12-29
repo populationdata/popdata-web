@@ -4,3 +4,10 @@ fr:
   title: Allemagne - communes
 en:
   title: Allemagne - communes
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Allemagne-communes.jpg
+source: Wikipédia
+type: image

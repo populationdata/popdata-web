@@ -4,3 +4,10 @@ fr:
   title: Mer d'Arabie
 en:
   title: Mer d'Arabie
+continents:
+  - afrique
+  - asie
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/mer-arabie.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Serbie - topographique
 en:
   title: Serbie - topographique
+continents: []
+countries:
+  - serbie
+image: 'http://www.populationdata.net/wp-content/uploads/serbie-topographique.jpg'
+source: Wikipédia
+type: image

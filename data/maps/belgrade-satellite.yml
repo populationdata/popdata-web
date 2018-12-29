@@ -4,3 +4,12 @@ fr:
   title: Belgrade - satellite
 en:
   title: Belgrade - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 44.819594
+  longitude: 20.462551
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

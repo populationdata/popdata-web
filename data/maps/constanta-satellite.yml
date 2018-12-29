@@ -4,3 +4,12 @@ fr:
   title: Constanța - satellite
 en:
   title: Constanța - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 44.175679
+  longitude: 28.617153
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

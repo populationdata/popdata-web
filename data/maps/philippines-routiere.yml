@@ -4,3 +4,13 @@ fr:
   title: Philippines - routière
 en:
   title: Philippines - routière
+continents: []
+countries:
+  - philippines
+gmaps:
+  latitude: 12.103781
+  longitude: 122.365723
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

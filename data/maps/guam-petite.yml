@@ -4,3 +4,9 @@ fr:
   title: Guam - petite
 en:
   title: Guam - petite
+continents: []
+countries:
+  - guam
+image: 'http://www.populationdata.net/wp-content/uploads/guam_petite.gif'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Danemark - topographique
 en:
   title: Danemark - topographique
+continents: []
+countries:
+  - danemark
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/danemark-topographique.png
+source: Wikipédia
+type: image

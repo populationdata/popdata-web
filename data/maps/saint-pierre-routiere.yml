@@ -4,3 +4,12 @@ fr:
   title: Saint-Pierre - routière
 en:
   title: Saint Pierre - Road map
+continents: []
+countries: []
+gmaps:
+  latitude: 46.775671
+  longitude: -56.175928
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

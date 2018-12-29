@@ -147,6 +147,34 @@ exports.setFieldsOnGraphQLNodeType = ({ type }) => {
       },
     }
   }
+  if (type.name === `MapsYaml`) {
+    return {
+      continentNodeIds: {
+        type: gql.GraphQLList(gql.GraphQLString),
+        resolve: source => {
+          if (!source.continents) {
+            return []
+          }
+          return source.continents
+            .map(x =>
+              atlas.continents[x] ? atlas.continents[x].id : undefined
+            )
+            .filter(x => !!x)
+        },
+      },
+      countryNodeIds: {
+        type: gql.GraphQLList(gql.GraphQLString),
+        resolve: source => {
+          if (!source.countries) {
+            return []
+          }
+          return source.countries
+            .map(x => (atlas.countries[x] ? atlas.countries[x].id : undefined))
+            .filter(x => !!x)
+        },
+      },
+    }
+  }
   if (type.name === `PostsYaml`) {
     return {
       excerpt: {

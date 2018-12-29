@@ -4,3 +4,9 @@ fr:
   title: Botswana - petite
 en:
   title: Botswana - petite
+continents: []
+countries:
+  - botswana
+image: 'http://www.populationdata.net/wp-content/uploads/botswana-petite.png'
+source: Wikipédia
+type: image

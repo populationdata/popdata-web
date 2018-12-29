@@ -4,3 +4,9 @@ fr:
   title: Bolivie - topographique
 en:
   title: Bolivie - topographique
+continents: []
+countries:
+  - bolivie
+image: 'https://www.populationdata.net/wp-content/uploads/Bolivie-topographique.png'
+source: Wikipédia
+type: image

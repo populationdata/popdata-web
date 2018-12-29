@@ -4,3 +4,9 @@ fr:
   title: Grèce - petite
 en:
   title: Grèce - petite
+continents: []
+countries:
+  - grece
+image: 'http://www.populationdata.net/wp-content/uploads/grece_petite.gif'
+source: CIA
+type: image

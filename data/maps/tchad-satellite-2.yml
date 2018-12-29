@@ -4,3 +4,9 @@ fr:
   title: Tchad - satellite
 en:
   title: Tchad - satellite
+continents: []
+countries:
+  - tchad
+image: 'https://www.populationdata.net/wp-content/uploads/Tchad-satellite.jpg'
+source: Wikipédia
+type: image

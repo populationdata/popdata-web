@@ -4,3 +4,9 @@ fr:
   title: Monténégro - ethnies
 en:
   title: Monténégro - ethnies
+continents: []
+countries:
+  - montenegro
+image: 'http://www.populationdata.net/wp-content/uploads/montenegro-ethnies.gif'
+source: Office statistique du Monténégro
+type: image

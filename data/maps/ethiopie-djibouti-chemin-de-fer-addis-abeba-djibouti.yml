@@ -3,3 +3,12 @@ date: '2018-02-21T00:43:58.000Z'
 fr:
   title: Éthiopie-Djibouti - chemin de fer Addis-Abeba-Djibouti
 en: null
+continents:
+  - afrique
+countries:
+  - djibouti
+  - ethiopie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Ethiopie-Djibouti-chemin-de-fer-Addis-Abeba-Djibouti.png
+source: Wikipédia
+type: image

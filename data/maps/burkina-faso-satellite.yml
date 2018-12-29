@@ -4,3 +4,13 @@ fr:
   title: Burkina Faso - satellite
 en:
   title: Burkina Faso - satellite
+continents: []
+countries:
+  - burkina-faso
+gmaps:
+  latitude: 12.340002
+  longitude: -1.768799
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

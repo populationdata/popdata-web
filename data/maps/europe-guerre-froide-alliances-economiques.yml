@@ -4,3 +4,10 @@ fr:
   title: 'Europe - Guerre froide : alliances économiques'
 en:
   title: 'Europe - Guerre froide : alliances économiques'
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Europe-Guerre-froide-alliances-economiques.png
+source: Wikipédia
+type: image

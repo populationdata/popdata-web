@@ -4,3 +4,9 @@ fr:
   title: 'Canada - langues : français et anglais (2011)'
 en:
   title: 'Canada - langues : français et anglais (2011)'
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada-francais-anglais.png'
+source: Statistiques Canada
+type: image

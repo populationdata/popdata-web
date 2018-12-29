@@ -4,3 +4,12 @@ fr:
   title: Brașov - routière
 en:
   title: Brașov - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 45.652649
+  longitude: 25.602429
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

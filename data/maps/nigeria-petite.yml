@@ -4,3 +4,9 @@ fr:
   title: Nigéria - petite
 en:
   title: Nigéria - petite
+continents: []
+countries:
+  - nigeria
+image: 'http://www.populationdata.net/wp-content/uploads/nigeria-petite.gif'
+source: Wikipédia
+type: image

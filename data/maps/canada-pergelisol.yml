@@ -4,3 +4,9 @@ fr:
   title: Canada - pergélisol
 en:
   title: Canada - pergélisol
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/Canada-pergelisol.jpg'
+source: Ressources Naturelles Canada
+type: image

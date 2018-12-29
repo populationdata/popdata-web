@@ -4,3 +4,24 @@ fr:
   title: OPEP - pays membres
 en:
   title: OPEC - Membrer Countries
+continents: []
+countries:
+  - venezuela
+  - equateur
+  - algerie
+  - libye
+  - gabon
+  - nigeria
+  - iran
+  - arabie-saoudite
+  - emirats-arabes-unis
+  - irak
+  - koweit
+  - qatar
+  - angola
+  - autriche
+  - congo
+  - guinee-equatoriale
+image: 'https://www.populationdata.net/wp-content/uploads/2018/07/OPEP.png'
+source: Wikipédia
+type: image

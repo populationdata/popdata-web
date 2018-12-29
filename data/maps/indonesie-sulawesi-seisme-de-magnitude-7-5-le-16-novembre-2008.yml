@@ -4,3 +4,12 @@ fr:
   title: 'Indonésie - Sulawesi : séisme de magnitude 7.5 le 16 novembre 2008'
 en:
   title: 'Indonésie - Sulawesi : séisme de magnitude 7.5 le 16 novembre 2008'
+continents: []
+countries: []
+gmaps:
+  latitude: 1.275
+  longitude: 122.103
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

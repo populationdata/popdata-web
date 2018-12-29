@@ -4,3 +4,9 @@ fr:
   title: Bénin
 en:
   title: Bénin
+continents: []
+countries:
+  - benin
+image: 'http://www.populationdata.net/wp-content/uploads/benin.jpg'
+source: CIA
+type: image

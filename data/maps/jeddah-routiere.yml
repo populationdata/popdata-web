@@ -4,3 +4,12 @@ fr:
   title: Djeddah - routière
 en:
   title: Djeddah - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 21.488852
+  longitude: 39.181366
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

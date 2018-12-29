@@ -4,3 +4,10 @@ fr:
   title: 'Colombie - Magdalena : bassin hydrographique'
 en:
   title: 'Colombie - Magdalena : bassin hydrographique'
+continents: []
+countries:
+  - colombie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/colombie-Magdalena-bassin.png
+source: Wikipédia
+type: image

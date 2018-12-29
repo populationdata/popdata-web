@@ -4,3 +4,10 @@ fr:
   title: Mexique - aires métropolitaines
 en:
   title: Mexique - aires métropolitaines
+continents: []
+countries:
+  - mexique
+image: >-
+  http://www.populationdata.net/wp-content/uploads/mexique-aires-metropolitaines.png
+source: Institut statistique national du Mexique
+type: image

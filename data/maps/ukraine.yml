@@ -4,3 +4,9 @@ fr:
   title: Ukraine
 en:
   title: Ukraine
+continents: []
+countries:
+  - ukraine
+image: 'http://www.populationdata.net/wp-content/uploads/ukraine.gif'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Gibraltar - satellite
 en:
   title: Gibraltar - satellite
+continents: []
+countries:
+  - gibraltar
+gmaps:
+  latitude: 36.132997
+  longitude: -5.347733
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

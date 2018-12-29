@@ -4,3 +4,12 @@ fr:
   title: Manama - routière
 en:
   title: Manama - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 26.186867
+  longitude: 50.546379
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

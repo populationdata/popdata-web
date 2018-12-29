@@ -4,3 +4,12 @@ fr:
   title: Cluj-Napoca - routière
 en:
   title: Cluj-Napoca - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 46.770469
+  longitude: 23.593069
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

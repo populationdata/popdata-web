@@ -4,3 +4,9 @@ fr:
   title: Venezuela
 en:
   title: Venezuela
+continents: []
+countries:
+  - venezuela
+image: 'http://www.populationdata.net/wp-content/uploads/venezuela.gif'
+source: CIA
+type: image

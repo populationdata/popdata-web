@@ -4,3 +4,13 @@ fr:
   title: Mexique - séisme de magnitude 6.5 à Guerrero (10 décembre 2011)
 en:
   title: Mexique - séisme de magnitude 6.5 à Guerrero (10 décembre 2011)
+continents: []
+countries:
+  - mexique
+gmaps:
+  latitude: 18.038
+  longitude: -99.796
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

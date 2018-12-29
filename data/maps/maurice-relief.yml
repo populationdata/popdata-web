@@ -4,3 +4,9 @@ fr:
   title: Maurice - relief
 en:
   title: Maurice - relief
+continents: []
+countries:
+  - maurice
+image: 'http://www.populationdata.net/wp-content/uploads/maurice-topographique.jpg'
+source: Wikipédia
+type: image

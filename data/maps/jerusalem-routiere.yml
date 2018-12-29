@@ -4,3 +4,12 @@ fr:
   title: Jérusalem - routière
 en:
   title: Jérusalem - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 31.776337
+  longitude: 35.212727
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

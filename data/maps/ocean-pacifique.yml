@@ -4,3 +4,11 @@ fr:
   title: Océan Pacifique
 en:
   title: Océan Pacifique
+continents:
+  - oceanie
+  - asie
+  - ameriques
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Ocean-Pacifique.jpg'
+source: Wikipédia
+type: image

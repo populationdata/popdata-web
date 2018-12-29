@@ -4,3 +4,12 @@ fr:
   title: Delhi - routière
 en:
   title: Delhi - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 28.562813
+  longitude: 77.227707
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

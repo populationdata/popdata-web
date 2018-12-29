@@ -4,3 +4,9 @@ fr:
   title: Nauru
 en:
   title: Nauru
+continents: []
+countries:
+  - nauru
+image: 'http://www.populationdata.net/wp-content/uploads/nauru.jpg'
+source: CIA
+type: image

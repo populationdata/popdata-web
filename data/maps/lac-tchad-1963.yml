@@ -4,3 +4,13 @@ fr:
   title: Lac Tchad (1963)
 en:
   title: PopulationData logo
+continents:
+  - afrique
+countries:
+  - tchad
+  - niger
+  - nigeria
+  - cameroun
+image: 'https://www.populationdata.net/wp-content/uploads/2017/11/Lac-Tchad-1963.jpg'
+source: NASA Earth Observatory
+type: image

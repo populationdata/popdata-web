@@ -4,3 +4,12 @@ fr:
   title: Addis-Abeba - routière
 en:
   title: Addis-Abeba - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 9.022762
+  longitude: 38.746719
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

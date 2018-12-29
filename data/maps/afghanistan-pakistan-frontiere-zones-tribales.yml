@@ -4,3 +4,11 @@ fr:
   title: 'Afghanistan - Pakistan : frontière et zones tribales'
 en:
   title: 'Afghanistan - Pakistan : frontière et zones tribales'
+continents: []
+countries:
+  - afghanistan
+  - pakistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/afghanistan-pakistan-frontiere.jpg
+source: ONU
+type: image

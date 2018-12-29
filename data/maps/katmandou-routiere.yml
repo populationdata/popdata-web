@@ -4,3 +4,12 @@ fr:
   title: Katmandou - routière
 en:
   title: Katmandou - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 27.695688
+  longitude: 85.324287
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

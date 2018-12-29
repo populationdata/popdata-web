@@ -4,3 +4,9 @@ fr:
   title: Mayotte
 en:
   title: Mayotte
+continents: []
+countries:
+  - mayotte
+image: 'http://www.populationdata.net/wp-content/uploads/mayotte.gif'
+source: CIA
+type: image

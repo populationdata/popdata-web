@@ -4,3 +4,9 @@ fr:
   title: Philippines - petite
 en:
   title: Philippines - petite
+continents: []
+countries:
+  - philippines
+image: 'http://www.populationdata.net/wp-content/uploads/philippines_petite.gif'
+source: CIA
+type: image

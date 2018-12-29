@@ -4,3 +4,12 @@ fr:
   title: São Tomé - satellite
 en:
   title: São Tomé - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 0.340059
+  longitude: 6.7311
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

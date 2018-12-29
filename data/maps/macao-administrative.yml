@@ -4,3 +4,9 @@ fr:
   title: Macao - administrative
 en:
   title: Macao - administrative
+continents: []
+countries:
+  - macao
+image: 'http://www.populationdata.net/wp-content/uploads/macao-administrative.png'
+source: Wikipédia
+type: image

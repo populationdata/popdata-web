@@ -4,3 +4,9 @@ fr:
   title: Canada - fuseaux horaires
 en:
   title: Canada - fuseaux horaires
+continents: []
+countries:
+  - canada
+image: 'https://www.populationdata.net/wp-content/uploads/Canada-fuseaux-horaires.jpg'
+source: Ressources Naturelles Canada
+type: image

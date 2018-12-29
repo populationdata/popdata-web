@@ -4,3 +4,10 @@ fr:
   title: Guinée équatoriale - topographique
 en:
   title: Guinée équatoriale - topographique
+continents: []
+countries:
+  - guinee-equatoriale
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Guinee-equatoriale-topographique.png
+source: Wikipédia
+type: image

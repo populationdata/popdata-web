@@ -4,3 +4,12 @@ fr:
   title: Rennes - routière
 en:
   title: Rennes - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 48.10766
+  longitude: -1.666832
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

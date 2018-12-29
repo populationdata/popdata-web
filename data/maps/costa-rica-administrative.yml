@@ -3,3 +3,10 @@ date: '2018-05-15T21:28:39.000Z'
 fr:
   title: Costa Rica - administrative
 en: null
+continents: []
+countries:
+  - costa-rica
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/05/Costa-Rica-administrative.jpg
+source: Institut national des statistiques du Costa Rica
+type: image

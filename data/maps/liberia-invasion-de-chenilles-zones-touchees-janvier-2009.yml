@@ -4,3 +4,10 @@ fr:
   title: 'Libéria - invasion de chenilles : zones touchées (janvier 2009)'
 en:
   title: 'Libéria - invasion de chenilles : zones touchées (janvier 2009)'
+continents: []
+countries:
+  - liberia
+image: >-
+  http://www.populationdata.net/wp-content/uploads/liberia-chenilles-janvier2009.jpg
+source: ReliefWeb
+type: image

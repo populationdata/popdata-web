@@ -4,3 +4,9 @@ fr:
   title: Botswana - Okavango en crue
 en:
   title: Botswana - Okavango en crue
+continents: []
+countries:
+  - botswana
+image: 'http://www.populationdata.net/wp-content/uploads/botswana-okawango-en-crue.jpg'
+source: Nasa Earth Observatory
+type: image

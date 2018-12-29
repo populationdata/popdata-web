@@ -4,3 +4,12 @@ fr:
   title: Port-Louis - routière
 en:
   title: Port-Louis - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -20.233852
+  longitude: 57.467422
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

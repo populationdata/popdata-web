@@ -4,3 +4,12 @@ fr:
   title: Monterrey - Saltillo - routière
 en:
   title: Monterrey - Saltillo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 25.646244
+  longitude: -100.547663
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

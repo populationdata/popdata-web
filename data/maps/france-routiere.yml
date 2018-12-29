@@ -4,3 +4,13 @@ fr:
   title: France - routière
 en:
   title: France - routière
+continents: []
+countries:
+  - france
+gmaps:
+  latitude: 46.995241
+  longitude: 1.867676
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

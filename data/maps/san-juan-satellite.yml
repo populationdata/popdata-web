@@ -4,3 +4,12 @@ fr:
   title: San Juan - satellite
 en:
   title: San Juan - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 18.404049
+  longitude: -66.074524
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

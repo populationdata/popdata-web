@@ -4,3 +4,10 @@ fr:
   title: Curaçao - petite
 en:
   title: Curaçao - petite
+continents: []
+countries:
+  - antilles-neerlandaises
+  - curacao
+image: 'http://www.populationdata.net/wp-content/uploads/curacao-petite.gif'
+source: CIA
+type: image

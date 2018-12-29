@@ -4,3 +4,17 @@ fr:
   title: 'Himalaya - Tibet : topographique'
 en:
   title: 'Himalaya - Tibet : topographique'
+continents:
+  - asie
+countries:
+  - chine
+  - inde
+  - tadjikistan
+  - afghanistan
+  - pakistan
+  - nepal
+  - bhoutan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Himalaya-Tibet-topographique.png
+source: Wikipédia
+type: image

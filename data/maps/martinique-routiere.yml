@@ -4,3 +4,13 @@ fr:
   title: Martinique - routière
 en:
   title: Martinique - routière
+continents: []
+countries:
+  - martinique
+gmaps:
+  latitude: 14.642718
+  longitude: -60.978928
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

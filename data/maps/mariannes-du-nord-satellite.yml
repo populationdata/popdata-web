@@ -4,3 +4,13 @@ fr:
   title: Mariannes du Nord - satellite
 en:
   title: Mariannes du Nord - satellite
+continents: []
+countries:
+  - mariannes-du-nord
+gmaps:
+  latitude: 16.22572
+  longitude: 145.454149
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

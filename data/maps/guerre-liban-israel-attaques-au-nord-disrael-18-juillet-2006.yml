@@ -4,3 +4,11 @@ fr:
   title: Guerre Liban-Israël - attaques au nord d'Israël (18 juillet 2006)
 en:
   title: Guerre Liban-Israël - attaques au nord d'Israël (18 juillet 2006)
+continents: []
+countries:
+  - israel
+  - liban
+image: >-
+  http://www.populationdata.net/wp-content/uploads/liban-israel-attaques-18juillet06.gif
+source: PopulationData.net
+type: image

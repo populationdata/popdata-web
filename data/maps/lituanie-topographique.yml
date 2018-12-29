@@ -4,3 +4,10 @@ fr:
   title: Lituanie - topographique
 en:
   title: Lituanie - topographique
+continents: []
+countries:
+  - lituanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Lituanie-topographique.jpg
+source: Wikipédia
+type: image

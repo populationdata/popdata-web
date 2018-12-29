@@ -4,3 +4,9 @@ fr:
   title: Mongolie - relief
 en:
   title: Mongolie - relief
+continents: []
+countries:
+  - mongolie
+image: 'http://www.populationdata.net/wp-content/uploads/mongolie_relief.jpg'
+source: CIA
+type: image

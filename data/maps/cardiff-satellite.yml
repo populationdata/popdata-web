@@ -4,3 +4,12 @@ fr:
   title: Cardiff - satellite
 en:
   title: Cardiff - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.511382
+  longitude: -3.135966
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,8 @@ fr:
   title: Le monde inversé
 en:
   title: Le monde inversé
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-inverse.jpg'
+source: Vladstudio
+type: image

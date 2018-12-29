@@ -4,3 +4,12 @@ fr:
   title: Boston - satellite
 en:
   title: Boston - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 42.351947
+  longitude: -71.052704
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Bridgetown - satellite
 en:
   title: Bridgetown - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 13.115575
+  longitude: -59.574336
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

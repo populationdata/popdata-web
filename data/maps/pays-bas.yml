@@ -4,3 +4,9 @@ fr:
   title: Pays-Bas
 en:
   title: Pays-Bas
+continents: []
+countries:
+  - pays-bas
+image: 'http://www.populationdata.net/wp-content/uploads/pays-bas.jpg'
+source: CIA
+type: image

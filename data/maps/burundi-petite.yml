@@ -4,3 +4,9 @@ fr:
   title: Burundi - petite
 en:
   title: Burundi - petite
+continents: []
+countries:
+  - burundi
+image: 'http://www.populationdata.net/wp-content/uploads/burundi-petite.png'
+source: Wikipédia
+type: image

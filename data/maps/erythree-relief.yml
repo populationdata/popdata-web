@@ -4,3 +4,13 @@ fr:
   title: Érythrée - relief
 en:
   title: Érythrée - relief
+continents: []
+countries:
+  - erythree
+gmaps:
+  latitude: 15.337167
+  longitude: 40.220947
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

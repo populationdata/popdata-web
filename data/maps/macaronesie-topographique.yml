@@ -4,3 +4,16 @@ fr:
   title: Macaronésie - topographique
 en:
   title: Macaronésie - topographique
+continents:
+  - afrique
+countries:
+  - portugal
+  - espagne
+  - cap-vert
+  - canaries
+  - acores
+  - madere
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Macaronesie-topographique.jpg
+source: Wikipédia
+type: image

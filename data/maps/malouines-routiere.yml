@@ -4,3 +4,13 @@ fr:
   title: Malouines - routière
 en:
   title: Malouines - routière
+continents: []
+countries:
+  - malouines
+gmaps:
+  latitude: -51.6998
+  longitude: -59.576111
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

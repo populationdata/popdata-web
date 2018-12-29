@@ -4,3 +4,11 @@ fr:
   title: 'Palestine - Israël : mur de séparation (octobre 2003)'
 en:
   title: 'Palestine - Israël : mur de séparation (octobre 2003)'
+continents: []
+countries:
+  - palestine
+  - israel
+image: >-
+  http://www.populationdata.net/wp-content/uploads/palestine_israel_mur_octobre_2003.jpg
+source: B'Tselem
+type: image

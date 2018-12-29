@@ -4,3 +4,10 @@ fr:
   title: 'Asie du Sud-Est : vulnérabilité face aux changements climatiques'
 en:
   title: 'Asie du Sud-Est : vulnérabilité face aux changements climatiques'
+continents:
+  - asie
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/asie-changement-climatique-vulnerabilite.jpg
+source: International Development Research Centre (IDRC)
+type: image

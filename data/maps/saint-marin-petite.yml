@@ -4,3 +4,9 @@ fr:
   title: Saint-Marin - petite
 en:
   title: Saint-Marin - petite
+continents: []
+countries:
+  - saint-marin
+image: 'http://www.populationdata.net/wp-content/uploads/saint-marin-petite.gif'
+source: Wikipédia
+type: image

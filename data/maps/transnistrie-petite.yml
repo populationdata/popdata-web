@@ -4,3 +4,9 @@ fr:
   title: Transnistrie - petite
 en:
   title: Transnistrie - petite
+continents: []
+countries:
+  - transnistrie
+image: 'http://www.populationdata.net/wp-content/uploads/transnistrie-petite.png'
+source: Wikipédia
+type: image

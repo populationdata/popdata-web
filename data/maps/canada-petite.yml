@@ -4,3 +4,9 @@ fr:
   title: Canada - petite
 en:
   title: Canada - petite
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada-petite.gif'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Podgorica - routière
 en:
   title: Podgorica - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 42.437267
+  longitude: 19.26178
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Japon
 en:
   title: Japon
+continents: []
+countries:
+  - japon
+image: 'http://www.populationdata.net/wp-content/uploads/japon_politique.jpg'
+source: CIA
+type: image

@@ -4,3 +4,16 @@ fr:
   title: Alliance militaire islamique pour combattre le terrorisme (AMICT)
 en:
   title: Alliance militaire islamique pour combattre le terrorisme (AMICT)
+continents:
+  - asie
+  - afrique
+countries:
+  - libye
+  - syrie
+  - irak
+  - yemen
+  - arabie-saoudite
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Alliance-militaire-islamique.png
+source: Wikipédia
+type: image

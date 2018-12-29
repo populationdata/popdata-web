@@ -4,3 +4,12 @@ fr:
   title: Bucaramanga - satellite
 en:
   title: Bucaramanga - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 7.110773
+  longitude: -73.11573
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

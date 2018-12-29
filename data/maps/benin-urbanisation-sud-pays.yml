@@ -4,3 +4,10 @@ fr:
   title: Bénin - urbanisation du sud du pays
 en:
   title: Bénin - urbanisation du sud du pays
+continents: []
+countries:
+  - benin
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Benin-urbanisation-cote.jpg
+source: Wikipédia
+type: image

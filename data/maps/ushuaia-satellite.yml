@@ -4,3 +4,12 @@ fr:
   title: Ushuaïa - satellite
 en:
   title: Ushuaïa - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -54.810183
+  longitude: -68.299599
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

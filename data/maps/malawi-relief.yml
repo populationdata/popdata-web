@@ -4,3 +4,9 @@ fr:
   title: Malawi - relief
 en:
   title: Malawi - relief
+continents: []
+countries:
+  - malawi
+image: 'http://www.populationdata.net/wp-content/uploads/malawi_relief.jpg'
+source: CIA
+type: image

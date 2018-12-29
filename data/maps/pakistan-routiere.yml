@@ -4,3 +4,13 @@ fr:
   title: Pakistan - routière
 en:
   title: Pakistan - routière
+continents: []
+countries:
+  - pakistan
+gmaps:
+  latitude: 30.278044
+  longitude: 69.587402
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

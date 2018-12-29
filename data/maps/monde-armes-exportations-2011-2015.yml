@@ -4,3 +4,13 @@ fr:
   title: Monde - Armes (exportations 2011-2015)
 en:
   title: Monde - Armes (exportations 2011-2015)
+continents: []
+countries:
+  - france
+  - chine
+  - etats-unis
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Monde-armes-exportations-2011-2015.jpg
+source: 'SIPRI, Cécile Marin'
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Valparaiso - routière
 en:
   title: Valparaiso - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -33.042814
+  longitude: -71.529033
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

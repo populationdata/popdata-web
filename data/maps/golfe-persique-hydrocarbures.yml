@@ -4,3 +4,18 @@ fr:
   title: Golfe Persique - hydrocarbures
 en:
   title: Golfe Persique - hydrocarbures
+continents:
+  - asie
+countries:
+  - iran
+  - qatar
+  - arabie-saoudite
+  - bahrein
+  - emirats-arabes-unis
+  - oman
+  - koweit
+  - irak
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/golfe-persique-gaz.jpg
+source: Interfax
+type: image

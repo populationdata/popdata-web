@@ -4,3 +4,13 @@ fr:
   title: Zanzibar (île) - routière
 en:
   title: Zanzibar (île) - routière
+continents: []
+countries:
+  - tanzanie
+gmaps:
+  latitude: -6.137824
+  longitude: 39.354401
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

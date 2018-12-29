@@ -4,3 +4,10 @@ fr:
   title: Rhin - débit annuel moyen à l'embouchure
 en:
   title: Rhin - débit annuel moyen à l'embouchure
+continents: []
+countries:
+  - pays-bas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Rhin-debit-annuel-moyen-embouchure.png
+source: Wikipédia
+type: image

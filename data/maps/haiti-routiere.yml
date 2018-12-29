@@ -4,3 +4,13 @@ fr:
   title: Haïti - routière
 en:
   title: Haïti - routière
+continents: []
+countries:
+  - haiti
+gmaps:
+  latitude: 19.051734
+  longitude: -72.765198
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Maldives - Gaafu Dhaalu
 en:
   title: Maldives - Gaafu Dhaalu
+continents: []
+countries:
+  - maldives
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Gaafu_Dhaalu_Atoll.png
+source: Wikipédia
+type: image

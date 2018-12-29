@@ -4,3 +4,9 @@ fr:
   title: Biafra (1967-1970)
 en:
   title: Biafra (1967-1970)
+continents: []
+countries:
+  - nigeria
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/Biafra-1967-1970.png'
+source: Wikipédia
+type: image

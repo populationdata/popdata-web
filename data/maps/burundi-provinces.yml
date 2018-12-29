@@ -4,3 +4,10 @@ fr:
   title: Burundi - provinces
 en:
   title: Burundi - provinces
+continents: []
+countries:
+  - burundi
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Burundi-provinces.png
+source: Wikipédia
+type: image

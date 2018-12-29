@@ -4,3 +4,9 @@ fr:
   title: Maldives - Dhaalu
 en:
   title: Maldives - Dhaalu
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Dhaalu_Atoll.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Provinces-Unies - empire colonial (carte diachronique)
 en:
   title: Provinces-Unies - empire colonial (carte diachronique)
+continents: []
+countries:
+  - pays-bas
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/pays-bas-empire-neerlandais.png
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Bulgarie - routière
 en:
   title: Bulgarie - routière
+continents: []
+countries:
+  - bulgarie
+gmaps:
+  latitude: 42.682435
+  longitude: 25.361938
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

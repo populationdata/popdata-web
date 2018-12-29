@@ -4,3 +4,9 @@ fr:
   title: Europe - TGV
 en:
   title: Europe - TGV
+continents:
+  - europe
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Europe-TGV.png'
+source: Wikipédia
+type: image

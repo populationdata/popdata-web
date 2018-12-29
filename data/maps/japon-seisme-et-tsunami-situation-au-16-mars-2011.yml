@@ -4,3 +4,10 @@ fr:
   title: 'Japon - séisme et tsunami : situation au 16 mars 2011'
 en:
   title: 'Japon - séisme et tsunami : situation au 16 mars 2011'
+continents: []
+countries:
+  - japon
+image: >-
+  http://www.populationdata.net/wp-content/uploads/japon-seisme-tsunami-mars2011.jpg
+source: OCHA - Relief Web
+type: image

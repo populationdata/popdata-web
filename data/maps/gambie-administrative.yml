@@ -4,3 +4,10 @@ fr:
   title: Gambie - administrative
 en:
   title: Gambie - administrative
+continents: []
+countries:
+  - gambie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/gambie-administrative.png
+source: Wikipédia
+type: image

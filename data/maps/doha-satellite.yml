@@ -4,3 +4,12 @@ fr:
   title: Doha - satellite
 en:
   title: Doha - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 25.29344
+  longitude: 51.466484
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

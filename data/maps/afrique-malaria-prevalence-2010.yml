@@ -4,3 +4,10 @@ fr:
   title: Afrique - Malaria (prévalence 2010)
 en:
   title: Afrique - Malaria (prévalence 2010)
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Afrique-Malaria-prevalence-2010.png
+source: Nature
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Afrique du Sud - petite
 en:
   title: South Africa - small
+continents: []
+countries:
+  - afrique-du-sud
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-du-sud-petite.png'
+source: CIA
+type: image

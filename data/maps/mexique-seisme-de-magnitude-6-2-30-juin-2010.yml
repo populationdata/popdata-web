@@ -4,3 +4,13 @@ fr:
   title: Mexique - séisme de magnitude 6.2 (30 juin 2010)
 en:
   title: Mexique - séisme de magnitude 6.2 (30 juin 2010)
+continents: []
+countries:
+  - mexique
+gmaps:
+  latitude: 16.527
+  longitude: -97.7598
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

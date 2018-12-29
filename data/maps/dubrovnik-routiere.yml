@@ -4,3 +4,12 @@ fr:
   title: Dubrovnik - routière
 en:
   title: Dubrovnik - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 42.655677
+  longitude: 18.131218
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

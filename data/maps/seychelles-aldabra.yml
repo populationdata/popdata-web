@@ -4,3 +4,9 @@ fr:
   title: Seychelles - Aldabra
 en:
   title: Seychelles - Aldabra
+continents: []
+countries:
+  - seychelles
+image: 'http://www.populationdata.net/wp-content/uploads/seychelles-aldabra.png'
+source: Wikipédia
+type: image

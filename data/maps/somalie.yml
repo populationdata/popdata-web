@@ -4,3 +4,9 @@ fr:
   title: Somalie
 en:
   title: Somalie
+continents: []
+countries:
+  - somalie
+image: 'http://www.populationdata.net/wp-content/uploads/somalie.jpg'
+source: CIA
+type: image

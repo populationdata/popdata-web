@@ -4,3 +4,12 @@ fr:
   title: Djibouti - satellite
 en:
   title: Djibouti - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 11.575898
+  longitude: 43.133354
+  type: satellite
+  zoom: 13
+source: Google Maps
+type: gmaps

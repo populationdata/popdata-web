@@ -4,3 +4,9 @@ fr:
   title: Pays-Bas - urbanisation
 en:
   title: Pays-Bas - urbanisation
+continents: []
+countries:
+  - pays-bas
+image: 'http://www.populationdata.net/wp-content/uploads/pays-bas-urbanisation.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Mauritanie - satellite
 en:
   title: Mauritanie - satellite
+continents: []
+countries:
+  - mauritanie
+gmaps:
+  latitude: 20.632784
+  longitude: -10.415039
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

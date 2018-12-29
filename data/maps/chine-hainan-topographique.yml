@@ -4,3 +4,10 @@ fr:
   title: 'Chine - Hainan : topographique'
 en:
   title: 'Chine - Hainan : topographique'
+continents: []
+countries:
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/chine-Hainan-topographique.jpg
+source: Wikipédia
+type: image

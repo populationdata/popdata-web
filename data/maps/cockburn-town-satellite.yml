@@ -4,3 +4,12 @@ fr:
   title: Cockburn Town - satellite
 en:
   title: Cockburn Town - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 21.468885
+  longitude: -71.13905
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

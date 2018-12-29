@@ -4,3 +4,9 @@ fr:
   title: Gambie - petite
 en:
   title: Gambie - petite
+continents: []
+countries:
+  - gambie
+image: 'http://www.populationdata.net/wp-content/uploads/gambie-petite.gif'
+source: Wikipédia
+type: image

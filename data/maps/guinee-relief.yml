@@ -4,3 +4,9 @@ fr:
   title: Guinée - relief
 en:
   title: Guinée - relief
+continents: []
+countries:
+  - guinee
+image: 'http://www.populationdata.net/wp-content/uploads/guinee_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Inde - satellite
 en:
   title: Inde - satellite
+continents: []
+countries:
+  - inde
+gmaps:
+  latitude: 22.329752
+  longitude: 81.826172
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

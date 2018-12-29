@@ -4,3 +4,12 @@ fr:
   title: 'Vanuatu : séisme de magnitude 7.5 (10 août 2010)'
 en:
   title: 'Vanuatu : séisme de magnitude 7.5 (10 août 2010)'
+continents: []
+countries: []
+gmaps:
+  latitude: -17.5899
+  longitude: 167.9778
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

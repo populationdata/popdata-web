@@ -4,3 +4,12 @@ fr:
   title: Jaffna - satellite
 en:
   title: Jaffna - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 9.670815
+  longitude: 80.029564
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

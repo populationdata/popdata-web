@@ -4,3 +4,10 @@ fr:
   title: France - pollution lumineuse
 en:
   title: France - pollution lumineuse
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/france-pollution-lumineuse.jpg
+source: ANPCEN
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Yamoussoukro - routière
 en:
   title: Yamoussoukro - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 6.809342
+  longitude: -5.277557
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

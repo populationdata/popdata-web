@@ -4,3 +4,9 @@ fr:
   title: Irak - politique
 en:
   title: Irak - politique
+continents: []
+countries:
+  - irak
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Irak-politique.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Pays-Bas caribéens - Aruba - Curaçao - Bonaire
 en:
   title: Pays-Bas caribéens - Aruba - Curaçao - Bonaire
+continents: []
+countries:
+  - pays-bas-caribeens
+  - curacao
+  - aruba
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Pays-Bas-caribeens-Aruba-Curacao-Bonaire.png
+source: Wikipédia
+type: image

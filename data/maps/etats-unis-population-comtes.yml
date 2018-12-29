@@ -4,3 +4,10 @@ fr:
   title: États-Unis - population des comtés
 en:
   title: États-Unis - population des comtés
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/etats-unis-population-comtes.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Liban - carte de la zone des affrontements
 en:
   title: Liban - carte de la zone des affrontements
+continents: []
+countries:
+  - liban
+gmaps:
+  latitude: 34.477411
+  longitude: 35.903664
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Luxembourg - satellite
 en:
   title: Luxembourg - satellite
+continents: []
+countries:
+  - luxembourg
+gmaps:
+  latitude: 49.811404
+  longitude: 6.170197
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

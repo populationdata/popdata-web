@@ -4,3 +4,9 @@ fr:
   title: Irlande - densité (2011)
 en:
   title: Irlande - densité (2011)
+continents: []
+countries:
+  - irlande
+image: 'http://www.populationdata.net/wp-content/uploads/irlande-densite.gif'
+source: Office central des statistiques d'Irlande
+type: image

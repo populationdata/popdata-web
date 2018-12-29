@@ -4,3 +4,10 @@ fr:
   title: Malte - topographique
 en:
   title: Malte - topographique
+continents: []
+countries:
+  - malte
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Malte-topographique.png
+source: Wikipédia
+type: image

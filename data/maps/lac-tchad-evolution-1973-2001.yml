@@ -4,3 +4,14 @@ fr:
   title: Lac Tchad - évolution 1973-2001
 en:
   title: Lake Chad - Evolution 1973-2001
+continents:
+  - afrique
+countries:
+  - tchad
+  - cameroun
+  - niger
+  - nigeria
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Lac-Tchad-evolution-1973-1997.jpg
+source: Nasa
+type: image

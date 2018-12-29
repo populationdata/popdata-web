@@ -4,3 +4,11 @@ fr:
   title: Amazonie - déforestation en 2005
 en:
   title: Amazonie - déforestation en 2005
+continents:
+  - ameriques
+countries:
+  - bresil
+image: >-
+  http://www.populationdata.net/wp-content/uploads/amazonie-deforestation-2005.gif
+source: ''
+type: image

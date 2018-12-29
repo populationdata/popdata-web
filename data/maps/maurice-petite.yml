@@ -4,3 +4,9 @@ fr:
   title: Maurice - petite
 en:
   title: Maurice - petite
+continents: []
+countries:
+  - maurice
+image: 'http://www.populationdata.net/wp-content/uploads/maurice-petite.jpg'
+source: Wikipédia
+type: image

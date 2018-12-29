@@ -4,3 +4,9 @@ fr:
   title: Portugal - petite
 en:
   title: Portugal - petite
+continents: []
+countries:
+  - portugal
+image: 'http://www.populationdata.net/wp-content/uploads/portugal-petite.png'
+source: CIA
+type: image

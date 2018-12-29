@@ -4,3 +4,10 @@ fr:
   title: Albanie - topographique
 en:
   title: Albanie - topographique
+continents: []
+countries:
+  - albanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Albanie-topographique.jpg
+source: Wikipédia
+type: image

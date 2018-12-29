@@ -4,3 +4,12 @@ fr:
   title: Amérique du Nord - Forêts
 en:
   title: Amérique du Nord - Forêts
+continents:
+  - ameriques
+countries:
+  - mexique
+  - etats-unis
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/forets_amerique_du_nord.gif'
+source: nc
+type: image

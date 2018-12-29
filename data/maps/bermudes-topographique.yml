@@ -4,3 +4,9 @@ fr:
   title: Bermudes - topographique
 en:
   title: Bermudes - topographique
+continents: []
+countries:
+  - bermudes
+image: 'http://www.populationdata.net/wp-content/uploads/bermudes-topographique.png'
+source: Wikipédia
+type: image

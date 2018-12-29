@@ -4,3 +4,9 @@ fr:
   title: France - réseau SNCF (2016)
 en:
   title: France - réseau SNCF (2016)
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/France-Reseau-SNCF-2016.jpg'
+source: SNCF
+type: image

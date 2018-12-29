@@ -4,3 +4,13 @@ fr:
   title: Kiev - satellite
 en:
   title: Kiev - satellite
+continents: []
+countries:
+  - ukraine
+gmaps:
+  latitude: 50.436516
+  longitude: 30.526028
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

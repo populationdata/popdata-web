@@ -4,3 +4,19 @@ fr:
   title: Indochine (1886)
 en:
   title: Indochina (1886)
+continents:
+  - asie
+countries:
+  - viet-nam
+  - laos
+  - cambodge
+  - thailande
+  - myanmar-birmanie
+  - chine
+  - bangladesh
+  - inde
+  - malaisie
+  - singapour
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Indochine-1886.jpg'
+source: Wikipédia
+type: image

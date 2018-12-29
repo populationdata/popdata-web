@@ -4,3 +4,9 @@ fr:
   title: Rwanda - provinces
 en:
   title: Rwanda - provinces
+continents: []
+countries:
+  - rwanda
+image: 'https://www.populationdata.net/wp-content/uploads/2017/03/Rwanda_Provinces.png'
+source: Wikipédia
+type: image

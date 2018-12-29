@@ -4,3 +4,9 @@ fr:
   title: Ouganda - villes
 en:
   title: Ouganda - villes
+continents: []
+countries:
+  - ouganda
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Ouganda-villes.jpg'
+source: Bureau des statistiques de l'Ouganda
+type: image

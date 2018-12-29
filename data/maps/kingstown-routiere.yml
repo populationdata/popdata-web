@@ -4,3 +4,12 @@ fr:
   title: Kingstown - routière
 en:
   title: Kingstown - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 13.155568
+  longitude: -61.223888
+  type: roadmap
+  zoom: 14
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Lausanne - routière
 en:
   title: Lausanne - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 46.5321
+  longitude: 6.623367
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

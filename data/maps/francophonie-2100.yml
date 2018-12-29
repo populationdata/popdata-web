@@ -4,3 +4,11 @@ fr:
   title: Francophonie (2100)
 en:
   title: Francophonie (2100)
+continents:
+  - afrique
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Francophonie-2100.png
+source: ONU
+type: image

@@ -3,3 +3,16 @@ date: '2017-10-24T19:02:20.000Z'
 fr:
   title: Europe - RailBaltica
 en: null
+continents:
+  - europe
+countries:
+  - allemagne
+  - pologne
+  - lituanie
+  - lettonie
+  - estonie
+  - finlande
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Europe-RailBaltica.png
+source: Ministère des transports de la République de Lettonie
+type: image

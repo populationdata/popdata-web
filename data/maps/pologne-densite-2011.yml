@@ -4,3 +4,9 @@ fr:
   title: Pologne - densité (2011)
 en:
   title: Pologne - densité (2011)
+continents: []
+countries:
+  - pologne
+image: 'http://www.populationdata.net/wp-content/uploads/pologne-densite.png'
+source: Eurostat - Szymon
+type: image

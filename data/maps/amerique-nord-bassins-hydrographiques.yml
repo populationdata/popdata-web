@@ -4,3 +4,13 @@ fr:
   title: Amérique du Nord - Bassins hydrographiques
 en:
   title: Amérique du Nord - Bassins hydrographiques
+continents:
+  - ameriques
+countries:
+  - mexique
+  - etats-unis
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Amerique-du-Nord-Bassins-hydrographiques.jpg
+source: Ressources Naturelles Canada
+type: image

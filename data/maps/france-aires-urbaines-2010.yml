@@ -4,3 +4,10 @@ fr:
   title: France - aires urbaines (2010)
 en:
   title: France - Urban areas (2010)
+continents: []
+countries:
+  - france
+image: >-
+  http://www.populationdata.net/wp-content/uploads/france-aires-urbaines-2010.gif
+source: INSEE
+type: image

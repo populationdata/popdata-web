@@ -4,3 +4,10 @@ fr:
   title: Afrique de l'Ouest - Excision (2014)
 en:
   title: West Africa - Excision (2014)
+continents:
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Afrique-Ouest-Mutilations-genitales-excision-2014.jpg
+source: UNICEF
+type: image

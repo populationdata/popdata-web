@@ -4,3 +4,8 @@ fr:
   title: Monde - Bases spatiales
 en:
   title: Monde - Bases spatiales
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-bases-spatiales.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Nassau - satellite
 en:
   title: Nassau - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 25.042993
+  longitude: -77.400398
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

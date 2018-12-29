@@ -4,3 +4,10 @@ fr:
   title: Empire parthe (-60)
 en:
   title: Empire parthe (-60)
+continents:
+  - asie
+countries:
+  - iran
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Empire-parthe-60.png'
+source: Wikipédia
+type: image

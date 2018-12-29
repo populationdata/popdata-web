@@ -4,3 +4,9 @@ fr:
   title: Syrie
 en:
   title: Syrie
+continents: []
+countries:
+  - syrie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Syrie.jpg'
+source: ONU
+type: image

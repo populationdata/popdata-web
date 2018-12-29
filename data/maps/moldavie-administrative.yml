@@ -3,3 +3,10 @@ date: '2018-04-16T22:55:17.000Z'
 fr:
   title: Moldavie - administrative
 en: null
+continents: []
+countries:
+  - moldavie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/04/Moldavie-administrative.png
+source: Institut national de la Statistique de Moldavie
+type: image

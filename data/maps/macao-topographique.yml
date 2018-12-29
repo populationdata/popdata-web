@@ -4,3 +4,9 @@ fr:
   title: Macao - topographique
 en:
   title: Macao - topographique
+continents: []
+countries:
+  - macao
+image: 'http://www.populationdata.net/wp-content/uploads/macao-topographique.png'
+source: Wikipédia
+type: image

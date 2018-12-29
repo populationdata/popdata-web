@@ -4,3 +4,13 @@ fr:
   title: Bulgarie - relief
 en:
   title: Bulgarie - relief
+continents: []
+countries:
+  - bulgarie
+gmaps:
+  latitude: 42.682435
+  longitude: 25.361938
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

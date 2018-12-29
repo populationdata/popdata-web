@@ -4,3 +4,12 @@ fr:
   title: Cardiff - routière
 en:
   title: Cardiff - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 51.511382
+  longitude: -3.135966
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

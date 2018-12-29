@@ -4,3 +4,11 @@ fr:
   title: Guerre Liban-Israël - bombardements (13 juillet 2006)
 en:
   title: Guerre Liban-Israël - bombardements (13 juillet 2006)
+continents: []
+countries:
+  - liban
+  - israel
+image: >-
+  http://www.populationdata.net/wp-content/uploads/liban-attaques-13juillet06.gif
+source: PopulationData.net
+type: image

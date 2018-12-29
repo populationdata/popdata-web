@@ -4,3 +4,12 @@ fr:
   title: Sofia - satellite
 en:
   title: Sofia - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 42.688997
+  longitude: 23.320713
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

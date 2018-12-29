@@ -4,3 +4,9 @@ fr:
   title: Pologne - topographique
 en:
   title: Pologne - topographique
+continents: []
+countries:
+  - pologne
+image: 'https://www.populationdata.net/wp-content/uploads/Pologne-topographique.jpg'
+source: Wikipédia
+type: image

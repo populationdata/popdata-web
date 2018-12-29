@@ -4,3 +4,13 @@ fr:
   title: Monde - Nouvelles Routes de la Soie
 en:
   title: Monde - Nouvelles Routes de la Soie
+continents:
+  - asie
+  - europe
+countries:
+  - russie
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Nouvelles-Routes-de-la-soie-New-Silk-Roads.jpg
+source: Wikipédia
+type: image

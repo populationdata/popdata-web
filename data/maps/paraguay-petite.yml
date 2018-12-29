@@ -4,3 +4,9 @@ fr:
   title: Paraguay - petite
 en:
   title: Paraguay - petite
+continents: []
+countries:
+  - paraguay
+image: 'http://www.populationdata.net/wp-content/uploads/paraguay-petite.png'
+source: Wikipédia
+type: image

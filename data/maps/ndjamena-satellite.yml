@@ -4,3 +4,12 @@ fr:
   title: N'Djaména - satellite
 en:
   title: N'Djaména - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 12.112089
+  longitude: 15.035477
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

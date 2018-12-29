@@ -4,3 +4,12 @@ fr:
   title: Cluj-Napoca - satellite
 en:
   title: Cluj-Napoca - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 46.770469
+  longitude: 23.593069
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Paraguay - topographique
 en:
   title: Paraguay - topographique
+continents: []
+countries:
+  - paraguay
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Paraguay-topographique.jpg
+source: Wikipédia
+type: image

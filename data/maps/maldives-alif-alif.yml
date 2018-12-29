@@ -4,3 +4,9 @@ fr:
   title: Maldives - Alif Alif
 en:
   title: Maldives - Alif Alif
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Alif_Alif_Atoll.jpg'
+source: Wikipédia
+type: image

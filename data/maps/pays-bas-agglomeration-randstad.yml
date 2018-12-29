@@ -4,3 +4,9 @@ fr:
   title: Randstad (Pays-Bas)
 en:
   title: Randstad (Netherlands)
+continents: []
+countries:
+  - pays-bas
+image: 'http://www.populationdata.net/wp-content/uploads/pays-bas-randstad.png'
+source: Wikipédia
+type: image

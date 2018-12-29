@@ -4,3 +4,12 @@ fr:
   title: Cockburn Town - routière
 en:
   title: Cockburn Town - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 21.468885
+  longitude: -71.13905
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

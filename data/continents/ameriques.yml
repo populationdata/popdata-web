@@ -4,6 +4,7 @@ fr:
   name: Amériques
 en:
   name: Americas
+datamapScope: america
 gdpYear: 2014
 numberOfTimeZones: 12
 lifeExpectancy: 75

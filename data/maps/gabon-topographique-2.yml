@@ -4,3 +4,9 @@ fr:
   title: Gabon - topographique
 en:
   title: Gabon - topographique
+continents: []
+countries:
+  - gabon
+image: 'https://www.populationdata.net/wp-content/uploads/Gabon-topographique.jpg'
+source: Wikipédia
+type: image

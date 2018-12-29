@@ -4,3 +4,12 @@ fr:
   title: Caraibes - Archipel des Lucayes
 en:
   title: Caraibes - Archipel des Lucayes
+continents:
+  - ameriques
+countries:
+  - bahamas
+  - turques-et-caiques
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Caraibes-archipel-Lucayes.png
+source: Wikipédia
+type: image

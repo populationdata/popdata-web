@@ -4,3 +4,9 @@ fr:
   title: Égypte - densité (2010)
 en:
   title: Égypte - densité (2010)
+continents: []
+countries:
+  - egypte
+image: 'https://www.populationdata.net/wp-content/uploads/Egypte-densite-2010.png'
+source: 'Giorgiogp2, Wikipédia'
+type: image

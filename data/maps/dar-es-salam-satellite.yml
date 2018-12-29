@@ -4,3 +4,12 @@ fr:
   title: Dar es Salam - satellite
 en:
   title: Dar es Salam - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -6.822978
+  longitude: 39.259987
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

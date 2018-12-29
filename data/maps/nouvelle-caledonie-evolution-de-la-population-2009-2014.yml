@@ -4,3 +4,10 @@ fr:
   title: Nouvelle-Calédonie - évolution de la population (2009-2014)
 en:
   title: Nouvelle-Calédonie - évolution de la population (2009-2014)
+continents: []
+countries:
+  - nouvelle-caledonie
+image: >-
+  http://www.populationdata.net/wp-content/uploads/nouvelle-caledonie-population-evolution-2009-2014.jpg
+source: Institut de la Statistique et des études économiques (ISEE)
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Slovénie - petite
 en:
   title: Slovénie - petite
+continents: []
+countries:
+  - slovenie
+image: 'http://www.populationdata.net/wp-content/uploads/slovenie-petite.png'
+source: Wikipédia
+type: image

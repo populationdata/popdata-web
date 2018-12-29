@@ -4,3 +4,13 @@ fr:
   title: Maroc - relief
 en:
   title: Maroc - relief
+continents: []
+countries:
+  - maroc
+gmaps:
+  latitude: 32.287133
+  longitude: -6.481934
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

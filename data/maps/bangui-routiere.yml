@@ -4,3 +4,12 @@ fr:
   title: Bangui - routière
 en:
   title: Bangui - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 4.369861
+  longitude: 18.554792
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

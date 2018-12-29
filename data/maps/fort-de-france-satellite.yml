@@ -4,3 +4,12 @@ fr:
   title: Fort-de-France - satellite
 en:
   title: Fort-de-France - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.606342
+  longitude: -61.045704
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

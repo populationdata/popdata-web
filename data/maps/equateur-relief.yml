@@ -4,3 +4,9 @@ fr:
   title: Équateur - relief
 en:
   title: Équateur - relief
+continents: []
+countries:
+  - equateur
+image: 'http://www.populationdata.net/wp-content/uploads/equateur_relief.jpg'
+source: CIA
+type: image

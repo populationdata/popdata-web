@@ -4,3 +4,11 @@ fr:
   title: 'Inde - Sri Lanka : cyclone tropical Nisha'
 en:
   title: 'Inde - Sri Lanka : cyclone tropical Nisha'
+continents: []
+countries:
+  - sri-lanka
+  - inde
+image: >-
+  http://www.populationdata.net/wp-content/uploads/inde-sri-lanka-cyclone-nisha.gif
+source: ReliefWeb
+type: image

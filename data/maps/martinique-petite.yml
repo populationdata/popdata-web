@@ -4,3 +4,9 @@ fr:
   title: Martinique - petite
 en:
   title: Martinique - petite
+continents: []
+countries:
+  - martinique
+image: 'http://www.populationdata.net/wp-content/uploads/martinique_petite.gif'
+source: CIA
+type: image

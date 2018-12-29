@@ -4,3 +4,9 @@ fr:
   title: Bulgarie - sols
 en:
   title: Bulgarie - sols
+continents: []
+countries:
+  - bulgarie
+image: 'http://www.populationdata.net/wp-content/uploads/bulgarie-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

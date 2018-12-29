@@ -4,3 +4,9 @@ fr:
   title: Colombie - culture de la coca
 en:
   title: Colombie - culture de la coca
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-coca.gif'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Allemagne - transports en commun des grandes villes
 en:
   title: Allemagne - transports en commun des grandes villes
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Allemagne-transports-en-commun-des-grandes-villes.png
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Guadeloupe - relief
 en:
   title: Guadeloupe - relief
+continents: []
+countries:
+  - guadeloupe
+gmaps:
+  latitude: 16.167197
+  longitude: -61.421814
+  type: terrain
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Huambo - satellite
 en:
   title: Huambo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -12.780916
+  longitude: 15.732508
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

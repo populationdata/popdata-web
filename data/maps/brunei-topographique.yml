@@ -4,3 +4,10 @@ fr:
   title: Brunei - topographique
 en:
   title: Brunei - topographique
+continents: []
+countries:
+  - brunei
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Brunei-topographique.jpg
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Israël - de Tel-Aviv à Gaza
 en:
   title: Israël - de Tel-Aviv à Gaza
+continents: []
+countries:
+  - israel
+image: 'http://www.populationdata.net/wp-content/uploads/israel_telaviv_gazza.jpg'
+source: CIA
+type: image

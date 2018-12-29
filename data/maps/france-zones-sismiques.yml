@@ -4,3 +4,9 @@ fr:
   title: France - zones sismiques
 en:
   title: France - zones sismiques
+continents: []
+countries:
+  - france
+image: 'https://www.populationdata.net/wp-content/uploads/France-zonage-sismique.jpg'
+source: Ministère de l'environnement français
+type: image

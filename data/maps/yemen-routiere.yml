@@ -4,3 +4,13 @@ fr:
   title: Yémen - routière
 en:
   title: Yémen - routière
+continents: []
+countries:
+  - yemen
+gmaps:
+  latitude: 15.714568
+  longitude: 48
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

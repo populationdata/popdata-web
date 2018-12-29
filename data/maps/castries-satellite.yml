@@ -4,3 +4,12 @@ fr:
   title: Castries - satellite
 en:
   title: Castries - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.013443
+  longitude: -60.993004
+  type: hybrid
+  zoom: 14
+source: Google Maps
+type: gmaps

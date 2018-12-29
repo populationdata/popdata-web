@@ -4,3 +4,9 @@ fr:
   title: Russie - topographique
 en:
   title: Russie - topographique
+continents: []
+countries:
+  - russie
+image: 'https://www.populationdata.net/wp-content/uploads/Russie-topographique.jpg'
+source: Wikipédia
+type: image

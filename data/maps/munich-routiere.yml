@@ -4,3 +4,12 @@ fr:
   title: Munich - routière
 en:
   title: Munich - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 48.134246
+  longitude: 11.57341
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

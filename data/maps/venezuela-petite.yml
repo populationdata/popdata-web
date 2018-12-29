@@ -4,3 +4,9 @@ fr:
   title: Venezuela - petite
 en:
   title: Venezuela - petite
+continents: []
+countries:
+  - venezuela
+image: 'https://www.populationdata.net/wp-content/uploads/Venezuela-petite.png'
+source: Wikipédia
+type: image

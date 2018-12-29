@@ -4,3 +4,9 @@ fr:
   title: Cambodge - petite
 en:
   title: Cambodia - small
+continents: []
+countries:
+  - cambodge
+image: 'http://www.populationdata.net/wp-content/uploads/cambodge-petite.gif'
+source: CIA
+type: image

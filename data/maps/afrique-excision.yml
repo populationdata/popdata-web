@@ -4,3 +4,9 @@ fr:
   title: Afrique - Excision
 en:
   title: Africa - Excision
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-excision.png'
+source: Wikipédia
+type: image

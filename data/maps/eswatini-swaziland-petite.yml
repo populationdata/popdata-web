@@ -4,3 +4,9 @@ fr:
   title: eSwatini (Swaziland) - petite
 en:
   title: eSwatini (Swaziland) - small
+continents: []
+countries:
+  - eswatini-swaziland
+image: 'http://www.populationdata.net/wp-content/uploads/swaziland-petite.png'
+source: Wikipédia
+type: image

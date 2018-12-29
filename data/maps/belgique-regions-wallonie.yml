@@ -4,3 +4,9 @@ fr:
   title: 'Belgique - régions : Wallonie'
 en:
   title: 'Belgique - régions : Wallonie'
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-wallonie-region.png'
+source: Wikipédia
+type: image

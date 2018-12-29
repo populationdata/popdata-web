@@ -4,3 +4,13 @@ fr:
   title: Timor oriental - routière
 en:
   title: Timor oriental - routière
+continents: []
+countries:
+  - timor-oriental
+gmaps:
+  latitude: -8.840491
+  longitude: 125.714279
+  type: roadmap
+  zoom: 9
+source: Google Maps
+type: gmaps

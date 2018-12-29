@@ -4,3 +4,12 @@ fr:
   title: Lima - satellite
 en:
   title: Lima - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -12.076589
+  longitude: -77.044373
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

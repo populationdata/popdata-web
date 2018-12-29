@@ -4,3 +4,10 @@ fr:
   title: Kirghizistan - topographique
 en:
   title: Kirghizistan - topographique
+continents: []
+countries:
+  - kirghizistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Kirghizistan-topographique.png
+source: Wikipédia
+type: image

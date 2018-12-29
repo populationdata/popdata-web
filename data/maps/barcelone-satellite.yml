@@ -4,3 +4,12 @@ fr:
   title: Barcelone - satellite
 en:
   title: Barcelone - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 41.399475
+  longitude: 2.165337
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

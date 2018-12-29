@@ -4,3 +4,13 @@ fr:
   title: Ouganda - relief
 en:
   title: Ouganda - relief
+continents: []
+countries:
+  - ouganda
+gmaps:
+  latitude: 1.48848
+  longitude: 32.151489
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

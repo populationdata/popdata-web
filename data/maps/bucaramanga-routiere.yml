@@ -4,3 +4,12 @@ fr:
   title: Bucaramanga - routière
 en:
   title: Bucaramanga - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 7.110773
+  longitude: -73.11573
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

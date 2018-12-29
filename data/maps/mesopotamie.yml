@@ -4,3 +4,11 @@ fr:
   title: Mésopotamie
 en:
   title: Mésopotamie
+continents:
+  - asie
+countries:
+  - irak
+  - syrie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Mesopotamie.svg_.png'
+source: Wikipédia
+type: image

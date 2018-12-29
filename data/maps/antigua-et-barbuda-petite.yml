@@ -4,3 +4,9 @@ fr:
   title: Antigua-et-Barbuda - petite
 en:
   title: Antigua-et-Barbuda - petite
+continents: []
+countries:
+  - antigua-et-barbuda
+image: 'http://www.populationdata.net/wp-content/uploads/antigua-et-barbuda-petite.png'
+source: Wikipédia
+type: image

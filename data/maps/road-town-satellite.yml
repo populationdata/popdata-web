@@ -4,3 +4,12 @@ fr:
   title: Road Town - satellite
 en:
   title: Road Town - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 18.424
+  longitude: -64.614973
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

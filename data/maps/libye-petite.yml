@@ -4,3 +4,9 @@ fr:
   title: Libye - petite
 en:
   title: Libye - petite
+continents: []
+countries:
+  - libye
+image: 'http://www.populationdata.net/wp-content/uploads/libye-petite.png'
+source: Wikipédia
+type: image

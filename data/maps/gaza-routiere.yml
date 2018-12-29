@@ -4,3 +4,12 @@ fr:
   title: Gaza - routière
 en:
   title: Gaza - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 31.512118
+  longitude: 34.459991
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

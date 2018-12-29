@@ -4,3 +4,12 @@ fr:
   title: Skopje - routière
 en:
   title: Skopje - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 41.999687
+  longitude: 21.427288
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

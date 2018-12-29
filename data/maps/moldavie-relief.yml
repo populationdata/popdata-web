@@ -4,3 +4,9 @@ fr:
   title: Moldavie - relief
 en:
   title: Moldavie - relief
+continents: []
+countries:
+  - moldavie
+image: 'http://www.populationdata.net/wp-content/uploads/moldavie_relief.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Burundi
 en:
   title: Burundi
+continents: []
+countries:
+  - burundi
+image: 'http://www.populationdata.net/wp-content/uploads/burundi.jpg'
+source: CIA
+type: image

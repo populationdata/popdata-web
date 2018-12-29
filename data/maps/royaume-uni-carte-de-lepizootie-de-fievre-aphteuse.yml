@@ -4,3 +4,13 @@ fr:
   title: Royaume-Uni - Carte de l'épizootie de fièvre aphteuse
 en:
   title: Royaume-Uni - Carte de l'épizootie de fièvre aphteuse
+continents: []
+countries:
+  - royaume-uni
+gmaps:
+  latitude: 51.279501
+  longitude: -0.63637
+  type: hybrid
+  zoom: 15
+source: Google Maps
+type: gmaps

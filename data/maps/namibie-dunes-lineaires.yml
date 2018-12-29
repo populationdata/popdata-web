@@ -4,3 +4,9 @@ fr:
   title: Namibie - dunes linéaires
 en:
   title: Namibie - dunes linéaires
+continents: []
+countries:
+  - namibie
+image: 'https://www.populationdata.net/wp-content/uploads/2016/11/Namibie-dunes.jpg'
+source: Nasa
+type: image

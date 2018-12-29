@@ -4,3 +4,9 @@ fr:
   title: Canada - Ontario relief
 en:
   title: Canada - Ontario relief
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_ontario_relief.jpg'
+source: Ressources Naturelles Canada
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Congo
 en:
   title: Congo
+continents: []
+countries:
+  - congo
+image: 'http://www.populationdata.net/wp-content/uploads/congo_brazzaville.gif'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Anguilla
 en:
   title: Anguilla
+continents: []
+countries:
+  - anguilla
+image: 'http://www.populationdata.net/wp-content/uploads/anguilla.gif'
+source: CIA
+type: image

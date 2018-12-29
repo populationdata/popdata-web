@@ -4,3 +4,12 @@ fr:
   title: Göteborg - satellite
 en:
   title: Göteborg - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 57.699378
+  longitude: 11.964111
+  type: satellite
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Tadjikistan - relief
 en:
   title: Tadjikistan - relief
+continents: []
+countries:
+  - tadjikistan
+image: 'http://www.populationdata.net/wp-content/uploads/tadjikistan_relief.jpg'
+source: CIA
+type: image

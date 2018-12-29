@@ -4,3 +4,9 @@ fr:
   title: Irak - champs pétroliers
 en:
   title: Irak - champs pétroliers
+continents: []
+countries:
+  - irak
+image: 'http://www.populationdata.net/wp-content/uploads/iraq_petrole2.jpg'
+source: CIA
+type: image

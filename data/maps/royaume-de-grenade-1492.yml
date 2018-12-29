@@ -4,3 +4,10 @@ fr:
   title: Royaume de Grenade (1492)
 en:
   title: Royaume de Grenade (1492)
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Royaume-de-Grenade.png
+source: Wikipédia
+type: image

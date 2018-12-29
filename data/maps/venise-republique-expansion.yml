@@ -4,3 +4,10 @@ fr:
   title: Venise - République (expansion)
 en:
   title: Venise - République (expansion)
+continents: []
+countries:
+  - italie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Venise-republique.png
+source: Wikipédia
+type: image

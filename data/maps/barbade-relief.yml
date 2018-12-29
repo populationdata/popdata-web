@@ -4,3 +4,13 @@ fr:
   title: Barbade - relief
 en:
   title: Barbade - relief
+continents: []
+countries:
+  - barbade
+gmaps:
+  latitude: 13.186802
+  longitude: -59.550362
+  type: terrain
+  zoom: 12
+source: Google Maps
+type: gmaps

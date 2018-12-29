@@ -4,3 +4,10 @@ fr:
   title: Albanie - administrative
 en:
   title: Albanie - administrative
+continents: []
+countries:
+  - albanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Albanie-administrative.jpg
+source: CIA
+type: image

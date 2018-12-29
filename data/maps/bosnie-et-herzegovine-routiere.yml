@@ -4,3 +4,13 @@ fr:
   title: Bosnie-et-Herzégovine - routière
 en:
   title: Bosnie-et-Herzégovine - routière
+continents: []
+countries:
+  - bosnie-et-herzegovine
+gmaps:
+  latitude: 43.992815
+  longitude: 17.457275
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

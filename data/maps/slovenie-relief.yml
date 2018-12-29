@@ -4,3 +4,9 @@ fr:
   title: Slovénie - relief
 en:
   title: Slovénie - relief
+continents: []
+countries:
+  - slovenie
+image: 'http://www.populationdata.net/wp-content/uploads/slovenie_relief.jpg'
+source: CIA
+type: image

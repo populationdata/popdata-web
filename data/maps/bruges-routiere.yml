@@ -4,3 +4,12 @@ fr:
   title: Bruges - routière
 en:
   title: Bruges - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 51.204155
+  longitude: 3.228218
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,11 @@ fr:
   title: Géorgie
 en:
   title: Géorgie
+continents: []
+countries:
+  - ossetie-du-sud-alanie
+  - abkhazie
+  - georgie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/06/Georgie.png'
+source: ONU
+type: image

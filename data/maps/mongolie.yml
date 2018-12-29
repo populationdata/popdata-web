@@ -4,3 +4,9 @@ fr:
   title: Mongolie
 en:
   title: Mongolie
+continents: []
+countries:
+  - mongolie
+image: 'http://www.populationdata.net/wp-content/uploads/mongolie.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Yémen - ethnies
 en:
   title: Yémen - ethnies
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen_ethnies.jpg'
+source: CIA
+type: image

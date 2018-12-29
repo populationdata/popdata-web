@@ -4,3 +4,10 @@ fr:
   title: Barbade - administrative
 en:
   title: Barbade - administrative
+continents: []
+countries:
+  - barbade
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Barbade-administrative.png
+source: Wikipédia
+type: image

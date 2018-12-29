@@ -4,3 +4,9 @@ fr:
   title: Bangladesh - petite
 en:
   title: Bangladesh - petite
+continents: []
+countries:
+  - bangladesh
+image: 'http://www.populationdata.net/wp-content/uploads/bangladesh-petite.png'
+source: CIA
+type: image

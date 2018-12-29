@@ -4,3 +4,12 @@ fr:
   title: Londres - satellite
 en:
   title: Londres - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.495065
+  longitude: -0.140076
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Seattle - satellite
 en:
   title: Seattle - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 47.61357
+  longitude: -122.309418
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

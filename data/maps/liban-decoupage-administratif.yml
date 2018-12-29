@@ -4,3 +4,10 @@ fr:
   title: Liban - découpage administratif
 en:
   title: Liban - découpage administratif
+continents: []
+countries:
+  - liban
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/liban-decoupage-administratif.png
+source: Wikipédia
+type: image

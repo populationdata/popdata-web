@@ -4,3 +4,9 @@ fr:
   title: Australie - TGV (projet)
 en:
   title: Australie - TGV (projet)
+continents: []
+countries:
+  - australie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Australie-TGV.jpg'
+source: ''
+type: image

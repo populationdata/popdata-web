@@ -4,3 +4,13 @@ fr:
   title: Sri Lanka - routière
 en:
   title: Sri Lanka - routière
+continents: []
+countries:
+  - sri-lanka
+gmaps:
+  latitude: 7.775345
+  longitude: 80.720033
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

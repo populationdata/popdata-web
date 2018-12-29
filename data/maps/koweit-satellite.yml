@@ -4,3 +4,13 @@ fr:
   title: Koweït - satellite
 en:
   title: Koweït - satellite
+continents: []
+countries:
+  - koweit
+gmaps:
+  latitude: 29.275618
+  longitude: 47.72049
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

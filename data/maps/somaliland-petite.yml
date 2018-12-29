@@ -4,3 +4,9 @@ fr:
   title: Somaliland - petite
 en:
   title: Somaliland - petite
+continents: []
+countries:
+  - somaliland
+image: 'http://www.populationdata.net/wp-content/uploads/somaliland-petite.png'
+source: Wikipédia
+type: image

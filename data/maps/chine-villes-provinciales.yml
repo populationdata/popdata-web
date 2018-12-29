@@ -4,3 +4,10 @@ fr:
   title: Chine - villes sous-provinciales
 en:
   title: Chine - villes sous-provinciales
+continents: []
+countries:
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/09/Chine-villes-sous-provinciales.png
+source: ''
+type: image

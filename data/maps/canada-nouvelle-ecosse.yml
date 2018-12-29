@@ -4,3 +4,9 @@ fr:
   title: Canada - Nouvelle-Écosse
 en:
   title: Canada - Nouvelle-Écosse
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_nouvelle_ecosse.jpg'
+source: Ressources Naturelles Canada
+type: image

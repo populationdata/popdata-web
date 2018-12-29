@@ -4,3 +4,13 @@ fr:
   title: Allemagne - relief
 en:
   title: Allemagne - relief
+continents: []
+countries:
+  - allemagne
+gmaps:
+  latitude: 51.11042
+  longitude: 10.393066
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

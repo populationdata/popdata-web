@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Calédonie - routière
 en:
   title: Nouvelle-Calédonie - routière
+continents: []
+countries:
+  - nouvelle-caledonie
+gmaps:
+  latitude: -21.366129
+  longitude: 166.080322
+  type: roadmap
+  zoom: 8
+source: Google Maps
+type: gmaps

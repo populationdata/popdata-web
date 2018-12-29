@@ -4,3 +4,9 @@ fr:
   title: Curaçao - administrative
 en:
   title: Curaçao - administrative
+continents: []
+countries:
+  - curacao
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Curacao-1.png'
+source: Wikipédia
+type: image

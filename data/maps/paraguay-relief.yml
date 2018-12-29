@@ -4,3 +4,9 @@ fr:
   title: Paraguay - relief
 en:
   title: Paraguay - relief
+continents: []
+countries:
+  - paraguay
+image: 'http://www.populationdata.net/wp-content/uploads/paraguay.jpg'
+source: CIA
+type: image

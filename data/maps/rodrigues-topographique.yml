@@ -4,3 +4,9 @@ fr:
   title: Rodrigues - topographique
 en:
   title: Rodrigues - topographique
+continents: []
+countries:
+  - maurice
+image: 'https://www.populationdata.net/wp-content/uploads/Rodrigues-topographique.png'
+source: Wikipédia
+type: image

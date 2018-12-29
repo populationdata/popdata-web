@@ -4,3 +4,13 @@ fr:
   title: Malouines - relief
 en:
   title: Malouines - relief
+continents: []
+countries:
+  - malouines
+gmaps:
+  latitude: -51.6998
+  longitude: -59.576111
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

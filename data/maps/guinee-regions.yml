@@ -4,3 +4,9 @@ fr:
   title: Guinée - régions
 en:
   title: Guinée - régions
+continents: []
+countries:
+  - guinee
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/Guinee-regions.png'
+source: Wikipédia
+type: image

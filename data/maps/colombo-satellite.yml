@@ -4,3 +4,12 @@ fr:
   title: Colombo - satellite
 en:
   title: Colombo - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 6.932732
+  longitude: 79.881077
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Soudan du Sud - petite
 en:
   title: Soudan du Sud - petite
+continents: []
+countries:
+  - soudan-du-sud
+image: 'https://www.populationdata.net/wp-content/uploads/Soudan-du-Sud.png'
+source: Wikipédia
+type: image

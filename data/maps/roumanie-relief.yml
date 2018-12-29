@@ -4,3 +4,9 @@ fr:
   title: Roumanie - relief
 en:
   title: Roumanie - relief
+continents: []
+countries:
+  - roumanie
+image: 'http://www.populationdata.net/wp-content/uploads/roumanie_relief.jpg'
+source: CIA
+type: image

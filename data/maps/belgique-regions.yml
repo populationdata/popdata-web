@@ -4,3 +4,9 @@ fr:
   title: Belgique - régions
 en:
   title: Belgique - régions
+continents: []
+countries:
+  - belgique
+image: 'http://www.populationdata.net/wp-content/uploads/belgique-regions.png'
+source: Wikipédia
+type: image

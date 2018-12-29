@@ -4,3 +4,9 @@ fr:
   title: Norfolk - petite
 en:
   title: Norfolk - petite
+continents: []
+countries:
+  - norfolk
+image: 'http://www.populationdata.net/wp-content/uploads/norfolk-petite.png'
+source: Wikipédia
+type: image

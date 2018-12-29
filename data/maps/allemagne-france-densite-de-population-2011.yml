@@ -4,3 +4,11 @@ fr:
   title: Allemagne-France - densité de population (2011)
 en:
   title: Allemagne-France - densité de population (2011)
+continents: []
+countries:
+  - france
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/allemagne-france-densite-population-2011.png
+source: Wikipédia
+type: image

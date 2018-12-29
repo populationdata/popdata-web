@@ -4,3 +4,13 @@ fr:
   title: Gabon - relief
 en:
   title: Gabon - relief
+continents: []
+countries:
+  - gabon
+gmaps:
+  latitude: -0.549308
+  longitude: 11.651001
+  type: terrain
+  zoom: 7
+source: Google Maps
+type: gmaps

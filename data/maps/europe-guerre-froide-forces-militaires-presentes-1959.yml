@@ -4,3 +4,10 @@ fr:
   title: 'Europe - Guerre froide : forces militaires présentes (1959)'
 en:
   title: 'Europe - Guerre froide : forces militaires présentes (1959)'
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Europe-guerre-froide-forces-militaires-1959.png
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Antarctique
 en:
   title: Antarctique
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: 'http://www.populationdata.net/wp-content/uploads/antarctique-2007.jpg'
+source: IGN
+type: image

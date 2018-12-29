@@ -4,3 +4,13 @@ fr:
   title: Lesotho - satellite
 en:
   title: Lesotho - satellite
+continents: []
+countries:
+  - lesotho
+gmaps:
+  latitude: -29.50894
+  longitude: 28.199158
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

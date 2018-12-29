@@ -4,3 +4,12 @@ fr:
   title: Guantánamo - routière
 en:
   title: Guantánamo - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 20.142016
+  longitude: -75.208454
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Croatie - topographique
 en:
   title: Croatie - topographique
+continents: []
+countries:
+  - croatie
+image: 'https://www.populationdata.net/wp-content/uploads/Croatie-topographique.png'
+source: Wikipédia
+type: image

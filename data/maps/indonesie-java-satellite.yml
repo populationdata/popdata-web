@@ -4,3 +4,10 @@ fr:
   title: 'Indonésie - Java : satellite'
 en:
   title: 'Indonésie - Java : satellite'
+continents: []
+countries:
+  - indonesie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/06/Indonesie-Java-satellite.jpg
+source: Nasa Earth Observatory
+type: image

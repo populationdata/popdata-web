@@ -4,3 +4,9 @@ fr:
   title: Namibie - petite
 en:
   title: Namibie - petite
+continents: []
+countries:
+  - namibie
+image: 'http://www.populationdata.net/wp-content/uploads/namibie_petite.gif'
+source: CIA
+type: image

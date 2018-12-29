@@ -4,3 +4,12 @@ fr:
   title: Iakoutsk - satellite
 en:
   title: Iakoutsk - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 62.031432
+  longitude: 129.722958
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Spratleys - revendications des pays
 en:
   title: Spratleys - revendications des pays
+continents:
+  - asie
+countries: []
+image: >-
+  http://www.populationdata.net/wp-content/uploads/spratleys-pays-revendications.png
+source: Wikipédia
+type: image

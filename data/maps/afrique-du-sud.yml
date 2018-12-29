@@ -4,3 +4,9 @@ fr:
   title: Afrique du Sud
 en:
   title: South Africa
+continents: []
+countries:
+  - afrique-du-sud
+image: 'http://www.populationdata.net/wp-content/uploads/afrique-du-sud.jpg'
+source: CIA
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Bogota - satellite
 en:
   title: Bogota - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 4.638194
+  longitude: -74.117374
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

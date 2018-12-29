@@ -4,3 +4,9 @@ fr:
   title: Arménie - régions
 en:
   title: Arménie - régions
+continents: []
+countries:
+  - armenie
+image: 'http://www.populationdata.net/wp-content/uploads/armenie-regions.png'
+source: Wikipédia
+type: image

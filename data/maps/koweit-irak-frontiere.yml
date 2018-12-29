@@ -4,3 +4,10 @@ fr:
   title: 'Koweït - Irak : frontière'
 en:
   title: 'Koweït - Irak : frontière'
+continents: []
+countries:
+  - koweit
+  - irak
+image: 'http://www.populationdata.net/wp-content/uploads/koweit_frontiere_iraq.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Allemagne - villes (2014)
 en:
   title: Allemagne - villes (2014)
+continents: []
+countries:
+  - allemagne
+image: 'https://www.populationdata.net/wp-content/uploads/Allemagne-villes.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Syrie - topographique
 en:
   title: Syrie - topographique
+continents: []
+countries:
+  - syrie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Syrie-topographique.png
+source: Wikipédia
+type: image

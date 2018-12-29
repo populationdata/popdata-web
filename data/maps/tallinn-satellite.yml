@@ -4,3 +4,12 @@ fr:
   title: Tallinn - satellite
 en:
   title: Tallinn - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 59.420282
+  longitude: 24.724045
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

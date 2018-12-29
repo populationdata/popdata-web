@@ -4,3 +4,10 @@ fr:
   title: 'Russie - péninsule de Kola : relief'
 en:
   title: 'Russie - péninsule de Kola : relief'
+continents: []
+countries:
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Russie-peninsule-de-Kola-relief.png
+source: Wikipédia
+type: image

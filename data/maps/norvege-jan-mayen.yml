@@ -4,3 +4,9 @@ fr:
   title: Norvège - Jan Mayen
 en:
   title: Norvège - Jan Mayen
+continents: []
+countries:
+  - norvege
+image: 'http://www.populationdata.net/wp-content/uploads/norvege_jan_mayen.jpg'
+source: CIA
+type: image

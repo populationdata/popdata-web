@@ -4,3 +4,9 @@ fr:
   title: Gabon - parcs nationaux
 en:
   title: Gabon - parcs nationaux
+continents: []
+countries:
+  - gabon
+image: 'https://www.populationdata.net/wp-content/uploads/Gabon-parcs-nationaux.png'
+source: Agence Nationale des Parcs Nationaux du Gabon
+type: image

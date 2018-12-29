@@ -4,3 +4,9 @@ fr:
   title: Finlande - petite
 en:
   title: Finlande - petite
+continents: []
+countries:
+  - finlande
+image: 'http://www.populationdata.net/wp-content/uploads/finlande-petite.png'
+source: Wikipédia
+type: image

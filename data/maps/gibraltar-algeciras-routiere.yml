@@ -4,3 +4,13 @@ fr:
   title: Gibraltar-Algéciras - routière
 en:
   title: Gibraltar-Algéciras - routière
+continents: []
+countries:
+  - gibraltar
+gmaps:
+  latitude: 36.15839
+  longitude: -5.412483
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

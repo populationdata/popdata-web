@@ -4,3 +4,13 @@ fr:
   title: Géorgie - satellite
 en:
   title: Géorgie - satellite
+continents: []
+countries:
+  - georgie
+gmaps:
+  latitude: 42.277309
+  longitude: 43.192749
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

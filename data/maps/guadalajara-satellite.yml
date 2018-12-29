@@ -4,3 +4,12 @@ fr:
   title: Guadalajara - satellite
 en:
   title: Guadalajara - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 20.652703
+  longitude: -103.349867
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

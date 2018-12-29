@@ -4,3 +4,12 @@ fr:
   title: Lausanne - satellite
 en:
   title: Lausanne - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 46.5321
+  longitude: 6.623367
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

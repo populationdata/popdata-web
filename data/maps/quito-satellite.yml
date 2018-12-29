@@ -4,3 +4,12 @@ fr:
   title: Quito - satellite
 en:
   title: Quito - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -0.185737
+  longitude: -78.485298
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

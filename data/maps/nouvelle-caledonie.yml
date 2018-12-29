@@ -4,3 +4,9 @@ fr:
   title: Nouvelle-Calédonie
 en:
   title: Nouvelle-Calédonie
+continents: []
+countries:
+  - nouvelle-caledonie
+image: 'http://www.populationdata.net/wp-content/uploads/nouvelle_caledonie.jpg'
+source: CIA
+type: image

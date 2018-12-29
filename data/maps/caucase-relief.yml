@@ -4,3 +4,17 @@ fr:
   title: Caucase - relief
 en:
   title: Caucase - relief
+continents: []
+countries:
+  - azerbaidjan
+  - georgie
+  - russie
+  - armenie
+  - iran
+  - turquie
+  - artsakh-haut-karabakh
+  - ossetie-du-sud-alanie
+  - abkhazie
+image: 'http://www.populationdata.net/wp-content/uploads/caucase_region.jpg'
+source: Département d'État des États-Unis
+type: image

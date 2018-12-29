@@ -4,3 +4,9 @@ fr:
   title: Bhoutan - petite
 en:
   title: Bhoutan - petite
+continents: []
+countries:
+  - bhoutan
+image: 'http://www.populationdata.net/wp-content/uploads/bhoutan-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Somalie - situation politique (avril 2017)
 en:
   title: World - Transcontinental countries
+continents: []
+countries:
+  - somalie
+  - somaliland
+  - pount
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Somalie-situation-politique-avril-2017.png
+source: Wikipédia
+type: image

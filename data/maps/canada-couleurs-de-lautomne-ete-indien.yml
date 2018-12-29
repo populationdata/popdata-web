@@ -4,3 +4,10 @@ fr:
   title: Canada - couleurs de l'automne (été indien)
 en:
   title: Canada - couleurs de l'automne (été indien)
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada-couleurs-automne-2014.jpg
+source: Nasa
+type: image

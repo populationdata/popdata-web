@@ -4,3 +4,10 @@ fr:
   title: Portugal - administrative
 en:
   title: Portugal - administrative
+continents: []
+countries:
+  - portugal
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Portugal-administrative.png
+source: Wikipédia
+type: image

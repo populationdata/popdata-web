@@ -4,3 +4,10 @@ fr:
   title: Canada - glace sur le fleuve Saint-Laurent
 en:
   title: Canada - glace sur le fleuve Saint-Laurent
+continents: []
+countries:
+  - canada
+image: >-
+  http://www.populationdata.net/wp-content/uploads/canada-saint-laurent-glace.jpg
+source: Nasa Earth Observatory
+type: image

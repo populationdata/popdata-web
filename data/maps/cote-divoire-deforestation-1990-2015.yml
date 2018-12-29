@@ -3,3 +3,10 @@ date: '2017-10-15T17:33:55.000Z'
 fr:
   title: Côte d'Ivoire - déforestation (1990-2015)
 en: null
+continents: []
+countries:
+  - cote-divoire
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Cote-d-ivoire-deforestation-1990-2015.gif
+source: Maphubs
+type: image

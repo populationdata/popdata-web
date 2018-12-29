@@ -4,3 +4,9 @@ fr:
   title: Islande - volcans
 en:
   title: Islande - volcans
+continents: []
+countries:
+  - islande
+image: 'http://www.populationdata.net/wp-content/uploads/islande-volcans.png'
+source: Wikipédia
+type: image

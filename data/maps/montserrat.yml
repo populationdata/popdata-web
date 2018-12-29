@@ -4,3 +4,9 @@ fr:
   title: Montserrat
 en:
   title: Montserrat
+continents: []
+countries:
+  - montserrat
+image: 'http://www.populationdata.net/wp-content/uploads/montserrat.png'
+source: Wikipédia
+type: image

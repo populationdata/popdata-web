@@ -4,3 +4,10 @@ fr:
   title: Luxembourg - topographique
 en:
   title: Luxembourg - topographique
+continents: []
+countries:
+  - luxembourg
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/07/Luxembourg-topographique.jpg
+source: Wikipédia
+type: image

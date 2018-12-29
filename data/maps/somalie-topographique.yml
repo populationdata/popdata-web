@@ -4,3 +4,12 @@ fr:
   title: Somalie - topographique
 en:
   title: Somalia - topographic
+continents: []
+countries:
+  - somalie
+  - pount
+  - somaliland
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Somalie-topographique.jpg
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Suède - topographique
 en:
   title: Suède - topographique
+continents: []
+countries:
+  - suede
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Suede-topographique.jpg
+source: Wikipédia
+type: image

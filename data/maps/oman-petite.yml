@@ -4,3 +4,9 @@ fr:
   title: Oman - petite
 en:
   title: Oman - petite
+continents: []
+countries:
+  - oman
+image: 'http://www.populationdata.net/wp-content/uploads/oman-petite.png'
+source: Wikipédia
+type: image

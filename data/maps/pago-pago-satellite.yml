@@ -4,3 +4,12 @@ fr:
   title: Pago Pago - satellite
 en:
   title: Pago Pago - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -14.303643
+  longitude: -170.734577
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

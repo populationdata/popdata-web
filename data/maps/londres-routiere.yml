@@ -4,3 +4,12 @@ fr:
   title: Londres - routière
 en:
   title: Londres - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 51.495065
+  longitude: -0.140076
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

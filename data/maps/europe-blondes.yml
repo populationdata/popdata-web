@@ -4,3 +4,9 @@ fr:
   title: Europe - Blondes
 en:
   title: Europe - Blondes
+continents:
+  - europe
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/europe-blondes.jpg'
+source: Chez Pilou
+type: image

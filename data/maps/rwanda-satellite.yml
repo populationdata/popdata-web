@@ -4,3 +4,13 @@ fr:
   title: Rwanda - satellite
 en:
   title: Rwanda - satellite
+continents: []
+countries:
+  - rwanda
+gmaps:
+  latitude: -1.999106
+  longitude: 29.86496
+  type: hybrid
+  zoom: 9
+source: Google Maps
+type: gmaps

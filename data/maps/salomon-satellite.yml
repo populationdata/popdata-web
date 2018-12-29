@@ -4,3 +4,13 @@ fr:
   title: Salomon - satellite
 en:
   title: Salomon - satellite
+continents: []
+countries:
+  - salomon
+gmaps:
+  latitude: -9.248037
+  longitude: 160.549695
+  type: hybrid
+  zoom: 6
+source: Google Maps
+type: gmaps

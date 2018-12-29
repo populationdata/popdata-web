@@ -4,3 +4,13 @@ fr:
   title: Ouzbékistan - routière
 en:
   title: Ouzbékistan - routière
+continents: []
+countries:
+  - ouzbekistan
+gmaps:
+  latitude: 41.120746
+  longitude: 65.906982
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

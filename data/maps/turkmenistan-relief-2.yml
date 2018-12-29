@@ -4,3 +4,13 @@ fr:
   title: Turkménistan - relief 2
 en:
   title: Turkménistan - relief 2
+continents: []
+countries:
+  - turkmenistan
+gmaps:
+  latitude: 39.334297
+  longitude: 58.930664
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

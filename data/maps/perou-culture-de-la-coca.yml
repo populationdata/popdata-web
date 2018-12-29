@@ -4,3 +4,9 @@ fr:
   title: Pérou - culture de la coca
 en:
   title: Pérou - culture de la coca
+continents: []
+countries:
+  - perou
+image: 'http://www.populationdata.net/wp-content/uploads/perou-coca.gif'
+source: ONUDC
+type: image

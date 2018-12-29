@@ -4,3 +4,9 @@ fr:
   title: Europe - Centrales nucléaires
 en:
   title: Europe - Centrales nucléaires
+continents:
+  - europe
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/europe-nucleaire.png'
+source: Artemco
+type: image

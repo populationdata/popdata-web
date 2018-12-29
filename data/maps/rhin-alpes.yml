@@ -4,3 +4,12 @@ fr:
   title: Rhin - Alpes
 en:
   title: Rhin - Alpes
+continents: []
+countries:
+  - suisse
+  - liechtenstein
+  - autriche
+  - allemagne
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Rhin-Alpes.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Inde - religions
 en:
   title: Inde - religions
+continents: []
+countries:
+  - inde
+image: 'http://www.populationdata.net/wp-content/uploads/inde_religions.jpg'
+source: CIA
+type: image

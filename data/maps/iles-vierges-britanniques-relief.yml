@@ -4,3 +4,13 @@ fr:
   title: Îles Vierges britanniques - relief
 en:
   title: Îles Vierges britanniques - relief
+continents: []
+countries:
+  - iles-vierges-britanniques
+gmaps:
+  latitude: 18.538211
+  longitude: -64.528198
+  type: terrain
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Yémen - petite
 en:
   title: Yémen - petite
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen-petite.png'
+source: Wikipédia
+type: image

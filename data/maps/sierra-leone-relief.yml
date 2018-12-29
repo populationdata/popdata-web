@@ -4,3 +4,9 @@ fr:
   title: Sierra Leone - relief
 en:
   title: Sierra Leone - relief
+continents: []
+countries:
+  - sierra-leone
+image: 'http://www.populationdata.net/wp-content/uploads/sierra_leone_relief.jpg'
+source: CIA
+type: image

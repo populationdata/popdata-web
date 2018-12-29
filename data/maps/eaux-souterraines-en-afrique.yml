@@ -4,3 +4,9 @@ fr:
   title: Afrique - Eaux souterraines
 en:
   title: Afrique - Eaux souterraines
+continents:
+  - afrique
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/eaux-souterraines-afrique.jpg'
+source: UNESCO
+type: image

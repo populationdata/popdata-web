@@ -4,3 +4,10 @@ fr:
   title: Guam - administrative
 en:
   title: Guam - administrative
+continents: []
+countries:
+  - guam
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Guam-administrative-villages.png
+source: Wikipédia
+type: image

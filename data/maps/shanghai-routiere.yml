@@ -4,3 +4,12 @@ fr:
   title: Shanghai - routière
 en:
   title: Shanghai - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 31.240398
+  longitude: 121.517029
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

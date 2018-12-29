@@ -4,3 +4,9 @@ fr:
   title: Estonie - sols
 en:
   title: Estonie - sols
+continents: []
+countries:
+  - estonie
+image: 'http://www.populationdata.net/wp-content/uploads/estonie-sols.gif'
+source: Agence Européenne de l'Environnement
+type: image

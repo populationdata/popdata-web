@@ -4,3 +4,9 @@ fr:
   title: Russie - trains
 en:
   title: Russie - trains
+continents: []
+countries:
+  - russie
+image: 'https://www.populationdata.net/wp-content/uploads/Russie-trains.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,14 @@ fr:
   title: Pétra - Jordanie
 en:
   title: Pétra - Jordanie
+continents:
+  - asie
+countries:
+  - jordanie
+  - israel
+  - arabie-saoudite
+  - egypte
+  - palestine
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Petra-Jordanie.jpg'
+source: Wikipédia
+type: image

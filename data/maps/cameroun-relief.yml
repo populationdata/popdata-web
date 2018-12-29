@@ -4,3 +4,9 @@ fr:
   title: Cameroun - relief
 en:
   title: Cameroun - relief
+continents: []
+countries:
+  - cameroun
+image: 'http://www.populationdata.net/wp-content/uploads/cameroun_relief.jpg'
+source: CIA
+type: image

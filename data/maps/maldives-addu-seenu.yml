@@ -4,3 +4,9 @@ fr:
   title: Maldives - Addu-Seenu
 en:
   title: Maldives - Addu-Seenu
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Addu-Seenu_atoll.jpg'
+source: Wikipédia
+type: image

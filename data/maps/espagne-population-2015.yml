@@ -3,3 +3,10 @@ date: '2018-05-17T18:54:39.000Z'
 fr:
   title: Espagne - population (2015)
 en: null
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/05/espagne-population-2015.jpg
+source: Institut national de statistiques d'Espagne
+type: image

@@ -3,3 +3,10 @@ date: '2018-07-17T20:46:00.000Z'
 fr:
   title: 'France - espaces naturels, agricoles et forestiers (NAF, 2011)'
 en: null
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/07/France-Communes-espaces-naturels-2011.jpg
+source: Cerema
+type: image

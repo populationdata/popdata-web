@@ -4,3 +4,12 @@ fr:
   title: Stavanger - satellite
 en:
   title: Stavanger - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 58.961453
+  longitude: 5.731435
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

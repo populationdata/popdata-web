@@ -4,3 +4,12 @@ fr:
   title: Brazzaville - routière
 en:
   title: Brazzaville - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -4.243704
+  longitude: 15.266533
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

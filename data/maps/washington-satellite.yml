@@ -4,3 +4,12 @@ fr:
   title: Washington - satellite
 en:
   title: Washington - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 38.90279
+  longitude: -77.078705
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

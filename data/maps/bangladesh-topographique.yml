@@ -4,3 +4,10 @@ fr:
   title: Bangladesh - topographique
 en:
   title: Bangladesh - topographique
+continents: []
+countries:
+  - bangladesh
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Bangladesh-topographique.png
+source: Wikipédia
+type: image

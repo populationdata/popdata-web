@@ -4,3 +4,12 @@ fr:
   title: Guatemala (ville) - satellite
 en:
   title: Guatemala (ville) - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 14.614482
+  longitude: -90.53524
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

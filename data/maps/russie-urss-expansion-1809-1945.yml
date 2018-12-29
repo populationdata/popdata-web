@@ -4,3 +4,10 @@ fr:
   title: 'Russie - URSS : expansion (1809-1945)'
 en:
   title: 'Russie - URSS : expansion (1809-1945)'
+continents: []
+countries:
+  - russie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Russie-URSS-expansion.png
+source: Wikipédia
+type: image

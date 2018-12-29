@@ -4,3 +4,11 @@ fr:
   title: Antarctique - trou dans la couche d'ozone (2015)
 en:
   title: Antarctique - trou dans la couche d'ozone (2015)
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: >-
+  http://www.populationdata.net/wp-content/uploads/antarctique-trou-ozone-2015.png
+source: Nasa Earth Observatory
+type: image

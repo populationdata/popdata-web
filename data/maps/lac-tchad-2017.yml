@@ -3,3 +3,13 @@ date: '2017-11-29T21:41:54.000Z'
 fr:
   title: Lac Tchad (2017)
 en: null
+continents:
+  - afrique
+countries:
+  - niger
+  - nigeria
+  - cameroun
+  - tchad
+image: 'https://www.populationdata.net/wp-content/uploads/2017/11/Lac-Tchad-2017.jpg'
+source: NASA Earth Observatory
+type: image

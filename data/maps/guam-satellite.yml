@@ -4,3 +4,13 @@ fr:
   title: Guam - satellite
 en:
   title: Guam - satellite
+continents: []
+countries:
+  - guam
+gmaps:
+  latitude: 13.443052
+  longitude: 144.764099
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

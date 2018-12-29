@@ -4,3 +4,12 @@ fr:
   title: Moscou - routière
 en:
   title: Moscou - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 55.747598
+  longitude: 37.627487
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

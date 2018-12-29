@@ -4,3 +4,13 @@ fr:
   title: Grenade - satellite
 en:
   title: Grenade - satellite
+continents: []
+countries:
+  - grenade
+gmaps:
+  latitude: 12.225592
+  longitude: -61.634356
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

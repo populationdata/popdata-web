@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Zélande - séisme de magnitude 7.0 (4 septembre 2010)
 en:
   title: New Zealand - Magnitude 7.0 Earthquake (4 September 2010)
+continents: []
+countries:
+  - nouvelle-zelande
+gmaps:
+  latitude: -43.53
+  longitude: 172.12
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

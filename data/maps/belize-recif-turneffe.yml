@@ -4,3 +4,9 @@ fr:
   title: Belize - Récif Turneffe
 en:
   title: Belize - Récif Turneffe
+continents: []
+countries:
+  - belize
+image: 'https://www.populationdata.net/wp-content/uploads/2016/05/Belize-Turneffe.jpg'
+source: Wikipédia
+type: image

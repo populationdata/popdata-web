@@ -4,3 +4,9 @@ fr:
   title: Togo
 en:
   title: Togo
+continents: []
+countries:
+  - togo
+image: 'https://www.populationdata.net/wp-content/uploads/2017/09/Togo.jpg'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Malte - satellite
 en:
   title: Malte - satellite
+continents: []
+countries:
+  - malte
+gmaps:
+  latitude: 35.949106
+  longitude: 14.380417
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

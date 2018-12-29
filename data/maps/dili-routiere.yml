@@ -4,3 +4,12 @@ fr:
   title: Dili - routière
 en:
   title: Dili - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -8.560143
+  longitude: 125.559568
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

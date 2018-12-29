@@ -4,3 +4,12 @@ fr:
   title: Jakarta - satellite
 en:
   title: Jakarta - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -6.160524
+  longitude: 106.815434
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,13 @@ fr:
   title: Timor oriental - relief
 en:
   title: Timor oriental - relief
+continents: []
+countries:
+  - timor-oriental
+gmaps:
+  latitude: -8.840491
+  longitude: 125.714279
+  type: terrain
+  zoom: 9
+source: Google Maps
+type: gmaps

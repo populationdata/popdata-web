@@ -4,3 +4,9 @@ fr:
   title: Suisse - relief
 en:
   title: Suisse - relief
+continents: []
+countries:
+  - suisse
+image: 'https://www.populationdata.net/wp-content/uploads/2016/12/suisse-relief.jpg'
+source: Wikipédia
+type: image

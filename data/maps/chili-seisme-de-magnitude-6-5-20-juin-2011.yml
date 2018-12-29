@@ -4,3 +4,13 @@ fr:
   title: Chili - séisme de magnitude 6.5 (20 juin 2011)
 en:
   title: Chili - séisme de magnitude 6.5 (20 juin 2011)
+continents: []
+countries:
+  - chili
+gmaps:
+  latitude: -21.945
+  longitude: -68.2957
+  type: terrain
+  zoom: 6
+source: USGS - Earthquake Hazards Program
+type: gmaps

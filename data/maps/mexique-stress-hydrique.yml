@@ -4,3 +4,10 @@ fr:
   title: Mexique - stress hydrique
 en:
   title: Mexique - stress hydrique
+continents: []
+countries:
+  - mexique
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/mexique-stress-hydrique.jpg
+source: Wikipédia
+type: image

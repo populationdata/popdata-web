@@ -4,3 +4,12 @@ fr:
   title: Pointe-à-Pitre - routière
 en:
   title: Pointe-à-Pitre - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 16.250935
+  longitude: -61.535454
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

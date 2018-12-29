@@ -4,3 +4,10 @@ fr:
   title: Europe - Alliances militaires (1914)
 en:
   title: Europe - Alliances militaires (1914)
+continents:
+  - europe
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/Europe-Alliance-militaires-1914.png
+source: Wikipédia
+type: image

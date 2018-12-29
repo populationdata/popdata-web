@@ -3,3 +3,18 @@ date: '2018-02-06T21:32:08.000Z'
 fr:
   title: Asie centrale - ethnies
 en: null
+continents:
+  - asie
+countries:
+  - afghanistan
+  - russie
+  - chine
+  - kirghizistan
+  - kazakhstan
+  - ouzbekistan
+  - turkmenistan
+  - tadjikistan
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/02/Asie-centrale-ethnies.png
+source: Wikipédia
+type: image

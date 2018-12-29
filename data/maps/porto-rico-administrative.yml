@@ -4,3 +4,10 @@ fr:
   title: Porto Rico - administrative
 en:
   title: Porto Rico - administrative
+continents: []
+countries:
+  - porto-rico
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/porto-rico-administrative.png
+source: Wikipédia
+type: image

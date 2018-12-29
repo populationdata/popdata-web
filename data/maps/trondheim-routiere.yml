@@ -4,3 +4,12 @@ fr:
   title: Trondheim - routière
 en:
   title: Trondheim - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 63.424792
+  longitude: 10.398368
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

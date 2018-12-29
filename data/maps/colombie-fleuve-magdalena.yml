@@ -4,3 +4,10 @@ fr:
   title: Colombie - fleuve Magdalena
 en:
   title: Colombie - fleuve Magdalena
+continents: []
+countries:
+  - colombie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/colombie-Magdalena.png
+source: Wikipédia
+type: image

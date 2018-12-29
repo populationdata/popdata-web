@@ -4,3 +4,10 @@ fr:
   title: Antarctique - stations
 en:
   title: Antarctique - stations
+continents:
+  - antarctique
+countries:
+  - antarctique
+image: 'http://www.populationdata.net/wp-content/uploads/antarctique-bases.jpg'
+source: Institut polaire
+type: image

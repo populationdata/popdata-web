@@ -4,3 +4,10 @@ fr:
   title: Guadeloupe - administrative
 en:
   title: Guadeloupe - administrative
+continents: []
+countries:
+  - guadeloupe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Guadeloupe-administrative.png
+source: OCHA
+type: image

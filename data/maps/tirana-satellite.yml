@@ -4,3 +4,12 @@ fr:
   title: Tirana - satellite
 en:
   title: Tirana - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 41.362625
+  longitude: 19.808325
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: Jordanie - camp de réfugiés syriens à Za'atri
 en:
   title: Jordanie - camp de réfugiés syriens à Za'atri
+continents: []
+countries:
+  - jordanie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/Camp-refugies-syriens-Zaatri-Jordanie.png
+source: Google Maps
+type: image

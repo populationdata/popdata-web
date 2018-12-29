@@ -4,3 +4,9 @@ fr:
   title: Albanie - petite
 en:
   title: Albanie - petite
+continents: []
+countries:
+  - albanie
+image: 'http://www.populationdata.net/wp-content/uploads/albanie-petite.png'
+source: CIA
+type: image

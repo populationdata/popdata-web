@@ -4,3 +4,9 @@ fr:
   title: Bahreïn
 en:
   title: Bahreïn
+continents: []
+countries:
+  - bahrein
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Bahrein.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Israël - satellite
 en:
   title: Israël - satellite
+continents: []
+countries:
+  - israel
+gmaps:
+  latitude: 31.545771
+  longitude: 34.887085
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

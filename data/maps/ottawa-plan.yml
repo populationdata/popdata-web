@@ -4,3 +4,9 @@ fr:
   title: Ottawa - plan
 en:
   title: Ottawa - plan
+continents: []
+countries:
+  - canada
+image: 'http://www.populationdata.net/wp-content/uploads/canada_ottawa.jpg'
+source: Ressources Naturelles Canada
+type: image

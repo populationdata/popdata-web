@@ -4,3 +4,11 @@ fr:
   title: Australie - stress thermique de la Grande barrière de corail (février 2017)
 en:
   title: Australie - stress thermique de la Grande barrière de corail (février 2017)
+continents:
+  - oceanie
+countries:
+  - australie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/australie-stress-thermique-ocean-2017.jpg
+source: Nasa
+type: image

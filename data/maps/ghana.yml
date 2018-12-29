@@ -4,3 +4,9 @@ fr:
   title: Ghana
 en:
   title: Ghana
+continents: []
+countries:
+  - ghana
+image: 'http://www.populationdata.net/wp-content/uploads/ghana.jpg'
+source: CIA
+type: image

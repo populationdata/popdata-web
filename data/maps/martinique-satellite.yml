@@ -4,3 +4,13 @@ fr:
   title: Martinique - satellite
 en:
   title: Martinique - satellite
+continents: []
+countries:
+  - martinique
+gmaps:
+  latitude: 14.642718
+  longitude: -60.978928
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Cuba - Port Mariel (ZED)
 en:
   title: Cuba - Port Mariel (ZED)
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba-port-mariel.jpg'
+source: Wikipédia
+type: image

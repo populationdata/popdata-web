@@ -4,3 +4,12 @@ fr:
   title: Buenos Aires - routière
 en:
   title: Buenos Aires - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -34.615268
+  longitude: -58.393707
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

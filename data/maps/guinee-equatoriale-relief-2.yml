@@ -4,3 +4,10 @@ fr:
   title: Guinée équatoriale - relief
 en:
   title: Guinée équatoriale - relief
+continents: []
+countries:
+  - guinee-equatoriale
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Guinee-equatoriale.jpg
+source: Wikipédia
+type: image

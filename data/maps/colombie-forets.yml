@@ -4,3 +4,9 @@ fr:
   title: Colombie - forêts
 en:
   title: Colombie - forêts
+continents: []
+countries:
+  - colombie
+image: 'http://www.populationdata.net/wp-content/uploads/colombie-forets.gif'
+source: ONU
+type: image

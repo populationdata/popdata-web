@@ -4,3 +4,9 @@ fr:
   title: Kenya - relief
 en:
   title: Kenya - relief
+continents: []
+countries:
+  - kenya
+image: 'http://www.populationdata.net/wp-content/uploads/kenya_relief.gif'
+source: CIA
+type: image

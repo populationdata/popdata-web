@@ -4,3 +4,9 @@ fr:
   title: Indonésie - relief
 en:
   title: Indonésie - relief
+continents: []
+countries:
+  - indonesie
+image: 'http://www.populationdata.net/wp-content/uploads/indonesie-relief.jpg'
+source: CIA
+type: image

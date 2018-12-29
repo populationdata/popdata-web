@@ -4,3 +4,9 @@ fr:
   title: Érythrée - petite
 en:
   title: Érythrée - petite
+continents: []
+countries:
+  - erythree
+image: 'http://www.populationdata.net/wp-content/uploads/erythree-petite.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Mali - petite
 en:
   title: Mali - petite
+continents: []
+countries:
+  - mali
+image: 'http://www.populationdata.net/wp-content/uploads/mali-petite.png'
+source: Wikipédia
+type: image

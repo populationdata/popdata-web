@@ -4,3 +4,12 @@ fr:
   title: France - bataille des frontières (1914)
 en:
   title: France - bataille des frontières (1914)
+continents:
+  - europe
+countries:
+  - france
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-Bataille_des_Frontieres-1914.png
+source: Wikipédia
+type: image

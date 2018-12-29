@@ -4,3 +4,12 @@ fr:
   title: Dresde - routière
 en:
   title: Dresde - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 51.052078
+  longitude: 13.746128
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

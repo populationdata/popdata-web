@@ -4,3 +4,12 @@ fr:
   title: Pago Pago - routière
 en:
   title: Pago Pago - routière
+continents: []
+countries: []
+gmaps:
+  latitude: -14.303643
+  longitude: -170.734577
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

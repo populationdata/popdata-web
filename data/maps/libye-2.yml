@@ -4,3 +4,9 @@ fr:
   title: Libye
 en:
   title: Libye
+continents: []
+countries:
+  - libye
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Libye.png'
+source: ONU
+type: image

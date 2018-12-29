@@ -4,3 +4,13 @@ fr:
   title: Canada - centrale nucléaire Bruce
 en:
   title: Canada - centrale nucléaire Bruce
+continents: []
+countries:
+  - canada
+gmaps:
+  latitude: 44.327443
+  longitude: -81.587801
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

@@ -4,3 +4,9 @@ fr:
   title: Russie - densité
 en:
   title: Russie - densité
+continents: []
+countries:
+  - russie
+image: 'http://www.populationdata.net/wp-content/uploads/russie-densite.gif'
+source: CIA
+type: image

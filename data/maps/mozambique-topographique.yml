@@ -4,3 +4,9 @@ fr:
   title: Mozambique - topographique
 en:
   title: Mozambique - topographique
+continents: []
+countries:
+  - mozambique
+image: 'https://www.populationdata.net/wp-content/uploads/Mozambique-topographique.jpg'
+source: Wikipédia
+type: image

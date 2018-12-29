@@ -4,3 +4,13 @@ fr:
   title: Pérou - séisme de magnitude 6.0 (9 février 2009)
 en:
   title: Pérou - séisme de magnitude 6.0 (9 février 2009)
+continents: []
+countries:
+  - perou
+gmaps:
+  latitude: -6.6048
+  longitude: -81.126
+  type: terrain
+  zoom: 7
+source: USGS - Earthquake Hazards Program
+type: gmaps

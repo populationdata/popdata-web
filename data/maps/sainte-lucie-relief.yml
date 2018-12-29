@@ -4,3 +4,9 @@ fr:
   title: Sainte-Lucie - relief
 en:
   title: Sainte-Lucie - relief
+continents: []
+countries:
+  - sainte-lucie
+image: 'http://www.populationdata.net/wp-content/uploads/sainte-lucie-relief.png'
+source: Wikipédia
+type: image

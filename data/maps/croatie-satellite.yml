@@ -4,3 +4,13 @@ fr:
   title: Croatie - satellite
 en:
   title: Croatie - satellite
+continents: []
+countries:
+  - croatie
+gmaps:
+  latitude: 44.664746
+  longitude: 16.858521
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

@@ -4,3 +4,10 @@ fr:
   title: France - Haute Bretagne
 en:
   title: France - Haute Bretagne
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/France-Haute-Bretagne.jpg
+source: Wikipédia
+type: image

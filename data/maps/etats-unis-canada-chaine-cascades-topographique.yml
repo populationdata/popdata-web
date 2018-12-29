@@ -4,3 +4,11 @@ fr:
   title: 'États-Unis - Canada - Chaîne des Cascades : topographique'
 en:
   title: 'États-Unis - Canada - Chaîne des Cascades : topographique'
+continents: []
+countries:
+  - etats-unis
+  - canada
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/09/Etats-Unis-Canada-Chaine-Cascade-topographique.jpg
+source: Wikipédia
+type: image

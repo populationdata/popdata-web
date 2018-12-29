@@ -4,3 +4,10 @@ fr:
   title: 'Monde - Arménie : diaspora arménienne'
 en:
   title: 'Monde - Arménie : diaspora arménienne'
+continents: []
+countries:
+  - armenie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Monde-Armenie-diaspora.png
+source: Wikipédia
+type: image

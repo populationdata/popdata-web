@@ -4,3 +4,10 @@ fr:
   title: Liechtenstein - topographique
 en:
   title: Liechtenstein - topographique
+continents: []
+countries:
+  - liechtenstein
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/05/Liechtenstein-topographique.jpg
+source: Wikipédia
+type: image

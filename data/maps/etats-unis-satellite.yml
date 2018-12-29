@@ -4,3 +4,13 @@ fr:
   title: États-Unis - satellite
 en:
   title: États-Unis - satellite
+continents: []
+countries:
+  - etats-unis
+gmaps:
+  latitude: 40.979898
+  longitude: -97.646484
+  type: hybrid
+  zoom: 4
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Chine - relief
 en:
   title: Chine - relief
+continents: []
+countries: []
+gmaps:
+  latitude: 35.710838
+  longitude: 108.852539
+  type: terrain
+  zoom: 4
+source: Google Maps
+type: gmaps

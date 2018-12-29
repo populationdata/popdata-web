@@ -4,3 +4,13 @@ fr:
   title: Pitcairn - routière
 en:
   title: Pitcairn - routière
+continents: []
+countries:
+  - pitcairn
+gmaps:
+  latitude: -25.068768
+  longitude: -130.10572
+  type: roadmap
+  zoom: 14
+source: Google Maps
+type: gmaps

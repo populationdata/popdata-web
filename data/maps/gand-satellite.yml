@@ -4,3 +4,12 @@ fr:
   title: Gand - satellite
 en:
   title: Gand - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 51.052014
+  longitude: 3.721265
+  type: hybrid
+  zoom: 11
+source: Google Maps
+type: gmaps

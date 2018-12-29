@@ -4,3 +4,10 @@ fr:
   title: Monde - Densité HD
 en:
   title: Monde - Densité HD
+continents: []
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/monde-densite-HD.png'
+source: >-
+  CIESIN (Center for International Earth Science Information Network -
+  Université Columbia)
+type: image

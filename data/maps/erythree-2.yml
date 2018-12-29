@@ -4,3 +4,9 @@ fr:
   title: Érythrée
 en:
   title: Érythrée
+continents: []
+countries:
+  - erythree
+image: 'https://www.populationdata.net/wp-content/uploads/2017/05/Erythree.png'
+source: ONU
+type: image

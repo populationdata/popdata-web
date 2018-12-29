@@ -4,3 +4,9 @@ fr:
   title: Espagne - densité (2005)
 en:
   title: Espagne - densité (2005)
+continents: []
+countries:
+  - espagne
+image: 'http://www.populationdata.net/wp-content/uploads/espagne-densite-2005.png'
+source: INE
+type: image

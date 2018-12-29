@@ -4,3 +4,10 @@ fr:
   title: 'Égypte - Arabie saoudite : détroit de Tiran'
 en:
   title: 'Égypte - Arabie saoudite : détroit de Tiran'
+continents: []
+countries:
+  - egypte
+  - arabie-saoudite
+image: 'http://www.populationdata.net/wp-content/uploads/egypte_detroit_tiran.jpg'
+source: CIA
+type: image

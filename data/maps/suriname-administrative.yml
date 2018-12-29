@@ -4,3 +4,10 @@ fr:
   title: Suriname - administrative
 en:
   title: Suriname - administrative
+continents: []
+countries:
+  - suriname
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/suriname-administrative.png
+source: Wikipédia
+type: image

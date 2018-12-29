@@ -4,3 +4,9 @@ fr:
   title: Zanzibar et Pemba (îles)
 en:
   title: Zanzibar et Pemba (îles)
+continents: []
+countries:
+  - tanzanie
+image: 'http://www.populationdata.net/wp-content/uploads/tanzanie_zanzibar.jpg'
+source: CIA
+type: image

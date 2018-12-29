@@ -3,3 +3,10 @@ date: '2017-10-27T19:42:50.000Z'
 fr:
   title: 'Espagne - Catalogne : administrative'
 en: null
+continents: []
+countries:
+  - espagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/10/Espagne-Catalogne-administrative.png
+source: Wikipédia
+type: image

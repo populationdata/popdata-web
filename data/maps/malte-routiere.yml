@@ -4,3 +4,13 @@ fr:
   title: Malte - routière
 en:
   title: Malte - routière
+continents: []
+countries:
+  - malte
+gmaps:
+  latitude: 35.949106
+  longitude: 14.380417
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

@@ -4,3 +4,12 @@ fr:
   title: Mandalay - satellite
 en:
   title: Mandalay - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 21.971862
+  longitude: 96.093979
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

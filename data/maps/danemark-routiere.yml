@@ -4,3 +4,13 @@ fr:
   title: Danemark - routière
 en:
   title: Danemark - routière
+continents: []
+countries:
+  - danemark
+gmaps:
+  latitude: 56.212814
+  longitude: 10.38208
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

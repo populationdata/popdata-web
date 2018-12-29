@@ -4,3 +4,12 @@ fr:
   title: Cayenne - routière
 en:
   title: Cayenne - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 4.906768
+  longitude: -52.306767
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

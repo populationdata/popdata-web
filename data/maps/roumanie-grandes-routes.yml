@@ -4,3 +4,9 @@ fr:
   title: Roumanie - grandes routes
 en:
   title: Roumanie - grandes routes
+continents: []
+countries:
+  - roumanie
+image: 'http://www.populationdata.net/wp-content/uploads/roumanie-routes.jpg'
+source: Institut national des statistiques (INS)
+type: image

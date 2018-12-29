@@ -4,3 +4,11 @@ fr:
   title: Somalie - piraterie (2008)
 en:
   title: Somalie - piraterie (2008)
+continents: []
+countries:
+  - somalie
+  - pount
+  - somaliland
+image: 'http://www.populationdata.net/wp-content/uploads/somalie-pirates-2008.jpg'
+source: UNOSAT
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Fleuve Uruguay
 en:
   title: Fleuve Uruguay
+continents:
+  - ameriques
+countries:
+  - uruguay
+  - argentine
+  - bresil
+image: 'https://www.populationdata.net/wp-content/uploads/2017/09/Fleuve-Uruguay.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,10 @@ fr:
   title: 'France - élections présidentielles 2017, 1er tour'
 en:
   title: 'France - élections présidentielles 2017, 1er tour'
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/France-elections-presidentielles-2017-1er-tour.jpg
+source: 'J. Robine, IFG'
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Fennoscandie
 en:
   title: Fennoscandie
+continents:
+  - europe
+countries:
+  - finlande
+  - suede
+  - norvege
+  - danemark
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Fennoscandie.jpg'
+source: Wikipédia
+type: image

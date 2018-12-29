@@ -4,3 +4,12 @@ fr:
   title: Sydney - satellite
 en:
   title: Sydney - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -33.867565
+  longitude: 151.21067
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

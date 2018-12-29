@@ -4,3 +4,11 @@ fr:
   title: Tabula Magellanica - Détroit de Magellan et Terre de Feu
 en:
   title: Tabula Magellanica - Détroit de Magellan et Terre de Feu
+continents: []
+countries:
+  - chili
+  - argentine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Tabula-Magellanica-Detroit-de-Magellan-.jpg
+source: Bibliothèque numérique mondiale
+type: image

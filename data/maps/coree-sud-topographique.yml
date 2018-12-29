@@ -4,3 +4,10 @@ fr:
   title: Corée du Sud - topographique
 en:
   title: Corée du Sud - topographique
+continents: []
+countries:
+  - coree-du-sud
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Coree-du-Sud-topographique.png
+source: Wikipédia
+type: image

@@ -4,3 +4,8 @@ fr:
   title: Monde - Biomes
 en:
   title: Monde - Biomes
+continents: []
+countries: []
+image: 'https://www.populationdata.net/wp-content/uploads/2017/04/Monde-Biomes.png'
+source: 'WWF, Wikipédia'
+type: image

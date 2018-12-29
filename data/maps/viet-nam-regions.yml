@@ -4,3 +4,9 @@ fr:
   title: Viêt Nam - régions
 en:
   title: Viêt Nam - régions
+continents: []
+countries:
+  - viet-nam
+image: 'https://www.populationdata.net/wp-content/uploads/Viet-Nam-regions.png'
+source: ''
+type: image

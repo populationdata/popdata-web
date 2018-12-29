@@ -4,3 +4,10 @@ fr:
   title: Panama - canal
 en:
   title: Panama - canal
+continents:
+  - ameriques
+countries:
+  - panama
+image: 'https://www.populationdata.net/wp-content/uploads/Panama-canal.png'
+source: Thomas Römer/OpenStreetMap data
+type: image

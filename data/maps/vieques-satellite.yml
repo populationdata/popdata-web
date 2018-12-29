@@ -4,3 +4,13 @@ fr:
   title: Vieques - satellite
 en:
   title: Vieques - satellite
+continents: []
+countries:
+  - porto-rico
+gmaps:
+  latitude: 18.139327
+  longitude: -65.44693
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

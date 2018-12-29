@@ -4,3 +4,9 @@ fr:
   title: Ouganda
 en:
   title: Ouganda
+continents: []
+countries:
+  - ouganda
+image: 'http://www.populationdata.net/wp-content/uploads/ouganda.jpg'
+source: CIA
+type: image

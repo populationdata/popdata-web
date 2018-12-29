@@ -4,3 +4,9 @@ fr:
   title: Gibraltar - topographique
 en:
   title: Gibraltar - topographique
+continents: []
+countries:
+  - gibraltar
+image: 'http://www.populationdata.net/wp-content/uploads/gibraltar-topographique.png'
+source: Wikipédia
+type: image

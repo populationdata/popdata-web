@@ -4,3 +4,10 @@ fr:
   title: Chypre - topographique
 en:
   title: Chypre - topographique
+continents: []
+countries:
+  - chypre
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Chypre-topographique.jpg
+source: Wikipédia
+type: image

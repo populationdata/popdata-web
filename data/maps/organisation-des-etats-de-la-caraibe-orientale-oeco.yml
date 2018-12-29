@@ -4,3 +4,19 @@ fr:
   title: Organisation des États de la Caraïbe orientale (OECO)
 en:
   title: Organisation des États de la Caraïbe orientale (OECO)
+continents:
+  - ameriques
+countries:
+  - iles-vierges-britanniques
+  - saint-vincent-et-les-grenadines
+  - sainte-lucie
+  - saint-christophe-et-nieves
+  - montserrat
+  - grenade
+  - dominique
+  - antigua-et-barbuda
+  - anguilla
+image: >-
+  http://www.populationdata.net/wp-content/uploads/organisation-des-etats-de-la-caraibe-orientale.png
+source: PopulationData.net
+type: image

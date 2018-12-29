@@ -4,3 +4,12 @@ fr:
   title: Florence - satellite
 en:
   title: Florence - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 43.795509
+  longitude: 11.228714
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

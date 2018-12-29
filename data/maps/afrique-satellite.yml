@@ -4,3 +4,13 @@ fr:
   title: Afrique - Satellite
 en:
   title: Afrique - Satellite
+continents:
+  - afrique
+countries: []
+gmaps:
+  latitude: 0.213671
+  longitude: 16.98485
+  type: hybrid
+  zoom: 3
+source: Google Maps
+type: gmaps

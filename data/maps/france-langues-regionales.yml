@@ -4,3 +4,9 @@ fr:
   title: France - langues régionales
 en:
   title: France - langues régionales
+continents: []
+countries:
+  - france
+image: 'http://www.populationdata.net/wp-content/uploads/france-langues-regionales.jpg'
+source: AFP
+type: image

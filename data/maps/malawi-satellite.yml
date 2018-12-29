@@ -4,3 +4,13 @@ fr:
   title: Malawi - satellite
 en:
   title: Malawi - satellite
+continents: []
+countries:
+  - malawi
+gmaps:
+  latitude: -13.368243
+  longitude: 34.530029
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

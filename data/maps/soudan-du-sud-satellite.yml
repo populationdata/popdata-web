@@ -4,3 +4,13 @@ fr:
   title: Soudan du Sud - satellite
 en:
   title: Soudan du Sud - satellite
+continents: []
+countries:
+  - soudan-du-sud
+gmaps:
+  latitude: 7.634776
+  longitude: 30.212402
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

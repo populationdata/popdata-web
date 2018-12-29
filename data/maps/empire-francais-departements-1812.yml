@@ -4,3 +4,10 @@ fr:
   title: Empire français - départements (1812)
 en:
   title: French Empire - Departments (1812)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2018/01/empire-francais-administrative-1812.png
+source: Wikipédia
+type: image

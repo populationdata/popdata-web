@@ -4,3 +4,16 @@ fr:
   title: Afrique - Bassin hydrographique du fleuve Niger
 en:
   title: Afrique - Bassin hydrographique du fleuve Niger
+continents:
+  - afrique
+countries:
+  - mali
+  - niger
+  - guinee
+  - burkina-faso
+  - benin
+  - nigeria
+image: >-
+  http://www.populationdata.net/wp-content/uploads/afrique-bassin-hydrographique-niger.png
+source: Wikipédia
+type: image

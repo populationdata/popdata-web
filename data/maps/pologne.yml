@@ -4,3 +4,9 @@ fr:
   title: Pologne
 en:
   title: Pologne
+continents: []
+countries:
+  - pologne
+image: 'http://www.populationdata.net/wp-content/uploads/pologne.jpg'
+source: CIA
+type: image

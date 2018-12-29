@@ -4,3 +4,9 @@ fr:
   title: Panama - petite
 en:
   title: Panama - petite
+continents: []
+countries:
+  - panama
+image: 'https://www.populationdata.net/wp-content/uploads/Panama.png'
+source: CIA
+type: image

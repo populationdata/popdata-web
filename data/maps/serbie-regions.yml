@@ -4,3 +4,10 @@ fr:
   title: Serbie - régions
 en:
   title: Serbie - régions
+continents: []
+countries:
+  - serbie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Serbie-administrative-1.png
+source: Office statistique de la République de Serbie
+type: image

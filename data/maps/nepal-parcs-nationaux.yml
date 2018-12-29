@@ -4,3 +4,10 @@ fr:
   title: Népal - parcs nationaux
 en:
   title: Népal - parcs nationaux
+continents: []
+countries:
+  - nepal
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Nepal-parcs-nationaux.gif
+source: Bureau central des statistiques du Népal
+type: image

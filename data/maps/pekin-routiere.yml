@@ -4,3 +4,12 @@ fr:
   title: Pékin - routière
 en:
   title: Pékin - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 39.918163
+  longitude: 116.39122
+  type: roadmap
+  zoom: 10
+source: Google Maps
+type: gmaps

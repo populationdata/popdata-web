@@ -4,3 +4,13 @@ fr:
   title: Égypte - barrage d'Assouan
 en:
   title: Égypte - barrage d'Assouan
+continents: []
+countries:
+  - egypte
+gmaps:
+  latitude: 23.972921
+  longitude: 32.875385
+  type: satellite
+  zoom: 13
+source: Google Maps
+type: gmaps

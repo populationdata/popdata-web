@@ -4,3 +4,11 @@ fr:
   title: Fleuve Amour
 en:
   title: Fleuve Amour
+continents: []
+countries:
+  - russie
+  - chine
+  - mongolie
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/fleuve-amour.png'
+source: Wikipédia
+type: image

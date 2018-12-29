@@ -4,3 +4,10 @@ fr:
   title: Cuba - crise des missiles (1962)
 en:
   title: Cuba - crise des missiles (1962)
+continents: []
+countries:
+  - cuba
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/11/Cuba-crise-missiles-1962.jpg
+source: CIA
+type: image

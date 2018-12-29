@@ -4,3 +4,10 @@ fr:
   title: Allemagne - régions métropolitaines
 en:
   title: Allemagne - régions métropolitaines
+continents: []
+countries:
+  - allemagne
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Allemagne-regions-metropolitaines.png
+source: Wikipédia
+type: image

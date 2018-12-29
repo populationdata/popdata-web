@@ -4,3 +4,10 @@ fr:
   title: États-Unis - pollution sonore humaine excessive
 en:
   title: États-Unis - pollution sonore humaine excessive
+continents: []
+countries:
+  - etats-unis
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Etats-Unis-pollution-sonore-humaine.jpg
+source: 'R.T. Buxton et al., Science'
+type: image

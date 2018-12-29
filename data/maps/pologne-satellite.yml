@@ -4,3 +4,13 @@ fr:
   title: Pologne - satellite
 en:
   title: Pologne - satellite
+continents: []
+countries:
+  - pologne
+gmaps:
+  latitude: 52.281602
+  longitude: 19.467773
+  type: hybrid
+  zoom: 7
+source: Google Maps
+type: gmaps

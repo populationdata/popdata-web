@@ -4,3 +4,11 @@ fr:
   title: Croissant fertile
 en:
   title: Croissant fertile
+continents:
+  - asie
+  - afrique
+countries: []
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Croissant_fertile.png
+source: Wikipédia
+type: image

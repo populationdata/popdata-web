@@ -4,3 +4,9 @@ fr:
   title: Hongrie - relief
 en:
   title: Hongrie - relief
+continents: []
+countries:
+  - hongrie
+image: 'http://www.populationdata.net/wp-content/uploads/hongrie_relief.jpg'
+source: CIA
+type: image

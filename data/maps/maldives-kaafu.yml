@@ -4,3 +4,9 @@ fr:
   title: Maldives - Kaafu
 en:
   title: Maldives - Kaafu
+continents: []
+countries:
+  - maldives
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Kaafu_Atoll.jpg'
+source: Wikipédia
+type: image

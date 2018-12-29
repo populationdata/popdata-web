@@ -4,3 +4,12 @@ fr:
   title: Guayaquil - satellite
 en:
   title: Guayaquil - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -2.179402
+  longitude: -79.911118
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

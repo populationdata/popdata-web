@@ -4,3 +4,9 @@ fr:
   title: Éthiopie
 en:
   title: Éthiopie
+continents: []
+countries:
+  - ethiopie
+image: 'http://www.populationdata.net/wp-content/uploads/ethiopie.jpg'
+source: CIA
+type: image

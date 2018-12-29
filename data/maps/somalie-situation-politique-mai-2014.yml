@@ -4,3 +4,11 @@ fr:
   title: Somalie - situation politique (mai 2014)
 en:
   title: Somalie - situation politique (mai 2014)
+continents: []
+countries:
+  - somalie
+  - somaliland
+  - pount
+image: 'http://www.populationdata.net/wp-content/uploads/somalie-2014.jpg'
+source: Wikipédia
+type: image

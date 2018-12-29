@@ -4,3 +4,9 @@ fr:
   title: Jamaïque - topographique
 en:
   title: Jamaïque - topographique
+continents: []
+countries:
+  - jamaique
+image: 'http://www.populationdata.net/wp-content/uploads/jamaique-topographique.png'
+source: Wikipédia
+type: image

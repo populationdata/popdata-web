@@ -4,3 +4,12 @@ fr:
   title: Concepción - satellite
 en:
   title: Concepción - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -36.816284
+  longitude: -73.051901
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

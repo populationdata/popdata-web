@@ -4,3 +4,12 @@ fr:
   title: Manzini - routière
 en:
   title: Manzini - road map
+continents: []
+countries: []
+gmaps:
+  latitude: -26.496232
+  longitude: 31.337814
+  type: roadmap
+  zoom: 12
+source: Google Maps
+type: gmaps

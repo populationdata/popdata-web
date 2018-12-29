@@ -4,3 +4,12 @@ fr:
   title: Antilles - Satellite
 en:
   title: Antilles - Satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 18.041421
+  longitude: -70.927734
+  type: hybrid
+  zoom: 5
+source: Google Maps
+type: gmaps

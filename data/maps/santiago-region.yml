@@ -4,3 +4,9 @@ fr:
   title: Santiago de Cuba - région
 en:
   title: Santiago de Cuba - Region
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba_santiago_region.jpg'
+source: CIA
+type: image

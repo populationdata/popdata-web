@@ -4,3 +4,12 @@ fr:
   title: Walvis Bay - satellite
 en:
   title: Walvis Bay - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -22.949383
+  longitude: 14.511223
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

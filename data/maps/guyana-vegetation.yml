@@ -4,3 +4,9 @@ fr:
   title: Guyana - végétation
 en:
   title: Guyana - végétation
+continents: []
+countries:
+  - guyana
+image: 'http://www.populationdata.net/wp-content/uploads/guyana_vegetation.jpg'
+source: CIA
+type: image

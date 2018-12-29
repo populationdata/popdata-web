@@ -4,3 +4,9 @@ fr:
   title: Libéria
 en:
   title: Libéria
+continents: []
+countries:
+  - liberia
+image: 'https://www.populationdata.net/wp-content/uploads/2017/07/Liberia.jpg'
+source: ONU
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Salomon
 en:
   title: Salomon
+continents: []
+countries:
+  - salomon
+image: 'http://www.populationdata.net/wp-content/uploads/iles_salomon.jpg'
+source: CIA
+type: image

@@ -4,3 +4,14 @@ fr:
   title: Indianocéanie
 en:
   title: Indianocéanie
+continents:
+  - afrique
+countries:
+  - reunion
+  - seychelles
+  - madagascar
+  - comores
+  - mayotte
+image: 'https://www.populationdata.net/wp-content/uploads/Indianoceanie.png'
+source: Commission de l'Océan Indien
+type: image

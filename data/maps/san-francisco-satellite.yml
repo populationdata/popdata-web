@@ -4,3 +4,12 @@ fr:
   title: San Francisco - satellite
 en:
   title: San Francisco - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 37.717504
+  longitude: -122.234573
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

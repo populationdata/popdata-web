@@ -4,3 +4,11 @@ fr:
   title: 'Bénin - Niger : train'
 en:
   title: 'Bénin - Niger : train'
+continents: []
+countries:
+  - benin
+  - niger
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Benin-Niger-train.png
+source: Wikipédia
+type: image

@@ -4,3 +4,13 @@ fr:
   title: Somalie - routière
 en:
   title: Somalie - routière
+continents: []
+countries:
+  - somalie
+gmaps:
+  latitude: 5.54378
+  longitude: 44.835395
+  type: roadmap
+  zoom: 6
+source: Google Maps
+type: gmaps

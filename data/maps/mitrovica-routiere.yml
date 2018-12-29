@@ -4,3 +4,12 @@ fr:
   title: Mitrovica - routière
 en:
   title: Mitrovica - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 42.889549
+  longitude: 20.864925
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

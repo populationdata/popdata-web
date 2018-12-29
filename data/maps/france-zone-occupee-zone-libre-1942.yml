@@ -4,3 +4,10 @@ fr:
   title: France - zone occupée / zone libre (1942)
 en:
   title: France - zone occupée / zone libre (1942)
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/12/France-zone-occupee-zone-libre-1942.png
+source: Wikipédia
+type: image

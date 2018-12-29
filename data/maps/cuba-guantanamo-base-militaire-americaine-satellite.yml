@@ -4,3 +4,13 @@ fr:
   title: 'Cuba - Guantánamo - base militaire américaine : satellite'
 en:
   title: 'Cuba - Guantánamo: American military base: satellite'
+continents: []
+countries:
+  - cuba
+gmaps:
+  latitude: 19.950115
+  longitude: -75.157127
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

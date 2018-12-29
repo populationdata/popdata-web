@@ -4,3 +4,9 @@ fr:
   title: Organisation pour la sécurité et la coopération en Europe (OSCE)
 en:
   title: Organisation pour la sécurité et la coopération en Europe (OSCE)
+continents:
+  - europe
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/osce.gif'
+source: Wikipédia
+type: image

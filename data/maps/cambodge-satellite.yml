@@ -4,3 +4,13 @@ fr:
   title: Cambodge - satellite
 en:
   title: Cambodia - satellite
+continents: []
+countries:
+  - cambodge
+gmaps:
+  latitude: 12.474124
+  longitude: 105.023804
+  type: hybrid
+  zoom: 8
+source: Google Maps
+type: gmaps

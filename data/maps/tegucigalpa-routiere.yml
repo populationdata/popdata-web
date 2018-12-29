@@ -4,3 +4,12 @@ fr:
   title: Tegucigalpa - routière
 en:
   title: Tegucigalpa - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 14.085799
+  longitude: -87.205009
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

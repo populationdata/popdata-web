@@ -4,3 +4,18 @@ fr:
   title: Caucase - politique
 en:
   title: Caucase - politique
+continents: []
+countries:
+  - armenie
+  - azerbaidjan
+  - ossetie-du-sud-alanie
+  - georgie
+  - russie
+  - iran
+  - turquie
+  - abkhazie
+  - artsakh-haut-karabakh
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/03/Caucase-politique.png
+source: Wikipédia
+type: image

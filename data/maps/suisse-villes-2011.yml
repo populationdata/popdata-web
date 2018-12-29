@@ -4,3 +4,10 @@ fr:
   title: Suisse - villes (2011)
 en:
   title: Suisse - villes (2011)
+continents: []
+countries:
+  - suisse
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Suisse-villes-2011.jpg
+source: Office fédéral de la statistique
+type: image

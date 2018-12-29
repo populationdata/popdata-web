@@ -4,3 +4,12 @@ fr:
   title: Nuku'alofa - satellite
 en:
   title: Nuku'alofa - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: -21.138787
+  longitude: -175.204124
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

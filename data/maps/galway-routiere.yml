@@ -4,3 +4,12 @@ fr:
   title: Galway - routière
 en:
   title: Galway - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 53.277887
+  longitude: -9.046907
+  type: roadmap
+  zoom: 13
+source: Google Maps
+type: gmaps

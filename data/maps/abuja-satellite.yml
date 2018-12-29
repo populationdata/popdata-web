@@ -4,3 +4,12 @@ fr:
   title: Abuja - satellite
 en:
   title: Abuja - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 9.063279
+  longitude: 7.470531
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

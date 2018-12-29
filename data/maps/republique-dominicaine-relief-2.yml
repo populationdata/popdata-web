@@ -4,3 +4,13 @@ fr:
   title: République dominicaine - relief
 en:
   title: République dominicaine - relief
+continents: []
+countries:
+  - republique-dominicaine
+gmaps:
+  latitude: 18.903688
+  longitude: -70.389404
+  type: terrain
+  zoom: 8
+source: Google Maps
+type: gmaps

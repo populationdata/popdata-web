@@ -4,3 +4,12 @@ fr:
   title: 'Koweït - Irak - Arabie saoudite : frontières'
 en:
   title: 'Koweït - Irak - Arabie saoudite : frontières'
+continents: []
+countries:
+  - koweit
+  - irak
+  - arabie-saoudite
+image: >-
+  http://www.populationdata.net/wp-content/uploads/koweit_frontiere_iraq_arabie_saoudite.jpg
+source: CIA
+type: image

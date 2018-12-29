@@ -4,3 +4,9 @@ fr:
   title: Corée du Sud - petite
 en:
   title: Corée du Sud - petite
+continents: []
+countries:
+  - coree-du-sud
+image: 'http://www.populationdata.net/wp-content/uploads/coree-du-sud-petite.png'
+source: Wikipédia
+type: image

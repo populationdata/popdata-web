@@ -4,3 +4,9 @@ fr:
   title: Arménie - petite
 en:
   title: Arménie - petite
+continents: []
+countries:
+  - armenie
+image: 'http://www.populationdata.net/wp-content/uploads/armenie-petite.gif'
+source: Wikipédia
+type: image

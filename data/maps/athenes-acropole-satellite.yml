@@ -4,3 +4,12 @@ fr:
   title: 'Athènes - Acropole : satellite'
 en:
   title: 'Athènes - Acropole : satellite'
+continents: []
+countries: []
+gmaps:
+  latitude: 37.971407
+  longitude: 23.726338
+  type: satellite
+  zoom: 18
+source: Google Maps
+type: gmaps

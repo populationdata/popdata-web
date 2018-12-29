@@ -4,3 +4,12 @@ fr:
   title: Hiroshima - routière
 en:
   title: Hiroshima - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 34.395862
+  longitude: 132.417183
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

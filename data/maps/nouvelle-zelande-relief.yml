@@ -4,3 +4,13 @@ fr:
   title: Nouvelle-Zélande - relief
 en:
   title: New Zealand - Relief
+continents: []
+countries:
+  - nouvelle-zelande
+gmaps:
+  latitude: -40.896906
+  longitude: 171.694336
+  type: terrain
+  zoom: 6
+source: Google Maps
+type: gmaps

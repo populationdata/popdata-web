@@ -4,3 +4,12 @@ fr:
   title: Rabat - satellite
 en:
   title: Rabat - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 34.017665
+  longitude: -6.834183
+  type: hybrid
+  zoom: 12
+source: Google Maps
+type: gmaps

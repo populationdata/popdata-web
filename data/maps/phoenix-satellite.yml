@@ -4,3 +4,12 @@ fr:
   title: Phoenix - satellite
 en:
   title: Phoenix - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 33.470438
+  longitude: -112.063661
+  type: hybrid
+  zoom: 10
+source: Google Maps
+type: gmaps

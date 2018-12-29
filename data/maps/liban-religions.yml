@@ -4,3 +4,9 @@ fr:
   title: Liban - religions
 en:
   title: Liban - religions
+continents: []
+countries:
+  - liban
+image: 'https://www.populationdata.net/wp-content/uploads/2017/01/liban-religions.jpg'
+source: Wikipédia
+type: image

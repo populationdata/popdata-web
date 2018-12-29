@@ -4,3 +4,9 @@ fr:
   title: Cuba - petite
 en:
   title: Cuba - petite
+continents: []
+countries:
+  - cuba
+image: 'http://www.populationdata.net/wp-content/uploads/cuba-petite.png'
+source: Wikipédia
+type: image

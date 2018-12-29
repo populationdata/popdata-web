@@ -4,3 +4,13 @@ fr:
   title: Malawi - routière
 en:
   title: Malawi - routière
+continents: []
+countries:
+  - malawi
+gmaps:
+  latitude: -13.368243
+  longitude: 34.530029
+  type: roadmap
+  zoom: 7
+source: Google Maps
+type: gmaps

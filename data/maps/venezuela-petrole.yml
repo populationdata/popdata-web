@@ -4,3 +4,9 @@ fr:
   title: Venezuela - pétrole
 en:
   title: Venezuela - pétrole
+continents: []
+countries:
+  - venezuela
+image: 'http://www.populationdata.net/wp-content/uploads/venezuela-petrole.jpg'
+source: CIA
+type: image

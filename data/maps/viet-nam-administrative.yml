@@ -4,3 +4,9 @@ fr:
   title: Viêt Nam - administrative (provinces)
 en:
   title: Viêt Nam - administrative (provinces)
+continents: []
+countries:
+  - viet-nam
+image: 'https://www.populationdata.net/wp-content/uploads/Viet-Nam-administrative.png'
+source: 'Tonbi ko, Wikipédia'
+type: image

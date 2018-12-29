@@ -4,3 +4,9 @@ fr:
   title: Amérique du Sud - Densité
 en:
   title: Amérique du Sud - Densité
+continents:
+  - ameriques
+countries: []
+image: 'http://www.populationdata.net/wp-content/uploads/ameriquedusud_densite.gif'
+source: nc
+type: image

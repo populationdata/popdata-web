@@ -4,3 +4,9 @@ fr:
   title: Yémen - Socotra
 en:
   title: Yémen - Socotra
+continents: []
+countries:
+  - yemen
+image: 'http://www.populationdata.net/wp-content/uploads/yemen_socotra.jpg'
+source: CIA
+type: image

@@ -4,3 +4,9 @@ fr:
   title: Maldives - politique
 en:
   title: Maldives - politique
+continents: []
+countries:
+  - maldives
+image: 'http://www.populationdata.net/wp-content/uploads/maldives_politique.jpg'
+source: CIA
+type: image

@@ -4,3 +4,10 @@ fr:
   title: Chypre - districts nord et sud (de facto)
 en:
   title: Chypre - districts nord et sud (de facto)
+continents: []
+countries:
+  - chypre
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/05/Chypre-districts-nord-et-sud.png
+source: Wikipédia
+type: image

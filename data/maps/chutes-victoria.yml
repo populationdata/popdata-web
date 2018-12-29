@@ -4,3 +4,12 @@ fr:
   title: Chutes Victoria
 en:
   title: Chutes Victoria
+continents:
+  - afrique
+countries:
+  - zambie
+  - zimbabwe
+image: >-
+  https://www.populationdata.net/wp-content/uploads/Chutes-Victoria-sur-le-Zambeze-Zambie-Zimbabwe.jpg
+source: ''
+type: image

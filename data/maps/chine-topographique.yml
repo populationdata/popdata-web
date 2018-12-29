@@ -4,3 +4,10 @@ fr:
   title: Chine - topographique
 en:
   title: Chine - topographique
+continents: []
+countries:
+  - chine
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/01/Chine-topographique.jpg
+source: Wikipédia
+type: image

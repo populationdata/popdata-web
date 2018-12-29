@@ -4,3 +4,9 @@ fr:
   title: Italie
 en:
   title: Italie
+continents: []
+countries:
+  - italie
+image: 'http://www.populationdata.net/wp-content/uploads/italie.jpg'
+source: CIA
+type: image

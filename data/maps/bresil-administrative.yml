@@ -4,3 +4,9 @@ fr:
   title: Brésil - administrative
 en:
   title: Brésil - administrative
+continents: []
+countries:
+  - bresil
+image: 'https://www.populationdata.net/wp-content/uploads/Bresil-administrative.png'
+source: Wikipédia
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Séoul - routière
 en:
   title: Séoul - routière
+continents: []
+countries: []
+gmaps:
+  latitude: 37.545394
+  longitude: 126.991653
+  type: roadmap
+  zoom: 11
+source: Google Maps
+type: gmaps

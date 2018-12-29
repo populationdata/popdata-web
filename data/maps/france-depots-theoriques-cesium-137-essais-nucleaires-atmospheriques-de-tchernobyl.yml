@@ -9,3 +9,10 @@ en:
   title: >-
     France - dépôts théoriques en césium 137 des essais nucléaires
     atmosphériques et de Tchernobyl
+continents: []
+countries:
+  - france
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2016/10/France-depots-theoriques-cesium-137-essais-nucleaires-atmospheriques-Tchernobyl.jpg
+source: IRSN
+type: image

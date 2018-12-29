@@ -4,3 +4,10 @@ fr:
   title: Malaisie - densité (2010)
 en:
   title: Malaisie - densité (2010)
+continents: []
+countries:
+  - malaisie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/02/Malaisie-densite-2010.png
+source: Département des statistiques de Malaisie
+type: image

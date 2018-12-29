@@ -4,3 +4,10 @@ fr:
   title: Indonésie - pétrole et gaz
 en:
   title: Indonésie - pétrole et gaz
+continents: []
+countries:
+  - indonesie
+image: >-
+  https://www.populationdata.net/wp-content/uploads/2017/04/Indonesie-petrole.jpg
+source: CIA
+type: image

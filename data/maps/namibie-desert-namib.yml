@@ -4,3 +4,9 @@ fr:
   title: Namibie - désert du Namib
 en:
   title: Namibie - désert du Namib
+continents: []
+countries:
+  - namibie
+image: 'https://www.populationdata.net/wp-content/uploads/Namibie-desert-du-Namib.jpg'
+source: Nasa
+type: image

@@ -4,3 +4,12 @@ fr:
   title: Santiago de Cuba - satellite
 en:
   title: Santiago de Cuba - satellite
+continents: []
+countries: []
+gmaps:
+  latitude: 20.019968
+  longitude: -75.839825
+  type: hybrid
+  zoom: 13
+source: Google Maps
+type: gmaps

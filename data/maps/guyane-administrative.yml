@@ -4,3 +4,9 @@ fr:
   title: Guyane - administrative
 en:
   title: Guyane - administrative
+continents: []
+countries:
+  - guyane
+image: 'http://www.populationdata.net/wp-content/uploads/guyane.jpg'
+source: Wikipédia
+type: image
