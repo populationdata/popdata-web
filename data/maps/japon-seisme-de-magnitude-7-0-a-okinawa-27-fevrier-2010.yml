@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 25.9507
   longitude: 128.4012
   type: terrain
   zoom: 5
+  markers:
+    - marker: epicentre
+      latitude: 25.9507
+      longitude: 128.4012
+      description: >-
+        Japon - Séisme de magnitude 7.0 le 27 février 2010 à 5h31 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 25.951°N, 128.401°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

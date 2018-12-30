@@ -6,10 +6,17 @@ en:
   title: Guatemala - tremblement de terre du 13 juin 2007
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 13.907408
   longitude: -90.54657
   type: satellite
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 13.621964
+      longitude: -90.725098
+      description: >-
+        GUATEMALA - tremblement de terre du 13 juin 2007 à 19:29:46 UTC
+        Placement sur la carte approximatif +13° 37' 40.80
 source: USGS Earthquake Hazards Program
-type: gmaps
+type: tiles

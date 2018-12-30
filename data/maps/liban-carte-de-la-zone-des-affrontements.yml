@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - liban
-gmaps:
+tiles:
   latitude: 34.477411
   longitude: 35.903664
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaujaune
+      latitude: 34.436292
+      longitude: 35.847101
+      description: Tripoli
+    - marker: drapeaurouge
+      latitude: 34.510093
+      longitude: 35.960312
+      description: Camp Nahr Al-Bared
+type: tiles

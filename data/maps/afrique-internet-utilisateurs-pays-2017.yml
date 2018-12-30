@@ -1,0 +1,15 @@
+title: afrique-internet-utilisateurs-pays-2017
+date: '2017-04-03T21:30:13.000Z'
+fr:
+  title: Afrique - Internet (utilisateurs par pays) 2017
+en:
+  title: Afrique - Internet (utilisateurs par pays) 2017
+continents:
+  - afrique
+countries: []
+embed: >-
+  <iframe style="max-width: 100%; height: 700px; margin: 0 auto"
+  src="https://www.dataspace.fr/dataviz/map_IT_NET_USER_P2_africa.html"
+  width="100%" height="700"></iframe>
+source: Agence française de développement (AFD)
+type: embed

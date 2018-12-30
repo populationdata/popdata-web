@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - malawi
-gmaps:
+tiles:
   latitude: -10.1102
   longitude: 33.8144
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: -10.1102
+      longitude: 33.8144
+      description: >-
+        Malawi - Séisme de magnitude 6.0 le 20 décembre 2009 à 1h19 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 10.110°S,
+        33.814°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

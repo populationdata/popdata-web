@@ -6,10 +6,9 @@ en:
   title: Antananarivo - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -18.90044
   longitude: 47.51956
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

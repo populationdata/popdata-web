@@ -6,10 +6,9 @@ en:
   title: Houston - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 29.746792
   longitude: -95.355148
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

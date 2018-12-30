@@ -6,10 +6,9 @@ en:
   title: Porto - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 41.147767
   longitude: -8.611565
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

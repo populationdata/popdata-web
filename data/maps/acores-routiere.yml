@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - acores
-gmaps:
+tiles:
   latitude: 38.440458
   longitude: -28.172233
   type: roadmap
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

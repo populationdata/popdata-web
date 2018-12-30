@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - samoa
-gmaps:
+tiles:
   latitude: -13.750057
   longitude: -172.194214
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

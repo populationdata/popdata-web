@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - botswana
-gmaps:
+tiles:
   latitude: -22.482106
   longitude: 23.961182
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

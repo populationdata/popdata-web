@@ -6,10 +6,9 @@ en:
   title: Vientiane - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 17.972692
   longitude: 102.611275
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

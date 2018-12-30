@@ -6,10 +6,9 @@ en:
   title: Mindelo - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 16.884882
   longitude: -24.987459
   type: roadmap
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

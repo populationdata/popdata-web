@@ -6,10 +6,9 @@ en:
   title: Doubaï (Dubaï) - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 25.172009
   longitude: 55.26123
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

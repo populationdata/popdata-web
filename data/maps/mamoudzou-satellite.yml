@@ -6,10 +6,9 @@ en:
   title: Mamoudzou - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -12.782842
   longitude: 45.225477
   type: hybrid
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

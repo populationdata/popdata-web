@@ -6,10 +6,9 @@ en:
   title: Tel-Aviv - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 32.070065
   longitude: 34.810524
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - papouasie-nouvelle-guinee
-gmaps:
+tiles:
   latitude: -5.987607
   longitude: 148.348389
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

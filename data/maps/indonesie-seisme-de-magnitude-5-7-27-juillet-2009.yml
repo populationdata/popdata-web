@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - indonesie
-gmaps:
+tiles:
   latitude: -4.7422
   longitude: 102.9757
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -4.7422
+      longitude: 102.9757
+      description: >-
+        Indonésie - Séisme de magnitude 5.7 le 26 juillet 2009 à 23h10 UTC (6h10
+        le 27 juillet 2009 heure locale). Placement sur la carte approximatif.
+        Coordonnées : 4.742°S, 102.976°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

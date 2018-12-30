@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - porto-rico
-gmaps:
+tiles:
   latitude: 18.139327
   longitude: -65.44693
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - nouvelle-caledonie
-gmaps:
+tiles:
   latitude: -21.366129
   longitude: 166.080322
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

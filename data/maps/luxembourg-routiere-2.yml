@@ -6,10 +6,9 @@ en:
   title: Luxembourg - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 49.611822
   longitude: 6.130028
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

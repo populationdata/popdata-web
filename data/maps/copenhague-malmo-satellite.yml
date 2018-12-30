@@ -9,10 +9,9 @@ continents:
 countries:
   - danemark
   - suede
-gmaps:
+tiles:
   latitude: 55.663257
   longitude: 12.607498
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

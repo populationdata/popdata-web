@@ -6,10 +6,9 @@ en:
   title: Sanaa - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 15.359846
   longitude: 44.20229
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

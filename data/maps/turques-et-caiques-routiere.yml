@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - turques-et-caiques
-gmaps:
+tiles:
   latitude: 21.614026
   longitude: -71.834106
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

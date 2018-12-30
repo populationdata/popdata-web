@@ -6,10 +6,9 @@ en:
   title: Tripoli - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 32.839181
   longitude: 13.189048
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

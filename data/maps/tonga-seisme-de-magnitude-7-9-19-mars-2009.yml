@@ -6,10 +6,18 @@ en:
   title: Tonga - séisme de magnitude 7.9 (19 mars 2009)
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -23.0152
   longitude: -174.7818
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -23.0152
+      longitude: -174.7818
+      description: >-
+        Tonga - Séisme de magnitude 7.9 le 19 mars 2009 à 18h17 UTC (à 6h17
+        heure locale le 20 mars 2009). Placement sur la carte approximatif.
+        Coordonnées : 23.015°S, 174.782°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

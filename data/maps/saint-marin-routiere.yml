@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - saint-marin
-gmaps:
+tiles:
   latitude: 43.946608
   longitude: 12.455063
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

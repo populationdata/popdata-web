@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - rwanda
-gmaps:
+tiles:
   latitude: -1.999106
   longitude: 29.86496
   type: terrain
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

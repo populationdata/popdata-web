@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - polynesie-francaise
-gmaps:
+tiles:
   latitude: -16.962233
   longitude: -148.919678
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

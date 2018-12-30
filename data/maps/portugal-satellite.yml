@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - portugal
-gmaps:
+tiles:
   latitude: 39.83385
   longitude: -8.036499
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 39.848
   longitude: 142.813
   type: terrain
   zoom: 5
+  markers:
+    - marker: epicentre
+      latitude: 39.848
+      longitude: 142.813
+      description: >-
+        Japon - Séisme de magnitude 6.8 le 17 février 2015 à 23h06 UTC (8h06
+        heure locale). Placement sur la carte approximatif. Coordonnées :
+        39.848°N 142.813°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

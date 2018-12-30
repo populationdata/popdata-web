@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - moldavie
-gmaps:
+tiles:
   latitude: 47.122476
   longitude: 28.740234
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

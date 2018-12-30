@@ -6,10 +6,9 @@ en:
   title: Hô-Chi-Minh-Ville - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 10.787105
   longitude: 106.706772
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Lille - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 50.650114
   longitude: 3.091965
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

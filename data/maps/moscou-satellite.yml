@@ -6,10 +6,9 @@ en:
   title: Moscou - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 55.747598
   longitude: 37.627487
   type: satellite
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

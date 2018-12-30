@@ -8,10 +8,18 @@ continents: []
 countries:
   - indonesie
   - papouasie-nouvelle-guinee
-gmaps:
+tiles:
   latitude: -2.1412
   longitude: 136.4603
   type: terrain
   zoom: 5
+  markers:
+    - marker: epicentre
+      latitude: -2.1412
+      longitude: 136.4603
+      description: >-
+        Indonésie - Papouasie : séisme de magnitude 7.0 le 16 juin 2010 à 12h16
+        heure locale.  Placement sur la carte approximatif. Coordonnées :
+        2.141°S, 136.460°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

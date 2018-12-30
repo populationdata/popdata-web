@@ -6,10 +6,9 @@ en:
   title: Kampala - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 0.29663
   longitude: 32.565022
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

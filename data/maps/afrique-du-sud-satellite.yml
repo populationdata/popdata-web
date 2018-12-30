@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - afrique-du-sud
-gmaps:
+tiles:
   latitude: -28.574874
   longitude: 24.763184
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

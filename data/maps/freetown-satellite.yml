@@ -6,10 +6,9 @@ en:
   title: Freetown - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 8.454714
   longitude: -13.21003
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Alicante-Elche - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 38.34893
   longitude: -0.580746
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

@@ -8,10 +8,18 @@ continents: []
 countries:
   - costa-rica
   - panama
-gmaps:
+tiles:
   latitude: 8.2947
   longitude: -82.9282
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 8.2947
+      longitude: -82.9282
+      description: >-
+        Panama - Costa Rica - Séisme de magnitude 6.2 le 19 novembre 2008 à
+        06h11 UTC (01h11 heure locale). Placement sur la carte approximatif.
+        Coordonnées : +8° 17' 40.92
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

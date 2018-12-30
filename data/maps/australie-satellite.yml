@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - australie
-gmaps:
+tiles:
   latitude: -27.215556
   longitude: 132.539063
   type: hybrid
   zoom: 4
-source: Google Maps
-type: gmaps
+type: tiles

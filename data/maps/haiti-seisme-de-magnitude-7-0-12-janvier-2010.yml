@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - haiti
-gmaps:
+tiles:
   latitude: 18.4514
   longitude: -72.4452
   type: terrain
   zoom: 9
+  markers:
+    - marker: epicentre
+      latitude: 18.4514
+      longitude: -72.4452
+      description: >-
+        Haïti - Séisme de magnitude 7.0 le 12 janvier 2010 à 16h53 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 18.451°N,
+        72.445°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

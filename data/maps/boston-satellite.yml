@@ -6,10 +6,9 @@ en:
   title: Boston - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 42.351947
   longitude: -71.052704
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

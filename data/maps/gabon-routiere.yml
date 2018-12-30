@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - gabon
-gmaps:
+tiles:
   latitude: -0.549308
   longitude: 11.651001
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

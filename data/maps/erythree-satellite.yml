@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - erythree
-gmaps:
+tiles:
   latitude: 15.337167
   longitude: 40.220947
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

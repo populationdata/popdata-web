@@ -6,10 +6,9 @@ en:
   title: Accra - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 5.589164
   longitude: -0.211487
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

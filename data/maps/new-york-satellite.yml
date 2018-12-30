@@ -6,10 +6,9 @@ en:
   title: New York - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 40.713956
   longitude: -73.989487
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - chine
-gmaps:
+tiles:
   latitude: 31.104
   longitude: 103.2702
   type: hybrid
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 31.104
+      longitude: 103.2702
+      description: >-
+        Chine, Sichuan - Séisme de magnitude 7.8 le 12 mai 2008 à 6h28 UTC
+        (14h28 heure locale). Placement sur la carte approximatif. Coordonnées :
+        +31° 6' 14.40
 source: Earthquake Hazards Program - USGS
-type: gmaps
+type: tiles

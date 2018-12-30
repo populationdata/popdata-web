@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - nouvelle-zelande
-gmaps:
+tiles:
   latitude: -42.757
   longitude: 173.077
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: -42.757
+      longitude: 173.077
+      description: >-
+        Nouvelle-Zélande : 13 novembre 2016 - 23:03 heure locale. Placement sur
+        la carte approximatif. 42.757°S 173.077°E
 source: Earthquake Hazards Program - USGS
-type: gmaps
+type: tiles

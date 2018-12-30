@@ -1,0 +1,12 @@
+title: suisse-population-commune-2017
+date: '2017-08-31T12:43:27.000Z'
+fr:
+  title: Suisse - population par commune (2017)
+en:
+  title: Suisse - population par commune (2017)
+continents: []
+countries:
+  - suisse
+embed: "<iframe src=\"https://www.atlas.bfs.admin.ch/maps/13/fr/12611_72_71_70/20748.html\"\r\n\t\tframeborder=\"0\"\r\n\t\tmarginheight=\"0\"\r\n\t\tmarginwidth=\"0\"\r\n\t\tscrolling=\"no\"\r\n\t\twidth=\"800\"\r\n\t\theight=\"600\"\r\n\t\tstyle=\"\r\n\t\t\twidth: 1200px;\r\n\t\t\theight: 1000px;\r\n\t\t\tbackground-color: #A5A5A5;\r\n\t\t\tmargin: 0;\r\n\t\t\tpadding: 0;\r\n\t\t\tcursor: auto;\r\n\t\t\">\r\n</iframe>"
+source: Office fédéral de la statistique de Suisse
+type: embed

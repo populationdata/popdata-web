@@ -6,10 +6,9 @@ en:
   title: Djibouti (ville) - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 11.57672
   longitude: 43.142866
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

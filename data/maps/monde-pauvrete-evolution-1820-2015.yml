@@ -1,0 +1,14 @@
+title: monde-pauvrete-evolution-1820-2015
+date: '2016-10-25T23:33:59.000Z'
+fr:
+  title: Monde - Pauvreté (évolution 1820-2015)
+en:
+  title: Monde - Pauvreté (évolution 1820-2015)
+continents: []
+countries: []
+embed: >-
+  <iframe
+  src="https://ourworldindata.org/grapher/world-population-in-extreme-poverty-absolute"
+  style="width: 100%; height: 800px; border: 0px none;"></iframe>
+source: Our World in Data
+type: embed

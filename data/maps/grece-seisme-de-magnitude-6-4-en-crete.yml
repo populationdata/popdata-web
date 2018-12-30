@@ -6,10 +6,18 @@ en:
   title: Grèce - séisme de magnitude 6.4 en Crète
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 34.2404
   longitude: 25.4778
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 34.2404
+      longitude: 25.4778
+      description: >-
+        Grèce - Séisme de magnitude 6.4 au large de la Crète le 1er juillet 2009
+        à 9h30 UTC (12h30 heure locale). Placement sur la carte approximatif.
+        Coordonnées : 34.240°N, 25.478°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

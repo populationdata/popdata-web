@@ -6,10 +6,9 @@ en:
   title: Téhéran - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.694389
   longitude: 51.401768
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

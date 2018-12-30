@@ -6,10 +6,9 @@ en:
   title: San Juan - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 18.404049
   longitude: -66.074524
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

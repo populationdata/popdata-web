@@ -8,10 +8,9 @@ continents:
   - ameriques
 countries:
   - panama
-gmaps:
+tiles:
   latitude: 9.117082
   longitude: -79.784776
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

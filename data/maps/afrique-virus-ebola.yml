@@ -1,0 +1,18 @@
+title: afrique-virus-ebola
+date: '2016-07-20T23:14:29.000Z'
+fr:
+  title: Afrique - Virus Ebola (2014)
+en:
+  title: Afrique - Virus Ebola (2014)
+continents:
+  - afrique
+countries: []
+embed: >-
+  <iframe allowfullscreen="allowfullscreen" allowtransparency="true"
+  frameborder="0" height="1000" id="chart-container-layer-1"
+  mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen"
+  oallowfullscreen="oallowfullscreen" src="http://vizhub.healthdata.org/ebola/"
+  webkitallowfullscreen="webkitallowfullscreen" width="100%" style="height:
+  1000px;"></iframe>
+source: Université du Washington
+type: embed

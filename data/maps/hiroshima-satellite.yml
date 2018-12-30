@@ -6,10 +6,9 @@ en:
   title: Hiroshima - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 34.391933
   longitude: 132.451515
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

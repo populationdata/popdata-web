@@ -6,10 +6,9 @@ en:
   title: Kano - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 12.001712
   longitude: 8.531914
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

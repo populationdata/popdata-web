@@ -6,10 +6,9 @@ en:
   title: Sofia - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 42.681678
   longitude: 23.319168
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

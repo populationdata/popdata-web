@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - danemark
-gmaps:
+tiles:
   latitude: 56.212814
   longitude: 10.38208
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

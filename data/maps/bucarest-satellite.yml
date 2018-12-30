@@ -6,10 +6,9 @@ en:
   title: Bucarest - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 44.42618
   longitude: 26.099911
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

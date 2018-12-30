@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - indonesie
-gmaps:
+tiles:
   latitude: -3.4841
   longitude: 100.1139
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -3.4841
+      longitude: 100.1139
+      description: >-
+        Indonésie : séisme de magnitude 7.7 le 25 octobre 2010 à 21h42 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 3.484°S,
+        100.114°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

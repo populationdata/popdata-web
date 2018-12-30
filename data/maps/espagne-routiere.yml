@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - espagne
-gmaps:
+tiles:
   latitude: 40.588928
   longitude: -3.240967
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Kansas City - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 39.067181
   longitude: -94.611511
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

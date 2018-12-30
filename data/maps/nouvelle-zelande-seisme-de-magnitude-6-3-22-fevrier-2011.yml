@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - nouvelle-zelande
-gmaps:
+tiles:
   latitude: -43.5133
   longitude: 172.6385
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -43.5133
+      longitude: 172.6385
+      description: >-
+        Nouvelle-Zélande : séisme de magnitude 6.3 le 22 février 2011 à 12h51
+        heure locale.  Placement sur la carte approximatif. Coordonnées :
+        43.513°S, 172.638°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - turquie
-gmaps:
+tiles:
   latitude: 38.908133
   longitude: 34.815674
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - maldives
-gmaps:
+tiles:
   latitude: 3.623071
   longitude: 73.168945
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

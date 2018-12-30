@@ -6,10 +6,9 @@ en:
   title: Etats-Unis - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 39.027719
   longitude: -93.339844
   type: roadmap
   zoom: 4
-source: Google Maps
-type: gmaps
+type: tiles

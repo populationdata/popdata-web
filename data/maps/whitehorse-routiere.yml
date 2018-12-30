@@ -6,10 +6,9 @@ en:
   title: Whitehorse - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 60.712739
   longitude: -135.09212
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

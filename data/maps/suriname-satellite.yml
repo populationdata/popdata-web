@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - suriname
-gmaps:
+tiles:
   latitude: 4.269724
   longitude: -55.717163
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

@@ -1,0 +1,21 @@
+title: plus-grandes-villes-municipalites-1-million-dhabitants-etats-unis-canada-2016
+date: '2017-05-30T19:03:39.000Z'
+fr:
+  title: >-
+    Plus grandes villes (municipalités +1 million d'habitants) des États-Unis et
+    du Canada (2016)
+en:
+  title: >-
+    Plus grandes villes (municipalités +1 million d'habitants) des États-Unis et
+    du Canada (2016)
+continents:
+  - ameriques
+countries:
+  - etats-unis
+  - canada
+embed: >-
+  <iframe
+  src="https://www.google.com/maps/d/u/0/embed?mid=1Opm70M43Bojp9zCK-nmQ2sudFyg"
+  width="100%" height="1000"></iframe>
+source: PopulationData.net
+type: embed

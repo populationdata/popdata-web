@@ -6,10 +6,9 @@ en:
   title: Barranquilla - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 10.965461
   longitude: -74.788399
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

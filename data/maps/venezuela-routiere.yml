@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - venezuela
-gmaps:
+tiles:
   latitude: 7.689217
   longitude: -66.654053
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

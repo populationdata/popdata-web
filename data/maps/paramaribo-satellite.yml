@@ -6,10 +6,9 @@ en:
   title: Paramaribo - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 5.816172
   longitude: -55.16201
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

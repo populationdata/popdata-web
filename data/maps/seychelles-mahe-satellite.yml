@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - seychelles
-gmaps:
+tiles:
   latitude: -4.678694
   longitude: 55.468795
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

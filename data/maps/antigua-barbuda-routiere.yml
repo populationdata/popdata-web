@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - antigua-et-barbuda
-gmaps:
+tiles:
   latitude: 17.397611
   longitude: -61.79686
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - royaume-uni
-gmaps:
+tiles:
   latitude: 54.76267
   longitude: -1.911621
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

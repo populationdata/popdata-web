@@ -1,12 +1,11 @@
 {
-    "files.exclude": {
-        "**/.cache": true,
-        "**/node_modules": true
-    },
-    "editor.tabSize": 2,
-    "editor.formatOnSave": true,
-    "cSpell.words": [
-        "frontmatter"
-    ],
-    "git.ignoreLimitWarning": true
+  "files.exclude": {
+    "**/.cache": true,
+    "**/node_modules": true,
+    "**/public": true
+  },
+  "editor.tabSize": 2,
+  "editor.formatOnSave": true,
+  "cSpell.words": ["frontmatter"],
+  "git.ignoreLimitWarning": true
 }

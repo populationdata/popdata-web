@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - canaries
-gmaps:
+tiles:
   latitude: 28.550504
   longitude: -15.979331
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

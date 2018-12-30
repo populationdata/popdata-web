@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - ukraine
-gmaps:
+tiles:
   latitude: 49.468124
   longitude: 30.651855
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

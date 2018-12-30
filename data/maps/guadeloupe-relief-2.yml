@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - guadeloupe
-gmaps:
+tiles:
   latitude: 16.167197
   longitude: -61.421814
   type: terrain
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

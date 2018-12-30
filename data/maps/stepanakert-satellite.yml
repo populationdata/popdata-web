@@ -6,10 +6,9 @@ en:
   title: Stepanakert - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 39.826031
   longitude: 46.759652
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

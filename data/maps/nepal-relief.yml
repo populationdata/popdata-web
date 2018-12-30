@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - nepal
-gmaps:
+tiles:
   latitude: 27.965295
   longitude: 84.858398
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

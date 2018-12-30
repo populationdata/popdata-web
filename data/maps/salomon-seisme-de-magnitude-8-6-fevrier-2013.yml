@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - salomon
-gmaps:
+tiles:
   latitude: -10.7377
   longitude: 165.1378
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -10.7377
+      longitude: 165.1378
+      description: >-
+        Salomon - tremblement de terre de magnitude 8.0 le 6 février 2013
+        Placement sur la carte approximatif 10.738°S 165.138°E
 source: USGS
-type: gmaps
+type: tiles

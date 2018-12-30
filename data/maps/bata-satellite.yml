@@ -6,10 +6,9 @@ en:
   title: Bata - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 1.866144
   longitude: 9.779892
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

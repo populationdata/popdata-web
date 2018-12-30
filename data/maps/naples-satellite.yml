@@ -6,10 +6,9 @@ en:
   title: Naples - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 40.840697
   longitude: 14.262829
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

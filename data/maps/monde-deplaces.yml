@@ -1,0 +1,15 @@
+title: monde-deplaces
+date: '2018-05-30T19:24:09.000Z'
+fr:
+  title: Monde - Déplacés
+en: null
+continents: []
+countries: []
+embed: >-
+  <iframe width='100%' height='800px'
+  src='https://idmc.carto.com/u/idmc-admin/builder/3488f3b2-3794-401c-8299-3083d60aa5b2/embed'
+  frameborder='0' scrolling='no'></iframe>
+source: >-
+  Centre de surveillance des déplacés (Internal Displacement Monitoring Centre –
+  IDMC)
+type: embed

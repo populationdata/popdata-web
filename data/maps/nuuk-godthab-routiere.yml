@@ -6,10 +6,9 @@ en:
   title: Nuuk (Godthåb) - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 64.181418
   longitude: -51.714878
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

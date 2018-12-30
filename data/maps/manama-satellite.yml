@@ -6,10 +6,9 @@ en:
   title: Manama - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 26.186867
   longitude: 50.546379
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

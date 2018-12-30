@@ -6,10 +6,9 @@ en:
   title: Port-d'Espagne - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 10.661921
   longitude: -61.459248
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

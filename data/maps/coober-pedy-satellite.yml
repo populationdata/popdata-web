@@ -6,10 +6,9 @@ en:
   title: Coober Pedy - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -29.009491
   longitude: 134.757571
   type: satellite
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

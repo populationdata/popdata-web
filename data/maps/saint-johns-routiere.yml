@@ -6,10 +6,9 @@ en:
   title: Saint John's - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 17.123937
   longitude: -61.828556
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

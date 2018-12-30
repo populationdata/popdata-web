@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - myanmar-birmanie
-gmaps:
+tiles:
   latitude: 20.7049
   longitude: 99.949
   type: terrain
   zoom: 5
+  markers:
+    - marker: epicentre
+      latitude: 20.7049
+      longitude: 99.949
+      description: >-
+        Birmanie : séisme de magnitude 6.8 le 24 mars 2011 à 20h25 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 20.705°N,
+        99.949°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

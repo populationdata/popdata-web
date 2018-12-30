@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - republique-dominicaine
-gmaps:
+tiles:
   latitude: 18.903688
   longitude: -70.389404
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

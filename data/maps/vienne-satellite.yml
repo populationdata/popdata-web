@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - autriche
-gmaps:
+tiles:
   latitude: 48.209117
   longitude: 16.364479
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

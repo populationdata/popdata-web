@@ -6,10 +6,9 @@ en:
   title: Vaduz - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 47.14659
   longitude: 9.514589
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

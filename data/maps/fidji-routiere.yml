@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - fidji
-gmaps:
+tiles:
   latitude: -17.858519
   longitude: 179.203491
   type: roadmap
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

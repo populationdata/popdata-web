@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - perou
-gmaps:
+tiles:
   latitude: -9.145486
   longitude: -73.85009
   type: hybrid
   zoom: 5
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Douglas - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 54.163125
   longitude: -4.470806
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

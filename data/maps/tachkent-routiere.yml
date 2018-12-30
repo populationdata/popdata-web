@@ -6,10 +6,9 @@ en:
   title: Tachkent - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 41.319849
   longitude: 69.263649
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

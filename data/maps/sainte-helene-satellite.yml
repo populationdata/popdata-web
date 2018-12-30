@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - sainte-helene-ascension-et-tristan-da-cunha
-gmaps:
+tiles:
   latitude: -15.965
   longitude: -5.704994
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

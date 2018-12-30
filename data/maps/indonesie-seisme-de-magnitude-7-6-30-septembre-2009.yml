@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - indonesie
-gmaps:
+tiles:
   latitude: -0.7889
   longitude: 99.9606
   type: terrain
   zoom: 9
+  markers:
+    - marker: epicentre
+      latitude: -0.7889
+      longitude: 99.9606
+      description: >-
+        Indonésie - Séisme de magnitude 7.6 le 30 septembre 2009 à 17h16 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 0.789°S,
+        99.961°E
 source: USGS
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents:
   - ameriques
 countries: []
-gmaps:
+tiles:
   latitude: 53.644638
   longitude: -98.964844
   type: hybrid
   zoom: 2
-source: Google Maps
-type: gmaps
+type: tiles

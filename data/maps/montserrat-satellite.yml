@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - montserrat
-gmaps:
+tiles:
   latitude: 16.755564
   longitude: -62.195663
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

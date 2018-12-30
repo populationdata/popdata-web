@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - iles-vierges-britanniques
-gmaps:
+tiles:
   latitude: 18.538211
   longitude: -64.528198
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

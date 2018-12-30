@@ -6,10 +6,9 @@ en:
   title: Santiago - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -33.455219
   longitude: -70.644836
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

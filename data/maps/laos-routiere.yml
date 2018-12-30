@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - laos
-gmaps:
+tiles:
   latitude: 18.260653
   longitude: 103.370361
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

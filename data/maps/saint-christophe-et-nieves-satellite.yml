@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - saint-christophe-et-nieves
-gmaps:
+tiles:
   latitude: 17.266728
   longitude: -62.722321
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

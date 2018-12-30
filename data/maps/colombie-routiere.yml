@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - colombie
-gmaps:
+tiles:
   latitude: 4.183392
   longitude: -73.287572
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

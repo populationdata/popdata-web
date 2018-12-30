@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - sao-tome-et-principe
-gmaps:
+tiles:
   latitude: 0.859648
   longitude: 6.789551
   type: roadmap
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - suisse
-gmaps:
+tiles:
   latitude: 46.965259
   longitude: 8.305664
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

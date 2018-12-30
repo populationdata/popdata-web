@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - croatie
-gmaps:
+tiles:
   latitude: 44.664746
   longitude: 16.858521
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

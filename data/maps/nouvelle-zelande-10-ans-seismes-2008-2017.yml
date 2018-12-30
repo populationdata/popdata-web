@@ -1,0 +1,16 @@
+title: nouvelle-zelande-10-ans-seismes-2008-2017
+date: '2018-01-22T19:47:00.000Z'
+fr:
+  title: Nouvelle-Zélande - 10 ans de séismes (2008-2017)
+en: null
+continents: []
+countries:
+  - nouvelle-zelande
+embed: >-
+  <iframe
+  src="https://charlie-mitchell.carto.com/viz/2ebad6f7-15b7-4ab9-97c2-95fedf9c4ab5/embed_map"
+  frameborder="0" allowtransparency="true" allowfullscreen webkitallowfullscreen
+  mozallowfullscreen oallowfullscreen msallowfullscreen width="1400"
+  height="800"></iframe>
+source: Charlie Mitchell
+type: embed

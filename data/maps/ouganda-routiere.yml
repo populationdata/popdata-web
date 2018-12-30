@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - ouganda
-gmaps:
+tiles:
   latitude: 1.48848
   longitude: 32.151489
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

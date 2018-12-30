@@ -6,10 +6,9 @@ en:
   title: Mossoul - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 36.346103
   longitude: 43.138332
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

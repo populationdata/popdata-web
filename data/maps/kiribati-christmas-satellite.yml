@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - kiribati
-gmaps:
+tiles:
   latitude: 1.874208
   longitude: -157.38945
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

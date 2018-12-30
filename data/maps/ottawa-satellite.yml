@@ -6,10 +6,9 @@ en:
   title: Ottawa - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 45.418789
   longitude: -75.702606
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

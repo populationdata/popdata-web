@@ -1,0 +1,15 @@
+title: france-musees-2016
+date: '2017-01-17T15:42:09.000Z'
+fr:
+  title: France - musées (2016)
+en:
+  title: France - musées (2016)
+continents: []
+countries:
+  - france
+embed: >-
+  <iframe
+  src="https://www.google.com/maps/d/embed?mid=1KsZqMBXqKvPT-FDasjAql5LKzBw"
+  width="100%" height="800"></iframe>
+source: Ministère de la culture et de la communication
+type: embed

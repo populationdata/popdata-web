@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - coree-du-sud
-gmaps:
+tiles:
   latitude: 35.915747
   longitude: 127.507324
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

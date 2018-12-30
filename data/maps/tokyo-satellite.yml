@@ -6,10 +6,9 @@ en:
   title: Tokyo - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.661899
   longitude: 139.738884
   type: hybrid
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - kosovo
-gmaps:
+tiles:
   latitude: 42.577342
   longitude: 20.833824
   type: roadmap
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

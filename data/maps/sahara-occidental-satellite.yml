@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - sahara-occidental
-gmaps:
+tiles:
   latitude: 24.256981
   longitude: -13.666992
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

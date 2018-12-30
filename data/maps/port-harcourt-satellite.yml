@@ -6,10 +6,9 @@ en:
   title: Port Harcourt - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 4.819911
   longitude: 7.026776
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

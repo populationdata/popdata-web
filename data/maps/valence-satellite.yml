@@ -6,10 +6,9 @@ en:
   title: Valence - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 39.473785
   longitude: -0.380052
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

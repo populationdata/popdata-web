@@ -6,10 +6,9 @@ en:
   title: Paris - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 48.855228
   longitude: 2.327728
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

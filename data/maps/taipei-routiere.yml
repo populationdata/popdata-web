@@ -6,10 +6,9 @@ en:
   title: Taipei - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 25.03335
   longitude: 121.516857
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

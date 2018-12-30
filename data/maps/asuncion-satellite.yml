@@ -6,10 +6,9 @@ en:
   title: Asunción - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -25.313532
   longitude: -57.594452
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

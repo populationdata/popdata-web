@@ -1,0 +1,16 @@
+title: france-elections-presidentielles-2017-resultats-1er-tour
+date: '2017-04-24T14:00:30.000Z'
+fr:
+  title: 'France - élections présidentielles 2017 : résultats 1er tour'
+en:
+  title: 'France - élections présidentielles 2017 : résultats 1er tour'
+continents: []
+countries:
+  - france
+embed: >-
+  <iframe allowfullscreen src="//e.infogr.am/test_carte_departement?src=embed"
+  title="Premier tour de la présidentielle - le gagnant par département"
+  width="100%" height="1500" scrolling="no" frameborder="0"
+  style="border:none;"></iframe>
+source: 'Ministère de l''Intérieur français, Ouest-France'
+type: embed

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - brunei
-gmaps:
+tiles:
   latitude: 4.577794
   longitude: 114.816742
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

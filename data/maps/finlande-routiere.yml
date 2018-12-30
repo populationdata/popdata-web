@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - finlande
-gmaps:
+tiles:
   latitude: 65.07213
   longitude: 23.90625
   type: roadmap
   zoom: 5
-source: Google Maps
-type: gmaps
+type: tiles

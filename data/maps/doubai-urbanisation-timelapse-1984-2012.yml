@@ -1,0 +1,15 @@
+title: doubai-urbanisation-timelapse-1984-2012
+date: '2016-11-21T18:27:44.000Z'
+fr:
+  title: Doubaï - Urbanisation (timelapse 1984-2012)
+en:
+  title: Doubaï - Urbanisation (timelapse 1984-2012)
+continents: []
+countries:
+  - emirats-arabes-unis
+embed: >-
+  <iframe width="1080" height="600"
+  src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=25.12385,55.10405,9.23,latLng&t=2.80"
+  frameborder="0"></iframe>
+source: Landsat
+type: embed

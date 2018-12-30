@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - namibie
-gmaps:
+tiles:
   latitude: -23.402765
   longitude: 18.3
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

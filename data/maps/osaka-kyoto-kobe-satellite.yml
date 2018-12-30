@@ -6,10 +6,9 @@ en:
   title: Osaka-Kyoto-Kobé - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 34.695087
   longitude: 135.470009
   type: hybrid
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

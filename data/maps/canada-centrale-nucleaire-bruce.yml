@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - canada
-gmaps:
+tiles:
   latitude: 44.327443
   longitude: -81.587801
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

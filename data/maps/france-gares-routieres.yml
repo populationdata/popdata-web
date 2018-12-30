@@ -1,0 +1,15 @@
+title: france-gares-routieres
+date: '2016-12-19T22:34:16.000Z'
+fr:
+  title: France - gares routières
+en:
+  title: France - gares routières
+continents: []
+countries:
+  - france
+embed: >-
+  <iframe
+  src="https://www.google.com/maps/d/embed?mid=1cK4yhU0CrJIQlnTrvJzXRKdmxG4&hl=fr"
+  width="1200" height="1400"></iframe>
+source: ARAFER
+type: embed

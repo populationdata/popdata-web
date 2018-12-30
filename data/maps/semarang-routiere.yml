@@ -6,10 +6,9 @@ en:
   title: Semarang - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -7.03131
   longitude: 110.430903
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

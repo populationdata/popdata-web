@@ -6,10 +6,9 @@ en:
   title: Belmopan - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 17.25263
   longitude: -88.778458
   type: hybrid
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

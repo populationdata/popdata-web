@@ -6,10 +6,9 @@ en:
   title: Kolkata - routière (Calcutta)
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 22.663443
   longitude: 88.352737
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

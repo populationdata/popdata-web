@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - kirghizistan
-gmaps:
+tiles:
   latitude: 41.14557
   longitude: 73.981934
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

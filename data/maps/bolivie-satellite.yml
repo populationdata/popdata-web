@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - bolivie
-gmaps:
+tiles:
   latitude: -16.750965
   longitude: -66.282078
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

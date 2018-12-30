@@ -6,10 +6,9 @@ en:
   title: Bruxelles - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 50.846272
   longitude: 4.343376
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

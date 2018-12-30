@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 32.128
   longitude: -115.303
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 32.128
+      longitude: -115.303
+      description: >-
+        Mexique - Basse-Californie : séisme de magnitude 7.2 le 4 avril 2010 à
+        15h40 heure locale.  Placement sur la carte approximatif. Coordonnées :
+        32.128°N, 115.303°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

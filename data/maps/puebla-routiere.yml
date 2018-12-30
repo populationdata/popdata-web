@@ -6,10 +6,9 @@ en:
   title: Puebla - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 19.198427
   longitude: -98.217544
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

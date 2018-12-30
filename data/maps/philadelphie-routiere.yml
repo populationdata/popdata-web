@@ -6,10 +6,9 @@ en:
   title: Philadelphie - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 39.963438
   longitude: -75.125885
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

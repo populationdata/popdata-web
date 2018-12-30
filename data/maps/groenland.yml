@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - groenland
-gmaps:
+tiles:
   latitude: 75.693931
   longitude: -46.318359
   type: roadmap
   zoom: 4
-source: Google Maps
-type: gmaps
+type: tiles

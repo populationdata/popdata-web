@@ -6,10 +6,9 @@ en:
   title: Achgabat - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 37.991834
   longitude: 58.285904
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

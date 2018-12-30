@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - turquie
-gmaps:
+tiles:
   latitude: 38.628
   longitude: 43.486
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 38.628
+      longitude: 43.486
+      description: >-
+        Turquie : séisme de magnitude 7.2 le 23 octobre 2011 à 13h41 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 38.628°N,
+        43.486°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

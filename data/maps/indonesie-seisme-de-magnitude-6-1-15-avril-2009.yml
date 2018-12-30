@@ -6,10 +6,18 @@ en:
   title: Indonésie - séisme de magnitude 6.1 (15 avril 2009)
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -3.0906
   longitude: 100.4964
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -3.0906
+      longitude: 100.4964
+      description: >-
+        Indonésie - Séisme de magnitude 6.1 le 15 avril 2009 à 20h01 UTC (16
+        avril 2009 à 3h01 heure locale). Placement sur la carte approximatif.
+        Coordonnées : 3.090°N, 100.496°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Miami - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 25.849955
   longitude: -80.212555
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

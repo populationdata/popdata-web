@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - chili
-gmaps:
+tiles:
   latitude: -34.2512
   longitude: -71.8889
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -34.2176
+      longitude: -71.8889
+      description: >-
+        Chili - Séisme de magnitude 6.9 le 11 mars 2010 à 11h39 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 34.251°S, 71.889°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

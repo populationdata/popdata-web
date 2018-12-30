@@ -6,10 +6,9 @@ en:
   title: Alger - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 36.75704
   longitude: 3.068275
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

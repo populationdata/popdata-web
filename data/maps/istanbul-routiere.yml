@@ -6,10 +6,9 @@ en:
   title: Istanbul - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 41.01462
   longitude: 28.983994
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

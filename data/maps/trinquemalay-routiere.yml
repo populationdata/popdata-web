@@ -6,10 +6,9 @@ en:
   title: Trinquemalay - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 8.556238
   longitude: 81.211624
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

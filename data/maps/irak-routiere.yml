@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - irak
-gmaps:
+tiles:
   latitude: 33.367237
   longitude: 43.80249
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

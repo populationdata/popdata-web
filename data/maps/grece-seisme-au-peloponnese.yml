@@ -6,10 +6,18 @@ en:
   title: Grèce - séisme au Péloponnèse
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 38.0295
   longitude: 21.4639
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 38.0295
+      longitude: 21.4639
+      description: >-
+        Grèce, Péloponnèse - Séisme de magnitude 6.5 le 8 juin 2008 à 12h25 UTC
+        (15h25 heure locale). Placement sur la carte approximatif. Coordonnées :
+        +38° 1' 46.20
 source: Earthquake Hazards Program - USGS
-type: gmaps
+type: tiles

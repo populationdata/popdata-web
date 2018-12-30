@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - papouasie-nouvelle-guinee
-gmaps:
+tiles:
   latitude: -5.2615
   longitude: 153.4132
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -5.2615
+      longitude: 153.4132
+      description: >-
+        Papouasie-Nouvelle-Guinée - Séisme de magnitude 6.7 le 23 juin 2009 à
+        14h19 UTC (0h19 le 24 juin 2009 heure locale). Placement sur la carte
+        approximatif. Coordonnées : 5.261°S, 153.413°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

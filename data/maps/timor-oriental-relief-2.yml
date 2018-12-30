@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - timor-oriental
-gmaps:
+tiles:
   latitude: -8.840491
   longitude: 125.714279
   type: terrain
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

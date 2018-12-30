@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - taiwan
-gmaps:
+tiles:
   latitude: 22.9033
   longitude: 120.8227
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 22.9033
+      longitude: 120.8227
+      description: >-
+        Taïwan - Séisme de magnitude 6.4 le 4 mars 2010 à 8h19 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 22.903°N, 120.823°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

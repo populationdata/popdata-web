@@ -1,0 +1,17 @@
+title: monde-esperance-de-vie-2013
+date: '2016-07-20T20:47:22.000Z'
+fr:
+  title: Monde - Espérance de vie (2013)
+en:
+  title: Monde - Espérance de vie (2013)
+continents: []
+countries: []
+embed: >-
+  <iframe allowfullscreen="allowfullscreen" allowtransparency="true"
+  frameborder="0" height="800" id="chart-container-layer-1"
+  mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen"
+  oallowfullscreen="oallowfullscreen" src="http://vizhub.healthdata.org/le/"
+  webkitallowfullscreen="webkitallowfullscreen" width="100%" style="height:
+  800px;"></iframe>
+source: Université du Washington
+type: embed

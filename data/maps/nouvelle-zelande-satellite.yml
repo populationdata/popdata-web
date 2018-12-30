@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - nouvelle-zelande
-gmaps:
+tiles:
   latitude: -40.896906
   longitude: 171.694336
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

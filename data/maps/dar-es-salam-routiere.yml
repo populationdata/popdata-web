@@ -6,10 +6,9 @@ en:
   title: Dar es Salam - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -6.796558
   longitude: 39.252777
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

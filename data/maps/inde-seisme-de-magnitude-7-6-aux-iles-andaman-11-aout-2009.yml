@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - inde
-gmaps:
+tiles:
   latitude: 14.0129
   longitude: 92.9226
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 14.0129
+      longitude: 92.9226
+      description: >-
+        Inde - Séisme de magnitude 7.6 le 10 août 2009 à 19h55 UTC (11 août à
+        1h55 heure locale).  Placement sur la carte approximatif. Coordonnées :
+        14.013°N, 92.923°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

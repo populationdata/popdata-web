@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - cuba
-gmaps:
+tiles:
   latitude: 19.950115
   longitude: -75.157127
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

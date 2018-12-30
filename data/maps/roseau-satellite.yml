@@ -6,10 +6,9 @@ en:
   title: Roseau - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 15.300412
   longitude: -61.389027
   type: satellite
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

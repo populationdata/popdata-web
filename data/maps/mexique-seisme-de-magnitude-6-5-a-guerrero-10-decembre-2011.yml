@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 18.038
   longitude: -99.796
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 18.038
+      longitude: -99.796
+      description: >-
+        Mexique : séisme de magnitude 6.5 le 10 décembre 2011 à 19h47 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 18.038°N,
+        99.796°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

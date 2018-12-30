@@ -6,10 +6,9 @@ en:
   title: Quito - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -0.21595
   longitude: -78.507614
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

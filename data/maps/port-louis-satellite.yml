@@ -6,10 +6,9 @@ en:
   title: Port-Louis - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -20.209367
   longitude: 57.476349
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

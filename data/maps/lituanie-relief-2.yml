@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - lituanie
-gmaps:
+tiles:
   latitude: 55.235288
   longitude: 23.483276
   type: terrain
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

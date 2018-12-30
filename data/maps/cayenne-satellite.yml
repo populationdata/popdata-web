@@ -6,10 +6,9 @@ en:
   title: Cayenne - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 4.906768
   longitude: -52.306767
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

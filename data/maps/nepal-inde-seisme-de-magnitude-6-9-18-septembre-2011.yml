@@ -8,10 +8,18 @@ continents: []
 countries:
   - nepal
   - inde
-gmaps:
+tiles:
   latitude: 27.723
   longitude: 88.064
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 27.723
+      longitude: 88.064
+      description: >-
+        Népal - Inde : séisme de magnitude 6.9 le 18 septembre 2011 à 18h10
+        heure locale.  Placement sur la carte approximatif. Coordonnées :
+        27.723°N, 88.064°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Djerba - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 33.807109
   longitude: 10.892601
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - chine
-gmaps:
+tiles:
   latitude: 30.284
   longitude: 102.956
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 30.284
+      longitude: 102.956
+      description: >-
+        Chine - tremblement de terre de magnitude 6.6 le 20 avril 2013 Placement
+        sur la carte approximatif 30.284°N 102.956°E
 source: USGS
-type: gmaps
+type: tiles

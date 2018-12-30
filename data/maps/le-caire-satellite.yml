@@ -6,10 +6,9 @@ en:
   title: Le Caire - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 30.057506
   longitude: 31.227608
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

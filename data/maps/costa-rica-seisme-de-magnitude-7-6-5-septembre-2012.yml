@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - costa-rica
-gmaps:
+tiles:
   latitude: 9.9964
   longitude: -85.318
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 9.9964
+      longitude: -85.318
+      description: >-
+        Costa Rica : séisme de magnitude 7.6 le 5 septembre 2012 à 8h42 heure
+        locale.  Placement sur la carte approximatif.
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

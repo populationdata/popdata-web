@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - koweit
-gmaps:
+tiles:
   latitude: 29.275618
   longitude: 47.72049
   type: hybrid
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

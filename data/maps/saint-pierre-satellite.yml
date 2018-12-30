@@ -6,10 +6,9 @@ en:
   title: Saint Pierre - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 46.775671
   longitude: -56.175928
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

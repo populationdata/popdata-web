@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - belarus-bielorussie
-gmaps:
+tiles:
   latitude: 53.917281
   longitude: 28.520508
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

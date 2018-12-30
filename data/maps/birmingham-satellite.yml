@@ -6,10 +6,10 @@ en:
   title: Birmingham - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 52.474234
   longitude: -1.893264
   type: hybrid
   zoom: 10
 source: g
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Castries - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 14.010362
   longitude: -60.990257
   type: roadmap
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

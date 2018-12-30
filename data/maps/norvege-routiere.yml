@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - norvege
-gmaps:
+tiles:
   latitude: 66.337505
   longitude: 16.699219
   type: roadmap
   zoom: 5
-source: Google Maps
-type: gmaps
+type: tiles

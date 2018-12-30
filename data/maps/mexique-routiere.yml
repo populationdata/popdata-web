@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 23.14036
   longitude: -101.403809
   type: roadmap
   zoom: 5
-source: Google Maps
-type: gmaps
+type: tiles

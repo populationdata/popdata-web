@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - thailande
-gmaps:
+tiles:
   latitude: 13.87008
   longitude: 100.997314
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: La Valette - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.897394
   longitude: 14.495087
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

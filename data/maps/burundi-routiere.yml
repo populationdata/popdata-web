@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - burundi
-gmaps:
+tiles:
   latitude: -3.313276
   longitude: 29.830627
   type: roadmap
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

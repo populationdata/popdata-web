@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 37.527154
   longitude: 141.006775
   type: hybrid
   zoom: 9
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaurouge
+      latitude: 37.422986
+      longitude: 141.032674
+      description: Centrale nucléaire de Fukushima Daiichi
+    - marker: drapeaurouge
+      latitude: 37.316
+      longitude: 141.0256
+      description: Centrale nucléaire de Fukushima Daini
+type: tiles

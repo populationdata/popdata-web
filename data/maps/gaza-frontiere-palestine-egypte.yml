@@ -9,10 +9,22 @@ countries:
   - israel
   - egypte
   - palestine
-gmaps:
+tiles:
   latitude: 31.273709
   longitude: 34.260693
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaurouge
+      latitude: 31.27459
+      longitude: 34.219837
+      description: Egypte
+    - marker: drapeauvertfonce
+      latitude: 31.285813
+      longitude: 34.254856
+      description: 'Rafah, Gaza, Palestine'
+    - marker: drapeaubleuclair
+      latitude: 31.231738
+      longitude: 34.323692
+      description: Israël
+type: tiles

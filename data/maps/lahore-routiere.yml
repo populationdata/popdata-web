@@ -6,10 +6,9 @@ en:
   title: Lahore - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 31.54226
   longitude: 74.311523
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

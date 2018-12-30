@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - sierra-leone
-gmaps:
+tiles:
   latitude: 8.638049
   longitude: -11.870728
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

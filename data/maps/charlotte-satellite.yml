@@ -6,10 +6,9 @@ en:
   title: Charlotte - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.223746
   longitude: -80.818176
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

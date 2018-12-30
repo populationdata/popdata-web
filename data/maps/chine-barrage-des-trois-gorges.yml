@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - chine
-gmaps:
+tiles:
   latitude: 30.829287
   longitude: 111.001053
   type: satellite
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

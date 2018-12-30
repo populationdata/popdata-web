@@ -6,10 +6,9 @@ en:
   title: Soweto
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -26.251854
   longitude: 27.889652
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

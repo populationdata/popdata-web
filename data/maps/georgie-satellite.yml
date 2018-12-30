@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - georgie
-gmaps:
+tiles:
   latitude: 42.277309
   longitude: 43.192749
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

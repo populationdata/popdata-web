@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - man
-gmaps:
+tiles:
   latitude: 54.222611
   longitude: -4.548439
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

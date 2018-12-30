@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - senegal
-gmaps:
+tiles:
   latitude: 14.631424
   longitude: -14.952393
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

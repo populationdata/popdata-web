@@ -6,10 +6,9 @@ en:
   title: Asmara - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 15.33129
   longitude: 38.927307
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

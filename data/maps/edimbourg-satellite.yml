@@ -6,10 +6,9 @@ en:
   title: Édimbourg - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 55.950502
   longitude: -3.188989
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

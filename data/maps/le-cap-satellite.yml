@@ -6,10 +6,9 @@ en:
   title: Le Cap - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -33.93396
   longitude: 18.50956
   type: satellite
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

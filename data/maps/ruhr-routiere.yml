@@ -6,10 +6,9 @@ en:
   title: Ruhr - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 51.387209
   longitude: 7.044983
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

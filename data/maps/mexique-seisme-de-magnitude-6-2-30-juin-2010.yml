@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 16.527
   longitude: -97.7598
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 16.527
+      longitude: -97.7598
+      description: >-
+        Mexique : séisme de magnitude 6.2 le 30 juin 2010 à 2h22 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 16.527°N, 97.760°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

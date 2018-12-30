@@ -6,10 +6,18 @@ en:
   title: 'Samoa : séisme de magnitude 8 (29 septembre 2009)'
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -15.5577
   longitude: -172.0726
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -15.5577
+      longitude: -172.0726
+      description: >-
+        Samoa - Séisme de magnitude 8.0 le 29 septembre 2009 à 6h48 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 15.558°S,
+        172.073°W
 source: USGS
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Kampala - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 0.289077
   longitude: 32.560387
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

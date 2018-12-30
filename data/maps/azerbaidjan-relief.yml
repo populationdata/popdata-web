@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - azerbaidjan
-gmaps:
+tiles:
   latitude: 40.172062
   longitude: 47.598381
   type: terrain
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

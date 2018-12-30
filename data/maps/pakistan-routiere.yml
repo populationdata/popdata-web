@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - pakistan
-gmaps:
+tiles:
   latitude: 30.278044
   longitude: 69.587402
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

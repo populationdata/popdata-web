@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - mozambique
-gmaps:
+tiles:
   latitude: -19.165924
   longitude: 34.343262
   type: terrain
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Cabo San Lucas - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 22.893255
   longitude: -109.918556
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

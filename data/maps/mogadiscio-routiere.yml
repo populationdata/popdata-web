@@ -6,10 +6,9 @@ en:
   title: Mogadiscio - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 2.050915
   longitude: 45.33783
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

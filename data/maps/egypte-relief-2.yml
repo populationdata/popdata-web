@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - egypte
-gmaps:
+tiles:
   latitude: 27.9847
   longitude: 30.618896
   type: terrain
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

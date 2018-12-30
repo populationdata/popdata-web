@@ -1,0 +1,15 @@
+title: paris-urbanisation-timelapse-1984-2012
+date: '2017-01-16T23:22:09.000Z'
+fr:
+  title: Paris - urbanisation (timelapse 1984-2012)
+en:
+  title: Paris - urbanisation (timelapse 1984-2012)
+continents: []
+countries:
+  - france
+embed: >-
+  <iframe width="1080" height="600"
+  src="https://earthengine.google.com/iframes/timelapse_player_embed.html#v=48.86031,2.63411,10.775,latLng&t=0.00"
+  frameborder="0"></iframe>
+source: Landsat
+type: embed

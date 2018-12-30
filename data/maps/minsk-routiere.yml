@@ -6,10 +6,9 @@ en:
   title: Minsk - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 53.901506
   longitude: 27.555771
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

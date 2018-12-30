@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - pakistan
-gmaps:
+tiles:
   latitude: 30.32456
   longitude: 67.264956
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 30.32456
+      longitude: 67.264956
+      description: >-
+        Pakistan, Balouchistan - Séisme de magnitude 6.4 le 29 octobre 2008 à
+        11h32 UTC (16h32 heure locale). Placement sur la carte approximatif.
+        Coordonnées : +30° 32' 45.60
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

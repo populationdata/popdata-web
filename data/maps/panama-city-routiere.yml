@@ -6,10 +6,9 @@ en:
   title: Panama city - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 9.011572
   longitude: -79.510117
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

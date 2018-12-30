@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - vanuatu
-gmaps:
+tiles:
   latitude: -16.54143
   longitude: 168.354492
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

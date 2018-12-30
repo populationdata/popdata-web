@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 17.144
   longitude: -99.363
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 17.144
+      longitude: -99.363
+      description: >-
+        Mexique - Séisme de magnitude 5.6 le 27 avril 2009 à 16h46 UTC (11h46
+        heure locale). Placement sur la carte approximatif. Coordonnées :
+        17.144°N, 99.363°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

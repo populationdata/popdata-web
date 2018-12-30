@@ -6,10 +6,9 @@ en:
   title: Mamoudzou - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -12.782842
   longitude: 45.225477
   type: roadmap
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

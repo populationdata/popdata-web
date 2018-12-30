@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - niger
-gmaps:
+tiles:
   latitude: 18.735029
   longitude: 7.34539
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

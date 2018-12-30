@@ -6,10 +6,9 @@ en:
   title: Medan - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 3.588122
   longitude: 98.677139
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

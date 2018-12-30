@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - cambodge
-gmaps:
+tiles:
   latitude: 13.41066
   longitude: 103.833847
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

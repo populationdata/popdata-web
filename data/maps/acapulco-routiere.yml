@@ -6,10 +6,9 @@ en:
   title: Acapulco - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 16.873713
   longitude: -99.836773
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 38.5095
   longitude: 142.7921
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 38.5095
+      longitude: 142.7921
+      description: >-
+        Japon : séisme de magnitude 7.2 le 9 mars 2011 à 11h45 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 38.510°N, 142.792°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

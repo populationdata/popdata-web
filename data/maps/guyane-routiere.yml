@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - guyane
-gmaps:
+tiles:
   latitude: 3.869735
   longitude: -53.245239
   type: roadmap
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Séville - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 37.388153
   longitude: -5.994563
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

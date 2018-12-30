@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - papouasie-nouvelle-guinee
-gmaps:
+tiles:
   latitude: -6.5001
   longitude: 154.1939
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -6.5001
+      longitude: 154.1939
+      description: >-
+        Papouasie-Nouvelle-Guinée - Séisme de magnitude 6.0 le 16 avril 2009 à
+        0h43 UTC (10h43 heure locale). Placement sur la carte approximatif.
+        Coordonnées : 6.500°S, 154.194°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

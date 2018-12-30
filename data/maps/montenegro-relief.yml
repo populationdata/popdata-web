@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - montenegro
-gmaps:
+tiles:
   latitude: 42.720786
   longitude: 19.105225
   type: terrain
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

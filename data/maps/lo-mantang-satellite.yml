@@ -6,10 +6,9 @@ en:
   title: Lo Mantang - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 29.182927
   longitude: 83.956404
   type: hybrid
   zoom: 16
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: La Mecque - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 21.415678
   longitude: 39.825954
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Brno - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 49.194718
   longitude: 16.620941
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,18 @@ en:
   title: 'Tonga : séisme de magnitude 6.8 (25 novembre 2009)'
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -20.6408
   longitude: -174.0681
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -20.6408
+      longitude: -174.0681
+      description: >-
+        Tonga - Séisme de magnitude 6.8 le 25 novembre 2009 à 2h47 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 20.641°S,
+        174.068°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Funafuti - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -8.51974
   longitude: 179.192505
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

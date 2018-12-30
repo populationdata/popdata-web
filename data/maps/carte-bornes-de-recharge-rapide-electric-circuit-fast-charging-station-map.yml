@@ -1,0 +1,19 @@
+title: carte-bornes-de-recharge-rapide-electric-circuit-fast-charging-station-map
+date: '2016-07-25T14:54:36.000Z'
+fr:
+  title: >-
+    Bornes de recharge rapide du circuit électrique au Québec / Quebec electric
+    circuit fast charging station map
+en:
+  title: >-
+    Bornes de recharge rapide du circuit électrique au Québec / Quebec electric
+    circuit fast charging station map
+continents: []
+countries:
+  - canada
+embed: >-
+  <iframe
+  src="https://www.google.com/maps/d/embed?mid=17O0pWODSXWcMjTr_ULwlv8-uZDE"
+  width="100%" height="800"></iframe>
+source: CAA Québec
+type: embed

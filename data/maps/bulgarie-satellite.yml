@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - bulgarie
-gmaps:
+tiles:
   latitude: 42.682435
   longitude: 25.361938
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Souleimaniyé - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.560161
   longitude: 45.432243
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

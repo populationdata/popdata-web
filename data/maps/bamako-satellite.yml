@@ -6,10 +6,9 @@ en:
   title: Bamako - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 12.635983
   longitude: -7.997704
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

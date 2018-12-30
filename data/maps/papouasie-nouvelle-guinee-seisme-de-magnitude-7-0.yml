@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - papouasie-nouvelle-guinee
-gmaps:
+tiles:
   latitude: -5.7682
   longitude: 150.7758
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -5.7682
+      longitude: 150.7758
+      description: >-
+        Papouasie-Nouvelle-Guinée : séisme de magnitude 7.0 le 5 août 2010 à
+        8h01 heure locale.  Placement sur la carte approximatif. Coordonnées :
+        5.768°S, 150.776°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

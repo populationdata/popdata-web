@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - nioue
-gmaps:
+tiles:
   latitude: -19.052383
   longitude: -169.864769
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

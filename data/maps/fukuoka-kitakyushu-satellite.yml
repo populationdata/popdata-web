@@ -6,10 +6,9 @@ en:
   title: Fukuoka-Kitakyushu - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 33.745939
   longitude: 130.647857
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

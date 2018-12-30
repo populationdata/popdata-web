@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - chili
-gmaps:
+tiles:
   latitude: -36.633162
   longitude: -71.191406
   type: roadmap
   zoom: 4
-source: Google Maps
-type: gmaps
+type: tiles

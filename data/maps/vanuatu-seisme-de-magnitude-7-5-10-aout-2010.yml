@@ -6,10 +6,17 @@ en:
   title: 'Vanuatu : séisme de magnitude 7.5 (10 août 2010)'
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -17.5899
   longitude: 167.9778
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -17.5899
+      longitude: 167.9778
+      description: >-
+        Vanuatu : séisme de magnitude 7.5 le 10 août 2010 à 16h23 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 17.590°S, 167.978°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

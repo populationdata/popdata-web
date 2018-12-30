@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - bresil
-gmaps:
+tiles:
   latitude: -25.413199
   longitude: -54.587631
   type: satellite
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

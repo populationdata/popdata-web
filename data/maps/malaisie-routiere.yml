@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - malaisie
-gmaps:
+tiles:
   latitude: 4.390229
   longitude: 107.973633
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Oulan-Bator - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 47.9122
   longitude: 106.868992
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

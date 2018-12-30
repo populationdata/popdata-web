@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - afghanistan
-gmaps:
+tiles:
   latitude: 34.034453
   longitude: 66.577148
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - indonesie
-gmaps:
+tiles:
   latitude: -0.527336
   longitude: 115.224609
   type: hybrid
   zoom: 5
-source: Google Maps
-type: gmaps
+type: tiles

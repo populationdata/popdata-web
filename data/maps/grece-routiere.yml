@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - grece
-gmaps:
+tiles:
   latitude: 38.307181
   longitude: 24.818115
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

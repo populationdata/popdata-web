@@ -6,10 +6,9 @@ en:
   title: Guayaquil - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -2.162248
   longitude: -79.912148
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

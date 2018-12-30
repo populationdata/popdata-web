@@ -1,0 +1,14 @@
+title: monde-epidemies-de-grippe-aviaire-2004-2016
+date: '2016-10-18T17:41:20.000Z'
+fr:
+  title: Monde - Épidémies de grippe aviaire (2004-2016)
+en:
+  title: Monde - Épidémies de grippe aviaire (2004-2016)
+continents: []
+countries: []
+embed: >-
+  <iframe width="1000" height="1000" frameborder="0"
+  src="https://franckalbinet.carto.com/viz/87f08d5e-953c-11e6-b30e-0e3ebc282e83/embed_map"
+  allowfullscreen></iframe>
+source: 'Franck Albinet, Carto'
+type: embed

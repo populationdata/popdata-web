@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - norfolk
-gmaps:
+tiles:
   latitude: -29.034259
   longitude: 167.952547
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

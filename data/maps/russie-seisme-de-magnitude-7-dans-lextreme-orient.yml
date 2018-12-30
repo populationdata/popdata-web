@@ -6,10 +6,18 @@ en:
   title: 'Russie : séisme de magnitude 7 dans l''Extrême-Orient'
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 54.1824
   longitude: 154.3095
   type: terrain
   zoom: 5
+  markers:
+    - marker: epicentre
+      latitude: 54.1824
+      longitude: 154.3095
+      description: >-
+        Russie - Séisme de magnitude 7.00 le 24 novembre 2008 à 09h03 UTC (20h03
+        heure locale). Placement sur la carte approximatif. Coordonnées :
+        54.182°N, 154.310°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

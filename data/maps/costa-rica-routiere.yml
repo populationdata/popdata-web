@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - costa-rica
-gmaps:
+tiles:
   latitude: 9.887687
   longitude: -84.342041
   type: roadmap
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

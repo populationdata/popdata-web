@@ -6,10 +6,9 @@ en:
   title: Port-Vila - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -17.730865
   longitude: 168.317671
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

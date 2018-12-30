@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - etats-unis
-gmaps:
+tiles:
   latitude: 32.803436
   longitude: -97.006531
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

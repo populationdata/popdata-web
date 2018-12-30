@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - wallis-et-futuna
-gmaps:
+tiles:
   latitude: -14.3
   longitude: -178.1
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

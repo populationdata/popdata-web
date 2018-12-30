@@ -6,10 +6,9 @@ en:
   title: Córdoba - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -31.408708
   longitude: -64.183814
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

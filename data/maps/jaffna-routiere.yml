@@ -6,10 +6,9 @@ en:
   title: Jaffna - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 9.670815
   longitude: 80.029564
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

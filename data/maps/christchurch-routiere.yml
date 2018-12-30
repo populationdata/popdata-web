@@ -6,10 +6,9 @@ en:
   title: Christchurch - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -43.531874
   longitude: 172.623367
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

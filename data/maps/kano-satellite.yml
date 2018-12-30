@@ -6,10 +6,9 @@ en:
   title: Kano - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 12.001712
   longitude: 8.531914
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

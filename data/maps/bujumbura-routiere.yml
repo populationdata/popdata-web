@@ -6,10 +6,9 @@ en:
   title: Bujumbura - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -3.370342
   longitude: 29.356327
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

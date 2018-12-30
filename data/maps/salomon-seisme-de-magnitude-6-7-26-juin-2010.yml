@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - salomon
-gmaps:
+tiles:
   latitude: -10.6358
   longitude: 161.4431
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -10.6358
+      longitude: 161.4431
+      description: >-
+        Salomon : séisme de magnitude 6.7 le 26 juin 2010 à 16h30 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 10.636°S, 161.443°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

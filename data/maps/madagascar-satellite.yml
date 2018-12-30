@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - madagascar
-gmaps:
+tiles:
   latitude: -19.518375
   longitude: 46.713867
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

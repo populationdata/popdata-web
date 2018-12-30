@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - trinite-et-tobago
-gmaps:
+tiles:
   latitude: 10.657909
   longitude: -61.246033
   type: terrain
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

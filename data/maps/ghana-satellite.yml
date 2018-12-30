@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - ghana
-gmaps:
+tiles:
   latitude: 7.54221
   longitude: -0.807495
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Toronto - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 43.676874
   longitude: -79.512801
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

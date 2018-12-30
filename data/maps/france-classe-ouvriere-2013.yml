@@ -1,0 +1,12 @@
+title: france-classe-ouvriere-2013
+date: '2017-04-04T16:20:46.000Z'
+fr:
+  title: France - classe ouvrière (2013)
+en:
+  title: France - classe ouvrière (2013)
+continents: []
+countries:
+  - france
+embed: "Classe ouvrière rejetée hors des grandes villes, en % de la population active (25 à 55 ans), en 2013.\r\n<iframe style=\"max-width: 100%; height: 1000px; margin: 0 auto\" src=\"https://data-tc.com/iframe/?infography=614\" width=\"100%\" height=\"1000\"></iframe>"
+source: 'Hervé Le Bras, INED, INSEE'
+type: embed

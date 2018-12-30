@@ -6,10 +6,9 @@ en:
   title: Bagdad - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 33.312455
   longitude: 44.383736
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

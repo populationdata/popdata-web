@@ -6,10 +6,9 @@ en:
   title: São Tomé - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 0.340059
   longitude: 6.7311
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - chili
-gmaps:
+tiles:
   latitude: -21.945
   longitude: -68.2957
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -21.945
+      longitude: -68.2957
+      description: >-
+        Chili : séisme de magnitude 6.5 le 20 juin 2011 à 12h36 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 21.945°S, 68.296°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

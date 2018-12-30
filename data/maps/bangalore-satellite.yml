@@ -6,10 +6,9 @@ en:
   title: Bangalore - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 12.959059
   longitude: 77.593689
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

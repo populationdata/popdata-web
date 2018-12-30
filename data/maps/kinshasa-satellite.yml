@@ -6,10 +6,9 @@ en:
   title: Kinshasa - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -4.348979
   longitude: 15.309963
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

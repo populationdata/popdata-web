@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - myanmar-birmanie
-gmaps:
+tiles:
   latitude: 19.808054
   longitude: 97.03125
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

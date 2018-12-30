@@ -1,0 +1,15 @@
+title: monde-sites-patrimoine-mondial-unesco
+date: '2016-07-18T21:20:25.000Z'
+fr:
+  title: Monde - Sites du patrimoine mondial de l'UNESCO
+en:
+  title: Monde - Sites du patrimoine mondial de l'UNESCO
+continents: []
+countries: []
+embed: >-
+  <iframe width="100%" height="520" frameborder="0"
+  src="https://lemonde.carto.com/viz/7236d9da-4cd2-11e6-a074-0e233c30368f/embed_map"
+  allowfullscreen="" webkitallowfullscreen="" mozallowfullscreen=""
+  oallowfullscreen="" msallowfullscreen=""></iframe>
+source: 'UNESCO, Le Monde'
+type: embed

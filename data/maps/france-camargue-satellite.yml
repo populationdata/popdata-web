@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - france
-gmaps:
+tiles:
   latitude: 43.524157
   longitude: 4.511261
   type: satellite
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

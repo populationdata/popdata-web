@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - saint-martin-france
-gmaps:
+tiles:
   latitude: 18.086464
   longitude: -63.05732
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

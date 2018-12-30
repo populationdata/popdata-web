@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - saint-martin-pays-bas
-gmaps:
+tiles:
   latitude: 18.042758
   longitude: -63.07152
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

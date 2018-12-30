@@ -6,10 +6,9 @@ en:
   title: Walvis Bay - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -22.949383
   longitude: 14.511223
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

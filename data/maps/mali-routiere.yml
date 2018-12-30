@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - mali
-gmaps:
+tiles:
   latitude: 17.5
   longitude: -4.790039
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

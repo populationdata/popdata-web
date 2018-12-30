@@ -6,10 +6,9 @@ en:
   title: Beyrouth - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 33.871556
   longitude: 35.534592
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

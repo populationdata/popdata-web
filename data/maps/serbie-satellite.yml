@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - serbie
-gmaps:
+tiles:
   latitude: 44.174325
   longitude: 21.016846
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

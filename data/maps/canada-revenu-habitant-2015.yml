@@ -1,0 +1,18 @@
+title: canada-revenu-habitant-2015
+date: '2017-03-13T17:45:15.000Z'
+fr:
+  title: Canada - revenu par habitant (2015)
+en:
+  title: Canada - revenu par habitant (2015)
+continents: []
+countries:
+  - canada
+embed: >-
+  <iframe id="datawrapper-chart-TUoMT" src="//datawrapper.dwcdn.net/TUoMT/2/"
+  frameborder="0" allowtransparency="true" allowfullscreen="allowfullscreen"
+  webkitallowfullscreen="webkitallowfullscreen"
+  mozallowfullscreen="mozallowfullscreen" oallowfullscreen="oallowfullscreen"
+  msallowfullscreen="msallowfullscreen" width="100%" height="800" style="height:
+  800px;"></iframe>
+source: La Presse
+type: embed

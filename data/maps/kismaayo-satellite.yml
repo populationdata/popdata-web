@@ -6,10 +6,9 @@ en:
   title: Kismaayo - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -0.359457
   longitude: 42.541122
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

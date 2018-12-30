@@ -6,10 +6,9 @@ en:
   title: Bridgetown - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 13.115575
   longitude: -59.574336
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

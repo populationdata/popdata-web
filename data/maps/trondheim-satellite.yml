@@ -6,10 +6,9 @@ en:
   title: Trondheim - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 63.424792
   longitude: 10.398368
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

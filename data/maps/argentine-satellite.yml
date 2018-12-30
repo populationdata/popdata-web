@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - argentine
-gmaps:
+tiles:
   latitude: -39.842286
   longitude: -66.09375
   type: hybrid
   zoom: 4
-source: Google Maps
-type: gmaps
+type: tiles

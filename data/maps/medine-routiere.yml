@@ -6,10 +6,9 @@ en:
   title: Médine - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 24.46801
   longitude: 39.606142
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

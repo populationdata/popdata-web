@@ -6,10 +6,9 @@ en:
   title: Djibouti - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 11.575898
   longitude: 43.133354
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

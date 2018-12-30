@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - emirats-arabes-unis
-gmaps:
+tiles:
   latitude: 24.502145
   longitude: 54.239502
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

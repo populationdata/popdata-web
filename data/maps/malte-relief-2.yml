@@ -6,10 +6,9 @@ en:
   title: Malte - relief
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.949106
   longitude: 14.380417
   type: terrain
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

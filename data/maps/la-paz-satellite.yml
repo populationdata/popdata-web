@@ -6,10 +6,9 @@ en:
   title: La Paz - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -16.508681
   longitude: -68.150253
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

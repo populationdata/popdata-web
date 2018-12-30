@@ -6,10 +6,9 @@ en:
   title: Andijan - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 40.785351
   longitude: 72.331066
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

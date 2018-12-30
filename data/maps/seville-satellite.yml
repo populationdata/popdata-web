@@ -6,10 +6,9 @@ en:
   title: Séville - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 37.388153
   longitude: -5.994563
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

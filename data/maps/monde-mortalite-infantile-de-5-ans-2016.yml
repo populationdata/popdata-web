@@ -1,0 +1,13 @@
+title: monde-mortalite-infantile-de-5-ans-2016
+date: '2017-10-30T18:24:04.000Z'
+fr:
+  title: Monde - Mortalité infantile des moins de 5 ans (2016)
+en: null
+continents: []
+countries: []
+embed: >-
+  <iframe
+  src="https://data.worldbank.org/share/widget?end=2016&indicators=SH.DYN.MORT&start=2016&type=shaded&view=map"
+  width='1500' height='1000' frameBorder='0' scrolling="no" ></iframe>
+source: Banque mondiale
+type: embed

@@ -6,10 +6,9 @@ en:
   title: La Havane - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 23.105944
   longitude: -82.369823
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

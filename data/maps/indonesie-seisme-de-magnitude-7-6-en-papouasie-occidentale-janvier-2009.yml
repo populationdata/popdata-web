@@ -8,10 +8,18 @@ continents: []
 countries:
   - indonesie
   - papouasie-nouvelle-guinee
-gmaps:
+tiles:
   latitude: -0.5098
   longitude: 132.7834
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -0.5098
+      longitude: 132.7834
+      description: >-
+        Indonésie, Papouasie occidentale - Séisme de magnitude 7.6 le 3 janvier
+        2009 à 19h44 UTC (4 janvier 2009 à 4h44 heure locale). Placement sur la
+        carte approximatif. Coordonnées : -0° 30' 35.28
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

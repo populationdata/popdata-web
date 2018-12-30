@@ -6,10 +6,9 @@ en:
   title: Yaren - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -0.542614
   longitude: 166.917815
   type: roadmap
   zoom: 15
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - nigeria
-gmaps:
+tiles:
   latitude: 9.232249
   longitude: 8.349609
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

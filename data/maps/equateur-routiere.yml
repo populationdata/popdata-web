@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - equateur
-gmaps:
+tiles:
   latitude: -1.746556
   longitude: -78.640137
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

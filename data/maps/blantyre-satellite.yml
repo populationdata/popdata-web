@@ -6,10 +6,9 @@ en:
   title: Blantyre - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -15.800678
   longitude: 35.010166
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

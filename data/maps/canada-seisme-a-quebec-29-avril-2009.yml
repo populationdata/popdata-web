@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - canada
-gmaps:
+tiles:
   latitude: 46.9005
   longitude: -71.1035
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 46.901
+      longitude: -71.103
+      description: >-
+        Canada - Québec - Séisme de magnitude 3.4 le 29 avril 2009 à 19h37 UTC
+        (15h37 heure locale). Placement sur la carte approximatif. Coordonnées :
+        46.901°N, 71.103°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

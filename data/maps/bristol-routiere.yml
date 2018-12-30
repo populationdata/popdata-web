@@ -6,10 +6,9 @@ en:
   title: Bristol - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 51.46791
   longitude: -2.582711
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Zagreb - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 45.799366
   longitude: 15.978584
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

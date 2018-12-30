@@ -6,10 +6,9 @@ en:
   title: Salt Lake City - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 40.70771
   longitude: -111.868286
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

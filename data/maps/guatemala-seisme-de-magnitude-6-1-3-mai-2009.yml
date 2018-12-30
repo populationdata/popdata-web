@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - guatemala
-gmaps:
+tiles:
   latitude: 14.6641
   longitude: -91.1442
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 14.6641
+      longitude: -91.1442
+      description: >-
+        Guatemala - Séisme de magnitude 6.1 le 3 mai 2009 à 16h21 UTC (11h21
+        heure locale). Placement sur la carte approximatif. Coordonnées :
+        14.664°N, 91.144°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

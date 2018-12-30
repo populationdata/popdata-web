@@ -1,0 +1,15 @@
+title: argentine-tgv-buenos-aires-cordoba
+date: '2016-12-06T22:18:04.000Z'
+fr:
+  title: Argentine - TGV Buenos Aires-Córdoba
+en:
+  title: Argentine - TGV Buenos Aires-Córdoba
+continents: []
+countries:
+  - argentine
+embed: >-
+  <iframe
+  src="https://www.google.com/maps/d/embed?mid=1dX2JI7inZNB_iQm35KX0C_Jztb8"
+  width="1200" height="900"></iframe>
+source: Google Maps
+type: embed

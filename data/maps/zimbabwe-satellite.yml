@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - zimbabwe
-gmaps:
+tiles:
   latitude: -19.072501
   longitude: 29.311523
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

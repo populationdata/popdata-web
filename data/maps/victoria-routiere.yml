@@ -6,10 +6,9 @@ en:
   title: Victoria - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -4.632634
   longitude: 55.474691
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Samoa - relief
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -13.750057
   longitude: -172.194214
   type: terrain
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

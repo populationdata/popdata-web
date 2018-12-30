@@ -6,10 +6,9 @@ en:
   title: Riga - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 56.94694
   longitude: 24.08289
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Vancouver - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 49.22169
   longitude: -123.029647
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

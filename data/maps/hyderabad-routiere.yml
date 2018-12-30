@@ -6,10 +6,9 @@ en:
   title: Hyderabad - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 17.393546
   longitude: 78.471541
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

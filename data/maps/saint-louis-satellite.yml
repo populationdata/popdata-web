@@ -6,10 +6,9 @@ en:
   title: Saint-Louis - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 16.023458
   longitude: -16.498461
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Bilbao - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 43.281813
   longitude: -2.960277
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Minsk - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 53.904743
   longitude: 27.555771
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

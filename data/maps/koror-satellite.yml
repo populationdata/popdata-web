@@ -6,10 +6,9 @@ en:
   title: Koror - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 7.345953
   longitude: 134.474373
   type: satellite
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

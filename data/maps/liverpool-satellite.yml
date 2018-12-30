@@ -6,10 +6,9 @@ en:
   title: Liverpool - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 53.402607
   longitude: -2.981849
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

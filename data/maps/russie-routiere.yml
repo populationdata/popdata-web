@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - russie
-gmaps:
+tiles:
   latitude: 64.876446
   longitude: 96.274514
   type: roadmap
   zoom: 3
-source: Google Maps
-type: gmaps
+type: tiles

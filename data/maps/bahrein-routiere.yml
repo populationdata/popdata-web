@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - bahrein
-gmaps:
+tiles:
   latitude: 25.96596
   longitude: 50.556147
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

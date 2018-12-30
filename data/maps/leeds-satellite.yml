@@ -6,10 +6,9 @@ en:
   title: Leeds - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 53.783894
   longitude: -1.617968
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

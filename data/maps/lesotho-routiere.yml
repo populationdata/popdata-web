@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - lesotho
-gmaps:
+tiles:
   latitude: -29.50894
   longitude: 28.199158
   type: roadmap
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

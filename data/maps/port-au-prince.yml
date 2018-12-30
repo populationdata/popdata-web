@@ -6,10 +6,9 @@ en:
   title: Port-au-Prince - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 18.558391
   longitude: -72.317677
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

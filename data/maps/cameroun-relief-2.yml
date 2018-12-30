@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - cameroun
-gmaps:
+tiles:
   latitude: 6.457234
   longitude: 12.403564
   type: terrain
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

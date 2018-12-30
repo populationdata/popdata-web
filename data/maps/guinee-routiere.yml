@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - guinee
-gmaps:
+tiles:
   latitude: 10.212219
   longitude: -11.239014
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

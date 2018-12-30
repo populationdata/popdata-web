@@ -6,10 +6,9 @@ en:
   title: Tel-Aviv - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 32.070065
   longitude: 34.810524
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Dubrovnik - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 42.655677
   longitude: 18.131218
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

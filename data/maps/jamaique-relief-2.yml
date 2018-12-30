@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - jamaique
-gmaps:
+tiles:
   latitude: 18.136717
   longitude: -77.280579
   type: terrain
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

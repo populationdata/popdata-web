@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - salomon
-gmaps:
+tiles:
   latitude: -9.248037
   longitude: 160.549695
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

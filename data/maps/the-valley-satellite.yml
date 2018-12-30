@@ -6,10 +6,9 @@ en:
   title: The Valley - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 18.215859
   longitude: -63.056202
   type: satellite
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

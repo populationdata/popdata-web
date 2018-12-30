@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - oman
-gmaps:
+tiles:
   latitude: 21.871695
   longitude: 56.162109
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

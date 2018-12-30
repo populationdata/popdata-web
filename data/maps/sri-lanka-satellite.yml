@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - sri-lanka
-gmaps:
+tiles:
   latitude: 7.775345
   longitude: 80.720033
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

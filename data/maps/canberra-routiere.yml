@@ -6,10 +6,9 @@ en:
   title: Canberra - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -35.310923
   longitude: 149.127045
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

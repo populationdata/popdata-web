@@ -6,10 +6,10 @@ en:
   title: Mumbai - satellite (Bombay)
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 19.112732
   longitude: 72.92244
   type: hybrid
   zoom: 11
 source: ''
-type: gmaps
+type: tiles

@@ -6,10 +6,17 @@ en:
   title: Indonésie - séisme du 12 septembre 2007
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -4.5172
   longitude: 101.3815
   type: satellite
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -4.5172
+      longitude: 101.3815
+      description: >-
+        Sumatra, Indonésie - 12 septembre 2007 à 12 11:10:26 UTC. Placement sur
+        la carte approximatif. Coordonnées : -4° 31' 1.92
 source: Earthquake Hazards Program
-type: gmaps
+type: tiles

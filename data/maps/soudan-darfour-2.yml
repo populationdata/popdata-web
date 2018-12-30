@@ -7,10 +7,14 @@ en:
 continents: []
 countries:
   - soudan
-gmaps:
+tiles:
   latitude: 13.966054
   longitude: 24.65332
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaurouge
+      latitude: 13.966054
+      longitude: 24.65332
+      description: 'Darfour, Soudan'
+type: tiles

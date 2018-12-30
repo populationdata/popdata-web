@@ -7,10 +7,14 @@ en:
 continents: []
 countries:
   - allemagne
-gmaps:
+tiles:
   latitude: 54.143707
   longitude: 11.84184
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaurouge
+      latitude: 54.143707
+      longitude: 11.84184
+      description: 'Heiligendamm, Allemagne Runion du G8 du 6 au 8 juin 2007'
+type: tiles

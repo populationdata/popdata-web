@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - kenya
-gmaps:
+tiles:
   latitude: 0.57128
   longitude: 36.97998
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

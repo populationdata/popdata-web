@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - perou
-gmaps:
+tiles:
   latitude: -6.6048
   longitude: -81.126
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -6.6048
+      longitude: -81.126
+      description: >-
+        Pérou - Séisme de magnitude 6.0 le 9 février 2009 à 14h09 UTC (à 9h09
+        heure locale). Placement sur la carte approximatif. Coordonnées :
+        -6°28'2.64
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Djouba - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 4.844338
   longitude: 31.572647
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

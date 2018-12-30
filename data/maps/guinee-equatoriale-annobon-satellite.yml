@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - guinee-equatoriale
-gmaps:
+tiles:
   latitude: -1.427388
   longitude: 5.619164
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

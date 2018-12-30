@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 15.068
   longitude: -93.715
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 15.068
+      longitude: -93.715
+      description: >-
+        Mexique : 8 septembre 2017 - 23:49 heure locale. Placement sur la carte
+        approximatif. 15.068°N 93.715°W
 source: Earthquake Hazards Program - USGS
-type: gmaps
+type: tiles

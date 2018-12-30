@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - cap-vert
-gmaps:
+tiles:
   latitude: 16.014136
   longitude: -23.950195
   type: roadmap
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

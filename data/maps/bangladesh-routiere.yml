@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - bangladesh
-gmaps:
+tiles:
   latitude: 23.5237
   longitude: 89.956055
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

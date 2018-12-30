@@ -6,10 +6,9 @@ en:
   title: Iqaluit - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 63.74477
   longitude: -68.509026
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

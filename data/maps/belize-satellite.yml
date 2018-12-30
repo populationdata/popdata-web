@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - belize
-gmaps:
+tiles:
   latitude: 17.156537
   longitude: -88.659668
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

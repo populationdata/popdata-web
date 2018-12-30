@@ -6,10 +6,9 @@ en:
   title: Denver - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 39.743362
   longitude: -105.004578
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - perou
-gmaps:
+tiles:
   latitude: -13.314794
   longitude: -76.508789
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: -13.3581
+      longitude: -76.5224
+      description: >-
+        Pérou : 15 aout 2007 - 23:40:56 UTC Placement sur la carte approximatif.
+        -13 21' 29.16
 source: Earthquake Hazards Program - USGS
-type: gmaps
+type: tiles

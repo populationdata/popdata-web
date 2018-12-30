@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - hong-kong
-gmaps:
+tiles:
   latitude: 22.313555
   longitude: 114.169579
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Belize City - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 17.511141
   longitude: -88.230858
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - chili
-gmaps:
+tiles:
   latitude: -35.8464
   longitude: -72.7189
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -35.8464
+      longitude: -72.7189
+      description: >-
+        Chili - Séisme de magnitude 8.8 le 27 février 2010 à 3h34 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 35.846°S, 72.719°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

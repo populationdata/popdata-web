@@ -7,10 +7,9 @@ en:
 continents:
   - europe
 countries: []
-gmaps:
+tiles:
   latitude: 55.07711
   longitude: 9.775587
   type: hybrid
   zoom: 4
-source: Google Maps
-type: gmaps
+type: tiles

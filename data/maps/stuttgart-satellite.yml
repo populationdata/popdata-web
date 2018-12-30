@@ -6,10 +6,9 @@ en:
   title: Stuttgart - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 48.776555
   longitude: 9.188862
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

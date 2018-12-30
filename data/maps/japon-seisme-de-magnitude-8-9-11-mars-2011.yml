@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 38.3215
   longitude: 142.3693
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 38.3215
+      longitude: 142.3693
+      description: >-
+        Japon : séisme de magnitude 8.9 le 11 mars 2011 à 14h46 heure locale. 
+        Placement sur la carte approximatif. Coordonnées : 38.322°N, 142.369°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

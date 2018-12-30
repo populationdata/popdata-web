@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - congo
-gmaps:
+tiles:
   latitude: -0.856902
   longitude: 13.842773
   type: hybrid
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

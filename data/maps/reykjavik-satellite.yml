@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - islande
-gmaps:
+tiles:
   latitude: 64.141017
   longitude: -21.90279
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

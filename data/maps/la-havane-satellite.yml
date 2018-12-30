@@ -6,10 +6,9 @@ en:
   title: La Havane - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 23.1282
   longitude: -82.366304
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

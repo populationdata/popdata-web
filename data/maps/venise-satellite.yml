@@ -6,10 +6,9 @@ en:
   title: Venise - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 45.45712
   longitude: 12.293186
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

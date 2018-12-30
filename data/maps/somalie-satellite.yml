@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - somalie
-gmaps:
+tiles:
   latitude: 5.54378
   longitude: 44.835395
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

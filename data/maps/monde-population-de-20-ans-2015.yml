@@ -1,0 +1,17 @@
+title: monde-population-de-20-ans-2015
+date: '2016-12-29T19:49:42.000Z'
+fr:
+  title: Monde - Population des moins de 20 ans (2015)
+en:
+  title: Monde - Population des moins de 20 ans (2015)
+continents: []
+countries: []
+embed: >-
+  <iframe allowfullscreen="allowfullscreen" allowtransparency="true"
+  frameborder="0" height="800" id="datawrapper-chart-Bjaov"
+  mozallowfullscreen="mozallowfullscreen" msallowfullscreen="msallowfullscreen"
+  oallowfullscreen="oallowfullscreen" src="//datawrapper.dwcdn.net/Bjaov/1/"
+  webkitallowfullscreen="webkitallowfullscreen" width="100%" style="height:
+  800px;"></iframe>
+source: 'ONU, Banque mondiale'
+type: embed

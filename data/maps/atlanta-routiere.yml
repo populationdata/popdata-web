@@ -6,10 +6,9 @@ en:
   title: Atlanta - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 33.768874
   longitude: -84.396286
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

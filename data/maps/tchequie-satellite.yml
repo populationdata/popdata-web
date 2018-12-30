@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - tchequie
-gmaps:
+tiles:
   latitude: 49.845072
   longitude: 15.538126
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - gibraltar
-gmaps:
+tiles:
   latitude: 36.132997
   longitude: -5.347733
   type: hybrid
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

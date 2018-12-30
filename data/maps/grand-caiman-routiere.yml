@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - caimans
-gmaps:
+tiles:
   latitude: 19.320539
   longitude: -81.281319
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

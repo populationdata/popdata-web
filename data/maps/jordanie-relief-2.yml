@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - jordanie
-gmaps:
+tiles:
   latitude: 31.306715
   longitude: 36.694336
   type: terrain
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

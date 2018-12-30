@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - haiti
-gmaps:
+tiles:
   latitude: 19.051734
   longitude: -72.765198
   type: terrain
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - italie
-gmaps:
+tiles:
   latitude: 42.423
   longitude: 13.395
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 42.423
+      longitude: 13.395
+      description: >-
+        Italie - Séisme de magnitude 6.3 le 6 avril 2009 à 1h32 UTC (à 3h32
+        heure locale). Placement sur la carte approximatif. Coordonnées : +42°
+        25' 22.08
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

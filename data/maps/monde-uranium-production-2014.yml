@@ -1,0 +1,14 @@
+title: monde-uranium-production-2014
+date: '2017-02-13T23:55:36.000Z'
+fr:
+  title: 'Monde - Uranium : production (2014)'
+en:
+  title: 'Monde - Uranium : production (2014)'
+continents: []
+countries: []
+embed: >-
+  <iframe
+  src="https://www.google.com/maps/d/embed?mid=12IHtZM40-NoGgWQZYGm3Dbr4WgU&hl=fr"
+  width="100%" height="800"></iframe>
+source: PopulationData.net
+type: embed

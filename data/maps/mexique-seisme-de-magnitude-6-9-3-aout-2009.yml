@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - mexique
-gmaps:
+tiles:
   latitude: 29.0655
   longitude: -112.8708
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 29.0655
+      longitude: -112.8708
+      description: >-
+        Mexique - Séisme de magnitude 6.9 le 3 août 2009 à 18h00 UTC (11h00
+        heure locale).  Placement sur la carte approximatif. Coordonnées :
+        29.066°N, 112.871°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

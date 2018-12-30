@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - angola
-gmaps:
+tiles:
   latitude: -11.436955
   longitude: 16.435547
   type: terrain
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

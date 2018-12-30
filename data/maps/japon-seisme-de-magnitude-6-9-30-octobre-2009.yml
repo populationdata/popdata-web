@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 29.1544
   longitude: 129.9025
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 29.1544
+      longitude: 129.9025
+      description: >-
+        Japon - Séisme de magnitude 6.9 le 30 octobre 2009 à 16h03 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 29.154°N,
+        129.903°E
 source: USGS
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Ta'izz - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 13.58117
   longitude: 44.018183
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

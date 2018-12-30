@@ -7,10 +7,14 @@ en:
 continents: []
 countries:
   - islande
-gmaps:
+tiles:
   latitude: 63.714455
   longitude: -19.621582
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaurouge
+      latitude: 63.630405
+      longitude: -19.632568
+      description: 'Islande : éruption du volcan Eyjafjalla (avril 2010)'
+type: tiles

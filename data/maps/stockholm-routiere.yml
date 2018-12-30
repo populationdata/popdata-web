@@ -6,10 +6,9 @@ en:
   title: Stockholm - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 59.348246
   longitude: 18.055344
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

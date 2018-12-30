@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - ethiopie
-gmaps:
+tiles:
   latitude: 9.925566
   longitude: 40.297852
   type: roadmap
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

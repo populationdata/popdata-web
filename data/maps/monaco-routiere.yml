@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - monaco
-gmaps:
+tiles:
   latitude: 43.737943
   longitude: 7.424441
   type: roadmap
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

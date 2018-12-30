@@ -6,10 +6,9 @@ en:
   title: Kingstown - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 13.155568
   longitude: -61.223888
   type: hybrid
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

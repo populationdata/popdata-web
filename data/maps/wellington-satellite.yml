@@ -6,10 +6,9 @@ en:
   title: Wellington - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -41.266711
   longitude: 174.826813
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

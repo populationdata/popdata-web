@@ -6,10 +6,9 @@ en:
   title: Split - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 43.522415
   longitude: 16.438637
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

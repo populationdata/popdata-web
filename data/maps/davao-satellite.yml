@@ -6,10 +6,9 @@ en:
   title: Davao - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 7.084199
   longitude: 125.613384
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

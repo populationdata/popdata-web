@@ -6,10 +6,9 @@ en:
   title: Chisinau - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 47.012918
   longitude: 28.870697
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

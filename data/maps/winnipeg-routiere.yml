@@ -6,10 +6,9 @@ en:
   title: Winnipeg - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 49.877051
   longitude: -97.153583
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

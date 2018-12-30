@@ -6,10 +6,9 @@ en:
   title: Port Moresby - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -9.450247
   longitude: 147.186413
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

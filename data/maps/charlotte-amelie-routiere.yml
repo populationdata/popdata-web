@@ -6,10 +6,9 @@ en:
   title: Charlotte-Amélie - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 18.344208
   longitude: -64.929847
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

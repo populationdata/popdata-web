@@ -6,10 +6,9 @@ en:
   title: San José - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 9.941122
   longitude: -84.101715
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

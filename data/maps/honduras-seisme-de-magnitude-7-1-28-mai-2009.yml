@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - honduras
-gmaps:
+tiles:
   latitude: 16.7831
   longitude: -86.1657
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 16.7831
+      longitude: -86.1657
+      description: >-
+        Honduras - Séisme de magnitude 7.1 le 28 mai 2009 à 8h24 UTC (3h24 heure
+        locale). Placement sur la carte approximatif. Coordonnées : 16.783°N,
+        86.166°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

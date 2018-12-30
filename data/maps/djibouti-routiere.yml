@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - djibouti
-gmaps:
+tiles:
   latitude: 11.784014
   longitude: 42.690125
   type: roadmap
   zoom: 9
-source: Google Maps
-type: gmaps
+type: tiles

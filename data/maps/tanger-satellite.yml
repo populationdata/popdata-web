@@ -6,10 +6,9 @@ en:
   title: Tanger - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 35.762951
   longitude: -5.833397
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

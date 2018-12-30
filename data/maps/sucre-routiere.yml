@@ -6,10 +6,9 @@ en:
   title: Sucre - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -19.040537
   longitude: -65.260592
   type: roadmap
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

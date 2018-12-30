@@ -6,10 +6,9 @@ en:
   title: Adana - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 36.997121
   longitude: 35.326714
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

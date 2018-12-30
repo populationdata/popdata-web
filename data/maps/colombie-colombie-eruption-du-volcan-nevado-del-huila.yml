@@ -7,10 +7,14 @@ en:
 continents: []
 countries:
   - colombie
-gmaps:
+tiles:
   latitude: 2.923497
   longitude: -76.037235
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+  markers:
+    - marker: drapeaurouge
+      latitude: 2.930183
+      longitude: -76.027451
+      description: 'Colombie : volcan Nevado del Huila - 5364 mètres'
+type: tiles

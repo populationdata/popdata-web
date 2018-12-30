@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - iles-anglo-normandes-jersey-et-guernesey
-gmaps:
+tiles:
   latitude: 49.213855
   longitude: -2.134929
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

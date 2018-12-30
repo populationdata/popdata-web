@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - estonie
-gmaps:
+tiles:
   latitude: 58.671226
   longitude: 25.059814
   type: hybrid
   zoom: 8
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Tiraspol - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 46.849039
   longitude: 29.620514
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

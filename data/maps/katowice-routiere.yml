@@ -6,10 +6,9 @@ en:
   title: Katowice - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 50.265204
   longitude: 19.0242
   type: roadmap
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

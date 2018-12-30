@@ -6,10 +6,9 @@ en:
   title: Istanbul - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 41.018894
   longitude: 28.965454
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

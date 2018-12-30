@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - nouvelle-zelande
-gmaps:
+tiles:
   latitude: -45.7215
   longitude: 166.643
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -45.7215
+      longitude: 166.643
+      description: >-
+        Nouvelle-Zélande - Séisme de magnitude 7.8 le 15 juillet 2009 à 9h22 UTC
+        (20h22 heure locale). Placement sur la carte approximatif. Coordonnées :
+        45.721°S, 166.643°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

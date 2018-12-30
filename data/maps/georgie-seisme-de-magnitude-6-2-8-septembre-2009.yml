@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - georgie
-gmaps:
+tiles:
   latitude: 42.7118
   longitude: 43.4833
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: 42.7118
+      longitude: 43.4833
+      description: >-
+        Géorgie - Séisme de magnitude 6.2 le 8 septembre 2009 à 3h41 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 42.712°N,
+        43.483°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

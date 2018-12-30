@@ -6,10 +6,9 @@ en:
   title: Nassau - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 25.042993
   longitude: -77.400398
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Lusaka - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -15.412643
   longitude: 28.300781
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

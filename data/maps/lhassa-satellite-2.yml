@@ -6,10 +6,9 @@ en:
   title: Lhassa - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 29.659565
   longitude: 91.106358
   type: satellite
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

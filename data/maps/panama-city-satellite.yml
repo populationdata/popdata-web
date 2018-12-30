@@ -6,10 +6,9 @@ en:
   title: Panama city - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 9.011572
   longitude: -79.510117
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

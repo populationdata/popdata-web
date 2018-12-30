@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - salomon
-gmaps:
+tiles:
   latitude: -8.912
   longitude: 157.3073
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: -8.912
+      longitude: 157.3073
+      description: >-
+        Salomon - Séisme de magnitude 7.2 le 4 janvier 2010 à 9h36 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 8.912°S,
+        157.307°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

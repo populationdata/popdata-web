@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - grenade
-gmaps:
+tiles:
   latitude: 12.225592
   longitude: -61.634356
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,18 @@ en:
   title: Vanuatu - séisme de magnitude 6.3 (2 juin 2009)
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -17.7194
   longitude: 167.8848
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: -17.7194
+      longitude: 167.8848
+      description: >-
+        Vanuatu - Séisme de magnitude 6.3 le 2 juin 2009 à 2h17 UTC (1h17 heure
+        locale). Placement sur la carte approximatif. Coordonnées : 17.719°S,
+        167.885°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

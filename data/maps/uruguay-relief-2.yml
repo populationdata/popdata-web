@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - uruguay
-gmaps:
+tiles:
   latitude: -32.916485
   longitude: -56.244507
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

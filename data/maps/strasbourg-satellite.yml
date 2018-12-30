@@ -6,10 +6,9 @@ en:
   title: Strasbourg - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 48.578197
   longitude: 7.749825
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

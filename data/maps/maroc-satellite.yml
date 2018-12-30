@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - maroc
-gmaps:
+tiles:
   latitude: 31.615966
   longitude: -6.877441
   type: hybrid
   zoom: 6
-source: Google Maps
-type: gmaps
+type: tiles

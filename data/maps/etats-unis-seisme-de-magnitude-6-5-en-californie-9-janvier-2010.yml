@@ -6,10 +6,18 @@ en:
   title: Etats-Unis - séisme de magnitude 6.5 en Californie (9 janvier 2010)
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 40.6448
   longitude: -124.763
   type: terrain
   zoom: 7
+  markers:
+    - marker: epicentre
+      latitude: 40.6448
+      longitude: -124.763
+      description: >-
+        Etats-Unis - Séisme de magnitude 6.5 le 9 janvier 2010 à 16h27 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 40.645°N,
+        124.763°W
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

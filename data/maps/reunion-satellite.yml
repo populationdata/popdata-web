@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - reunion
-gmaps:
+tiles:
   latitude: -21.131739
   longitude: 55.549784
   type: hybrid
   zoom: 11
-source: Google Maps
-type: gmaps
+type: tiles

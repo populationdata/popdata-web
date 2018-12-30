@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - maurice
-gmaps:
+tiles:
   latitude: -20.269283
   longitude: 57.609558
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

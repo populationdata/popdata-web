@@ -6,10 +6,9 @@ en:
   title: Benghazi - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 32.103516
   longitude: 20.090904
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

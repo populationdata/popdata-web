@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - saint-vincent-et-les-grenadines
-gmaps:
+tiles:
   latitude: 12.988611
   longitude: -61.273986
   type: terrain
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - indonesie
-gmaps:
+tiles:
   latitude: -2.497
   longitude: 101.5402
   type: terrain
   zoom: 8
+  markers:
+    - marker: epicentre
+      latitude: -2.497
+      longitude: 101.5402
+      description: >-
+        Indonésie - Séisme de magnitude 6.6 le 1er octobre 2009 à 8h52 heure
+        locale.  Placement sur la carte approximatif. Coordonnées : 2.497°S,
+        101.540°E
 source: USGS
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Tbilissi - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 41.712905
   longitude: 44.804478
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

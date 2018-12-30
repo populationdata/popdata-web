@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - tadjikistan
-gmaps:
+tiles:
   latitude: 38.715519
   longitude: 71.048584
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

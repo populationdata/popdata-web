@@ -6,10 +6,9 @@ en:
   title: Sarajevo - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 43.842327
   longitude: 18.339958
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

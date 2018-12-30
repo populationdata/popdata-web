@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - togo
-gmaps:
+tiles:
   latitude: 8.167993
   longitude: 1.186523
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

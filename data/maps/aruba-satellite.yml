@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - aruba
-gmaps:
+tiles:
   latitude: 12.517028
   longitude: -69.977074
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

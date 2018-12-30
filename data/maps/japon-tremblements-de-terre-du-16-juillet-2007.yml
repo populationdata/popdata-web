@@ -7,10 +7,17 @@ en:
 continents: []
 countries:
   - japon
-gmaps:
+tiles:
   latitude: 36.774092
   longitude: 134.884644
   type: satellite
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 36.785
+      longitude: 134.8499
+      description: >-
+        Japon - tremblement de terre de magnitude 6.8 du 16 juillet 2007 
+        14:17:34 UTC Placement sur la carte approximatif +36 47' 4.20
 source: USGS
-type: gmaps
+type: tiles

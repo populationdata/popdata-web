@@ -7,10 +7,14 @@ en:
 continents: []
 countries:
   - salomon
-gmaps:
+tiles:
   latitude: -8.0973
   longitude: 156.851807
   type: satellite
   zoom: 7
-source: Google
-type: gmaps
+  markers:
+    - marker: epicentre
+      latitude: -8.0973
+      longitude: 156.851807
+      description: Iles Salomon - Gizo Sisme de magnitude 8 sur l'echelle de Richter
+type: tiles

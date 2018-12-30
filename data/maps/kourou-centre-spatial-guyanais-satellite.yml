@@ -8,10 +8,9 @@ continents: []
 countries:
   - guyane
   - france
-gmaps:
+tiles:
   latitude: 5.195407
   longitude: -52.74622
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

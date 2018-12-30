@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - nouvelle-zelande
-gmaps:
+tiles:
   latitude: -43.53
   longitude: 172.12
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: -43.53
+      longitude: 172.12
+      description: >-
+        Nouvelle-Zélande : séisme de magnitude 7.0 le 4 septembre 2010 à 4h35
+        heure locale.  Placement sur la carte approximatif. Coordonnées :
+        43.530°S, 172.120°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

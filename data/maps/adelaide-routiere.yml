@@ -6,10 +6,9 @@ en:
   title: Adélaïde - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: -34.931823
   longitude: 138.603172
   type: roadmap
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

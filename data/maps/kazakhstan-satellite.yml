@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - kazakhstan
-gmaps:
+tiles:
   latitude: 48.748945
   longitude: 66.071777
   type: hybrid
   zoom: 5
-source: Google Maps
-type: gmaps
+type: tiles

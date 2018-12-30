@@ -6,10 +6,9 @@ en:
   title: N'Djaména - routière
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 12.112089
   longitude: 15.035477
   type: roadmap
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

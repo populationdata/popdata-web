@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - soudan-du-sud
-gmaps:
+tiles:
   latitude: 7.634776
   longitude: 30.212402
   type: terrain
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Mopti - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 14.506153
   longitude: -4.160385
   type: hybrid
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

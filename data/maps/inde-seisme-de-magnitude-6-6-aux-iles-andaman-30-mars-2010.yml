@@ -7,10 +7,18 @@ en:
 continents: []
 countries:
   - inde
-gmaps:
+tiles:
   latitude: 13.6091
   longitude: 92.8841
   type: terrain
   zoom: 6
+  markers:
+    - marker: epicentre
+      latitude: 13.6091
+      longitude: 92.8841
+      description: >-
+        Inde - les Andaman : séisme de magnitude 6.6 le 30 mars 2010 à 22h24
+        heure locale.  Placement sur la carte approximatif. Coordonnées :
+        13.609°N, 92.884°E
 source: USGS - Earthquake Hazards Program
-type: gmaps
+type: tiles

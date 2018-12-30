@@ -6,10 +6,9 @@ en:
   title: Tegucigalpa - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 14.091127
   longitude: -87.204924
   type: satellite
   zoom: 13
-source: Google Maps
-type: gmaps
+type: tiles

@@ -6,10 +6,9 @@ en:
   title: Los Angeles - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 34.031038
   longitude: -118.249969
   type: hybrid
   zoom: 10
-source: Google Maps
-type: gmaps
+type: tiles

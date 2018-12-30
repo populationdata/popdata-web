@@ -6,10 +6,9 @@ en:
   title: Sétif - satellite
 continents: []
 countries: []
-gmaps:
+tiles:
   latitude: 36.193309
   longitude: 5.407505
   type: hybrid
   zoom: 12
-source: Google Maps
-type: gmaps
+type: tiles

@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - pays-bas-caribeens
-gmaps:
+tiles:
   latitude: 17.49527
   longitude: -62.977002
   type: hybrid
   zoom: 14
-source: Google Maps
-type: gmaps
+type: tiles

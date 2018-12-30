@@ -62,12 +62,13 @@ exports.onCreateNode = ({ node, actions }) => {
         createNodeField({
           name: `slug`,
           node,
-          value: `/${getCategory(node.internal.type)}/${slug(
-            node.fields.title,
-            {
-              lower: true,
-            }
-          )}/`,
+          value: `/${getCategory(node.internal.type)}/${
+            node.internal.type === 'MapsYaml'
+              ? node.title
+              : slug(node.fields.title, {
+                  lower: true,
+                })
+          }/`,
         })
       }
     }
@@ -300,6 +301,10 @@ exports.onCreateWebpackConfig = ({ stage, loaders, actions }) => {
         rules: [
           {
             test: /datamaps/,
+            use: loaders.null(),
+          },
+          {
+            test: /leaflet/,
             use: loaders.null(),
           },
         ],

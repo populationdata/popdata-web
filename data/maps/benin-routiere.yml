@@ -7,10 +7,9 @@ en:
 continents: []
 countries:
   - benin
-gmaps:
+tiles:
   latitude: 8.93934
   longitude: 2.175293
   type: roadmap
   zoom: 7
-source: Google Maps
-type: gmaps
+type: tiles
