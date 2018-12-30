@@ -32,12 +32,13 @@
   },
   "scripts": {
     "build": "gatsby build",
+    "build:fr": "cross-env GATSBY_LANGUAGE=fr yarn build",
+    "build:en": "cross-env GATSBY_LANGUAGE=en yarn build",
     "develop": "gatsby develop",
-    "start": "yarn run develop",
-    "start:fr": "cross-env GATSBY_LANGUAGE=fr yarn run start",
-    "start:en": "cross-env GATSBY_LANGUAGE=en yarn run start",
-    "format": "prettier --write \"src/**/*.js\"",
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "yarn develop",
+    "start:fr": "cross-env GATSBY_LANGUAGE=fr yarn start",
+    "start:en": "cross-env GATSBY_LANGUAGE=en yarn start",
+    "format": "prettier --write \"src/**/*.js\""
   },
   "devDependencies": {
     "cross-env": "^5.2.0",

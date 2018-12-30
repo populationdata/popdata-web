@@ -3,7 +3,7 @@ import React from 'react'
 const withClientOnly = WrappedComponent => {
   return class extends React.Component {
     render() {
-      if (window) {
+      if (typeof window !== `undefined`) {
         return <WrappedComponent {...this.props} />
       } else {
         return false

@@ -2,7 +2,7 @@ import React from 'react'
 import { graphql, Link } from 'gatsby'
 import { css } from 'glamor'
 import Layout from '../components/Layout'
-import ColBlockItems from '../components/ColBlockItems'
+import ColBlockMaps from '../components/ColBlockMaps'
 import HeaderTable from '../components/HeaderTable'
 import DataMap from '../components/DataMap'
 import DataTable from '../components/DataTable'
@@ -13,7 +13,6 @@ const allLabels = {
     area: 'Superficie',
     countries: 'Pays et territoires',
     inhabitants: 'habitants',
-    maps: 'Cartes',
     numberOfCountries: 'Nombre de pays & territoires',
     population: 'Population',
   },
@@ -21,7 +20,6 @@ const allLabels = {
     area: 'Area',
     countries: 'Countries and territories',
     inhabitants: 'inhabitants',
-    maps: 'Maps',
     numberOfCountries: 'Number of countries & territories',
     population: 'Population',
   },
@@ -98,21 +96,7 @@ const ContinentHeader = ({ continent }) => (
 )
 
 const ContinentPage = ({ data }) => (
-  <Layout
-    col1={
-      <ColBlockItems
-        title={labels.maps}
-        items={data.maps.edges
-          .sort((a, b) =>
-            a.node.fields.title.localeCompare(b.node.fields.title)
-          )
-          .map(x => ({
-            link: x.node.fields.slug,
-            title: x.node.fields.title,
-          }))}
-      />
-    }
-  >
+  <Layout col1={<ColBlockMaps maps={data.maps} />}>
     <h1>{data.continent.fields.name}</h1>
     <section>
       <ContinentHeader continent={data.continent} />
@@ -202,15 +186,7 @@ export const continentQuery = graphql`
       }
     }
     maps: allMapsYaml(filter: { continentNodeIds: { in: [$id] } }) {
-      edges {
-        node {
-          id
-          fields {
-            slug
-            title
-          }
-        }
-      }
+      ...ColBlockMaps
     }
   }
 `
