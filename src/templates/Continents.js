@@ -96,7 +96,10 @@ const ContinentHeader = ({ continent }) => (
 )
 
 const ContinentPage = ({ data }) => (
-  <Layout col1={<ColBlockMaps maps={data.maps} />}>
+  <Layout
+    title={data.continent.fields.name}
+    col1={<ColBlockMaps maps={data.maps} />}
+  >
     <h1>{data.continent.fields.name}</h1>
     <section>
       <ContinentHeader continent={data.continent} />

@@ -1,6 +1,12 @@
 module.exports = {
   siteMetadata: {
+    siteUrl: process.env.URL || 'https://www.populationdata.net',
     title: 'PopulationData.net',
+    titleTemplate: '%s - PopulationData.net',
+    description:
+      process.env.GATSBY_LANGUAGE === 'fr'
+        ? 'Informations, cartes et statistiques sur les populations et les pays du monde.'
+        : 'Informations, maps and statistics of the populations and countries of the World.',
     language: process.env.GATSBY_LANGUAGE,
   },
   plugins: [
@@ -65,6 +71,13 @@ module.exports = {
     },
     'gatsby-plugin-netlify-cms',
     'gatsby-plugin-netlify',
+    {
+      resolve: 'gatsby-plugin-robots-txt',
+      options: {
+        policy: [{ userAgent: '*', disallow: '/' }],
+      },
+    },
+    `gatsby-plugin-sitemap`,
   ],
   mapping: {
     'SubcontinentsYaml.continent': `ContinentsYaml.title`,

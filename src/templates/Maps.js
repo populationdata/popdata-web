@@ -35,7 +35,7 @@ const seeAlsoCss = css({
 
 const MapPage = ({ data }) => {
   return (
-    <Layout>
+    <Layout title={data.map.fields.title}>
       <h1>{data.map.fields.title}</h1>
       {data.map.type === 'image' && (
         <div {...mapImgCss}>

@@ -14,7 +14,10 @@ const contentCss = css({
 
 const CountryPage = ({ data }) => {
   return (
-    <Layout col1={<ColBlockMaps maps={data.maps} />}>
+    <Layout
+      title={data.country.fields.name}
+      col1={<ColBlockMaps maps={data.maps} />}
+    >
       <h1>{data.country.fields.name}</h1>
       <section>
         <HTMLContent

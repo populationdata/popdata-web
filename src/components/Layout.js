@@ -24,62 +24,83 @@ const mainColSize = (col1, col2) => {
   return 12
 }
 
-const Layout = ({ children, col1, col2 }) => (
+const Layout = ({ title, description, children, col1, col2 }) => (
   <StaticQuery
     query={graphql`
-      query SiteTitleQuery {
+      query LayoutQuery {
         site {
           siteMetadata {
-            title
+            siteUrl
+            defaultTitle: title
+            titleTemplate
+            defaultDescription: description
             language
           }
         }
       }
     `}
-    render={data => (
-      <>
-        <Helmet title={data.site.siteMetadata.title}>
-          <html lang={data.site.siteMetadata.language} />
-          <link href={favicon} rel="icon" />
-        </Helmet>
-        <Header siteMetadata={data.site.siteMetadata} />
-        <Container
-          {...css({
-            marginTop: '25px',
-          })}
-        >
-          <Row>
-            <Col xl={mainColSize(col1, col2)}>{children}</Col>
-            {!!col1 && (
-              <Col
-                {...css({
-                  borderLeft: '1px solid rgb(233, 233, 233)',
-                })}
-                className="d-none d-xl-block"
-                xl="2"
-              >
-                {col1}
+    render={({ site: { siteMetadata } }) => {
+      return (
+        <>
+          <Helmet
+            title={title || siteMetadata.defaultTitle}
+            titleTemplate={title ? siteMetadata.titleTemplate : undefined}
+          >
+            <html lang={siteMetadata.language} />
+            <link href={favicon} rel="icon" />
+            <meta
+              name="description"
+              content={description || siteMetadata.defaultDescription}
+            />
+            <meta
+              property="og:description"
+              content={description || siteMetadata.defaultDescription}
+            />
+          </Helmet>
+          <Header siteMetadata={siteMetadata} />
+          <Container
+            {...css({
+              marginTop: 25,
+              marginBottom: 25,
+            })}
+          >
+            <Row>
+              <Col tag="main" xl={mainColSize(col1, col2)}>
+                {children}
               </Col>
-            )}
-            {!!col2 && (
-              <Col
-                {...css({
-                  borderLeft: '1px solid rgb(233, 233, 233)',
-                })}
-                xl="3"
-              >
-                {col2}
-              </Col>
-            )}
-          </Row>
-        </Container>
-        <Footer />
-      </>
-    )}
+              {!!col1 && (
+                <Col
+                  {...css({
+                    borderLeft: '1px solid rgb(233, 233, 233)',
+                  })}
+                  className="d-none d-xl-block"
+                  xl="2"
+                >
+                  {col1}
+                </Col>
+              )}
+              {!!col2 && (
+                <Col
+                  {...css({
+                    borderLeft: '1px solid rgb(233, 233, 233)',
+                  })}
+                  xl="3"
+                >
+                  {col2}
+                </Col>
+              )}
+            </Row>
+          </Container>
+          <Footer />
+        </>
+      )
+    }}
   />
 )
 
 Layout.propTypes = {
+  title: PropTypes.string,
+  description: PropTypes.string,
   children: PropTypes.node.isRequired,
   col1: PropTypes.node,
   col2: PropTypes.node,

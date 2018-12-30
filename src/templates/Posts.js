@@ -13,7 +13,7 @@ const contentCss = css({
 
 const PostPage = ({ data }) => {
   return (
-    <Layout>
+    <Layout title={data.post.fields.title}>
       <h1>{data.post.fields.title}</h1>
       <section>
         <HTMLContent {...contentCss} content={data.post.fields.body} />
