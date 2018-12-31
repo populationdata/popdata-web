@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france-densite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/france-densite.png'
 source: Insee
 type: image

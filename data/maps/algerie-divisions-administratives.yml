@@ -8,6 +8,6 @@ continents: []
 countries:
   - algerie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/algerie_divisions_administratives.jpg
+  https://www.populationdata.net/wp-content/uploads/algerie_divisions_administratives.jpg
 source: CIA
 type: image

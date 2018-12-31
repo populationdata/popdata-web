@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - gambie
-image: 'http://www.populationdata.net/wp-content/uploads/gambie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/gambie.jpg'
 source: CIA
 type: image

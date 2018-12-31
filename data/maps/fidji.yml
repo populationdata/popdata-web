@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - fidji
-image: 'http://www.populationdata.net/wp-content/uploads/fidji.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/fidji.jpg'
 source: CIA
 type: image

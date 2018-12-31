@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - guam
-image: 'http://www.populationdata.net/wp-content/uploads/guam.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/guam.jpg'
 source: CIA
 type: image

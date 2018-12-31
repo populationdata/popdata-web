@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - seychelles
-image: 'http://www.populationdata.net/wp-content/uploads/seychelles_farquhar.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/seychelles_farquhar.jpg'
 source: CIA
 type: image

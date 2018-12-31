@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - equateur
-image: 'http://www.populationdata.net/wp-content/uploads/equateur_galapagos.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/equateur_galapagos.gif'
 source: CIA
 type: image

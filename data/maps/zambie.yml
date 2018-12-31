@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - zambie
-image: 'http://www.populationdata.net/wp-content/uploads/zambie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/zambie.jpg'
 source: CIA
 type: image

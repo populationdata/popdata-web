@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - haiti
-image: 'http://www.populationdata.net/wp-content/uploads/haiti-densite-2003.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/haiti-densite-2003.gif'
 source: Institut haïtien de statistique et d'informatique (IHSI)
 type: image

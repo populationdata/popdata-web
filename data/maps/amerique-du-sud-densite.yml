@@ -7,6 +7,6 @@ en:
 continents:
   - ameriques
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/ameriquedusud_densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/ameriquedusud_densite.gif'
 source: nc
 type: image

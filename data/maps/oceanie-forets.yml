@@ -7,6 +7,6 @@ en:
 continents:
   - oceanie
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/forets_oceanie.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/forets_oceanie.gif'
 source: nc
 type: image

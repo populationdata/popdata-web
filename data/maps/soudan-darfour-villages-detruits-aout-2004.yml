@@ -8,6 +8,6 @@ continents: []
 countries:
   - soudan
 image: >-
-  http://www.populationdata.net/wp-content/uploads/soudan_darfour_villages_aout2004.jpg
+  https://www.populationdata.net/wp-content/uploads/soudan_darfour_villages_aout2004.jpg
 source: ONU
 type: image

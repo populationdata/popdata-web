@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france-combien-de-bises.png'
+image: 'https://www.populationdata.net/wp-content/uploads/france-combien-de-bises.png'
 source: 'http://combiendebises.free.fr/'
 type: image

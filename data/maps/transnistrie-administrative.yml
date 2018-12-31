@@ -8,6 +8,6 @@ continents: []
 countries:
   - transnistrie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/transnistrie-administrative.png
+  https://www.populationdata.net/wp-content/uploads/transnistrie-administrative.png
 source: Wikipédia
 type: image

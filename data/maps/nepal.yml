@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - nepal
-image: 'http://www.populationdata.net/wp-content/uploads/nepal.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/nepal.jpg'
 source: CIA
 type: image

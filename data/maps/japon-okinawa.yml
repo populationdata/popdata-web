@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - japon
-image: 'http://www.populationdata.net/wp-content/uploads/japon_okinawa_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/japon_okinawa_relief.jpg'
 source: CIA
 type: image

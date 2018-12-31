@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - tuvalu
-image: 'http://www.populationdata.net/wp-content/uploads/tuvalu.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/tuvalu.jpg'
 source: CIA
 type: image

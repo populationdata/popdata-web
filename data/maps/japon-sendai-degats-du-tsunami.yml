@@ -8,6 +8,6 @@ continents: []
 countries:
   - japon
 image: >-
-  http://www.populationdata.net/wp-content/uploads/japon-sendai-tsunami-dommages.jpg
+  https://www.populationdata.net/wp-content/uploads/japon-sendai-tsunami-dommages.jpg
 source: Nasa Earth Observatory
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - liberia
 image: >-
-  http://www.populationdata.net/wp-content/uploads/liberia-chenilles-janvier2009.jpg
+  https://www.populationdata.net/wp-content/uploads/liberia-chenilles-janvier2009.jpg
 source: ReliefWeb
 type: image

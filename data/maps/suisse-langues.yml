@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - suisse
-image: 'http://www.populationdata.net/wp-content/uploads/suisse-langues.png'
+image: 'https://www.populationdata.net/wp-content/uploads/suisse-langues.png'
 source: Wikipédia
 type: image

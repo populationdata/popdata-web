@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - koweit
-image: 'http://www.populationdata.net/wp-content/uploads/koweit.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/koweit.jpg'
 source: CIA
 type: image

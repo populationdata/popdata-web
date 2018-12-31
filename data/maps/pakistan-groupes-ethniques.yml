@@ -8,6 +8,6 @@ continents: []
 countries:
   - pakistan
 image: >-
-  http://www.populationdata.net/wp-content/uploads/pakistan_groupes_ethniques.jpg
+  https://www.populationdata.net/wp-content/uploads/pakistan_groupes_ethniques.jpg
 source: CIA
 type: image

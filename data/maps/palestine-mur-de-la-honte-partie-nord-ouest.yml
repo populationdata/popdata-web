@@ -8,6 +8,7 @@ continents: []
 countries:
   - israel
   - palestine
-image: 'http://www.populationdata.net/wp-content/uploads/palestine_mur_de_la_honte.gif'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/palestine_mur_de_la_honte.gif
 source: Wikipédia
 type: image

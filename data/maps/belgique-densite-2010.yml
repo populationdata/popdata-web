@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - belgique
-image: 'http://www.populationdata.net/wp-content/uploads/belgique-densite-2010.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/belgique-densite-2010.jpg'
 source: Institut National de Statistique (INS)
 type: image

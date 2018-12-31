@@ -8,6 +8,6 @@ continents: []
 countries:
   - danemark
 image: >-
-  http://www.populationdata.net/wp-content/uploads/danemark_copenhague_metropole.jpg
+  https://www.populationdata.net/wp-content/uploads/danemark_copenhague_metropole.jpg
 source: CIA
 type: image

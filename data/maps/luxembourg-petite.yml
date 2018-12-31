@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - luxembourg
-image: 'http://www.populationdata.net/wp-content/uploads/luxembourg-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/luxembourg-petite.png'
 source: Wikipédia
 type: image

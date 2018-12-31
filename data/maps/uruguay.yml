@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - uruguay
-image: 'http://www.populationdata.net/wp-content/uploads/uruguay.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/uruguay.jpg'
 source: CIA
 type: image

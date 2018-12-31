@@ -8,6 +8,6 @@ continents: []
 countries:
   - grece
 image: >-
-  http://www.populationdata.net/wp-content/uploads/grece-nouvelles-regions-2010.png
+  https://www.populationdata.net/wp-content/uploads/grece-nouvelles-regions-2010.png
 source: Wikipédia
 type: image

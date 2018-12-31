@@ -8,6 +8,6 @@ continents: []
 countries:
   - italie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/italie-giglio-naufrage-costa-concordia-carte.png
+  https://www.populationdata.net/wp-content/uploads/italie-giglio-naufrage-costa-concordia-carte.png
 source: 'OpenSeaMap, Wikipédia'
 type: image

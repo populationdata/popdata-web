@@ -8,6 +8,6 @@ continents: []
 countries:
   - etats-unis
 image: >-
-  http://www.populationdata.net/wp-content/uploads/etats-unis-san-francisco-satellite-nuit.jpg
+  https://www.populationdata.net/wp-content/uploads/etats-unis-san-francisco-satellite-nuit.jpg
 source: 'Scott Kelly, Station spatiale internationale'
 type: image

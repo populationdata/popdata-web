@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - irak
-image: 'http://www.populationdata.net/wp-content/uploads/iraq_petrole2.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/iraq_petrole2.jpg'
 source: CIA
 type: image

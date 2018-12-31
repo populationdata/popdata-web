@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - botswana
-image: 'http://www.populationdata.net/wp-content/uploads/botswana.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/botswana.jpg'
 source: CIA
 type: image

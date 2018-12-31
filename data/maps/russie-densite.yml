@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - russie
-image: 'http://www.populationdata.net/wp-content/uploads/russie-densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/russie-densite.gif'
 source: CIA
 type: image

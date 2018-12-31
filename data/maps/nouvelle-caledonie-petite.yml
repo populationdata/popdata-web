@@ -7,6 +7,7 @@ en:
 continents: []
 countries:
   - nouvelle-caledonie
-image: 'http://www.populationdata.net/wp-content/uploads/nouvelle_caledonie_petite.gif'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/nouvelle_caledonie_petite.gif
 source: CIA
 type: image

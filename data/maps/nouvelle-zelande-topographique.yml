@@ -8,6 +8,6 @@ continents: []
 countries:
   - nouvelle-zelande
 image: >-
-  http://www.populationdata.net/wp-content/uploads/nouvelle-zelande-topographie.jpg
+  https://www.populationdata.net/wp-content/uploads/nouvelle-zelande-topographie.jpg
 source: Wikipédia
 type: image

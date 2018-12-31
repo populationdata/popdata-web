@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - feroe
-image: 'http://www.populationdata.net/wp-content/uploads/feroe-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/feroe-petite.png'
 source: Wikipédia
 type: image

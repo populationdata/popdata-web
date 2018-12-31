@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - yemen
-image: 'http://www.populationdata.net/wp-content/uploads/yemen_densite.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/yemen_densite.jpg'
 source: CIA
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - estonie
-image: 'http://www.populationdata.net/wp-content/uploads/estonie-densite-2011.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/estonie-densite-2011.jpg'
 source: Statistiques Estonie
 type: image

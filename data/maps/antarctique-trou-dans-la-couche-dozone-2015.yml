@@ -9,6 +9,6 @@ continents:
 countries:
   - antarctique
 image: >-
-  http://www.populationdata.net/wp-content/uploads/antarctique-trou-ozone-2015.png
+  https://www.populationdata.net/wp-content/uploads/antarctique-trou-ozone-2015.png
 source: Nasa Earth Observatory
 type: image

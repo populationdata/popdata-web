@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - jamaique
-image: 'http://www.populationdata.net/wp-content/uploads/jamaique-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/jamaique-petite.png'
 source: CIA
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - haiti
-image: 'http://www.populationdata.net/wp-content/uploads/haiti-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/haiti-petite.png'
 source: CIA
 type: image

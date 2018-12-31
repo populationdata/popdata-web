@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - malte
-image: 'http://www.populationdata.net/wp-content/uploads/malte.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/malte.jpg'
 source: CIA
 type: image

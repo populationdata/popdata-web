@@ -9,6 +9,7 @@ continents:
 countries:
   - canada
   - etats-unis
-image: 'http://www.populationdata.net/wp-content/uploads/nouvelle-france-1562-1763.jpg'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/nouvelle-france-1562-1763.jpg
 source: Wikipédia
 type: image

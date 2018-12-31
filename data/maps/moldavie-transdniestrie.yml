@@ -8,6 +8,6 @@ continents: []
 countries:
   - transnistrie
   - moldavie
-image: 'http://www.populationdata.net/wp-content/uploads/moldavie-transdniestrie.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/moldavie-transdniestrie.gif'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - afghanistan
 image: >-
-  http://www.populationdata.net/wp-content/uploads/afganistan-otan-forces-dec08.jpg
+  https://www.populationdata.net/wp-content/uploads/afganistan-otan-forces-dec08.jpg
 source: OTAN
 type: image

@@ -7,6 +7,6 @@ en:
 continents:
   - afrique
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/afrique-oms-ebola-2014.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/afrique-oms-ebola-2014.jpg'
 source: OMS
 type: image

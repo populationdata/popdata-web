@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - allemagne
-image: 'http://www.populationdata.net/wp-content/uploads/allemagne_densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/allemagne_densite.gif'
 source: Francis Monthé
 type: image

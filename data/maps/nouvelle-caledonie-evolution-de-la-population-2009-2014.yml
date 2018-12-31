@@ -8,6 +8,6 @@ continents: []
 countries:
   - nouvelle-caledonie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/nouvelle-caledonie-population-evolution-2009-2014.jpg
+  https://www.populationdata.net/wp-content/uploads/nouvelle-caledonie-population-evolution-2009-2014.jpg
 source: Institut de la Statistique et des études économiques (ISEE)
 type: image

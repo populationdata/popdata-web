@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - estonie
-image: 'http://www.populationdata.net/wp-content/uploads/estonie-villes.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/estonie-villes.gif'
 source: Statistiques Estonie
 type: image

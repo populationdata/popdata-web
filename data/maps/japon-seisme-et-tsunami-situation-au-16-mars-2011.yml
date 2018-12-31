@@ -8,6 +8,6 @@ continents: []
 countries:
   - japon
 image: >-
-  http://www.populationdata.net/wp-content/uploads/japon-seisme-tsunami-mars2011.jpg
+  https://www.populationdata.net/wp-content/uploads/japon-seisme-tsunami-mars2011.jpg
 source: OCHA - Relief Web
 type: image

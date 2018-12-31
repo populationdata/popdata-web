@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - suisse
-image: 'http://www.populationdata.net/wp-content/uploads/suisse_agglo.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/suisse_agglo.gif'
 source: OFS
 type: image

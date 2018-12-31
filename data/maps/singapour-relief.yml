@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - singapour
-image: 'http://www.populationdata.net/wp-content/uploads/singapour_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/singapour_relief.jpg'
 source: CIA
 type: image

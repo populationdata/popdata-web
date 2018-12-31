@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - costa-rica
-image: 'http://www.populationdata.net/wp-content/uploads/costa_rica.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/costa_rica.jpg'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - australie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/australie-zones-climatiques.png
+  https://www.populationdata.net/wp-content/uploads/australie-zones-climatiques.png
 source: Wikipédia
 type: image

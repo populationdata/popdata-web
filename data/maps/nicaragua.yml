@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - nicaragua
-image: 'http://www.populationdata.net/wp-content/uploads/nicaragua.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/nicaragua.jpg'
 source: CIA
 type: image

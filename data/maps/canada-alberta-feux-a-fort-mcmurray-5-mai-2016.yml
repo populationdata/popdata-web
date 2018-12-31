@@ -8,6 +8,6 @@ continents: []
 countries:
   - canada
 image: >-
-  http://www.populationdata.net/wp-content/uploads/canada-fortmcmurray-feux-2016.jpg
+  https://www.populationdata.net/wp-content/uploads/canada-fortmcmurray-feux-2016.jpg
 source: Nasa Earth Observatory
 type: image

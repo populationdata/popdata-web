@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - canada
-image: 'http://www.populationdata.net/wp-content/uploads/canada-administrative.png'
+image: 'https://www.populationdata.net/wp-content/uploads/canada-administrative.png'
 source: Wikipédia
 type: image

@@ -7,6 +7,7 @@ en:
 continents: []
 countries:
   - sri-lanka
-image: 'http://www.populationdata.net/wp-content/uploads/sri-lanka-population-2012.jpg'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/sri-lanka-population-2012.jpg
 source: Département du recensement et des statistiques du Sri Lanka
 type: image

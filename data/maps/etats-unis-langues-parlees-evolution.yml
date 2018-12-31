@@ -8,6 +8,6 @@ continents: []
 countries:
   - etats-unis
 image: >-
-  http://www.populationdata.net/wp-content/uploads/etats-unis-langues-parles-evolution.png
+  https://www.populationdata.net/wp-content/uploads/etats-unis-langues-parles-evolution.png
 source: Census bureau
 type: image

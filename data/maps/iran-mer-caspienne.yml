@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - iran
-image: 'http://www.populationdata.net/wp-content/uploads/iran-caspienne.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/iran-caspienne.jpg'
 source: CIA
 type: image

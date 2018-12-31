@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - aruba
-image: 'http://www.populationdata.net/wp-content/uploads/aruba-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/aruba-petite.png'
 source: Wikipédia
 type: image

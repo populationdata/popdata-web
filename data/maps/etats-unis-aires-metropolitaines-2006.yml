@@ -8,6 +8,6 @@ continents: []
 countries:
   - etats-unis
 image: >-
-  http://www.populationdata.net/wp-content/uploads/etats-unis-aires-metro-2006.gif
+  https://www.populationdata.net/wp-content/uploads/etats-unis-aires-metro-2006.gif
 source: Census Bureau
 type: image

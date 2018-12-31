@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - afrique-du-sud
-image: 'http://www.populationdata.net/wp-content/uploads/afrique-du-sud-relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/afrique-du-sud-relief.jpg'
 source: CIA
 type: image

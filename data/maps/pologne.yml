@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - pologne
-image: 'http://www.populationdata.net/wp-content/uploads/pologne.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/pologne.jpg'
 source: CIA
 type: image

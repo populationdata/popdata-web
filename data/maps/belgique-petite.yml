@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - belgique
-image: 'http://www.populationdata.net/wp-content/uploads/belgique-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/belgique-petite.png'
 source: CIA
 type: image

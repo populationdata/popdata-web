@@ -14,6 +14,6 @@ countries:
   - japon
   - royaume-uni
   - russie
-image: 'http://www.populationdata.net/wp-content/uploads/monde_g8.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/monde_g8.gif'
 source: PopulationData.net
 type: image

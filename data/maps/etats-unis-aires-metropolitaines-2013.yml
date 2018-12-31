@@ -8,6 +8,6 @@ continents: []
 countries:
   - etats-unis
 image: >-
-  http://www.populationdata.net/wp-content/uploads/etats-unis-aires-metropolitaines-2013.jpg
+  https://www.populationdata.net/wp-content/uploads/etats-unis-aires-metropolitaines-2013.jpg
 source: Census Bureau
 type: image

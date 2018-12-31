@@ -7,6 +7,6 @@ en:
 continents:
   - afrique
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/afrique-ouest-feux.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/afrique-ouest-feux.jpg'
 source: Nasa Earth Observatory
 type: image

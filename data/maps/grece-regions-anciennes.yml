@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - grece
-image: 'http://www.populationdata.net/wp-content/uploads/grece-regions.png'
+image: 'https://www.populationdata.net/wp-content/uploads/grece-regions.png'
 source: Wikipédia
 type: image

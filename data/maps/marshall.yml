@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - marshall
-image: 'http://www.populationdata.net/wp-content/uploads/marshall.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/marshall.jpg'
 source: CIA
 type: image

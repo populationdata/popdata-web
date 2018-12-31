@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - taiwan
-image: 'http://www.populationdata.net/wp-content/uploads/taiwan.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/taiwan.jpg'
 source: CIA
 type: image

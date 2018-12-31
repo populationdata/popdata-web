@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - cap-vert
-image: 'http://www.populationdata.net/wp-content/uploads/cap_vert.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/cap_vert.jpg'
 source: CIA
 type: image

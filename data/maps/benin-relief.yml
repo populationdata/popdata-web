@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - benin
-image: 'http://www.populationdata.net/wp-content/uploads/benin_relief.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/benin_relief.gif'
 source: CIA
 type: image

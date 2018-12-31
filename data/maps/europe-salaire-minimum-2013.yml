@@ -8,6 +8,6 @@ continents:
   - europe
 countries: []
 image: >-
-  http://www.populationdata.net/wp-content/uploads/europe-salaire-minimum-2013.png
+  https://www.populationdata.net/wp-content/uploads/europe-salaire-minimum-2013.png
 source: Eurostat
 type: image

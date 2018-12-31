@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - gabon
-image: 'http://www.populationdata.net/wp-content/uploads/gabon-topographique.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/gabon-topographique.gif'
 source: Wikipédia
 type: image

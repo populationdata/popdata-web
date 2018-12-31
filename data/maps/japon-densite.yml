@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - japon
-image: 'http://www.populationdata.net/wp-content/uploads/japon_densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/japon_densite.gif'
 source: Francis Monthé
 type: image

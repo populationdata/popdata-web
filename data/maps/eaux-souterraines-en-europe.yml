@@ -7,6 +7,6 @@ en:
 continents:
   - europe
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/eaux-souterraines-europe.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/eaux-souterraines-europe.jpg'
 source: UNESCO
 type: image

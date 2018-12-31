@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - tanzanie
-image: 'http://www.populationdata.net/wp-content/uploads/tanzanie_petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/tanzanie_petite.gif'
 source: CIA
 type: image

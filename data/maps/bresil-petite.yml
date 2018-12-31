@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - bresil
-image: 'http://www.populationdata.net/wp-content/uploads/bresil-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/bresil-petite.gif'
 source: CIA
 type: image

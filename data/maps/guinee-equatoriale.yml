@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - guinee-equatoriale
-image: 'http://www.populationdata.net/wp-content/uploads/guinee_equatoriale.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/guinee_equatoriale.jpg'
 source: CIA
 type: image

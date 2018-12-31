@@ -9,6 +9,6 @@ countries:
   - somalie
   - somaliland
   - pount
-image: 'http://www.populationdata.net/wp-content/uploads/somalie_nord.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/somalie_nord.jpg'
 source: CIA
 type: image

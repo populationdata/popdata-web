@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - zimbabwe
-image: 'http://www.populationdata.net/wp-content/uploads/zimbabwe.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/zimbabwe.jpg'
 source: CIA
 type: image

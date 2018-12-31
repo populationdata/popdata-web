@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - portugal
-image: 'http://www.populationdata.net/wp-content/uploads/portugal_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/portugal_relief.jpg'
 source: CIA
 type: image

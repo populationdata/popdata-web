@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - burundi
-image: 'http://www.populationdata.net/wp-content/uploads/burundi_densite.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/burundi_densite.jpg'
 source: CIA
 type: image

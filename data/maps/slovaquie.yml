@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - slovaquie
-image: 'http://www.populationdata.net/wp-content/uploads/slovaquie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/slovaquie.jpg'
 source: CIA
 type: image

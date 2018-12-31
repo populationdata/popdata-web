@@ -8,6 +8,6 @@ continents: []
 countries:
   - cuba
 image: >-
-  http://www.populationdata.net/wp-content/uploads/cuba-inondations-21nov2008.gif
+  https://www.populationdata.net/wp-content/uploads/cuba-inondations-21nov2008.gif
 source: Relief Web
 type: image

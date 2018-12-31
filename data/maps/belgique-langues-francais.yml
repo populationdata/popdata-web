@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - belgique
-image: 'http://www.populationdata.net/wp-content/uploads/belgique-francais.png'
+image: 'https://www.populationdata.net/wp-content/uploads/belgique-francais.png'
 source: Wikipédia
 type: image

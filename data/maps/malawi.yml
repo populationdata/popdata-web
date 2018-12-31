@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - malawi
-image: 'http://www.populationdata.net/wp-content/uploads/malawi.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/malawi.jpg'
 source: CIA
 type: image

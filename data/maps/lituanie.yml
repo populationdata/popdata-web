@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - lituanie
-image: 'http://www.populationdata.net/wp-content/uploads/lituanie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/lituanie.jpg'
 source: CIA
 type: image

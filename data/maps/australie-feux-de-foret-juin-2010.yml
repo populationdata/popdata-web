@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - australie
-image: 'http://www.populationdata.net/wp-content/uploads/australie-feux-juin2010.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/australie-feux-juin2010.jpg'
 source: Nasa Earth Observatory
 type: image

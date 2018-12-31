@@ -7,6 +7,6 @@ en:
 continents:
   - europe
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/europe-nucleaire.png'
+image: 'https://www.populationdata.net/wp-content/uploads/europe-nucleaire.png'
 source: Artemco
 type: image

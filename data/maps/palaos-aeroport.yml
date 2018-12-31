@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - palaos
-image: 'http://www.populationdata.net/wp-content/uploads/palau-aeroport.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/palau-aeroport.jpg'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - bangladesh
 image: >-
-  http://www.populationdata.net/wp-content/uploads/bangladesh-inondations-aout07.gif
+  https://www.populationdata.net/wp-content/uploads/bangladesh-inondations-aout07.gif
 source: UNOSAT
 type: image

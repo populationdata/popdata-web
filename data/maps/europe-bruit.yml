@@ -7,6 +7,6 @@ en:
 continents:
   - europe
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/europe-bruit.png'
+image: 'https://www.populationdata.net/wp-content/uploads/europe-bruit.png'
 source: Agence européenne de l'environnement
 type: image

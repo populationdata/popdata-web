@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - philippines
-image: 'http://www.populationdata.net/wp-content/uploads/philippines_jolo.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/philippines_jolo.jpg'
 source: CIA
 type: image

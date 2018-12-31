@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - allemagne
-image: 'http://www.populationdata.net/wp-content/uploads/allemagne_politique.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/allemagne_politique.jpg'
 source: CIA
 type: image

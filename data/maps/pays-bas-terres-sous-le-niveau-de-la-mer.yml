@@ -8,6 +8,6 @@ continents: []
 countries:
   - pays-bas
 image: >-
-  http://www.populationdata.net/wp-content/uploads/pays-bas-terres-sous-la-mer.png
+  https://www.populationdata.net/wp-content/uploads/pays-bas-terres-sous-la-mer.png
 source: Wikipédia
 type: image

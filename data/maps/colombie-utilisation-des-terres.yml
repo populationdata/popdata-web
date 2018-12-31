@@ -8,6 +8,6 @@ continents: []
 countries:
   - colombie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/colombie-utilisation-terres.jpg
+  https://www.populationdata.net/wp-content/uploads/colombie-utilisation-terres.jpg
 source: CIA
 type: image

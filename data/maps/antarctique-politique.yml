@@ -8,6 +8,6 @@ continents:
   - antarctique
 countries:
   - antarctique
-image: 'http://www.populationdata.net/wp-content/uploads/antarctique_politique.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/antarctique_politique.jpg'
 source: CIA
 type: image

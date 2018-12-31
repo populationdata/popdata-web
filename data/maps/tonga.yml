@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - tonga
-image: 'http://www.populationdata.net/wp-content/uploads/tonga.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/tonga.jpg'
 source: CIA
 type: image

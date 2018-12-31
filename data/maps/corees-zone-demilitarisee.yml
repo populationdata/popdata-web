@@ -8,6 +8,7 @@ continents: []
 countries:
   - coree-du-nord
   - coree-du-sud
-image: 'http://www.populationdata.net/wp-content/uploads/corees_zone_demilitarisee.jpg'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/corees_zone_demilitarisee.jpg
 source: CIA
 type: image

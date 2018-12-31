@@ -8,6 +8,6 @@ continents: []
 countries:
   - tchequie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/republique-tcheque-densite-2015.jpg
+  https://www.populationdata.net/wp-content/uploads/republique-tcheque-densite-2015.jpg
 source: Office statistique tchèque
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - albanie
-image: 'http://www.populationdata.net/wp-content/uploads/albanie-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/albanie-petite.png'
 source: CIA
 type: image

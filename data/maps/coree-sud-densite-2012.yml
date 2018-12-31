@@ -8,6 +8,6 @@ continents: []
 countries:
   - coree-du-sud
 image: >-
-  http://www.populationdata.net/wp-content/uploads/coree-du-sud-densite-population.png
+  https://www.populationdata.net/wp-content/uploads/coree-du-sud-densite-population.png
 source: Statistiques de Corée du Sud
 type: image

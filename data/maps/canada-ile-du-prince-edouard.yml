@@ -8,6 +8,6 @@ continents: []
 countries:
   - canada
 image: >-
-  http://www.populationdata.net/wp-content/uploads/canada_ile_du_prince_edouard.jpg
+  https://www.populationdata.net/wp-content/uploads/canada_ile_du_prince_edouard.jpg
 source: Ressources Naturelles Canada
 type: image

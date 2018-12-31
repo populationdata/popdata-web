@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - gibraltar
-image: 'http://www.populationdata.net/wp-content/uploads/gibraltar.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/gibraltar.jpg'
 source: CIA
 type: image

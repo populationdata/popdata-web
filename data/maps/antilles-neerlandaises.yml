@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - antilles-neerlandaises
-image: 'http://www.populationdata.net/wp-content/uploads/antilles_neerlandaises.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/antilles_neerlandaises.jpg'
 source: CIA
 type: image

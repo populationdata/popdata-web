@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - coree-du-nord
-image: 'http://www.populationdata.net/wp-content/uploads/coree-du-nord.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/coree-du-nord.jpg'
 source: CIA
 type: image

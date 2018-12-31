@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - etats-unis
-image: 'http://www.populationdata.net/wp-content/uploads/etats_unis_religions.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/etats_unis_religions.gif'
 source: Census.gov
 type: image

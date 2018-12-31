@@ -7,6 +7,6 @@ en:
 continents:
   - afrique
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/afrique-faim-2013.png'
+image: 'https://www.populationdata.net/wp-content/uploads/afrique-faim-2013.png'
 source: Programme alimentaire mondial (PAM)
 type: image

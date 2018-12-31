@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - ethiopie
-image: 'http://www.populationdata.net/wp-content/uploads/ethiopie-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/ethiopie-petite.gif'
 source: CIA
 type: image

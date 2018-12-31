@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - etats-unis
-image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-topographique.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/etats-unis-topographique.jpg'
 source: US National Atlas
 type: image

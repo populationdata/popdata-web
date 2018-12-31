@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-revenu-fiscal-par-menage-median-par-commune-en.jpg
+  https://www.populationdata.net/wp-content/uploads/france-revenu-fiscal-par-menage-median-par-commune-en.jpg
 source: Le Monde
 type: image

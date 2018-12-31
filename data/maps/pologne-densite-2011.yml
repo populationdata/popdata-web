@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - pologne
-image: 'http://www.populationdata.net/wp-content/uploads/pologne-densite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/pologne-densite.png'
 source: Eurostat - Szymon
 type: image

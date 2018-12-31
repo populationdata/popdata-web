@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - guyane
-image: 'http://www.populationdata.net/wp-content/uploads/guyane.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/guyane.jpg'
 source: Wikipédia
 type: image

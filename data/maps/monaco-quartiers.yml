@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - monaco
-image: 'http://www.populationdata.net/wp-content/uploads/monaco-quartiers.png'
+image: 'https://www.populationdata.net/wp-content/uploads/monaco-quartiers.png'
 source: Wikipédia
 type: image

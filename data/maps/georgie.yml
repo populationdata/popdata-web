@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - georgie
-image: 'http://www.populationdata.net/wp-content/uploads/georgie_grande.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/georgie_grande.jpg'
 source: CIA
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - maroc
-image: 'http://www.populationdata.net/wp-content/uploads/maroc-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/maroc-petite.gif'
 source: Wikipédia
 type: image

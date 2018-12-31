@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - syrie
-image: 'http://www.populationdata.net/wp-content/uploads/syrie_damas.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/syrie_damas.jpg'
 source: CIA
 type: image

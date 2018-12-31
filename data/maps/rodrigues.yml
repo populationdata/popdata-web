@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - maurice
-image: 'http://www.populationdata.net/wp-content/uploads/maurice-rodrigues.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/maurice-rodrigues.jpg'
 source: CIA
 type: image

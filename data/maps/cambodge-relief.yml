@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - cambodge
-image: 'http://www.populationdata.net/wp-content/uploads/cambodge_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/cambodge_relief.jpg'
 source: CIA
 type: image

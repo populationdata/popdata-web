@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - japon
-image: 'http://www.populationdata.net/wp-content/uploads/japon_politique.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/japon_politique.jpg'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - japon
 image: >-
-  http://www.populationdata.net/wp-content/uploads/japon-kitakami-tsunami-dommages.jpg
+  https://www.populationdata.net/wp-content/uploads/japon-kitakami-tsunami-dommages.jpg
 source: Nasa Earth Observatory
 type: image

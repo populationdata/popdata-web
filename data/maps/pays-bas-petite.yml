@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - pays-bas
-image: 'http://www.populationdata.net/wp-content/uploads/pays-bas-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/pays-bas-petite.png'
 source: Wikipédia
 type: image

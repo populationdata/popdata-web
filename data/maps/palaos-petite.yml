@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - palaos
-image: 'http://www.populationdata.net/wp-content/uploads/palau-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/palau-petite.gif'
 source: CIA
 type: image

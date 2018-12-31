@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - belarus-bielorussie
-image: 'http://www.populationdata.net/wp-content/uploads/belarus.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/belarus.jpg'
 source: CIA
 type: image

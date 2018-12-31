@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - perou
-image: 'http://www.populationdata.net/wp-content/uploads/perou-coca.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/perou-coca.gif'
 source: ONUDC
 type: image

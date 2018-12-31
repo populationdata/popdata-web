@@ -9,6 +9,6 @@ continents:
   - asie
   - oceanie
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/apec.png'
+image: 'https://www.populationdata.net/wp-content/uploads/apec.png'
 source: Wikipédia
 type: image

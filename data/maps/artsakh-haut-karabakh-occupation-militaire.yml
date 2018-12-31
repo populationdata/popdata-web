@@ -9,6 +9,7 @@ countries:
   - artsakh-haut-karabakh
   - azerbaidjan
   - armenie
-image: 'http://www.populationdata.net/wp-content/uploads/azerbaidjan-haut-karabakh.png'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/azerbaidjan-haut-karabakh.png
 source: Wikipédia
 type: image

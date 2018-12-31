@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - gabon
-image: 'http://www.populationdata.net/wp-content/uploads/gabon-administrative.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/gabon-administrative.jpg'
 source: CIA
 type: image

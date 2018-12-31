@@ -7,6 +7,6 @@ en:
 continents:
   - europe
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/Europe-voies-naviguables.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/Europe-voies-naviguables.jpg'
 source: ONU
 type: image

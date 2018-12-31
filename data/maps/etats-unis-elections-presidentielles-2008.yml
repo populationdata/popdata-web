@@ -7,6 +7,7 @@ en:
 continents: []
 countries:
   - etats-unis
-image: 'http://www.populationdata.net/wp-content/uploads/etats-unis-elections-2008.jpg'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/etats-unis-elections-2008.jpg
 source: New York Times
 type: image

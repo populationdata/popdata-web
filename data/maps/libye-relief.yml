@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - libye
-image: 'http://www.populationdata.net/wp-content/uploads/libye_relief.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/libye_relief.gif'
 source: CIA
 type: image

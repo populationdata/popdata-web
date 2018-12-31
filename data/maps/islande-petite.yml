@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - islande
-image: 'http://www.populationdata.net/wp-content/uploads/islande-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/islande-petite.gif'
 source: CIA
 type: image

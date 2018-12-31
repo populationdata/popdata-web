@@ -8,6 +8,6 @@ continents: []
 countries:
   - taiwan
   - chine
-image: 'http://www.populationdata.net/wp-content/uploads/taiwan_detroit.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/taiwan_detroit.jpg'
 source: CIA
 type: image

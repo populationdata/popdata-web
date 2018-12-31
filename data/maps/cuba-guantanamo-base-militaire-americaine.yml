@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - cuba
-image: 'http://www.populationdata.net/wp-content/uploads/cuba_guantanamo.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/cuba_guantanamo.jpg'
 source: CIA
 type: image

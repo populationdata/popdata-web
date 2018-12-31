@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - haiti
-image: 'http://www.populationdata.net/wp-content/uploads/haiti-topographique.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/haiti-topographique.gif'
 source: Wikipédia
 type: image

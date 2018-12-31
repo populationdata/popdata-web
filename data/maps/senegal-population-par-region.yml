@@ -8,6 +8,6 @@ continents: []
 countries:
   - senegal
 image: >-
-  http://www.populationdata.net/wp-content/uploads/senegal-regions-population.png
+  https://www.populationdata.net/wp-content/uploads/senegal-regions-population.png
 source: Agence Nationale de la Statistique et de la Démographie du Sénégal
 type: image

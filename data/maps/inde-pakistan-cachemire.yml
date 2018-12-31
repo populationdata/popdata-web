@@ -9,6 +9,6 @@ countries:
   - inde
   - pakistan
   - chine
-image: 'http://www.populationdata.net/wp-content/uploads/inde_kashmir.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/inde_kashmir.jpg'
 source: CIA
 type: image

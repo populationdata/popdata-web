@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - chine
-image: 'http://www.populationdata.net/wp-content/uploads/chine-pollution.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/chine-pollution.jpg'
 source: Carto/Areion/Capri
 type: image

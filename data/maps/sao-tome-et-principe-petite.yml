@@ -8,6 +8,6 @@ continents: []
 countries:
   - sao-tome-et-principe
 image: >-
-  http://www.populationdata.net/wp-content/uploads/sao-tome-et-principe-petite.png
+  https://www.populationdata.net/wp-content/uploads/sao-tome-et-principe-petite.png
 source: Wikipédia
 type: image

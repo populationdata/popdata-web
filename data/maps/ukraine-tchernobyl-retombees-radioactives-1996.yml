@@ -8,6 +8,6 @@ continents: []
 countries:
   - belarus-bielorussie
   - ukraine
-image: 'http://www.populationdata.net/wp-content/uploads/ukraine_tchernobyl_1996.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/ukraine_tchernobyl_1996.jpg'
 source: ONU
 type: image

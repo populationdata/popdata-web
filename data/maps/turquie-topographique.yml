@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - turquie
-image: 'http://www.populationdata.net/wp-content/uploads/turquie-topographique.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/turquie-topographique.jpg'
 source: Wikipédia
 type: image

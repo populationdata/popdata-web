@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - argentine
-image: 'http://www.populationdata.net/wp-content/uploads/argentinedensite.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/argentinedensite.jpg'
 source: INDEC
 type: image

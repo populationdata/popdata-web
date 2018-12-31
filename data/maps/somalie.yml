@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - somalie
-image: 'http://www.populationdata.net/wp-content/uploads/somalie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/somalie.jpg'
 source: CIA
 type: image

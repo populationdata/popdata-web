@@ -8,6 +8,6 @@ continents: []
 countries:
   - chili
 image: >-
-  http://www.populationdata.net/wp-content/uploads/chili-seisme-27-fevrier-2010-exposition.png
+  https://www.populationdata.net/wp-content/uploads/chili-seisme-27-fevrier-2010-exposition.png
 source: USGS - Earthquake Hazards Program
 type: image

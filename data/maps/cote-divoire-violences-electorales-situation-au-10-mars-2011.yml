@@ -8,6 +8,6 @@ continents: []
 countries:
   - cote-divoire
 image: >-
-  http://www.populationdata.net/wp-content/uploads/cote-d-ivoire-violences-electorales-mars2011.jpg
+  https://www.populationdata.net/wp-content/uploads/cote-d-ivoire-violences-electorales-mars2011.jpg
 source: OCHA
 type: image

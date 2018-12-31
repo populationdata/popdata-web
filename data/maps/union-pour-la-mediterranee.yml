@@ -10,6 +10,6 @@ continents:
   - afrique
 countries: []
 image: >-
-  http://www.populationdata.net/wp-content/uploads/union-pour-la-mediterranee.png
+  https://www.populationdata.net/wp-content/uploads/union-pour-la-mediterranee.png
 source: 'PopulationData.net ; fond de carte : Sciences Po'
 type: image

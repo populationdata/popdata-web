@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/vendee-globe-2008.png'
+image: 'https://www.populationdata.net/wp-content/uploads/vendee-globe-2008.png'
 source: Vendée Globe
 type: image

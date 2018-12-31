@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - venezuela
-image: 'http://www.populationdata.net/wp-content/uploads/venezuela-petrole.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/venezuela-petrole.jpg'
 source: CIA
 type: image

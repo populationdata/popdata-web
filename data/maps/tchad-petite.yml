@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - tchad
-image: 'http://www.populationdata.net/wp-content/uploads/tchad-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/tchad-petite.gif'
 source: Wikipédia
 type: image

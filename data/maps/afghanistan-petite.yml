@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - afghanistan
-image: 'http://www.populationdata.net/wp-content/uploads/afghanistan-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/afghanistan-petite.png'
 source: CIA
 type: image

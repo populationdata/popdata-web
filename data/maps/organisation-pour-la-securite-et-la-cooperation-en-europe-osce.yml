@@ -7,6 +7,6 @@ en:
 continents:
   - europe
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/osce.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/osce.gif'
 source: Wikipédia
 type: image

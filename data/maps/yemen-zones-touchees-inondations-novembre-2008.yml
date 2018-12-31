@@ -8,6 +8,6 @@ continents: []
 countries:
   - yemen
 image: >-
-  http://www.populationdata.net/wp-content/uploads/yemen-inondations-novembre08.jpg
+  https://www.populationdata.net/wp-content/uploads/yemen-inondations-novembre08.jpg
 source: FAO
 type: image

@@ -8,6 +8,6 @@ continents:
   - afrique
   - asie
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/monde-poliomyelite.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/monde-poliomyelite.jpg'
 source: Organisation mondiale de la Santé (OMS)
 type: image

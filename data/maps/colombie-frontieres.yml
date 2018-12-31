@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - colombie
-image: 'http://www.populationdata.net/wp-content/uploads/colombie-frontieres.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/colombie-frontieres.jpg'
 source: Institut national des statistiques
 type: image

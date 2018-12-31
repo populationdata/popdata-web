@@ -13,6 +13,6 @@ continents: []
 countries:
   - haiti
 image: >-
-  http://www.populationdata.net/wp-content/uploads/haiti-port-au-prince-seisme-13-janvier-2010.jpg
+  https://www.populationdata.net/wp-content/uploads/haiti-port-au-prince-seisme-13-janvier-2010.jpg
 source: GeoEye
 type: image

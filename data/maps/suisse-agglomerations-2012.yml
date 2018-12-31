@@ -8,6 +8,6 @@ continents: []
 countries:
   - suisse
 image: >-
-  http://www.populationdata.net/wp-content/uploads/suisse-agglomerations-2012.jpg
+  https://www.populationdata.net/wp-content/uploads/suisse-agglomerations-2012.jpg
 source: OFS
 type: image

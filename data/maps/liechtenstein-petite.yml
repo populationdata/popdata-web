@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - liechtenstein
-image: 'http://www.populationdata.net/wp-content/uploads/liechtenstein-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/liechtenstein-petite.gif'
 source: CIA
 type: image

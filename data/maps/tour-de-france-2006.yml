@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/tourdefrance2006.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/tourdefrance2006.jpg'
 source: Tour de France
 type: image

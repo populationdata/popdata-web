@@ -8,6 +8,6 @@ continents: []
 countries:
   - republique-democratique-du-congo
 image: >-
-  http://www.populationdata.net/wp-content/uploads/republique-democratique-du-congo.jpg
+  https://www.populationdata.net/wp-content/uploads/republique-democratique-du-congo.jpg
 source: CIA
 type: image

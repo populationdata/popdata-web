@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - mexique
-image: 'http://www.populationdata.net/wp-content/uploads/mexique_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/mexique_relief.jpg'
 source: CIA
 type: image

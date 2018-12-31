@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - algerie
-image: 'http://www.populationdata.net/wp-content/uploads/algerie_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/algerie_relief.jpg'
 source: CIA
 type: image

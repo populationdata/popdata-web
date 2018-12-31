@@ -8,6 +8,6 @@ continents: []
 countries:
   - pakistan
 image: >-
-  http://www.populationdata.net/wp-content/uploads/pakistan-inondations-aout2010.jpg
+  https://www.populationdata.net/wp-content/uploads/pakistan-inondations-aout2010.jpg
 source: Nasa Earth Observatory
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - macao
-image: 'http://www.populationdata.net/wp-content/uploads/macao-topographique.png'
+image: 'https://www.populationdata.net/wp-content/uploads/macao-topographique.png'
 source: Wikipédia
 type: image

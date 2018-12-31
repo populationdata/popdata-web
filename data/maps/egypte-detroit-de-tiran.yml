@@ -8,6 +8,6 @@ continents: []
 countries:
   - egypte
   - arabie-saoudite
-image: 'http://www.populationdata.net/wp-content/uploads/egypte_detroit_tiran.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/egypte_detroit_tiran.jpg'
 source: CIA
 type: image

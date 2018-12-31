@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france-tgv-2002.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/france-tgv-2002.gif'
 source: SNCF
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - colombie
-image: 'http://www.populationdata.net/wp-content/uploads/colombie-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/colombie-petite.png'
 source: CIA
 type: image

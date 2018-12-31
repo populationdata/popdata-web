@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - turquie
-image: 'http://www.populationdata.net/wp-content/uploads/turquie_nord_ouest.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/turquie_nord_ouest.jpg'
 source: CIA
 type: image

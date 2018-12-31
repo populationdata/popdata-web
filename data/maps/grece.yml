@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - grece
-image: 'http://www.populationdata.net/wp-content/uploads/grece.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/grece.jpg'
 source: CIA
 type: image

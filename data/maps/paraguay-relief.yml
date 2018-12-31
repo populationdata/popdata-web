@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - paraguay
-image: 'http://www.populationdata.net/wp-content/uploads/paraguay.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/paraguay.jpg'
 source: CIA
 type: image

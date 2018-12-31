@@ -8,6 +8,6 @@ continents: []
 countries:
   - venezuela
 image: >-
-  http://www.populationdata.net/wp-content/uploads/venezuela_groupes_indigenes.jpg
+  https://www.populationdata.net/wp-content/uploads/venezuela_groupes_indigenes.jpg
 source: CIA
 type: image

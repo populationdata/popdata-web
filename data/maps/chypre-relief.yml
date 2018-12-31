@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - chypre
-image: 'http://www.populationdata.net/wp-content/uploads/chypre_relief.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/chypre_relief.gif'
 source: CIA
 type: image

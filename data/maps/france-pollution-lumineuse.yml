@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-pollution-lumineuse.jpg
+  https://www.populationdata.net/wp-content/uploads/france-pollution-lumineuse.jpg
 source: ANPCEN
 type: image

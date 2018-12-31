@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - bangladesh
-image: 'http://www.populationdata.net/wp-content/uploads/bangladesh.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/bangladesh.jpg'
 source: CIA
 type: image

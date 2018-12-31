@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - arabie-saoudite
-image: 'http://www.populationdata.net/wp-content/uploads/arabie-saoudite-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/arabie-saoudite-petite.gif'
 source: CIA
 type: image

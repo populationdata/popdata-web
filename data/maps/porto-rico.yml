@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - porto-rico
-image: 'http://www.populationdata.net/wp-content/uploads/porto_rico.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/porto_rico.jpg'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - russie
   - japon
-image: 'http://www.populationdata.net/wp-content/uploads/japon_russie_kourils.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/japon_russie_kourils.jpg'
 source: CIA
 type: image

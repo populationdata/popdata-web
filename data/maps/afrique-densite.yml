@@ -7,6 +7,6 @@ en:
 continents:
   - afrique
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/europe_afrique_densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/europe_afrique_densite.gif'
 source: nc
 type: image

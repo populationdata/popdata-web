@@ -7,6 +7,7 @@ en:
 continents: []
 countries:
   - somalie
-image: 'http://www.populationdata.net/wp-content/uploads/somalie_mogadiscio-region.gif'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/somalie_mogadiscio-region.gif
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - canada
 image: >-
-  http://www.populationdata.net/wp-content/uploads/canada-couleurs-automne-2014.jpg
+  https://www.populationdata.net/wp-content/uploads/canada-couleurs-automne-2014.jpg
 source: Nasa
 type: image

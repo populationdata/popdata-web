@@ -8,6 +8,6 @@ continents: []
 countries:
   - afrique-du-sud
 image: >-
-  http://www.populationdata.net/wp-content/uploads/afrique-du-sud-densite-2011.png
+  https://www.populationdata.net/wp-content/uploads/afrique-du-sud-densite-2011.png
 source: 'Statssa, Adrian Frith'
 type: image

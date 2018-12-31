@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - bosnie-et-herzegovine
-image: 'http://www.populationdata.net/wp-content/uploads/bosnie_herzegovine.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/bosnie_herzegovine.jpg'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - polynesie-francaise
 image: >-
-  http://www.populationdata.net/wp-content/uploads/polynesie_francaise_petite.gif
+  https://www.populationdata.net/wp-content/uploads/polynesie_francaise_petite.gif
 source: CIA
 type: image

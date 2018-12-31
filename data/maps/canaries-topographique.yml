@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - canaries
-image: 'http://www.populationdata.net/wp-content/uploads/canaries-topographique.png'
+image: 'https://www.populationdata.net/wp-content/uploads/canaries-topographique.png'
 source: Wikipédia
 type: image

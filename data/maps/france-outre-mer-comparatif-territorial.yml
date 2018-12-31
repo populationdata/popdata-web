@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-outre-mer-territoires-comparaison.png
+  https://www.populationdata.net/wp-content/uploads/france-outre-mer-territoires-comparaison.png
 source: Wikipédia
 type: image

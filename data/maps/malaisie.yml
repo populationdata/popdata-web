@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - malaisie
-image: 'http://www.populationdata.net/wp-content/uploads/malaisie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/malaisie.jpg'
 source: CIA
 type: image

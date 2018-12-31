@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-centrales-nucleaires.gif
+  https://www.populationdata.net/wp-content/uploads/france-centrales-nucleaires.gif
 source: 'Commissariat à l''énergie atomique (CEA), Le Monde'
 type: image

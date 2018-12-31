@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - australie
-image: 'http://www.populationdata.net/wp-content/uploads/australie-densite-2012.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/australie-densite-2012.gif'
 source: Bureau australien des statistiques
 type: image

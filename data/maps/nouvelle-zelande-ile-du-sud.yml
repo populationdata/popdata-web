@@ -8,6 +8,6 @@ continents: []
 countries:
   - nouvelle-zelande
 image: >-
-  http://www.populationdata.net/wp-content/uploads/nouvelle-zelande-ile-du-sud.gif
+  https://www.populationdata.net/wp-content/uploads/nouvelle-zelande-ile-du-sud.gif
 source: Wikipédia
 type: image

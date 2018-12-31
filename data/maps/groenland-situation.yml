@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - groenland
-image: 'http://www.populationdata.net/wp-content/uploads/groenland.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/groenland.jpg'
 source: CIA
 type: image

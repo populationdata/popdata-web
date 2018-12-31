@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - bangladesh
-image: 'http://www.populationdata.net/wp-content/uploads/bangladesh-densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/bangladesh-densite.gif'
 source: UNOSAT
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - irlande
-image: 'http://www.populationdata.net/wp-content/uploads/irlande-densite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/irlande-densite.gif'
 source: Office central des statistiques d'Irlande
 type: image

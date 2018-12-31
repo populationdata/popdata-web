@@ -8,6 +8,6 @@ continents: []
 countries:
   - rwanda
   - burundi
-image: 'http://www.populationdata.net/wp-content/uploads/rwanda.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/rwanda.jpg'
 source: CIA
 type: image

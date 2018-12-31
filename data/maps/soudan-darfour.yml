@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - soudan
-image: 'http://www.populationdata.net/wp-content/uploads/soudan-darfour.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/soudan-darfour.jpg'
 source: UNOSAT
 type: image

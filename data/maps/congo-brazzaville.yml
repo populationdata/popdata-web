@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - congo
-image: 'http://www.populationdata.net/wp-content/uploads/congo_brazzaville.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/congo_brazzaville.gif'
 source: CIA
 type: image

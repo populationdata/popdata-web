@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - turquie
-image: 'http://www.populationdata.net/wp-content/uploads/turquie_densite.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/turquie_densite.jpg'
 source: CIA
 type: image

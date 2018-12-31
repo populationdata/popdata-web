@@ -7,5 +7,5 @@ en:
 continents: []
 countries:
   - chine
-image: 'http://www.populationdata.net/wp-content/uploads/chine_densite.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/chine_densite.jpg'
 type: image

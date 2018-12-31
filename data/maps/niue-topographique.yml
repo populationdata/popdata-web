@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - nioue
-image: 'http://www.populationdata.net/wp-content/uploads/niue-topographique.png'
+image: 'https://www.populationdata.net/wp-content/uploads/niue-topographique.png'
 source: Wikipédia
 type: image

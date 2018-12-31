@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - vatican
-image: 'http://www.populationdata.net/wp-content/uploads/vatican-topographique.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/vatican-topographique.gif'
 source: Wikipédia
 type: image

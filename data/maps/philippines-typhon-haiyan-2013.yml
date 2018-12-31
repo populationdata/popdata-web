@@ -7,6 +7,7 @@ en:
 continents: []
 countries:
   - philippines
-image: 'http://www.populationdata.net/wp-content/uploads/typhon-haiyan-philippines.jpg'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/typhon-haiyan-philippines.jpg
 source: Nasa Earth Observatory
 type: image

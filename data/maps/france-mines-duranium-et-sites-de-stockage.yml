@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-uranium-mines-stockage.gif
+  https://www.populationdata.net/wp-content/uploads/france-uranium-mines-stockage.gif
 source: IRSN
 type: image

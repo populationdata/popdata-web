@@ -10,6 +10,6 @@ countries:
   - mongolie
   - chine
   - russie
-image: 'http://www.populationdata.net/wp-content/uploads/mongolie_mongol_empire.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/mongolie_mongol_empire.jpg'
 source: Wikipédia
 type: image

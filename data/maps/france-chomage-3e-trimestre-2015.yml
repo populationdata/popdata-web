@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-chomage-3e-tri-2015.jpg
+  https://www.populationdata.net/wp-content/uploads/france-chomage-3e-tri-2015.jpg
 source: Insee
 type: image

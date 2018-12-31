@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - palestine
-image: 'http://www.populationdata.net/wp-content/uploads/palestine_gaza_1999.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/palestine_gaza_1999.jpg'
 source: ONU
 type: image

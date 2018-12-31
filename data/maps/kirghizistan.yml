@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - kirghizistan
-image: 'http://www.populationdata.net/wp-content/uploads/kirghizstan.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/kirghizstan.jpg'
 source: CIA
 type: image

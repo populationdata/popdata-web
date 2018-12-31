@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - panama
-image: 'http://www.populationdata.net/wp-content/uploads/panama.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/panama.jpg'
 source: CIA
 type: image

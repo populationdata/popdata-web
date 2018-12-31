@@ -8,6 +8,6 @@ continents: []
 countries:
   - antilles-neerlandaises
   - curacao
-image: 'http://www.populationdata.net/wp-content/uploads/curacao-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/curacao-petite.gif'
 source: CIA
 type: image

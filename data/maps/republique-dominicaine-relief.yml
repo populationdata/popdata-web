@@ -8,6 +8,6 @@ continents: []
 countries:
   - republique-dominicaine
 image: >-
-  http://www.populationdata.net/wp-content/uploads/republique_dominicaine_relief.jpg
+  https://www.populationdata.net/wp-content/uploads/republique_dominicaine_relief.jpg
 source: CIA
 type: image

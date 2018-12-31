@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - tunisie
-image: 'http://www.populationdata.net/wp-content/uploads/tunisie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/tunisie.jpg'
 source: CIA
 type: image

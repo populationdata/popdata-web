@@ -8,6 +8,6 @@ continents:
   - europe
 countries: []
 image: >-
-  http://www.populationdata.net/wp-content/uploads/europe-centrales-nucleaires.gif
+  https://www.populationdata.net/wp-content/uploads/europe-centrales-nucleaires.gif
 source: 'Le Monde, AIEA'
 type: image

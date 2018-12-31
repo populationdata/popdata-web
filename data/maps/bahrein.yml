@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - bahrein
-image: 'http://www.populationdata.net/wp-content/uploads/bahrein.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/bahrein.jpg'
 source: CIA
 type: image

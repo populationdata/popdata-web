@@ -8,6 +8,6 @@ continents: []
 countries:
   - indonesie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/indonesie-ethno-linguistique.jpg
+  https://www.populationdata.net/wp-content/uploads/indonesie-ethno-linguistique.jpg
 source: CIA
 type: image

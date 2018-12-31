@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - sri-lanka
-image: 'http://www.populationdata.net/wp-content/uploads/sri_lanka.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/sri_lanka.jpg'
 source: CIA
 type: image

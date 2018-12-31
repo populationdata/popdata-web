@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france_relief2.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/france_relief2.gif'
 source: IGN
 type: image

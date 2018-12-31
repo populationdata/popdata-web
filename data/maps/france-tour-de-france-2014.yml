@@ -8,6 +8,6 @@ continents: []
 countries:
   - france
 image: >-
-  http://www.populationdata.net/wp-content/uploads/france-tour-de-france-2014.jpg
+  https://www.populationdata.net/wp-content/uploads/france-tour-de-france-2014.jpg
 source: Tour de France
 type: image

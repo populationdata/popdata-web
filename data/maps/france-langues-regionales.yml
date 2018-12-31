@@ -7,6 +7,7 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france-langues-regionales.jpg'
+image: >-
+  https://www.populationdata.net/wp-content/uploads/france-langues-regionales.jpg
 source: AFP
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - jordanie
-image: 'http://www.populationdata.net/wp-content/uploads/jordanie.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/jordanie.gif'
 source: CIA
 type: image

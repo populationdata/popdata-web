@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - guadeloupe
-image: 'http://www.populationdata.net/wp-content/uploads/guadeloupe.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/guadeloupe.gif'
 source: GraphicMaps
 type: image

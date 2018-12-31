@@ -8,6 +8,6 @@ continents: []
 countries:
   - bangladesh
 image: >-
-  http://www.populationdata.net/wp-content/uploads/bangladesh_inondations_07_2004.jpg
+  https://www.populationdata.net/wp-content/uploads/bangladesh_inondations_07_2004.jpg
 source: ''
 type: image

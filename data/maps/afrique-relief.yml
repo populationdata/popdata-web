@@ -7,6 +7,6 @@ en:
 continents:
   - afrique
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/afrique-relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/afrique-relief.jpg'
 source: Nasa
 type: image

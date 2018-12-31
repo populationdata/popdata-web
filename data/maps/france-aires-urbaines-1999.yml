@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france_aires_urbaines.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/france_aires_urbaines.jpg'
 source: Insee
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - coree-du-nord
   - coree-du-sud
-image: 'http://www.populationdata.net/wp-content/uploads/corees-nucleaire.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/corees-nucleaire.jpg'
 source: Le Monde Diplomatique
 type: image

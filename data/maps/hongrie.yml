@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - hongrie
-image: 'http://www.populationdata.net/wp-content/uploads/hongrie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/hongrie.jpg'
 source: CIA
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - laos
-image: 'http://www.populationdata.net/wp-content/uploads/laos_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/laos_relief.jpg'
 source: CIA
 type: image

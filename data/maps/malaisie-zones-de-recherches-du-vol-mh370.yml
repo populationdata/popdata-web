@@ -8,6 +8,6 @@ continents: []
 countries:
   - malaisie
 image: >-
-  http://www.populationdata.net/wp-content/uploads/malaisie-zone-recherches-vol-mh370.png
+  https://www.populationdata.net/wp-content/uploads/malaisie-zone-recherches-vol-mh370.png
 source: Wall Street Journal
 type: image

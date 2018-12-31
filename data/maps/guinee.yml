@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - guinee
-image: 'http://www.populationdata.net/wp-content/uploads/guinee.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/guinee.jpg'
 source: CIA
 type: image

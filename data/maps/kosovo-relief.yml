@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - kosovo
-image: 'http://www.populationdata.net/wp-content/uploads/kosovo-relief2.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/kosovo-relief2.jpg'
 source: CIA
 type: image

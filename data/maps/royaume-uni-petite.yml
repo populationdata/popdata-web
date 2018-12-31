@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - royaume-uni
-image: 'http://www.populationdata.net/wp-content/uploads/royaume-uni-petite.png'
+image: 'https://www.populationdata.net/wp-content/uploads/royaume-uni-petite.png'
 source: CIA
 type: image

@@ -8,6 +8,6 @@ continents: []
 countries:
   - sri-lanka
 image: >-
-  http://www.populationdata.net/wp-content/uploads/sri_lanka_jaffna_peninsule.jpg
+  https://www.populationdata.net/wp-content/uploads/sri_lanka_jaffna_peninsule.jpg
 source: CIA
 type: image

@@ -11,6 +11,6 @@ countries:
   - syrie
   - kurdistan
   - irak
-image: 'http://www.populationdata.net/wp-content/uploads/kurdistan3.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/kurdistan3.jpg'
 source: CIA
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - france
-image: 'http://www.populationdata.net/wp-content/uploads/france-pauvrete-2015.png'
+image: 'https://www.populationdata.net/wp-content/uploads/france-pauvrete-2015.png'
 source: Insee
 type: image

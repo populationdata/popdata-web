@@ -8,6 +8,6 @@ continents: []
 countries:
   - etats-unis
 image: >-
-  http://www.populationdata.net/wp-content/uploads/etats-unis-pollution-dioxide-azote.gif
+  https://www.populationdata.net/wp-content/uploads/etats-unis-pollution-dioxide-azote.gif
 source: Nasa
 type: image

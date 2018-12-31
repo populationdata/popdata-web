@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - espagne
-image: 'http://www.populationdata.net/wp-content/uploads/espagne.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/espagne.jpg'
 source: CIA
 type: image

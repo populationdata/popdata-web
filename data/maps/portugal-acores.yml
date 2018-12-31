@@ -8,6 +8,6 @@ continents: []
 countries:
   - portugal
   - acores
-image: 'http://www.populationdata.net/wp-content/uploads/portugal-acores.png'
+image: 'https://www.populationdata.net/wp-content/uploads/portugal-acores.png'
 source: Wikipédia
 type: image

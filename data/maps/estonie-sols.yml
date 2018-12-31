@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - estonie
-image: 'http://www.populationdata.net/wp-content/uploads/estonie-sols.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/estonie-sols.gif'
 source: Agence Européenne de l'Environnement
 type: image

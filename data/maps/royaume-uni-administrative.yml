@@ -8,6 +8,6 @@ continents: []
 countries:
   - royaume-uni
 image: >-
-  http://www.populationdata.net/wp-content/uploads/royaume-uni-administrative.png
+  https://www.populationdata.net/wp-content/uploads/royaume-uni-administrative.png
 source: Wikipédia
 type: image

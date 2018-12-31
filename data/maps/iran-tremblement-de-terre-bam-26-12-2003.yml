@@ -8,6 +8,6 @@ continents: []
 countries:
   - iran
 image: >-
-  http://www.populationdata.net/wp-content/uploads/iran_tremblement_terre_26_12_2003.jpg
+  https://www.populationdata.net/wp-content/uploads/iran_tremblement_terre_26_12_2003.jpg
 source: PopulationData.net
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - croatie
-image: 'http://www.populationdata.net/wp-content/uploads/croatie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/croatie.jpg'
 source: CIA
 type: image

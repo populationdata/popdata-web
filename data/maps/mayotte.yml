@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - mayotte
-image: 'http://www.populationdata.net/wp-content/uploads/mayotte.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/mayotte.gif'
 source: CIA
 type: image

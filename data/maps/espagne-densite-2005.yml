@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - espagne
-image: 'http://www.populationdata.net/wp-content/uploads/espagne-densite-2005.png'
+image: 'https://www.populationdata.net/wp-content/uploads/espagne-densite-2005.png'
 source: INE
 type: image

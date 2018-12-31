@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - moldavie
-image: 'http://www.populationdata.net/wp-content/uploads/moldavie.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/moldavie.jpg'
 source: CIA
 type: image

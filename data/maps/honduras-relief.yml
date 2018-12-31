@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - honduras
-image: 'http://www.populationdata.net/wp-content/uploads/honduras_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/honduras_relief.jpg'
 source: CIA
 type: image

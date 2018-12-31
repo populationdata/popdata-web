@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - republique-democratique-du-congo
-image: 'http://www.populationdata.net/wp-content/uploads/rdc-goma.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/rdc-goma.jpg'
 source: FAO
 type: image

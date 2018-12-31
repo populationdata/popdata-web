@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - liban
-image: 'http://www.populationdata.net/wp-content/uploads/liban-relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/liban-relief.jpg'
 source: CIA
 type: image

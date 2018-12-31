@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - thailande
-image: 'http://www.populationdata.net/wp-content/uploads/thailande_relief.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/thailande_relief.jpg'
 source: CIA
 type: image

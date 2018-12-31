@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - taiwan
-image: 'http://www.populationdata.net/wp-content/uploads/taiwan-morakot.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/taiwan-morakot.jpg'
 source: Nasa Earth Observatory
 type: image

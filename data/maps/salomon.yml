@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - salomon
-image: 'http://www.populationdata.net/wp-content/uploads/iles_salomon.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/iles_salomon.jpg'
 source: CIA
 type: image

@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - togo
-image: 'http://www.populationdata.net/wp-content/uploads/togo.jpg'
+image: 'https://www.populationdata.net/wp-content/uploads/togo.jpg'
 source: Wikipédia
 type: image

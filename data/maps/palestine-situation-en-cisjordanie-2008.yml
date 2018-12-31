@@ -8,6 +8,6 @@ continents: []
 countries:
   - palestine
 image: >-
-  http://www.populationdata.net/wp-content/uploads/palestine-cisjordanie-2008.jpg
+  https://www.populationdata.net/wp-content/uploads/palestine-cisjordanie-2008.jpg
 source: OCHA
 type: image

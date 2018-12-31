@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - mongolie
-image: 'http://www.populationdata.net/wp-content/uploads/mongolie_petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/mongolie_petite.gif'
 source: CIA
 type: image

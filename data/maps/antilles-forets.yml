@@ -7,6 +7,6 @@ en:
 continents:
   - ameriques
 countries: []
-image: 'http://www.populationdata.net/wp-content/uploads/forets_antilles.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/forets_antilles.gif'
 source: nc
 type: image

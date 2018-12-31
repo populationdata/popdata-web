@@ -7,6 +7,6 @@ en:
 continents: []
 countries:
   - nouvelle-zelande
-image: 'http://www.populationdata.net/wp-content/uploads/nouvelle-zelande-petite.gif'
+image: 'https://www.populationdata.net/wp-content/uploads/nouvelle-zelande-petite.gif'
 source: CIA
 type: image
