@@ -274,6 +274,35 @@ exports.createPages = ({ actions, graphql }) => {
         })
       }
     })
+    result.data.allContinentsYaml.edges.forEach(edge => {
+      if (edge.node.fields && edge.node.fields.slug) {
+        const component = path.resolve(`src/templates/ContinentAllMaps.js`)
+        createPage({
+          path: `${edge.node.fields.slug}${
+            language === 'fr' ? 'cartes' : 'maps'
+          }`,
+          component,
+          context: {
+            id: edge.node.id,
+          },
+        })
+      }
+    })
+    result.data.allCountriesYaml.edges.forEach(edge => {
+      if (edge.node.fields && edge.node.fields.slug) {
+        const component = path.resolve(`src/templates/CountryAllMaps.js`)
+        createPage({
+          path: `${edge.node.fields.slug}${
+            language === 'fr' ? 'cartes' : 'maps'
+          }`,
+          component,
+          context: {
+            id: edge.node.id,
+          },
+        })
+      }
+    })
+
     const postsPerPage = 5
     const numberOfFrontPages = Math.round(
       result.data.allPostsYaml.edges.length / postsPerPage

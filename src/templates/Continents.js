@@ -10,16 +10,20 @@ import NumberFormat, { numberFormat } from '../components/NumberFormat'
 
 const allLabels = {
   fr: {
+    allMaps: 'Voir toutes les cartes',
     area: 'Superficie',
     countries: 'Pays et territoires',
     inhabitants: 'habitants',
+    mapLink: 'cartes',
     numberOfCountries: 'Nombre de pays & territoires',
     population: 'Population',
   },
   en: {
+    allMaps: 'See all maps',
     area: 'Area',
     countries: 'Countries and territories',
     inhabitants: 'inhabitants',
+    mapLink: 'maps',
     numberOfCountries: 'Number of countries & territories',
     population: 'Population',
   },
@@ -104,8 +108,8 @@ const ContinentPage = ({ data }) => (
     <section>
       <ContinentHeader continent={data.continent} />
     </section>
-    {data.continent.datamapScope && (
-      <section>
+    <section>
+      {data.continent.datamapScope && (
         <DataMap
           scope={data.continent.datamapScope}
           data={data.countries.edges
@@ -119,8 +123,11 @@ const ContinentPage = ({ data }) => (
             `${numberFormat.format(value)} ${labels.inhabitants}`
           }
         />
-      </section>
-    )}
+      )}
+      <Link to={`${data.continent.fields.slug}/${labels.mapLink}`}>
+        {labels.allMaps}
+      </Link>
+    </section>
     <section>
       {data.subcontinents.edges
         .map(subcontinent => subcontinent.node)
@@ -149,6 +156,7 @@ export const continentQuery = graphql`
     continent: continentsYaml(id: { eq: $id }) {
       title
       fields {
+        slug
         name
       }
       area

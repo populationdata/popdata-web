@@ -1,9 +1,22 @@
 import React from 'react'
 import { css } from 'glamor'
-import { graphql } from 'gatsby'
+import { graphql, Link } from 'gatsby'
 import Layout from '../components/Layout'
 import ColBlockMaps from '../components/ColBlockMaps'
 import { HTMLContent } from '../components/Content'
+
+const allLabels = {
+  fr: {
+    allMaps: 'Voir toutes les cartes',
+    mapLink: 'cartes',
+  },
+  en: {
+    allMaps: 'See all maps',
+    mapLink: 'maps',
+  },
+}
+
+const labels = allLabels[process.env.GATSBY_LANGUAGE]
 
 const contentCss = css({
   '& img': {
@@ -25,6 +38,11 @@ const CountryPage = ({ data }) => {
           content={data.country.fields.description}
         />
       </section>
+      <section>
+        <Link to={`${data.country.fields.slug}/${labels.mapLink}`}>
+          {labels.allMaps}
+        </Link>
+      </section>
     </Layout>
   )
 }
@@ -36,6 +54,7 @@ export const countryQuery = graphql`
     country: countriesYaml(id: { eq: $id }) {
       title
       fields {
+        slug
         name
         description
       }
